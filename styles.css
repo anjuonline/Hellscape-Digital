@@ -21,7 +21,6 @@ h2 {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   margin: 0;
-  border-bottom: 1px solid darkslategray;
   text-align: center;
 }
 
@@ -124,6 +123,18 @@ h3 {
   align-content: center;
   margin-left:1em;
   margin-right:1em;
+}
+
+.titleWrapPurple {
+  border-bottom: 1px solid rgb(105, 0, 105);
+}
+
+.titleWrapRed {
+  border-bottom: 1px solid rgb(92, 0, 0);
+}
+
+.titleWrapOrange {
+  border-bottom: 1px solid rgb(105, 47, 0);
 }
 
 .testBox {
