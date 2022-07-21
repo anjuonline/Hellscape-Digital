@@ -9,6 +9,28 @@ p {
   font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
   font-size: 12pt;
   text-align: center; 
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+h2 {
+  color:white;
+  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+  font-size: 13pt;
+  font-weight: 600;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  margin: 0;
+  border-bottom: 1px solid darkslategray;
+  text-align: center;
+}
+
+h3 {
+  color:white;
+  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+  font-size: 12pt;
+  margin: 0;
+  text-align: center;
 }
 
 .background {
@@ -47,7 +69,7 @@ p {
   text-align: center; 
 }
 
-.borderContainer {
+.cardContainer {
   border-style: solid;
   border-color: darkslategray;
   border-width: 1px;
@@ -56,8 +78,8 @@ p {
 
 .containedText { 
   align-content: center;
-  margin-left:20px;
-  margin-right:20px;
+  margin-left:1em;
+  margin-right:1em;
 }
 
 .testBox {
@@ -71,14 +93,19 @@ p {
   display: grid;
   justify-items: auto;
   grid-template-columns: 33.33% 33.33% 33.33%;
-  padding: 0.5em;
+  padding: 1em;
   width: auto;
 }
 
 .gallery_item {
   object-fit: cover;
   width: auto;
-  padding: 0.5em;
+  padding: 0.75em;
+}
+
+.galleryText {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
 }
 
 @media only screen and (max-width: 600px){
