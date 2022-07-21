@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -17,7 +16,7 @@ function App() {
         <a href="#archive">Archive</a>
         <a href="#store">Store</a>
     </div>
-    
+
     <div class="main-column">
         <div class="cardContainerPurple">
             <div class="containedText">
