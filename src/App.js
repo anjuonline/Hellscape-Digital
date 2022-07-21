@@ -1,21 +1,8 @@
-<!DOCTYPE html>
+import './App.css';
 
-<html lang="en">
-
-
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>
-        Hellscape Digital
-    </title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="icon" href="./favicon.ico" type="image/x-icon">
-  </head>
-
-
-  <body class="background">
+function App() {
+  return (
+    <>
     <main>
         <h1 class="mainTitle">
             Hellscape Digital
@@ -29,7 +16,8 @@
         <a href="#archive">Archive</a>
         <a href="#store">Store</a>
     </div>
-    <div class="body">
+
+    <div class="main-column">
         <div class="cardContainerPurple">
             <div class="containedText">
                 <p>
@@ -59,37 +47,37 @@
             <h3>Music</h3>
             <div class="gallery_containerThree">
                 <div class="gallery_item">
-                    <img src="https://i1.sndcdn.com/artworks-NHMUEUaj0ew3bunu-6aFVbw-t500x500.jpg" width="100%"/><br><p class="galleryText"><strong>Kawaii Ry</strong><br> KILLMILORD Freestyle (Prod. Foreigner2x)</p>
+                    <img src="https://i1.sndcdn.com/artworks-NHMUEUaj0ew3bunu-6aFVbw-t500x500.jpg" width="100%"/><br/><p class="galleryText"><strong>Kawaii Ry</strong><br/> KILLMILORD Freestyle (Prod. Foreigner2x)</p>
                 </div>    
                 <div class="gallery_item">
-                    <img src="https://i1.sndcdn.com/artworks-rEyTQxOLQoxWYufg-ip6Zug-t500x500.jpg" width="100%"/><br><p class="galleryText"><strong>Josen</strong><br> BITCH!YOU!A!DUB! (Prod. Snake)</p>
+                    <img src="https://i1.sndcdn.com/artworks-rEyTQxOLQoxWYufg-ip6Zug-t500x500.jpg" width="100%"/><br/><p class="galleryText"><strong>Josen</strong><br/> BITCH!YOU!A!DUB! (Prod. Snake)</p>
                 </div> 
                 <div class="gallery_item">
-                    <img src="https://i1.sndcdn.com/artworks-m07hEzNRsO0mhwyA-V6cMUg-t500x500.jpg" width="100%"/><br><p class="galleryText"><strong>Notamachine</strong><br> Artificial</p>
+                    <img src="https://i1.sndcdn.com/artworks-m07hEzNRsO0mhwyA-V6cMUg-t500x500.jpg" width="100%"/><br/><p class="galleryText"><strong>Notamachine</strong><br/> Artificial</p>
                 </div>   
                 <div class="gallery_item">
-                    <img src="https://i1.sndcdn.com/artworks-NHMUEUaj0ew3bunu-6aFVbw-t500x500.jpg" width="100%"/><br><p class="galleryText"><strong>Kawaii Ry</strong><br> KILLMILORD Freestyle (Prod. Foreigner2x)</p>
+                    <img src="https://i1.sndcdn.com/artworks-NHMUEUaj0ew3bunu-6aFVbw-t500x500.jpg" width="100%"/><br/><p class="galleryText"><strong>Kawaii Ry</strong><br/> KILLMILORD Freestyle (Prod. Foreigner2x)</p>
                 </div>    
                 <div class="gallery_item">
-                    <img src="https://i1.sndcdn.com/artworks-rEyTQxOLQoxWYufg-ip6Zug-t500x500.jpg" width="100%"/><br><p class="galleryText"><strong>Josen</strong><br> BITCH!YOU!A!DUB! (Prod. Snake)</p>
+                    <img src="https://i1.sndcdn.com/artworks-rEyTQxOLQoxWYufg-ip6Zug-t500x500.jpg" width="100%"/><br/><p class="galleryText"><strong>Josen</strong><br/> BITCH!YOU!A!DUB! (Prod. Snake)</p>
                 </div> 
                 <div class="gallery_item">
-                    <img src="https://i1.sndcdn.com/artworks-m07hEzNRsO0mhwyA-V6cMUg-t500x500.jpg" width="100%"/><br><p class="galleryText"><strong>Notamachine</strong><br> Artificial</p>
+                    <img src="https://i1.sndcdn.com/artworks-m07hEzNRsO0mhwyA-V6cMUg-t500x500.jpg" width="100%"/><br/><p class="galleryText"><strong>Notamachine</strong><br/> Artificial</p>
                 </div>                                         
             </div>  
             <h3>Art</h3>
             <div class="gallery_containerTwo">
                 <div class="gallery_item">
-                    <img src="https://pbs.twimg.com/media/FYHzDnmUIAAgKp7?format=jpg&name=large" width="100%"/><br><p class="galleryText">By Cloudi Daze</p>
+                    <img src="https://pbs.twimg.com/media/FYHzDnmUIAAgKp7?format=jpg&name=large" width="100%"/><br/><p class="galleryText">By Cloudi Daze</p>
                 </div>    
                 <div class="gallery_item">
-                    <img src="https://pbs.twimg.com/media/FYHzDnmUIAAgKp7?format=jpg&name=large" width="100%"/><br><p class="galleryText">By Cloudi Daze</p>
+                    <img src="https://pbs.twimg.com/media/FYHzDnmUIAAgKp7?format=jpg&name=large" width="100%"/><br/><p class="galleryText">By Cloudi Daze</p>
                 </div> 
                 <div class="gallery_item">
-                    <img src="https://pbs.twimg.com/media/FYHzDnmUIAAgKp7?format=jpg&name=large" width="100%"/><br><p class="galleryText">By Cloudi Daze</p>
+                    <img src="https://pbs.twimg.com/media/FYHzDnmUIAAgKp7?format=jpg&name=large" width="100%"/><br/><p class="galleryText">By Cloudi Daze</p>
                 </div>  
                 <div class="gallery_item">
-                    <img src="https://pbs.twimg.com/media/FYHzDnmUIAAgKp7?format=jpg&name=large" width="100%"/><br><p class="galleryText">By Cloudi Daze</p>
+                    <img src="https://pbs.twimg.com/media/FYHzDnmUIAAgKp7?format=jpg&name=large" width="100%"/><br/><p class="galleryText">By Cloudi Daze</p>
                 </div>                                        
             </div> 
         </div>
@@ -107,29 +95,29 @@
                 <div class="flexColumn">
                     <div class="containedText">
                         <p>
-                            Home<br>
-                            Artists<br>
-                            Music<br>
-                            Artwork<br>
-                            NFTs<br>               
-                            Clothing<br> 
-                            Community<br>
-                            Archives<br>
-                            Contact<br>
+                            Home<br/>
+                            Artists<br/>
+                            Music<br/>
+                            Artwork<br/>
+                            NFTs<br/>               
+                            Clothing<br/> 
+                            Community<br/>
+                            Archives<br/>
+                            Contact<br/>
                         </p>
                     </div>
                     <div class="containedText">
                         <p>
-                            ANJU Online!<br>
-                            Kawaii Ry<br>
-                            Meauxminy<br>
-                            Lugosi<br>
-                            Cloudi Daze<br>
-                            Josen<br>
-                            Notamachine<br>                
-                            Remy3D<br>
-                            Lavitz<br>
-                            Semaj<br>
+                            ANJU Online!<br/>
+                            Kawaii Ry<br/>
+                            Meauxminy<br/>
+                            Lugosi<br/>
+                            Cloudi Daze<br/>
+                            Josen<br/>
+                            Notamachine<br/>                
+                            Remy3D<br/>
+                            Lavitz<br/>
+                            Semaj<br/>
                         </p>
                     </div>
                 </div>
@@ -137,10 +125,10 @@
         </div>
      
     </div>
-    </div>
 
     <script src="index.js"></script>
-  </body>
+    </>
+  );
+}
 
-
-</html>
+export default App;

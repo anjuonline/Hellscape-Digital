@@ -1,7 +1,5 @@
-.mainTitle {
-  color: white;
-  text-align: center;
-  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+body {
+  background-color: black;
 }
 
 p {
@@ -35,11 +33,13 @@ h3 {
   padding-top: 1em;
 }
 
-.background {
-  background-color: black;
+.mainTitle {
+  color: white;
+  text-align: center;
+  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
 }
 
-.body {
+.main-column {
   margin: auto;
   max-width: 43em;
   min-width: 320px;
