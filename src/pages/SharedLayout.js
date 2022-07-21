@@ -1,6 +1,6 @@
 import { Outlet } from 'react-router-dom';
 
-import TopNav from '../components/TopNav';
+import TopNav from 'components/TopNav';
 
 const SharedLayout = () => {
   return (
