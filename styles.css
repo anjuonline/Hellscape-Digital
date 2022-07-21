@@ -20,8 +20,9 @@ h2 {
   font-weight: 600;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
+  padding-left: 1em;
   margin: 0;
-  text-align: center;
+  text-align: left;
 }
 
 h3 {
