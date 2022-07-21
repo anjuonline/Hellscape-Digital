@@ -76,6 +76,48 @@ h3 {
   margin: 1em;
 } 
 
+.cardContainerRed {
+  border-style: solid;
+  border-color: rgb(92, 0, 0);
+  border-width: 1px;
+  margin: 1em;
+} 
+
+.cardContainerOrange {
+  border-style: solid;
+  border-color: rgb(105, 47, 0);
+  border-width: 1px;
+  margin: 1em;
+} 
+
+.cardContainerYellow {
+  border-style: solid;
+  border-color: rgb(105, 89, 0);
+  border-width: 1px;
+  margin: 1em;
+} 
+
+.cardContainerGreen {
+  border-style: solid;
+  border-color: rgb(18, 105, 0);
+  border-width: 1px;
+  margin: 1em;
+} 
+
+.cardContainerBlue {
+  border-style: solid;
+  border-color: rgb(0, 105, 105);
+  border-width: 1px;
+  margin: 1em;
+} 
+
+.cardContainerPurple {
+  border-style: solid;
+  border-color: rgb(105, 0, 105);
+  border-width: 1px;
+  margin: 1em;
+} 
+
 .containedText { 
   align-content: center;
   margin-left:1em;
