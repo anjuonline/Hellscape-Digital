@@ -2,6 +2,10 @@ body {
   background-color: black;
 }
 
+img {
+  width: 100%;
+}
+
 p {
   color:white;
   font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
@@ -193,7 +197,7 @@ h3 {
 }
 
 .masonry-grid-art {
-  --gap: 1em;
+  --gap: 0.75em;
   --columns: 2;
   max-width: 60rem;
   margin: 0 auto;
@@ -201,6 +205,20 @@ h3 {
   columns: var(--columns);
   gap: var(--gap);
   padding: 1em;
+}
+
+.masonry-container {
+  column-count: 2;
+  column-gap: 0.75em;
+  padding: 1em;
+}
+
+.masonry-grid-test {
+  margin: 0;
+  display: grid;
+  grid-template-rows: 1fr auto;
+  margin-bottom: 0.75em;
+  break-inside: avoid;
 }
 
 .masonry-grid-art > * {
