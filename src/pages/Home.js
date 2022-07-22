@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div class="main-column">
         <div class="card-container-rainbow">
-            <div class="containedText">
+            <div class="featured-card">
                 <p>
                     Hellscape Digital is an artist collective and friend group; a creative multiverse driven by music, fashion, design, gaming, and avant-garde web culture.
                 </p>
@@ -38,7 +38,7 @@ const Home = () => {
             <div class="title-wrap-rainbow">
                 <h2>Latest Releases</h2>
             </div>
-            <div class="spacer"><h3>Music</h3></div>
+            <h3>Music</h3>
             <div class="gallery_containerThree">
                 <div class="gallery_item">
                     <img src="https://i1.sndcdn.com/artworks-NHMUEUaj0ew3bunu-6aFVbw-t500x500.jpg" width="100%"/><br/><p class="gallery-text"><strong>Kawaii Ry</strong><br/>KILLMILORD Freestyle<br/>(Prod. Foreigner2x)</p>
