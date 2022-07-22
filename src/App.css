@@ -49,6 +49,14 @@ h3 {
   min-width: 320px;
 }
 
+.featured-card {
+  align-content: center;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
 .flexColumn {
   display: flex;
   margin: 0;
@@ -189,8 +197,10 @@ h3 {
 }
 
 .containedText { 
-  align-content: center;
-  padding: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .flex-column-contained-text { 
