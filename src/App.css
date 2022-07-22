@@ -213,6 +213,10 @@ h3 {
   padding: 1em;
 }
 
+.masonryWrap {
+  padding: 1em;
+}
+
 .masonry-grid-test {
   margin: 0;
   display: grid;
