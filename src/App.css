@@ -138,6 +138,18 @@ h3 {
   border-bottom: 1px solid rgb(105, 47, 0);
 }
 
+.titleWrapGreen {
+  border-bottom: 1px solid rgb(18, 105, 0);
+}
+
+.titleWrapBlue {
+  border-bottom: 1px solid rgb(0, 105, 105);
+}
+
+.titleWrapYellow {
+  border-bottom: 1px solid rgb(105, 89, 0);
+}
+
 .testBox {
   border: 1px solid #2f4d0c;
     color: #2f4d0c;
@@ -178,6 +190,28 @@ h3 {
   .galleryText {
     font-size: x-small;
   }
+}
+
+.masonry-grid-art {
+  --gap: 1em;
+  --columns: 2;
+  max-width: 60rem;
+  margin: 0 auto;
+  display: column;
+  columns: var(--columns);
+  gap: var(--gap);
+  padding: 1em;
+}
+
+.masonry-grid-art > * {
+  break-inside: avoid;
+  margin-bottom: var(--gap);
+}
+
+.gallery-item-art {
+  object-fit: cover;
+  width: auto;
+  padding:0;
 }
 
 /*test zone*/
