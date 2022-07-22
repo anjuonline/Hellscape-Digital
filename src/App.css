@@ -257,6 +257,9 @@ h3 {
   .masonry-text {
     font-size: x-small;
   }
+  .gallery-text {
+    font-size: x-small;
+  }  
 }
 
 .masonry-wrap {
