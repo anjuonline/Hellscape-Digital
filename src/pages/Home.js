@@ -2,6 +2,9 @@ const Home = () => {
   return (
     <div class="main-column">
         <div class="cardContainerPurple">
+            <div class="titleWrapPurple">
+                <h2>Hellscape Digital / Home</h2>
+            </div>
             <div class="containedText">
                 <p>
                     Hellscape Digital is an artist collective and friend group; a creative multiverse driven by music, fashion, design, gaming, and avant-garde web culture.
