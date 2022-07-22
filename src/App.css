@@ -191,7 +191,7 @@ h3 {
 }
 
 @media only screen and (max-width: 600px){
-  .galleryText {
+  .masonry-text {
     font-size: x-small;
   }
 }
