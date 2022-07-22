@@ -5,9 +5,9 @@ const Artwork = () => {
     <>
     <div class="main-column">
 
-        <div class="cardContainerPurple">
-            <div class="titleWrapPurple">
-                <h2>Hellscape Digital / Artwork</h2>
+        <div class="card-container">
+            <div class="title-wrap-rainbow">
+                    <h2>Hellscape Digital / Artwork</h2>
             </div>            
             <div class="containedText">
                 <h3>
@@ -32,8 +32,8 @@ const Artwork = () => {
             </div>
         </div>
 
-        <div class="cardContainerBlue">
-            <div class="titleWrapBlue">
+        <div class="card-container">
+            <div class="title-wrap-rainbow2">
                 <h2 id="anju">Artwork / ANJU Online!</h2>
             </div> 
             <div class="masonry-wrap">
@@ -81,8 +81,8 @@ const Artwork = () => {
             </p>
         </div>
 
-        <div class="cardContainerGreen">
-            <div class="titleWrapGreen">
+        <div class="card-container">
+            <div class="title-wrap-rainbow">
                 <h2 id="cloudi">Artwork / Cloudi Daze</h2>
             </div> 
             <div class="masonry-wrap">

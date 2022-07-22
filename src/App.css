@@ -22,7 +22,6 @@ h2 {
   font-weight: 600;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
-  padding-left: 1em;
   margin: 0;
   text-align: left;
 }
@@ -123,6 +122,70 @@ h3 {
   border-width: 1px;
   margin: 1em;
 } 
+
+.card-container-rainbow {
+	--angle: 0deg;
+	border: 1px solid;
+	border-image: conic-gradient(from var(--angle), red, yellow, lime, aqua, blue, magenta, red) 1;
+	animation: 20s rotate linear infinite;
+  margin: 2em;
+  padding: 0.5em;
+} 
+
+.card-container {
+	--angle: 0deg;
+	border: 0px solid;
+	border-image: conic-gradient(from var(--angle), red, yellow, lime, aqua, blue, magenta, red) 1;
+	animation: 20s rotate linear infinite;
+  margin: 1em;
+  margin-bottom: 2em;
+} 
+
+.title-wrap-rainbow {
+	--angle: 0deg;
+	border-bottom: 1px solid;
+	border-image: conic-gradient(from var(--angle), red, yellow, lime, aqua, blue, magenta, red) 1;
+	animation: 4s rotate linear infinite;
+  margin-left: 1em;
+  margin-right: 1em;
+} 
+
+.title-wrap-rainbow2 {
+	--angle: 0deg;
+	border-bottom: 1px solid;
+	border-image: conic-gradient(from var(--angle), magenta, red, yellow, lime, aqua, blue, magenta) 1;
+	animation: 4s rotate linear infinite;
+  margin-left: 1em;
+  margin-right: 1em;
+} 
+
+.title-wrap-rainbow-full {
+	--angle: 0deg;
+	border-bottom: 1px solid;
+	border-image: conic-gradient(from var(--angle), red, yellow, lime, aqua, blue, magenta, red) 1;
+	animation: 10s rotate linear infinite;
+} 
+
+.title-wrap-rainbow-dot {
+	--angle: 0deg;
+	border-bottom: 1px dotted;
+	border-image: conic-gradient(from var(--angle), red, yellow, lime, aqua, blue, magenta, red) 1;
+	animation: 10s rotate linear infinite;
+  margin-left: 1em;
+  margin-right: 1em;
+} 
+
+@keyframes rotate {
+	to {
+		--angle: 360deg;
+	}
+}
+
+@property --angle {
+  syntax: '<angle>';
+  initial-value: 0deg;
+  inherits: false;
+}
 
 .containedText { 
   align-content: center;
