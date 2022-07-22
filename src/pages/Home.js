@@ -1,10 +1,7 @@
 const Home = () => {
   return (
     <div class="main-column">
-        <div class="cardContainerPurple">
-            <div class="titleWrapPurple">
-                <h2>Hellscape Digital / Home</h2>
-            </div>
+        <div class="card-container-rainbow">
             <div class="containedText">
                 <p>
                     Hellscape Digital is an artist collective and friend group; a creative multiverse driven by music, fashion, design, gaming, and avant-garde web culture.
@@ -15,19 +12,20 @@ const Home = () => {
             </div>
         </div>
 
-        <div class="cardContainerRed">
-            <div class="titleWrapRed">
-                <h2>Update - July 18, 2022</h2>
+        <div class="card-container">
+            <div class="title-wrap-rainbow2">
+                <h2>Updates</h2>
             </div>            
             <div class="containedText">
                 <p>
+                    <strong>July 18, 2022</strong><br/>
                     Welcome to the new Hellscape Digital site! Take a look around and explore the pages, but keep in mind that pretty much nothing works yet. More updates to follow.
                 </p>                
             </div>
         </div>        
 
-        <div class="cardContainerOrange">
-            <div class="titleWrapOrange">
+        <div class="card-container">
+            <div class="title-wrap-rainbow">
                 <h2>Latest Releases</h2>
             </div>
             <h3>Music</h3>
@@ -68,15 +66,28 @@ const Home = () => {
             </div> 
         </div>
 
-        <div class="cardContainerYellow">
-            <h2>Current Sitemap</h2>
-            <p>
-                Home
-            </p>
+        <div class="card-container">
+            <div class="title-wrap-rainbow">
+                <h2>Current Sitemap</h2>
+            </div>
+            <div class="flexColumn">
+                <div class="containedText">
+                    <p>
+                        Home<br/>
+                    </p>
+                </div>
+                <div class="containedText">
+                    <p>
+                        Artwork<br/>
+                    </p>
+                </div>
+            </div>          
         </div>        
 
-        <div class="cardContainerGreen">
-            <h2>Potential Sitemap</h2>
+        <div class="card-container">
+            <div class="title-wrap-rainbow">
+                <h2>Potential Sitemap</h2>
+            </div>
             <div class="containedText">
                 <div class="flexColumn">
                     <div class="containedText">
