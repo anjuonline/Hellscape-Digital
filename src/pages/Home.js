@@ -39,10 +39,40 @@ const Home = () => {
                 <h2>Latest Releases</h2>
             </div>
             <h3>Music</h3>
-            <div class="gallery_containerThree">
+            <div class="gallery_containerThree"> 
                 <div class="gallery_item">
-                    <img src="https://i1.sndcdn.com/artworks-NHMUEUaj0ew3bunu-6aFVbw-t500x500.jpg" width="100%"/><br/><p class="gallery-text"><strong>Kawaii Ry</strong><br/>KILLMILORD Freestyle<br/>(Prod. Foreigner2x)</p>
-                </div>    
+                    <p class="gallery-tag">Single</p>
+                    <a href="https://soundcloud.com/liljosen/done-died-w-jackie-platinum" target="_blank">    
+                        <img src="https://i1.sndcdn.com/artworks-rLd37yeBxMh3DJZz-TW35LQ-t500x500.jpg" width="100%"/><br/>
+                        <p class="gallery-text">
+                            <strong>Josen</strong><br/>
+                            DONE!DIED! (Feat. Jackie Platinum)<br/>
+                            (Prod. Notamachine + Antar + OBMUS1C)
+                        </p>
+                    </a>
+                </div>
+                <div class="gallery_item">
+                    <p class="gallery-tag">Single</p>
+                    <a href="https://soundcloud.com/kawaiiry/crash-it-2-prod-wound" target="_blank">    
+                        <img src="https://i1.sndcdn.com/artworks-AFS7gLNHCDzsrluL-GL5WLw-t500x500.jpg" width="100%"/><br/>
+                        <p class="gallery-text">
+                            <strong>Kawaii Ry</strong><br/>
+                            Crash It 2<br/>
+                            (Prod. Wound)
+                        </p>
+                    </a>
+                </div> 
+                <div class="gallery_item">
+                    <p class="gallery-tag">Single</p>
+                    <a href="https://soundcloud.com/kawaiiry/killmilord-freestyle-prod-foriegner2x" target="_blank">    
+                        <img src="https://i1.sndcdn.com/artworks-NHMUEUaj0ew3bunu-6aFVbw-t500x500.jpg" width="100%"/><br/>
+                        <p class="gallery-text">
+                            <strong>Kawaii Ry</strong><br/>
+                            KILLMILORD Freestyle<br/>
+                            (Prod. Foreigner2x)
+                        </p>
+                    </a>
+                </div>                                 
                 <div class="gallery_item">
                     <img src="https://i1.sndcdn.com/artworks-rEyTQxOLQoxWYufg-ip6Zug-t500x500.jpg" width="100%"/><br/><p class="gallery-text"><strong>Josen</strong><br/>BITCH!YOU!A!DUB!<br/>(Prod. Snake)</p>
                 </div> 

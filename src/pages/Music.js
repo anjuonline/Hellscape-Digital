@@ -15,19 +15,23 @@ const Music = () => {
             </div>
             <div class="flexColumn">
                 <div class="containedText">
-                    <a href="#anju">
                         <p>
-                            ANJU Online!<br/>
-                            Josen<br/>
+                            <a href="#anju">
+                                ANJU Online!<br/>
+                            </a>
+                            <a href="#josen">
+                                Josen<br/>
+                            </a>
                             Meauxminy<br/>
                             Remy3D<br/>
                         </p>
-                    </a>
                 </div>
                 <div class="containedText">
                     <a href="#cloudi">
                         <p>
-                            Kawaii Ry<br/>
+                            <a href="#kawaii">
+                                Kawaii Ry<br/>
+                            </a>
                             Lugosi<br/>
                             Notamachine<br/>
                             Semaj<br/>
@@ -53,7 +57,7 @@ const Music = () => {
         </div>
 
         <div class="card-container">
-            <div class="title-wrap-rainbow">
+            <div class="title-wrap-rainbow2">
                     <h2>Music / Latest Releases</h2>
                 </div>
                 <div class="gallery_containerThree">
@@ -80,42 +84,62 @@ const Music = () => {
 
         <div class="card-container">
             <div class="title-wrap-rainbow">
-                    <h2>Music / ANJU Online!</h2>
+                    <h2 id="anju">Music / ANJU Online!</h2>
                 </div>
                 <div class="gallery_containerThree">
                     <div class="gallery_item">
                         <p class="gallery-tag">DJ Set</p><img src="https://i1.sndcdn.com/artworks-vejMf4Oh790upIGy-zsTVPA-t500x500.jpg" width="100%"/><br/><p class="gallery-text">ANJU Online! @ Club Kawaii<br/>DJ Set</p>
-                    </div>    
+                    </div>                                            
+                </div>  
+        </div>
+
+        <div class="card-container">
+            <div class="title-wrap-rainbow2">
+                    <h2 id="kawaii">Music / Kawaii Ry</h2>
+                </div>
+                <div class="gallery_containerThree">
                     <div class="gallery_item">
-                        <img src="https://i1.sndcdn.com/artworks-rEyTQxOLQoxWYufg-ip6Zug-t500x500.jpg" width="100%"/><br/><p class="gallery-text"><strong>Josen</strong><br/>BITCH!YOU!A!DUB!<br/>(Prod. Snake)</p>
+                        <p class="gallery-tag">Single</p>
+                        <a href="https://soundcloud.com/kawaiiry/crash-it-2-prod-wound" target="_blank">    
+                            <img src="https://i1.sndcdn.com/artworks-AFS7gLNHCDzsrluL-GL5WLw-t500x500.jpg" width="100%"/><br/>
+                            <p class="gallery-text">
+                                <strong>Kawaii Ry</strong><br/>
+                                Crash It 2<br/>
+                                (Prod. Wound)
+                            </p>
+                        </a>
                     </div> 
                     <div class="gallery_item">
-                        <img src="https://i1.sndcdn.com/artworks-m07hEzNRsO0mhwyA-V6cMUg-t500x500.jpg" width="100%"/><br/><p class="gallery-text"><strong>Notamachine</strong><br/>Artificial</p>
-                    </div>   
-                    <div class="gallery_item">
-                        <img src="https://i1.sndcdn.com/artworks-NHMUEUaj0ew3bunu-6aFVbw-t500x500.jpg" width="100%"/><br/><p class="gallery-text"><strong>Kawaii Ry</strong><br/>KILLMILORD Freestyle<br/>(Prod. Foreigner2x)</p>
-                    </div>    
-                    <div class="gallery_item">
-                        <img src="https://i1.sndcdn.com/artworks-rEyTQxOLQoxWYufg-ip6Zug-t500x500.jpg" width="100%"/><br/><p class="gallery-text"><strong>Josen</strong><br/>BITCH!YOU!A!DUB!<br/>(Prod. Snake)</p>
-                    </div> 
-                    <div class="gallery_item">
-                        <img src="https://i1.sndcdn.com/artworks-m07hEzNRsO0mhwyA-V6cMUg-t500x500.jpg" width="100%"/><br/><p class="gallery-text"><strong>Notamachine</strong><br/>Artificial</p>
-                    </div>                                         
+                        <p class="gallery-tag">Single</p>
+                        <a href="https://soundcloud.com/kawaiiry/killmilord-freestyle-prod-foriegner2x" target="_blank">    
+                            <img src="https://i1.sndcdn.com/artworks-NHMUEUaj0ew3bunu-6aFVbw-t500x500.jpg" width="100%"/><br/>
+                            <p class="gallery-text">
+                                <strong>Kawaii Ry</strong><br/>
+                                KILLMILORD Freestyle<br/>
+                                (Prod. Foreigner2x)
+                            </p>
+                        </a>
+                    </div>                                            
                 </div>  
         </div>
 
         <div class="card-container">
             <div class="title-wrap-rainbow">
-                <h2 id="cloudi">Artwork / Cloudi Daze</h2>
-            </div> 
-            <div class="masonry-wrap">
-                <Masonry columnsCount={2} gutter={"0.75em"}>
-                    <img src="https://pbs.twimg.com/media/FYHzDnmUIAAgKp7?format=jpg&name=large"/>
-                </Masonry>
-            </div>
-            <p>
-                Full Gallery
-            </p>
+                    <h2 id="josen">Music / Josen</h2>
+                </div>
+                <div class="gallery_containerThree">
+                    <div class="gallery_item">
+                        <p class="gallery-tag">Single</p>
+                        <a href="https://soundcloud.com/liljosen/done-died-w-jackie-platinum" target="_blank">    
+                            <img src="https://i1.sndcdn.com/artworks-rLd37yeBxMh3DJZz-TW35LQ-t500x500.jpg" width="100%"/><br/>
+                            <p class="gallery-text">
+                                <strong>Josen</strong><br/>
+                                DONE!DIED! (Feat. Jackie Platinum)<br/>
+                                (Prod. Notamachine + Antar + OBMUS1C)
+                            </p>
+                        </a>
+                    </div>                                            
+                </div>  
         </div>
 
     </div>
