@@ -277,6 +277,13 @@ h3 {
   margin-bottom: 0.5em;
 }
 
+.gallery-tag {
+  margin-top: 0;
+  margin-bottom: 0.2em;
+  text-align: left;
+  font-size: 8pt;
+}
+
 @media only screen and (max-width: 600px){
   .masonry-text {
     font-size: x-small;
@@ -284,6 +291,9 @@ h3 {
   .gallery-text {
     font-size: x-small;
   }
+  .gallery-tag {
+    font-size: x-small;
+  }  
 }
 
 .masonry-wrap {
