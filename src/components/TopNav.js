@@ -1,3 +1,5 @@
+import { NavLink } from 'react-router-dom';
+
 const TopNav = () => {
   return (
     <>
@@ -8,9 +10,9 @@ const TopNav = () => {
       </div>
 
       <div class="topnav">
-          <a class="active" href="/">Home</a>
-          <a href="/music">Music</a>
-          <a href="/artwork">Artwork</a>
+        <NavLink to={"/"} exact>Home</NavLink>
+        <NavLink to={"/music"}>Music</NavLink>
+        <NavLink to={"/artwork"}>Artwork</NavLink>
       </div>
     </>
   );
