@@ -1,9 +1,12 @@
 const TopNav = () => {
   return (
     <>
-      <h1 class="mainTitle">
-          Hellscape Digital
-      </h1>
+      <div class="main-column">
+        <div class="logo">
+          <img src="https://i.imgur.com/wZj6tJi.jpg" alt="Hellscape Logo"/>
+        </div>
+      </div>
+
       <div class="topnav">
           <a class="active" href="/">Home</a>
           <a href="/music">Music</a>
