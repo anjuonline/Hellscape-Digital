@@ -41,6 +41,17 @@ const Home = () => {
             <h3>Music</h3>
             <div class="gallery_containerThree"> 
                 <div class="gallery_item">
+                    <p class="gallery-tag">Feature</p>
+                    <a href="https://soundcloud.com/tryfg/sodagrape" target="_blank">    
+                        <img src="https://i1.sndcdn.com/artworks-wZfZQLtYA2RTwxXE-gSGKLQ-t500x500.jpg" width="100%"/><br/>
+                        <p class="gallery-text">
+                            <strong>TRYFG</strong><br/>
+                            soda grape! (Feat. Kawaii Ry)<br/>
+                            (Prod. TRYFG)
+                        </p>
+                    </a>
+                </div>            
+                <div class="gallery_item">
                     <p class="gallery-tag">Single</p>
                     <a href="https://soundcloud.com/liljosen/done-died-w-jackie-platinum" target="_blank">    
                         <img src="https://i1.sndcdn.com/artworks-rLd37yeBxMh3DJZz-TW35LQ-t500x500.jpg" width="100%"/><br/>
@@ -72,22 +83,28 @@ const Home = () => {
                             (Prod. Foreigner2x)
                         </p>
                     </a>
-                </div>                                 
+                </div>
                 <div class="gallery_item">
-                    <img src="https://i1.sndcdn.com/artworks-rEyTQxOLQoxWYufg-ip6Zug-t500x500.jpg" width="100%"/><br/><p class="gallery-text"><strong>Josen</strong><br/>BITCH!YOU!A!DUB!<br/>(Prod. Snake)</p>
-                </div> 
+                    <p class="gallery-tag">Single</p>
+                    <a href="https://soundcloud.com/kawaiiry/killmilord-freestyle-prod-foriegner2x" target="_blank">    
+                        <img src="https://i1.sndcdn.com/artworks-rEyTQxOLQoxWYufg-ip6Zug-t500x500.jpg" width="100%"/><br/>
+                        <p class="gallery-text">
+                            <strong>Josen</strong><br/>
+                            BITCH!YOU!A!DUB!<br/>
+                            (Prod. Snake)
+                        </p>
+                    </a>
+                </div>  
                 <div class="gallery_item">
-                    <img src="https://i1.sndcdn.com/artworks-m07hEzNRsO0mhwyA-V6cMUg-t500x500.jpg" width="100%"/><br/><p class="gallery-text"><strong>Notamachine</strong><br/>Artificial</p>
-                </div>   
-                <div class="gallery_item">
-                    <img src="https://i1.sndcdn.com/artworks-NHMUEUaj0ew3bunu-6aFVbw-t500x500.jpg" width="100%"/><br/><p class="gallery-text"><strong>Kawaii Ry</strong><br/>KILLMILORD Freestyle<br/>(Prod. Foreigner2x)</p>
-                </div>    
-                <div class="gallery_item">
-                    <img src="https://i1.sndcdn.com/artworks-rEyTQxOLQoxWYufg-ip6Zug-t500x500.jpg" width="100%"/><br/><p class="gallery-text"><strong>Josen</strong><br/>BITCH!YOU!A!DUB!<br/>(Prod. Snake)</p>
-                </div> 
-                <div class="gallery_item">
-                    <img src="https://i1.sndcdn.com/artworks-m07hEzNRsO0mhwyA-V6cMUg-t500x500.jpg" width="100%"/><br/><p class="gallery-text"><strong>Notamachine</strong><br/>Artificial</p>
-                </div>                                         
+                    <p class="gallery-tag">Album</p>
+                    <a href="https://soundcloud.com/liljosen/final-josen-prod-snake-mixed" target="_blank">    
+                        <img src="https://i1.sndcdn.com/artworks-m07hEzNRsO0mhwyA-V6cMUg-t500x500.jpg" width="100%"/><br/>
+                        <p class="gallery-text">
+                            <strong>Notamachine</strong><br/>
+                            Artificial
+                        </p>
+                    </a>
+                </div>                                                                                                             
             </div>  
             <h3>Art</h3>
                 <div class="masonry-wrap">
