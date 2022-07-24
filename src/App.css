@@ -44,6 +44,11 @@ h3 {
   padding-bottom: 0em;
 }
 
+a {
+  color: white;
+  text-decoration: none; /* no underline */
+}
+
 .mainTitle {
   color: white;
   text-align: center;

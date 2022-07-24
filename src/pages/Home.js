@@ -86,6 +86,17 @@ const Home = () => {
                 </div>
                 <div class="gallery_item">
                     <p class="gallery-tag">Single</p>
+                    <a href="https://soundcloud.com/liljosen/up-that-score-prod-leo" target="_blank">    
+                        <img src="https://i1.sndcdn.com/artworks-ayqtVbB720wA81Jy-3uR8og-t500x500.jpg" width="100%"/><br/>
+                        <p class="gallery-text">
+                            <strong>Josen</strong><br/>
+                            UP!THAT!SCORE!<br/>
+                            (Prod. Leo)
+                        </p>
+                    </a>
+                </div>
+                <div class="gallery_item">
+                    <p class="gallery-tag">Single</p>
                     <a href="https://soundcloud.com/kawaiiry/killmilord-freestyle-prod-foriegner2x" target="_blank">    
                         <img src="https://i1.sndcdn.com/artworks-rEyTQxOLQoxWYufg-ip6Zug-t500x500.jpg" width="100%"/><br/>
                         <p class="gallery-text">
