@@ -5,7 +5,6 @@ const ArchiveMusicAnju = () => {
     return (
       <div class="main-column">
         <ArchiveIndex></ArchiveIndex> 
-        <ArchiveMusicSubindex></ArchiveMusicSubindex>
 
         <div class="card-container">
             <div class="title-wrap-rainbow2">

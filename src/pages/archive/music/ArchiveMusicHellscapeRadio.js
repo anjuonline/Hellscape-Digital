@@ -5,11 +5,10 @@ const ArchiveMusicHellscapeRadio = () => {
     return (
       <div class="main-column">
         <ArchiveIndex></ArchiveIndex> 
-        <ArchiveMusicSubindex></ArchiveMusicSubindex>
 
         <div class="card-container">
             <div class="title-wrap-rainbow2">
-                <h2>Archive / Music / Hellscape Radio</h2>
+                <h2>Archive / Music / Hellscape Radio (3)</h2>
             </div>            
             <div class="gallery_containerThree">
                     <div class="gallery_item">
