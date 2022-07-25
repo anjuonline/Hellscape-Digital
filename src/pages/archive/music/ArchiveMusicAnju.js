@@ -1,4 +1,5 @@
 import ArchiveIndex from 'components/archive/ArchiveIndex';
+import StatsMusicAnju from 'components/stats/StatsMusicAnju';
 
 const ArchiveMusicAnju = () => {
     return (
@@ -8,7 +9,7 @@ const ArchiveMusicAnju = () => {
         <div class="card-container">
             <div class="sticky">
                 <div class="title-wrap-rainbow2">
-                    <h2>Archive / Music / ANJU Online! (9)</h2>
+                    <h2>Archive / Music / ANJU Online! (<StatsMusicAnju/>)</h2>
                 </div> 
             </div>           
             <div class="gallery_containerThree">  

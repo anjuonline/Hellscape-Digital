@@ -21,12 +21,6 @@ const Home = () => {
             </div>            
             <div class="containedText">
             <h3>
-                July 22, 2022
-            </h3> 
-            <p>
-                This is a test update.
-            </p>
-            <h3>
                 July 18, 2022
             </h3> 
             <p>
@@ -46,14 +40,25 @@ const Home = () => {
                     height={"100%"}
                 />
             </div>
+            <p class="spotlight-caption"><strong>Josen</strong> - DONE!DIED! Feat. Jackie Platinum (Prod. Notamachine + Antar + OBMUS1C)</p>
         </div>                
 
         <div class="card-container">
             <div class="title-wrap-rainbow">
-                <h2>Latest Releases</h2>
+                <h2>Latest Releases / Music</h2>
             </div>
-            <h3>Music</h3>
             <div class="gallery_containerThree"> 
+                <div class="gallery_item">
+                    <p class="gallery-tag">Single</p>
+                    <a href="https://soundcloud.com/kawaiiry/gremlin-prod-notamachine-gotti" target="_blank" rel="noopener noreferrer">    
+                        <img src="https://i1.sndcdn.com/artworks-U6SOdW1tFlB0pcSw-Ly4zwA-t500x500.jpg" width="100%" alt=""/><br/>
+                        <p class="gallery-text">
+                            <strong>Kawaii Ry</strong><br/>
+                            Gremlin<br/>
+                            (Prod. Notamachine + Gotti)
+                        </p>
+                    </a>
+                </div>                
                 <div class="gallery_item">
                     <p class="gallery-tag">Feature</p>
                     <a href="https://soundcloud.com/tryfg/sodagrape" target="_blank" rel="noopener noreferrer">    
@@ -131,7 +136,12 @@ const Home = () => {
                     </a>
                 </div>                                                                                                             
             </div>  
-            <h3>Art</h3>
+        </div>
+
+        <div class="card-container">
+            <div class="title-wrap-rainbow">
+                <h2>Latest Releases / Artwork</h2>
+            </div>  
                 <div class="masonry-wrap">
                     <Masonry columnsCount={2} gutter={"0.75em"}>
                     <div>
@@ -175,7 +185,7 @@ const Home = () => {
                 <p>
                     Full Gallery
                 </p>
-        </div>
+        </div>        
 
         <div class="card-container">
             <div class="title-wrap-rainbow">

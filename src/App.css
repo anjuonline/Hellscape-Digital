@@ -49,6 +49,11 @@ a {
   text-decoration: none; /* no underline */
 }
 
+.spotlight-caption {
+  text-align: left;
+  padding-left: 1.2em;
+}
+
 .mainTitle {
   color: white;
   text-align: center;
@@ -169,6 +174,9 @@ a {
 	animation: 4s rotate linear infinite;
   margin-left: 1em;
   margin-right: 1em;
+  position: sticky;
+  top: 0;
+  background-color: black;
 } 
 
 .title-wrap-rainbow2 {
@@ -178,6 +186,9 @@ a {
 	animation: 4s rotate linear infinite;
   margin-left: 1em;
   margin-right: 1em;
+  position: sticky;
+  top: 0;
+  background-color: black;
 } 
 
 .title-wrap-rainbow-full {
@@ -218,7 +229,7 @@ a {
 .react-player-responsive { 
   padding-left: 1em;
   padding-right: 1em;
-  padding-top: 0;
+  padding-top: 0.5em;
   padding-bottom: 0;
   height: 20em;
 }
@@ -369,5 +380,10 @@ a {
 .topnav a.active {
   background-color: black;
   color: magenta;
-  font-weight: 600;
+}
+
+/* Add a color to the active/current link */
+.activeLink a.active {
+  background-color: black;
+  color: magenta;
 }

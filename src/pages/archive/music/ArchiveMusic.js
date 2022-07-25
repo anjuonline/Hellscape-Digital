@@ -1,5 +1,6 @@
 import ArchiveIndex from 'components/archive/ArchiveIndex';
 import ArchiveMusicSubindex from 'components/archive/ArchiveMusicSubindex';
+import StatsMusicAll from 'components/stats/StatsMusicAll';
 
 const ArchiveMusic = () => {
     return (
@@ -10,10 +11,21 @@ const ArchiveMusic = () => {
         <div class="card-container">
             <div class="sticky">
                 <div class="title-wrap-rainbow2">
-                    <h2>Archive / Music / All Releases (16)</h2>
+                    <h2>Archive / Music / All Releases (<StatsMusicAll/>)</h2>
                 </div>  
             </div>          
             <div class="gallery_containerThree"> 
+                <div class="gallery_item">
+                    <p class="gallery-tag">Single</p>
+                    <a href="https://soundcloud.com/kawaiiry/gremlin-prod-notamachine-gotti" target="_blank" rel="noopener noreferrer">    
+                        <img src="https://i1.sndcdn.com/artworks-U6SOdW1tFlB0pcSw-Ly4zwA-t500x500.jpg" width="100%" alt=""/><br/>
+                        <p class="gallery-text">
+                            <strong>Kawaii Ry</strong><br/>
+                            Gremlin<br/>
+                            (Prod. Notamachine + Gotti)
+                        </p>
+                    </a>
+                </div> 
                 <div class="gallery_item">
                     <p class="gallery-tag">Feature</p>
                     <a href="https://soundcloud.com/tryfg/sodagrape" target="_blank" rel="noopener noreferrer">    
