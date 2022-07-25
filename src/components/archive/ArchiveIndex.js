@@ -10,7 +10,7 @@ const ArchiveIndex = () => {
                     <div class="containedText">
                             <p>
                                 <a href="/archive/music">
-                                    Music (13)<br/><br/>
+                                    Music (16)<br/><br/>
                                 </a>
                             </p>
                     </div>

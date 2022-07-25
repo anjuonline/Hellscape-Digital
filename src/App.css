@@ -215,6 +215,14 @@ a {
   padding-bottom: 0;
 }
 
+.react-player-responsive { 
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0;
+  padding-bottom: 0;
+  height: 20em;
+}
+
 .flex-column-contained-text { 
   align-content: center;
   padding-left: 1em;
@@ -310,6 +318,9 @@ a {
     padding-left: 3em;
     padding-right: 3em;
   } 
+  .react-player-responsive {
+    height: 12em;
+  }
 }
 
 .masonry-wrap {
@@ -318,6 +329,12 @@ a {
 
 .spacer {
   margin-top: 1em;
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
+  background-color: black;
 }
 
 /*test zone*/
