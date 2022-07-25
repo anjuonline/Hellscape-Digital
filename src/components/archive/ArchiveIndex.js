@@ -1,3 +1,5 @@
+import { NavLink } from 'react-router-dom';
+
 const ArchiveIndex = () => {
     return (
       <>
@@ -8,20 +10,18 @@ const ArchiveIndex = () => {
                     </p>
                     <div class="flexColumn">
                     <div class="containedText">
+                            <div class="activeLink">
                             <p>
-                                <a href="/archive/music">
-                                    Music (16)<br/><br/>
-                                </a>
+                                <NavLink to={"/archive/music"}>Music</NavLink>
                             </p>
+                            </div>
                     </div>
                     <div class="containedText">
-                        <a href="#cloudi">
+                        <div class="activeLink">
                             <p>
-                                <a href="/artwork">
-                                    Artwork (7)<br/><br/>
-                                </a>
+                                <NavLink to={"/archive/artwork"}>Artwork</NavLink>
                             </p>
-                        </a>    
+                        </div>
                     </div>
                 </div>
                 </div>

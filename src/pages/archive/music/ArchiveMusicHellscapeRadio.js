@@ -1,4 +1,5 @@
 import ArchiveIndex from 'components/archive/ArchiveIndex';
+import StatsMusicHellscapeRadio from 'components/stats/StatsMusicHellscapeRadio';
 
 const ArchiveMusicHellscapeRadio = () => {
     return (
@@ -11,7 +12,7 @@ const ArchiveMusicHellscapeRadio = () => {
                     <h2>
                         <a href="/archive">Archive</a> /&nbsp;
                         <a href="/archive/music">Music</a> /
-                        Hellscape Radio (3)</h2>
+                        Hellscape Radio (<StatsMusicHellscapeRadio/>)</h2>
                 </div>  
             </div>          
             <div class="gallery_containerThree">
