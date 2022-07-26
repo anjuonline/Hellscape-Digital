@@ -10,8 +10,8 @@ const TopNav = () => {
       </div>
 
       <div class="topnav">
-        <NavLink to={"/"} exact>Home</NavLink>
-        <NavLink to={"/archive"}>Archive</NavLink>
+        <NavLink to={"/"} exact>&#128612;&nbsp;&nbsp;Home&nbsp;</NavLink>
+        <NavLink to={"/archive"}>&nbsp;&#128615;&nbsp;&nbsp;Archive</NavLink>
       </div>
     </>
   );

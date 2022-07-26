@@ -1,16 +1,19 @@
 import Masonry, {ResponsiveMasonry} from "react-responsive-masonry"
 import ArchiveIndex from 'components/archive/ArchiveIndex';
+import ArchiveArtworkSubindex from 'components/archive/ArchiveArtworkSubindex';
 import StatsArtworkAll from 'components/stats/StatsArtworkAll';
+import { NavLink } from 'react-router-dom';
 
 const ArchiveArtworkAll = () => {
     return (
       <div class="main-column">
-        <ArchiveIndex></ArchiveIndex>
+        <ArchiveIndex/>
+        <ArchiveArtworkSubindex/>
 
         <div class="card-container">
             <div class="sticky">
                 <div class="title-wrap-rainbow2">
-                    <h2>Archive / Artwork / All Art (<StatsArtworkAll/>)</h2>
+                    <h2><NavLink to="/archive">Archive</NavLink> / <NavLink to="/archive/artwork">Artwork</NavLink> / All Art (<StatsArtworkAll/>)</h2>
                 </div>  
             </div>          
             <div class="masonry-wrap">

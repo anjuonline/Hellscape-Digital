@@ -9,14 +9,6 @@ const ArchiveArtwork = () => {
       <div class="main-column">
         <ArchiveIndex></ArchiveIndex>
         <ArchiveArtworkSubindex></ArchiveArtworkSubindex>
-        <div class="card-container">
-            <div class="sticky">
-                <div class="title-wrap-rainbow2">
-                    <h2>Recent Art</h2>
-                </div>  
-            </div>
-            <LatestArtworkAll/>           
-        </div> 
       </div>
     );
   };

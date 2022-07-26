@@ -1,39 +1,35 @@
-import StatsArtworkAll from 'components/stats/StatsArtworkAll';
+import StatsMusicAnju from 'components/stats/StatsMusicAnju';
 import { NavLink } from 'react-router-dom';
 
-const ArchiveArtworkSubindex = () => {
+const ArchiveMusicAnjuSubindex = () => {
     return (
       <>
-        <div class="card-container">
-            <div class="title-wrap-rainbow2">
-                <h2>Archive / Artwork</h2>
-            </div>            
+        <div class="card-container">            
             <div class="containedText">
                 <h3>
-                    By Artist
+                    Filter By
                 </h3>                
             </div>
             <div class="flexColumn">
                 <div class="containedText">
                         <p>
                             <a href="/archive/artwork/anjuonline">
-                                ANJU Online!<br/>
+                                Original Releases<br/>
+                            </a>
+                            <a href="/archive/artwork/cloudidaze">
+                                Production Credits<br/>
+                            </a>
+                            <a href="/archive/artwork/anjuonline">
+                                DJ Sets<br/>
                             </a>
                         </p>
-                </div>
-                <div class="containedText">
-                        <p>
-                            <a href="/archive/artwork/cloudidaze">
-                                Cloudi Daze<br/>
-                            </a>
-                        </p> 
                 </div>
             </div>
             <div class="containedText">
                 <p>
                     <div class="activeLink">
-                        <NavLink to={"/archive/artwork/all"}>
-                            All Art (<StatsArtworkAll/>)
+                        <NavLink to={"/archive/music/anjuonline"}>
+                            All Releases (<StatsMusicAnju/>)
                         </NavLink>
                     </div>
                 </p>                
@@ -42,4 +38,4 @@ const ArchiveArtworkSubindex = () => {
       </>
     );
   };
-  export default ArchiveArtworkSubindex;
+  export default ArchiveMusicAnjuSubindex;
