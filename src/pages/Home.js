@@ -41,7 +41,7 @@ const Home = () => {
                     height={"100%"}
                 />
             </div>
-            <p class="spotlight-caption"><strong>Josen</strong> - DONE!DIED! Feat. Jackie Platinum (Prod. Notamachine + Antar + OBMUS1C)</p>
+            <p><strong>Josen</strong> - DONE!DIED! Feat. Jackie Platinum<br/>(Prod. Notamachine + Antar + OBMUS1C)</p>            
         </div>                
 
         <div class="card-container">

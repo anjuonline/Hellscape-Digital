@@ -12,16 +12,20 @@ const ArchiveMusicSubindex = () => {
             <div class="flexColumn">
                 <div class="containedText">
                         <p>
-                            <a href="/archive/music/anjuonline">
-                                ANJU Online!<br/>
-                            </a>
+                            <div class="activeLink">
+                            <NavLink to={"/archive/music/anjuonline"}>
+                                    ANJU Online!<br/>
+                            </NavLink>
+                            </div>
                         </p>
                 </div>
                 <div class="containedText">
                         <p>
-                            <a href="/archive/music/kawaiiry">
+                            <div class="activeLink">
+                            <NavLink to={"/archive/music/kawaiiry"}>
                                 Kawaii Ry<br/>
-                            </a>
+                            </NavLink>
+                            </div>
                         </p> 
                 </div>
             </div>
@@ -33,14 +37,18 @@ const ArchiveMusicSubindex = () => {
             <div class="flexColumn">
                 <div class="containedText">
                     <p>
-                        <a href="/archive/music/hellscaperadio">
-                            Hellscape Radio<br/>
-                        </a>
+                        <div class="activeLink">
+                            <NavLink to={"/archive/music/hellscaperadio"}>
+                                Hellscape Radio<br/>
+                            </NavLink>
+                        </div>
                     </p>
-                    <p>            
-                        <NavLink to={"/archive/music/all"}>
-                            All Releases (<StatsMusicAll/>)
-                        </NavLink>
+                    <p> 
+                        <div class="activeLink">           
+                            <NavLink to={"/archive/music/all"}>
+                                All Releases (<StatsMusicAll/>)
+                            </NavLink>
+                        </div>
                     </p>
                 </div>
             </div>

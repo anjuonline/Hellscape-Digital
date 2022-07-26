@@ -5,23 +5,13 @@ const ArchiveIndex = () => {
       <>
             <div class="card-container-rainbow">
                 <div class="featured-card">
-                    <p>
-                        <strong>Index</strong>
-                    </p>
                     <div class="flexColumn">
                     <div class="containedText">
                             <div class="activeLink">
                             <p>
-                                <NavLink to={"/archive/music"}>Music</NavLink>
+                                <NavLink to={"/archive/music"}>Music</NavLink>&nbsp;&nbsp;&nbsp;&#9841;&nbsp;&nbsp;&nbsp;<NavLink to={"/archive/artwork"}>Artwork</NavLink>
                             </p>
                             </div>
-                    </div>
-                    <div class="containedText">
-                        <div class="activeLink">
-                            <p>
-                                <NavLink to={"/archive/artwork"}>Artwork</NavLink>
-                            </p>
-                        </div>
                     </div>
                 </div>
                 </div>

@@ -1,15 +1,22 @@
 import ArchiveIndex from 'components/archive/ArchiveIndex';
+import ArchiveMusicSubindex from 'components/archive/ArchiveMusicSubindex';
 import StatsMusicKawaii from 'components/stats/StatsMusicKawaii';
+import { NavLink } from 'react-router-dom';
 
 const ArchiveMusicKawaii = () => {
     return (
       <div class="main-column">
         <ArchiveIndex></ArchiveIndex> 
-
+        <div class="card-container">
+            <div class="title-wrap-rainbow2">
+                <h2>Archive / Music</h2>
+            </div>            
+            <ArchiveMusicSubindex/>
+        </div>
         <div class="card-container">
             <div class="sticky">
                 <div class="title-wrap-rainbow2">
-                    <h2>Archive / Music / Kawaii Ry (<StatsMusicKawaii/>)</h2>
+                    <h2><NavLink to="/archive/music">Archive / Music</NavLink> / Kawaii Ry (<StatsMusicKawaii/>)</h2>
                 </div> 
             </div>           
             <div class="gallery_containerThree">
