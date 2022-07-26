@@ -1,10 +1,9 @@
+import StatsMusicAll from 'components/stats/StatsMusicAll';
+import { NavLink } from 'react-router-dom';
+
 const ArchiveMusicSubindex = () => {
     return (
-      <>
-        <div class="card-container">
-            <div class="title-wrap-rainbow2">
-                <h2>Archive / Music</h2>
-            </div>            
+      <>           
             <div class="containedText">
                 <h3>
                     By Artist
@@ -33,14 +32,18 @@ const ArchiveMusicSubindex = () => {
             </div>
             <div class="flexColumn">
                 <div class="containedText">
-                        <p>
-                            <a href="/archive/music/hellscaperadio">
-                                Hellscape Radio<br/>
-                            </a>
-                        </p>
+                    <p>
+                        <a href="/archive/music/hellscaperadio">
+                            Hellscape Radio<br/>
+                        </a>
+                    </p>
+                    <p>            
+                        <NavLink to={"/archive/music/all"}>
+                            All Releases (<StatsMusicAll/>)
+                        </NavLink>
+                    </p>
                 </div>
             </div>
-        </div>
       </>
     );
   };
