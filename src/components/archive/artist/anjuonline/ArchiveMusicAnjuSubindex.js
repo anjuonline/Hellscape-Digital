@@ -1,7 +1,21 @@
+import React, { useState } from "react";
 import StatsMusicAnju from 'components/stats/StatsMusicAnju';
 import { NavLink } from 'react-router-dom';
+import ArchiveMusicAnjuFilter from 'components/archive/artist/anjuonline/ArchiveMusicAnjuFilter';
+import MusicAnjuData from 'data/music/MusicAnjuData';
+import AnjuCard from 'components/archive/artist/anjuonline/AnjuCard';
 
 const ArchiveMusicAnjuSubindex = () => {
+    const [item, setItem] = useState(MusicAnjuData);
+
+    const menuItems = [...new Set(MusicAnjuData.map((Val) => Val.filterby))];
+  
+    const filterItem = (curcat) => {
+      const newItem = MusicAnjuData.filter((newVal) => {
+        return newVal.filterby === curcat;
+      });
+      setItem(newItem);
+    };
     return (
       <>
         <div class="card-container">            
@@ -11,20 +25,14 @@ const ArchiveMusicAnjuSubindex = () => {
                 </h3>                
             </div>
             <div class="flexColumn">
-                <div class="containedText">
-                        <p>
-                            <a href="/archive/artwork/anjuonline">
-                                Original Releases<br/>
-                            </a>
-                            <a href="/archive/artwork/cloudidaze">
-                                Production Credits<br/>
-                            </a>
-                            <a href="/archive/artwork/anjuonline">
-                                DJ Sets<br/>
-                            </a>
-                        </p>
-                </div>
+                <ArchiveMusicAnjuFilter
+                    filterItem={filterItem}
+                    setItem={setItem}
+                    menuItems={menuItems}
+                />
+                 
             </div>
+            <AnjuCard item={item}/>
             <div class="containedText">
                 <p>
                     <div class="activeLink">
@@ -34,7 +42,7 @@ const ArchiveMusicAnjuSubindex = () => {
                     </div>
                 </p>                
             </div>
-        </div>
+        </div>    
       </>
     );
   };

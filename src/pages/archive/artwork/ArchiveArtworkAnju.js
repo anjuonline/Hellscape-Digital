@@ -3,7 +3,7 @@ import ArchiveIndex from 'components/archive/ArchiveIndex';
 import ArchiveArtworkSubindex from 'components/archive/ArchiveArtworkSubindex';
 import StatsArtworkAll from 'components/stats/StatsArtworkAll';
 
-const ArchiveArtwork = () => {
+const ArchiveArtworkAnju = () => {
     return (
       <div class="main-column">
         <ArchiveIndex></ArchiveIndex>
@@ -47,4 +47,4 @@ const ArchiveArtwork = () => {
       </div>
     );
   };
-  export default ArchiveArtwork;
+  export default ArchiveArtworkAnju;

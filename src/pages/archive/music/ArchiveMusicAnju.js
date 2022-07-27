@@ -3,6 +3,7 @@ import ArchiveMusicSubindex from 'components/archive/ArchiveMusicSubindex';
 import ArchiveMusicAnjuAll from 'components/archive/artist/anjuonline/ArchiveMusicAnjuAll';
 import ArchiveMusicAnjuSubindex from 'components/archive/artist/anjuonline/ArchiveMusicAnjuSubindex';
 import StatsMusicAnju from 'components/stats/StatsMusicAnju';
+import AnjuCard from 'components/archive/artist/anjuonline/AnjuCard';
 import { NavLink } from 'react-router-dom';
 
 const ArchiveMusicAnju = () => {
@@ -21,7 +22,7 @@ const ArchiveMusicAnju = () => {
                     <h2><NavLink to="/archive/music">Archive / Music</NavLink> / <NavLink to="#">ANJU Online!</NavLink></h2>
                 </div> 
             </div>   
-            <ArchiveMusicAnjuSubindex/>         
+            <ArchiveMusicAnjuSubindex/>        
             <ArchiveMusicAnjuAll/>
         </div> 
   
@@ -29,3 +30,4 @@ const ArchiveMusicAnju = () => {
     );
   };
   export default ArchiveMusicAnju;
+  

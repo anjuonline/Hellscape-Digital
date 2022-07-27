@@ -1,7 +1,7 @@
 const ArchiveMusicAnjuAll = () => {
     return (
       <>
-            <div class="gallery_containerThree">  
+        <div class="gallery_containerThree">  
                 <div class="gallery_item">
                     <p class="gallery-tag">DJ Set</p>
                     <a href="https://soundcloud.com/anjuonline/club-kawaii" target="_blank" rel="noopener noreferrer">
