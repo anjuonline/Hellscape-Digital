@@ -1,3 +1,10 @@
+# Notes from Anju
+
+Welcome to the hellscape digital repo! This project has several dependencies which i will list here:
+
+npm install react-responsive-masonry --save
+npm install react-player
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
