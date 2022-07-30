@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import { Cross } from 'utils/Symbols';
+import { CrossSymbol } from 'utils/Symbols';
 
 const navLinkStyle = {marginLeft: '8px', marginRight: '8px'}
 
@@ -13,7 +13,7 @@ const ArchiveIndex = () => {
               <div class="activeLink">
                 <p>
                   <NavLink to={"/archive/music"} style={navLinkStyle}>Music</NavLink>
-                  <Cross />
+                  <CrossSymbol />
                   <NavLink to={"/archive/artwork"} style={navLinkStyle}>Artwork</NavLink>
                 </p>
               </div>
