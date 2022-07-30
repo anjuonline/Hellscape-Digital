@@ -378,6 +378,18 @@ a {
   color: magenta;
 }
 
+.activeLink {
+  color: white;
+  font-size: 14px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.activeLink a {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
 /* Add a color to the active/current link */
 .activeLink a.active {
   background-color: black;

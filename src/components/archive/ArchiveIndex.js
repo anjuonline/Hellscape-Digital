@@ -1,8 +1,6 @@
 import { NavLink } from 'react-router-dom';
 import { CrossSymbol } from 'utils/Symbols';
 
-const navLinkStyle = {marginLeft: '8px', marginRight: '8px'}
-
 const ArchiveIndex = () => {
   return (
     <>
@@ -11,11 +9,9 @@ const ArchiveIndex = () => {
           <div class="flexColumn">
             <div class="containedText">
               <div class="activeLink">
-                <p>
-                  <NavLink to={"/archive/music"} style={navLinkStyle}>Music</NavLink>
-                  <CrossSymbol />
-                  <NavLink to={"/archive/artwork"} style={navLinkStyle}>Artwork</NavLink>
-                </p>
+                <NavLink to={"/archive/music"}>Music</NavLink>
+                <CrossSymbol />
+                <NavLink to={"/archive/artwork"}>Artwork</NavLink>
               </div>
             </div>
           </div>
