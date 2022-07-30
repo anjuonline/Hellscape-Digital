@@ -1,7 +1,6 @@
 import React from "react";
 
 const MusicCard = ({ item }) => {
-  console.log('item!', item);
   return (
     <div key={item._id}>
       <div>

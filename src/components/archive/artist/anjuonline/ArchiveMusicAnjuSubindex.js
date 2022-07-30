@@ -17,6 +17,9 @@ const ArchiveMusicAnjuSubindex = ({ songs }) => {
     setSongList(filteredSongs);
   };
 
+  useEffect(() => {
+    //TODO: somehow set filter to 'all' on page load (while axios fetches data...)
+  }, []);
 
   return (
     <>
