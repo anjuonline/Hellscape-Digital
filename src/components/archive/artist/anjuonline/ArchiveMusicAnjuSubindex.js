@@ -2,17 +2,17 @@ import React, { useState } from "react";
 import StatsMusicAnju from 'components/stats/StatsMusicAnju';
 import { NavLink } from 'react-router-dom';
 import ArchiveMusicAnjuFilter from 'components/archive/artist/anjuonline/ArchiveMusicAnjuFilter';
-import MusicAnjuData from 'data/music/MusicAnjuData';
 import AnjuCard from 'components/archive/artist/anjuonline/AnjuCard';
 
 const ArchiveMusicAnjuSubindex = ( {songs} ) => {
     const [item, setItem] = useState(songs);
 
-    const menuItems = [...new Set(songs.map((Val) => Val.filterby))];
+    const menuItems = [...new Set(songs.map((Val) => Val.filter))];
   
     const filterItem = (curcat) => {
       const newItem = songs.filter((newVal) => {
-        return newVal.filterby === curcat;
+        if (curcat === 'all') return newVal; // return all items in list
+        return newVal.filter === curcat; // return filtered list based on filter selection
       });
       setItem(newItem);
     };
@@ -27,7 +27,6 @@ const ArchiveMusicAnjuSubindex = ( {songs} ) => {
             <div class="flexColumn">
                 <ArchiveMusicAnjuFilter
                     filterItem={filterItem}
-                    setItem={setItem}
                     menuItems={menuItems}
                 />
                  

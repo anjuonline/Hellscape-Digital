@@ -1,6 +1,4 @@
-import MusicAnjuData from 'data/music/MusicAnjuData';
-
-const ArchiveMusicAnjuFilter = ({ filterItem, setItem, menuItems }) => {
+const ArchiveMusicAnjuFilter = ({ filterItem, menuItems }) => {
     return (
       <>
         <div className="d-flex justify-content-center">
@@ -11,7 +9,7 @@ const ArchiveMusicAnjuFilter = ({ filterItem, setItem, menuItems }) => {
               </p>
             );
           })}
-          <p onClick={() => setItem(MusicAnjuData)}>
+          <p onClick={() => filterItem('all')} key={"all"}>
             All Releases
           </p>
         </div>

@@ -30,13 +30,11 @@ const ArchiveArtworkSubindex = () => {
                 </div>
             </div>
             <div class="containedText">
-                <p>
-                    <div class="activeLink">
-                        <NavLink to={"/archive/artwork/all"}>
-                            All Art (<StatsArtworkAll/>)
-                        </NavLink>
-                    </div>
-                </p>                
+              <div class="activeLink">
+                  <NavLink to={"/archive/artwork/all"}>
+                      All Art (<StatsArtworkAll/>)
+                  </NavLink>
+              </div>  
             </div>
         </div>
       </>

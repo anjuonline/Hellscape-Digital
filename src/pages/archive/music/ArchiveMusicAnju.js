@@ -28,45 +28,41 @@ var config = {
 
 const ArchiveMusicAnju = () => {
     
-    const url = 'https://data.mongodb-api.com/app/data-pkdrs/endpoint/getMusic';
     const [currentSongs, setcurrentSongs] = useState([]);
 
     useEffect(() => {
-        console.log("trying to request songs")
+        console.log("trying to request songs");
         // axios.get(url).then(res => {
         //     setMusic(res.data.music);
         //     console.log(music);
         // })
         axios(config)
         .then(function (response) {
-            console.log(JSON.stringify(response.data));
-            // currentSongs = response.data;
-            setcurrentSongs(response.data)
+            setcurrentSongs(response.data);
+            console.log("received songs!", response.data);
         })
         .catch(function (error) {
             console.log(error);
         });
     }, [])
             
-
-    
-    
     return (
       <div class="main-column">
         <ArchiveIndex/>
         <div class="card-container">
             <div class="title-wrap-rainbow2">
                 <h2>Archive / Music</h2>
-            </div>            
-            <ArchiveMusicSubindex songs={currentSongs} />
-        </div> 
+            </div>
+
+            {/* <ArchiveMusicSubindex songs={currentSongs} /> */}
+        </div>
         <div class="card-container">
             <div class="sticky">
                 <div class="title-wrap-rainbow2">
                     <h2><NavLink to="/archive/music">Archive / Music</NavLink> / <NavLink to="#">ANJU Online!</NavLink></h2>
                 </div> 
             </div>   
-            <ArchiveMusicAnjuSubindex/>        
+            <ArchiveMusicAnjuSubindex songs={currentSongs} />        
             <ArchiveMusicAnjuAll/>
         </div> 
   

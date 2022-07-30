@@ -18,7 +18,7 @@ const ArchiveMusicAnjuAll = () => {
                     <a href="https://soundcloud.com/hellscapedigital/camo-croc" target="_blank" rel="noopener noreferrer">
                         <img src="https://i1.sndcdn.com/artworks-M65REbxvpBKAYv1s-c35jbg-t500x500.jpg" width="100%" alt=""/><br/>
                         <p class="gallery-text">
-                            <strong>Kawaii Ry & ANJU Online!</strong><br/>
+                            <strong>Kawaii Ry &amp; ANJU Online!</strong><br/>
                             Camo Croc
                         </p>
                     </a>
