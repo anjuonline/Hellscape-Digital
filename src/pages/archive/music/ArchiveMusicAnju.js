@@ -4,6 +4,7 @@ import ArchiveMusicAnjuSubindex from 'components/archive/artist/anjuonline/Archi
 import { NavLink } from 'react-router-dom';
 import { useEffect, useState } from "react";
 import axios from "axios";
+import ArchiveMusicSubindex from 'components/archive/ArchiveMusicSubindex';
 
 var data = JSON.stringify({
   "collection": "Music",
@@ -51,15 +52,16 @@ const ArchiveMusicAnju = () => {
         <div class="title-wrap-rainbow2">
           <h2>Archive / Music</h2>
         </div>
+        <ArchiveMusicSubindex/>
       </div>
       <div class="card-container">
         <div class="sticky">
-          <div class="title-wrap-rainbow2">
+          <div class="title-wrap-rainbow">
             <h2><NavLink to="/archive/music">Archive / Music</NavLink> / <NavLink to="#">ANJU Online!</NavLink></h2>
           </div>
         </div>
         <ArchiveMusicAnjuSubindex songs={currentSongs} />
-        <ArchiveMusicAnjuAll />
+        {/* <ArchiveMusicAnjuAll /> */}
       </div>
 
     </div>

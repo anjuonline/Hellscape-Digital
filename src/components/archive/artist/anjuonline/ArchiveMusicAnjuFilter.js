@@ -1,17 +1,17 @@
 const ArchiveMusicAnjuFilter = ({ filterItem, menuItems }) => {
     return (
       <>
-        <div className="d-flex justify-content-center">
+        <div className="flexColumn">
+          <p onClick={() => filterItem('all')} key={"all"}>
+            All Releases&nbsp;&nbsp;&nbsp;&nbsp;
+          </p>
           {menuItems.map((Val, id) => {
             return (
               <p onClick={() => filterItem(Val)} key={id}>
-                {Val}<br/>
+                {Val}&nbsp;&nbsp;&nbsp;&nbsp;
               </p>
             );
           })}
-          <p onClick={() => filterItem('all')} key={"all"}>
-            All Releases
-          </p>
         </div>
       </>
     );

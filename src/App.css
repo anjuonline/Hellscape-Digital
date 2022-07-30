@@ -271,7 +271,8 @@ a {
   display: grid;
   justify-items: auto;
   grid-template-columns: 33.33% 33.33% 33.33%;
-  padding: 1em;
+  padding: 0.5em;
+  padding-top:2em;
   width: auto;
   gap: 0.5em;
   margin-right: 1em;

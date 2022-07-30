@@ -18,8 +18,8 @@ const ArchiveMusicAnjuSubindex = ({ songs }) => {
   };
 
   useEffect(() => {
-    //TODO: somehow set filter to 'all' on page load (while axios fetches data...)
-  }, []);
+    filterSongs('all');
+  }, [songs]);
 
   return (
     <>
@@ -34,10 +34,9 @@ const ArchiveMusicAnjuSubindex = ({ songs }) => {
             filterItem={filterSongs}
             menuItems={menuItems}
           />
-
         </div>
         <MusicCardList list={songList} />
-        <div class="containedText">
+        {/* <div class="containedText">
           <p>
             <div class="activeLink">
               <NavLink to={"/archive/music/anjuonline"}>
@@ -45,8 +44,8 @@ const ArchiveMusicAnjuSubindex = ({ songs }) => {
               </NavLink>
             </div>
           </p>
-        </div>
-      </div>
+        </div> */}
+      </div> 
     </>
   );
 };
