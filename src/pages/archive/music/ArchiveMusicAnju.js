@@ -53,8 +53,6 @@ const ArchiveMusicAnju = () => {
             <div class="title-wrap-rainbow2">
                 <h2>Archive / Music</h2>
             </div>
-
-            {/* <ArchiveMusicSubindex songs={currentSongs} /> */}
         </div>
         <div class="card-container">
             <div class="sticky">

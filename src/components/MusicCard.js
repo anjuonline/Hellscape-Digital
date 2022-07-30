@@ -1,8 +1,9 @@
 import React from "react";
 
 const MusicCard = ({ item }) => {
+  console.log('item!', item);
   return (
-    <div key={item.id}>
+    <div key={item._id}>
       <div>
         <p class="gallery-tag">{item.cardtag}</p>
         <img src={item.imageurl} alt={item.title} />

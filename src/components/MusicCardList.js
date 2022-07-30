@@ -1,11 +1,14 @@
 import React from "react";
-import MusicCard from './MusicCard';
+import MusicCard from 'components/MusicCard';
 
 const MusicCardList = ({ list }) => {
+  console.log("list!", list);
   return (
     <div class="gallery_containerThree">
-      {list.map((card) => {
-        <MusicCard item={card} />
+      {list.map((item) => {
+        return (
+          <MusicCard item={item} />
+        );
       })}
     </div>
   );
