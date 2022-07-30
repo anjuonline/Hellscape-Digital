@@ -18,21 +18,21 @@ var data = JSON.stringify({
 
 var config = {
     method: 'get',
-    url: 'https://data.mongodb-api.com/app/data-pkdrs/endpoint/data/v1/action/findOne',
-    headers: {
-      'Content-Type': 'application/json',
-      'Access-Control-Request-Headers': '*',
-      'api-key': 'oR6xiClryCLh011u0LA61gXZ1YutTIV7AM45UJYQ7qRCYe6lLbKYPuKOjICkKJtZ',
-    },
+    url: 'http://localhost:3001/songs',
+    // headers: {
+    //   'Content-Type': 'application/json',
+    //   'Access-Control-Request-Headers': '*',
+    // },
     // data: data
 };
 
 const ArchiveMusicAnju = () => {
     
     const url = 'https://data.mongodb-api.com/app/data-pkdrs/endpoint/getMusic';
-    const [music, setMusic] = useState([]);
+    const [currentSongs, setcurrentSongs] = useState([]);
 
     useEffect(() => {
+        console.log("trying to request songs")
         // axios.get(url).then(res => {
         //     setMusic(res.data.music);
         //     console.log(music);
@@ -40,6 +40,8 @@ const ArchiveMusicAnju = () => {
         axios(config)
         .then(function (response) {
             console.log(JSON.stringify(response.data));
+            // currentSongs = response.data;
+            setcurrentSongs(response.data)
         })
         .catch(function (error) {
             console.log(error);
@@ -56,7 +58,7 @@ const ArchiveMusicAnju = () => {
             <div class="title-wrap-rainbow2">
                 <h2>Archive / Music</h2>
             </div>            
-            <ArchiveMusicSubindex/>
+            <ArchiveMusicSubindex songs={currentSongs} />
         </div> 
         <div class="card-container">
             <div class="sticky">

@@ -5,13 +5,13 @@ import ArchiveMusicAnjuFilter from 'components/archive/artist/anjuonline/Archive
 import MusicAnjuData from 'data/music/MusicAnjuData';
 import AnjuCard from 'components/archive/artist/anjuonline/AnjuCard';
 
-const ArchiveMusicAnjuSubindex = () => {
-    const [item, setItem] = useState(MusicAnjuData);
+const ArchiveMusicAnjuSubindex = ( {songs} ) => {
+    const [item, setItem] = useState(songs);
 
-    const menuItems = [...new Set(MusicAnjuData.map((Val) => Val.filterby))];
+    const menuItems = [...new Set(songs.map((Val) => Val.filterby))];
   
     const filterItem = (curcat) => {
-      const newItem = MusicAnjuData.filter((newVal) => {
+      const newItem = songs.filter((newVal) => {
         return newVal.filterby === curcat;
       });
       setItem(newItem);
@@ -32,7 +32,7 @@ const ArchiveMusicAnjuSubindex = () => {
                 />
                  
             </div>
-            <AnjuCard item={item}/>
+           <AnjuCard item={item}/>
             <div class="containedText">
                 <p>
                     <div class="activeLink">
