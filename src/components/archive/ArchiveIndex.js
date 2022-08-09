@@ -1,22 +1,23 @@
 import { NavLink } from 'react-router-dom';
+import { CrossSymbol } from 'utils/Symbols';
 
 const ArchiveIndex = () => {
-    return (
-      <>
-            <div class="card-container-rainbow">
-                <div class="featured-card">
-                    <div class="flexColumn">
-                    <div class="containedText">
-                            <div class="activeLink">
-                            <p>
-                                <NavLink to={"/archive/music"}>Music</NavLink>&nbsp;&nbsp;&nbsp;&#9841;&nbsp;&nbsp;&nbsp;<NavLink to={"/archive/artwork"}>Artwork</NavLink>
-                            </p>
-                            </div>
-                    </div>
-                </div>
-                </div>
+  return (
+    <>
+      <div class="card-container-rainbow">
+        <div class="featured-card">
+          <div class="flexColumn">
+            <div class="containedText">
+              <div class="activeLink">
+                <NavLink to={"/archive/music"}>Music</NavLink>
+                <CrossSymbol />
+                <NavLink to={"/archive/artwork"}>Artwork</NavLink>
+              </div>
             </div>
-      </>
-    );
-  };
-  export default ArchiveIndex;
+          </div>
+        </div>
+      </div>
+    </>
+  );
+};
+export default ArchiveIndex;

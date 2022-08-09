@@ -271,7 +271,8 @@ a {
   display: grid;
   justify-items: auto;
   grid-template-columns: 33.33% 33.33% 33.33%;
-  padding: 1em;
+  padding: 0.5em;
+  padding-top:2em;
   width: auto;
   gap: 0.5em;
   margin-right: 1em;
@@ -375,6 +376,18 @@ a {
 .topnav a.active {
   background-color: black;
   color: magenta;
+}
+
+.activeLink {
+  color: white;
+  font-size: 14px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.activeLink a {
+  margin-left: 8px;
+  margin-right: 8px;
 }
 
 /* Add a color to the active/current link */

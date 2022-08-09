@@ -18,6 +18,7 @@ import ArchiveMusicHellscapeRadio from './pages/archive/music/ArchiveMusicHellsc
 
 import ArchiveArtwork from './pages/archive/artwork/ArchiveArtwork';
 import ArchiveArtworkAll from './pages/archive/artwork/ArchiveArtworkAll';
+import ArchiveArtworkAnju from './pages/archive/artwork/ArchiveArtworkAnju';
 
 function App() {
   return (
@@ -35,6 +36,7 @@ function App() {
           <Route path='/archive/music/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
           <Route path='/archive/artwork' element={<ArchiveArtwork />} />
           <Route path='/archive/artwork/all' element={<ArchiveArtworkAll />} />
+          <Route path='/archive/artwork/anjuonline' element={<ArchiveArtworkAnju />} />
         </Route>
         <Route path='*' element={<Error />} />
       </Routes>
