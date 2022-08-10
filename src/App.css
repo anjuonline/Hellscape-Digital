@@ -278,6 +278,28 @@ a {
   margin-right: 1em;
 }
 
+.gallery_containerThree-static {
+  display: grid;
+  justify-items: auto;
+  grid-template-columns: 33.33% 33.33% 33.33%;
+  padding: 1em;
+  width: auto;
+  gap: 0.5em;
+  margin-right: 1em;
+}
+
+.StaticAlbumContainer {
+  display: grid;
+  justify-items: auto;
+  grid-template-columns: 33.33% 33.33% 33.33%;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-bottom: 1.5em;
+  width: auto;
+  gap: 0.5em;
+  margin-right: 1em;
+}
+
 .gallery_containerTwo {
   display: grid;
   justify-items: auto;

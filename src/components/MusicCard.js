@@ -5,12 +5,14 @@ const MusicCard = ({ item }) => {
     <div key={item._id}>
       <div>
         <p class="gallery-tag">{item.cardtag}</p>
-        <img src={item.imageurl} alt={item.title} />
-        <p class="gallery-text">
-          <strong>{item.artistdisplay}</strong><br />
-          {item.titledisplay}<br />
-          {item.subtitledisplay}
-        </p>
+        <a href={item.soundcloud} target="_blank;" rel="noopener noreferrer">
+          <img src={item.imageurl} alt={item.title} />
+          <p class="gallery-text">
+            <strong>{item.artistdisplay}</strong><br />
+            {item.titledisplay}<br />
+            {item.subtitledisplay}
+          </p>
+        </a>
       </div>
     </div>
   );
