@@ -1,7 +1,7 @@
 const LatestMusicAll = () => {
     return (
       <>
-        <div class="gallery_containerThree"> 
+        <div class="gallery_containerThree-static"> 
                 <div class="gallery_item">
                     <p class="gallery-tag">Single</p>
                     <a href="https://soundcloud.com/kawaiiry/gremlin-prod-notamachine-gotti" target="_blank" rel="noopener noreferrer">    
