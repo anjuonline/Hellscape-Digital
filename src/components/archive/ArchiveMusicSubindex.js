@@ -11,22 +11,18 @@ const ArchiveMusicSubindex = () => {
             </div>
             <div class="flexColumn">
                 <div class="containedText">
-                        <p>
                             <div class="activeLink">
                             <NavLink to={"/archive/music/anjuonline"}>
                                     ANJU Online!<br/>
                             </NavLink>
                             </div>
-                        </p>
                 </div>
                 <div class="containedText">
-                        <p>
                             <div class="activeLink">
                             <NavLink to={"/archive/music/kawaiiry"}>
                                 Kawaii Ry<br/>
                             </NavLink>
                             </div>
-                        </p> 
                 </div>
             </div>
             <div class="containedText">
