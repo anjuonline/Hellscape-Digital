@@ -1,6 +1,6 @@
 import ReactPlayer from "react-player"
-import LatestArtworkAll from 'components/content/LatestArtworkAll';
-import LatestMusicAll from 'components/content/LatestMusicAll';
+import LatestArtworkAll from 'components/homepage/LatestArtworkAll';
+import LatestMusicAll from 'components/homepage/LatestMusicAll';
 
 const Home = () => {
   return (

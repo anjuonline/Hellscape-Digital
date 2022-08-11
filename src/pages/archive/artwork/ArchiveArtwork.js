@@ -2,7 +2,7 @@ import Masonry, {ResponsiveMasonry} from "react-responsive-masonry"
 import ArchiveIndex from 'components/archive/ArchiveIndex';
 import ArchiveArtworkSubindex from 'components/archive/ArchiveArtworkSubindex';
 import StatsArtworkAll from 'components/stats/StatsArtworkAll';
-import LatestArtworkAll from 'components/content/LatestArtworkAll';
+import LatestArtworkAll from 'components/homepage/LatestArtworkAll';
 
 const ArchiveArtwork = () => {
     return (

@@ -1,7 +1,7 @@
 import ArchiveIndex from 'components/archive/ArchiveIndex';
 import ArchiveMusicSubindex from 'components/archive/ArchiveMusicSubindex';
 import StatsMusicAll from 'components/stats/StatsMusicAll';
-import LatestMusicAll from 'components/content/LatestMusicAll';
+import LatestMusicAll from 'components/homepage/LatestMusicAll';
 
 const ArchiveMusicAll = () => {
     return (
@@ -15,7 +15,7 @@ const ArchiveMusicAll = () => {
         </div> 
         <div class="card-container">
             <div class="title-wrap-rainbow2">
-                <h2>Archive / Music / All Releases (<StatsMusicAll/>)</h2>
+                <h2>Archive / Music / All Releases</h2>
             </div>            
             <ArchiveMusicSubindex/>
         </div>
