@@ -8,10 +8,10 @@ const ArchiveIndex = () => {
         <div class="featured-card">
           <div class="flexColumn">
             <div class="containedText">
-              <div class="activeLink">
-                <NavLink to={"/archive/music"}>Music</NavLink>
+              <div class="indexText">
+                <NavLink to={"/archive/music"}>&nbsp;&nbsp;Music&nbsp;&nbsp;</NavLink>
                 <CrossSymbol />
-                <NavLink to={"/archive/artwork"}>Artwork</NavLink>
+                <NavLink to={"/archive/artwork"}>&nbsp;&nbsp;Artwork&nbsp;&nbsp;</NavLink>
               </div>
             </div>
           </div>

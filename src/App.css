@@ -314,6 +314,8 @@ a {
   object-fit: cover;
   width: auto;
   padding: 0;
+  padding-top: 4px;
+  padding-bottom: 4px;
 }
 
 .masonry-text {
@@ -415,6 +417,25 @@ a {
 
 /* Add a color to the active/current link */
 .activeLink a.active {
+  background-color: black;
+  color: magenta;
+}
+
+.indexText {
+  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+  color: white;
+  font-size: 14px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.indexText a {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+/* Add a color to the active/current link */
+.indexText a.active {
   background-color: black;
   color: magenta;
 }

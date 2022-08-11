@@ -1,7 +1,7 @@
 import ArchiveIndex from 'components/archive/ArchiveIndex';
 import ArchiveMusicSubindex from 'components/archive/ArchiveMusicSubindex';
 import StatsMusicAll from 'components/stats/StatsMusicAll';
-import LatestMusicAll from 'components/content/LatestMusicAll';
+import LatestMusicAll from 'components/homepage/LatestMusicAll';
 
 const ArchiveMusic = () => {
     return (

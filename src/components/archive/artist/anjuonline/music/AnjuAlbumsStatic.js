@@ -7,7 +7,6 @@ const AnjuAlbumsStatic = () => {
                         <img src="https://i1.sndcdn.com/artworks-wwoT34wzHbb7vSWv-fe9Xfg-t500x500.jpg" width="100%" alt=""/><br/>
                         <p class="gallery-text">
                             <strong>ANJU is Now Online!</strong><br/>
-                            (15 Tracks)<br/>
                         </p>
                     </a>
                 </div>                                                                                                                                
