@@ -8,21 +8,28 @@ const AnjuMusicSubindex = () => {
             <h2>Archive / Music / ANJU Online!</h2>
             </div>
             <div class="title-wrap-rainbow">
-            <div class="containedText">
-                <h4>
-                    Filter By
-                </h4>  
-                <p>
-                <div class="subindexFont">
-                <NavLink to={"/archive/music/anjuonline/albums"}>Albums</NavLink><br/><br/>
-                    <NavLink to={"/archive/music/anjuonline/all"}>All</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                    <NavLink to={"/archive/music/anjuonline/singles"}>Singles</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                    <NavLink to={"/archive/music/anjuonline/remixes"}>Remixes</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                    <NavLink to={"/archive/music/anjuonline/placements"}>Placements</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                    <NavLink to={"/archive/music/anjuonline/djsets"}>DJ Sets</NavLink>
+                <div class="subindexContainer">
+                    <div class="containedText">
+                        <h5>
+                            <div class="subindexFont">
+                                <NavLink to={"/archive/music/anjuonline/albums"}>Albums (1)</NavLink>
+                            </div>
+                        </h5>   
+                        <h5>
+                            <div class="subindexFont">
+                                <NavLink to={"/archive/music/anjuonline/singles"}>Singles (18)</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                                <NavLink to={"/archive/music/anjuonline/remixes"}>Remixes (4)</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                                <NavLink to={"/archive/music/anjuonline/placements"}>Placements (3)</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                                <NavLink to={"/archive/music/anjuonline/djsets"}>DJ Sets (5)</NavLink>
+                            </div>
+                        </h5> 
+                        <h5>
+                            <div class="subindexFont">
+                                <NavLink to={"/archive/music/anjuonline/all"}>All Releases (30)</NavLink>
+                            </div>
+                        </h5>              
+                    </div>
                 </div>
-                </p>               
-            </div>
             </div>
             </div>
       </>
