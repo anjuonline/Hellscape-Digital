@@ -44,6 +44,17 @@ h3 {
   padding-bottom: 0em;
 }
 
+h4 {
+  color:white;
+  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+  font-size: 10pt;
+  font-weight: 600;
+  margin: 0;
+  text-align: center;
+  padding-top: 1.2em;
+  padding-bottom: 0em;
+}
+
 a {
   color: white;
   text-decoration: none; /* no underline */
@@ -352,6 +363,21 @@ a {
   .react-player-responsive {
     height: 12em;
   }
+  .gallery_containerThree-static {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+  .title-wrap-rainbow {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+  }
+  .title-wrap-rainbow2 {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+  }
+  .card-container-rainbow {
+    margin: 0.85em;
+  }
 }
 
 .masonry-wrap {
@@ -408,6 +434,19 @@ a {
   font-size: 10pt;
   padding-top: 8px;
   padding-bottom: 8px;
+}
+
+.subindexFont {
+  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+  color: white;
+  font-size: 10pt;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.subindexFont a.active {
+  background-color: black;
+  color: magenta;
 }
 
 .activeLink a {

@@ -7,13 +7,26 @@ const ArchiveMusicSubindex = () => {
             <div class="containedText">
                 <h3>
                     By Artist
-                </h3>                
+                </h3>  
+                <p>   
+                    <div class="subindexFont">
+                        <NavLink to={"/archive/music/anjuonline/all"}>ANJU Online!</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                        <NavLink to={"/archive/music/kawaiiry/all"}>Kawaii Ry</NavLink>
+                    </div>  
+                </p>   
+                <p>   
+                    <div class="subindexFont">
+                        <NavLink to={"/archive/music/hellscaperadio"}>
+                            Hellscape Radio<br/>
+                        </NavLink>
+                    </div>  
+                </p>       
             </div>
-            <div class="flexColumn">
+            {/* <div class="flexColumn">
                 <div>
                         <p>
                             <div class="activeLink">
-                            <NavLink to={"/archive/music/anjuonline"}>
+                            <NavLink to={"/archive/music/anjuonline/all"}>
                                     ANJU Online!<br/>
                             </NavLink>
                             </div>
@@ -28,8 +41,8 @@ const ArchiveMusicSubindex = () => {
                             </div>
                         </p>
                 </div>
-            </div>
-            <div class="flexColumn">
+            </div> */}
+            {/* <div class="flexColumn">
                 <div class="containedText">
                     <p>
                         <div class="activeLink">
@@ -39,7 +52,7 @@ const ArchiveMusicSubindex = () => {
                         </div>
                     </p>
                 </div>
-            </div>
+            </div> */}
       </>
     );
   };

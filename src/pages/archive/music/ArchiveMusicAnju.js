@@ -55,9 +55,6 @@ const ArchiveMusicAnju = () => {
 
       <div class="card-container">
         <div class="sticky">
-          <div class="title-wrap-rainbow2">
-            <h2><NavLink to="#">ANJU Online!</NavLink> / All Releases</h2>
-          </div>
           <AnjuMusicSubindex/>
           <AnjuAllReleasesStatic/>
         </div>

@@ -1,11 +1,11 @@
 import { NavLink } from 'react-router-dom';
 
-const AnjuMusicSubindex = () => {
+const KawaiiMusicSubindex = () => {
     return (
       <>           
             <div class="sticky">
             <div class="title-wrap-rainbow2">
-            <h2>ANJU Online! / All Music</h2>
+            <h2>Kawaii Ry / All Music</h2>
             </div>
             <div class="title-wrap-rainbow">
             <div class="containedText">
@@ -16,9 +16,7 @@ const AnjuMusicSubindex = () => {
                 <div class="subindexFont">
                     <NavLink to={"/archive/music/anjuonline/all"}>All</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
                     <NavLink to={"/archive/music/anjuonline/singles"}>Singles</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                    <NavLink to={"/archive/music/anjuonline/remixes"}>Remixes</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                    <NavLink to={"/archive/music/anjuonline/placements"}>Placements</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                    <NavLink to={"/archive/music/anjuonline/djsets"}>DJ Sets</NavLink>
+                    <NavLink to={"/archive/music/anjuonline/singles"}>Features</NavLink>
                 </div>
                 </p>               
             </div>
@@ -27,4 +25,4 @@ const AnjuMusicSubindex = () => {
       </>
     );
   };
-  export default AnjuMusicSubindex;
+  export default KawaiiMusicSubindex;
