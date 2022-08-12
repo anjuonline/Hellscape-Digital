@@ -20,20 +20,11 @@ const ArchiveMusicAnjuDjSets = () => {
         </div>
         <ArchiveMusicSubindex/>
       </div>
-      
-      {/* <div class="card-container">
-        <div class="sticky">
-          <div class="title-wrap-rainbow">
-            <h2>ANJU Online! / Albums</h2>
-          </div>
-          <AnjuAlbumsStatic/>
-        </div>
-      </div> */}
 
       <div class="card-container">
         <div class="sticky">
           <AnjuMusicSubindex/>
-          <AnjuDjSetsStatic/>
+          <AnjuAlbumsStatic/>
         </div>
       </div>
 

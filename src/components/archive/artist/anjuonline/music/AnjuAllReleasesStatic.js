@@ -5,6 +5,17 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/lillugosi/ghostsinthewalls-prod-anju-online?in=lillugosi/sets/ghostsinthewaells-ep" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-QD3RqZW3V4fKs7pr-jNLnBQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Lugosi - ghostsinthewalls</strong><br/>
+                (Prod. ANJU Online!)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://soundcloud.com/kawaiiry/kawaiiry-we-all-change-its-okay-prod-anjuonline" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-M0Rzq7jdHWKlMJHT-ormDZw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
