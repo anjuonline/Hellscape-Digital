@@ -44,14 +44,14 @@ const ArchiveMusicAnju = () => {
         <ArchiveMusicSubindex/>
       </div>
       
-      <div class="card-container">
+      {/* <div class="card-container">
         <div class="sticky">
           <div class="title-wrap-rainbow">
             <h2>ANJU Online! / Albums</h2>
           </div>
           <AnjuAlbumsStatic/>
         </div>
-      </div>
+      </div> */}
 
       <div class="card-container">
         <div class="sticky">

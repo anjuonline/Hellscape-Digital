@@ -348,13 +348,16 @@ a {
 
 @media only screen and (max-width: 600px){
   .masonry-text {
-    font-size: x-small;
+    font-size: xx-small;
   }
   .gallery-text {
-    font-size: x-small;
+    font-size: xx-small;
   }
   .gallery-tag {
-    font-size: x-small;
+    font-size: xx-small;
+  } 
+  .subindexFont {
+    font-size: small;
   } 
   .logo {
     padding-left: 3em;
@@ -440,7 +443,6 @@ a {
   font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
   color: white;
   font-size: 10pt;
-  padding-top: 4px;
   padding-bottom: 4px;
 }
 
