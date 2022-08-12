@@ -51,8 +51,20 @@ h4 {
   font-weight: 600;
   margin: 0;
   text-align: center;
-  padding-top: 1.2em;
+  padding-top: 1em;
   padding-bottom: 0em;
+}
+
+h5 {
+  color:white;
+  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+  font-size: 10pt;
+  font-weight: 400;
+  margin: 0;
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1.6em;
 }
 
 a {
@@ -86,6 +98,11 @@ a {
   padding: 0;
   justify-content: center;
   align-items: flex-start;
+}
+
+.subindexContainer {
+  padding-top: 0.6em;
+  padding-bottom: 0.6em;
 }
 
 .threeColumn {
@@ -356,9 +373,6 @@ a {
   .gallery-tag {
     font-size: xx-small;
   } 
-  .subindexFont {
-    font-size: small;
-  } 
   .logo {
     padding-left: 3em;
     padding-right: 3em;
@@ -440,10 +454,7 @@ a {
 }
 
 .subindexFont {
-  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
   color: white;
-  font-size: 10pt;
-  padding-bottom: 4px;
 }
 
 .subindexFont a.active {
