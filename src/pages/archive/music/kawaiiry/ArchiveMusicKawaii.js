@@ -17,15 +17,6 @@ const ArchiveMusicKawaii = () => {
                 </div>
                 <ArchiveMusicSubindex/>
             </div>
-            
-            <div class="card-container">
-                <div class="sticky">
-                <div class="title-wrap-rainbow">
-                    <h2>Kawaii Ry / Albums</h2>
-                </div>
-                <KawaiiAlbumsStatic/>
-                </div>
-            </div>
 
             <div class="card-container">
                 <div class="sticky">

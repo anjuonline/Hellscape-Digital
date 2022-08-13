@@ -13,14 +13,17 @@ import Archive from './pages/Archive';
 import ArchiveMusic from './pages/archive/music/ArchiveMusic';
 import ArchiveMusicAll from './pages/archive/music/ArchiveMusicAll';
 
-import ArchiveMusicAnju from './pages/archive/music/ArchiveMusicAnju';
+import ArchiveMusicAnju from './pages/archive/music/anjuonline/ArchiveMusicAnju';
 import ArchiveMusicAnjuSingles from './pages/archive/music/anjuonline/ArchiveMusicAnjuSingles';
 import ArchiveMusicAnjuRemixes from './pages/archive/music/anjuonline/ArchiveMusicAnjuRemixes';
 import ArchiveMusicAnjuPlacements from './pages/archive/music/anjuonline/ArchiveMusicAnjuPlacements';
 import ArchiveMusicAnjuDjSets from './pages/archive/music/anjuonline/ArchiveMusicAnjuDjSets';
 import ArchiveMusicAnjuAlbums from './pages/archive/music/anjuonline/ArchiveMusicAnjuAlbums';
 
-import ArchiveMusicKawaii from './pages/archive/music/ArchiveMusicKawaii';
+import ArchiveMusicKawaii from './pages/archive/music/kawaiiry/ArchiveMusicKawaii';
+import ArchiveMusicKawaiiAlbums from './pages/archive/music/kawaiiry/ArchiveMusicKawaiiAlbums';
+import ArchiveMusicKawaiiEps from './pages/archive/music/kawaiiry/ArchiveMusicKawaiiEps';
+
 import ArchiveMusicHellscapeRadio from './pages/archive/music/ArchiveMusicHellscapeRadio';
 
 import ArchiveArtwork from './pages/archive/artwork/ArchiveArtwork';
@@ -38,17 +41,25 @@ function App() {
           <Route path='/archive' element={<Archive />} />
           <Route path='/archive/music' element={<ArchiveMusic />} />
           <Route path='/archive/music/all' element={<ArchiveMusicAll />} />          
+
           <Route path='/archive/music/anjuonline/all' element={<ArchiveMusicAnju />} />
           <Route path='/archive/music/anjuonline/singles' element={<ArchiveMusicAnjuSingles />} />
           <Route path='/archive/music/anjuonline/remixes' element={<ArchiveMusicAnjuRemixes />} />
           <Route path='/archive/music/anjuonline/placements' element={<ArchiveMusicAnjuPlacements />} />
           <Route path='/archive/music/anjuonline/djsets' element={<ArchiveMusicAnjuDjSets />} />
           <Route path='/archive/music/anjuonline/albums' element={<ArchiveMusicAnjuAlbums />} />
+
           <Route path='/archive/music/kawaiiry/all' element={<ArchiveMusicKawaii />} />
+          <Route path='/archive/music/kawaiiry/albums' element={<ArchiveMusicKawaiiAlbums />} />
+          <Route path='/archive/music/kawaiiry/eps' element={<ArchiveMusicKawaiiEps />} />
+
           <Route path='/archive/music/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
+
           <Route path='/archive/artwork' element={<ArchiveArtwork />} />
           <Route path='/archive/artwork/all' element={<ArchiveArtworkAll />} />
+
           <Route path='/archive/artwork/anjuonline' element={<ArchiveArtworkAnju />} />
+
         </Route>
         <Route path='*' element={<Error />} />
       </Routes>

@@ -1,6 +1,5 @@
 import ArchiveIndex from 'components/archive/ArchiveIndex';
 import ArchiveMusicSubindex from 'components/archive/ArchiveMusicSubindex';
-import StatsMusicHellscapeRadio from 'components/stats/StatsMusicHellscapeRadio';
 import { NavLink } from 'react-router-dom';
 
 const ArchiveMusicHellscapeRadio = () => {
@@ -18,7 +17,7 @@ const ArchiveMusicHellscapeRadio = () => {
                 <div class="title-wrap-rainbow2">
                     <h2>
                     <NavLink to="/archive/music">Archive / Music</NavLink> /
-                        Hellscape Radio (<StatsMusicHellscapeRadio/>)</h2>
+                        Hellscape Radio</h2>
                 </div>  
             </div>          
             <div class="gallery_containerThree">
