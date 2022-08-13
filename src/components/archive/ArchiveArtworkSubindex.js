@@ -1,4 +1,3 @@
-import StatsArtworkAll from 'components/stats/StatsArtworkAll';
 import { NavLink } from 'react-router-dom';
 
 const ArchiveArtworkSubindex = () => {
@@ -32,7 +31,7 @@ const ArchiveArtworkSubindex = () => {
             <div class="containedText">
               <div class="activeLink">
                   <NavLink to={"/archive/artwork/all"}>
-                      All Art (<StatsArtworkAll/>)
+                      All Art
                   </NavLink>
               </div>  
             </div>

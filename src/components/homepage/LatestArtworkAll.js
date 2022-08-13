@@ -1,5 +1,4 @@
 import Masonry, {ResponsiveMasonry} from "react-responsive-masonry"
-import StatsArtworkAll from 'components/stats/StatsArtworkAll';
 import { NavLink } from 'react-router-dom';
 
 const LatestArtworkAll = () => {
@@ -35,7 +34,7 @@ const LatestArtworkAll = () => {
         </div>
         <p>
             <NavLink to={"/archive/artwork/all"}>
-                All Art (<StatsArtworkAll/>)
+                All Art
             </NavLink>
         </p>
       </>
