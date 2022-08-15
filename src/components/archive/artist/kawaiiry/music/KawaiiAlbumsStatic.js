@@ -19,6 +19,7 @@ const KawaiiAlbumsStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-YWJaywTZuUy0wlhW-x3lXJA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Forbidden Love</strong><br/>
+                (prod. Semaj)
               </p>
             </a>
           </div>
@@ -49,6 +50,7 @@ const KawaiiAlbumsStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-J0ieqbBznpok9SIh-LUrTEA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Spin the Bottle</strong><br/>
+                (prod. void)
               </p>
             </a>
           </div> 

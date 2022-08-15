@@ -29,6 +29,7 @@ const KawaiiEpsStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-zdZKxCZ31L0a8AVM-375WVg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Switch It Up</strong><br/>
+                (prod. Notamachine)
               </p>
             </a>
           </div>
@@ -89,6 +90,7 @@ const KawaiiEpsStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-c4lUNRQ9kq2VZ9Lp-pwya1Q-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Glitch Realm</strong><br/>
+                (prod. Baredex)
               </p>
             </a>
           </div> 
@@ -109,6 +111,7 @@ const KawaiiEpsStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-ZUVxZpT2WUL1uUTY-T0JrMQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Closed Curtains</strong><br/>
+                (prod. Curtains)
               </p>
             </a>
           </div> 
