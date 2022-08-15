@@ -23,6 +23,8 @@ import ArchiveMusicAnjuAlbums from './pages/archive/music/anjuonline/ArchiveMusi
 import ArchiveMusicKawaii from './pages/archive/music/kawaiiry/ArchiveMusicKawaii';
 import ArchiveMusicKawaiiAlbums from './pages/archive/music/kawaiiry/ArchiveMusicKawaiiAlbums';
 import ArchiveMusicKawaiiEps from './pages/archive/music/kawaiiry/ArchiveMusicKawaiiEps';
+import ArchiveMusicKawaiiSingles from './pages/archive/music/kawaiiry/ArchiveMusicKawaiiSingles';
+import ArchiveMusicKawaiiFeatures from './pages/archive/music/kawaiiry/ArchiveMusicKawaiiFeatures';
 
 import ArchiveMusicHellscapeRadio from './pages/archive/music/ArchiveMusicHellscapeRadio';
 
@@ -52,6 +54,8 @@ function App() {
           <Route path='/archive/music/kawaiiry/all' element={<ArchiveMusicKawaii />} />
           <Route path='/archive/music/kawaiiry/albums' element={<ArchiveMusicKawaiiAlbums />} />
           <Route path='/archive/music/kawaiiry/eps' element={<ArchiveMusicKawaiiEps />} />
+          <Route path='/archive/music/kawaiiry/singles' element={<ArchiveMusicKawaiiSingles />} />
+          <Route path='/archive/music/kawaiiry/features' element={<ArchiveMusicKawaiiFeatures />} />
 
           <Route path='/archive/music/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
 
