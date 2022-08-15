@@ -16,7 +16,248 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-pj-prod-eddie-b" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/3u1JdCwdmP04gZOpOCmaNU?si=07ab2211c70940c7" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-EsnzJHwsi1a6bU7B-3hVvnQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Element</strong><br/>
+                (prod. Notamachine, realayvah, hayleeswrld)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7fo6uNuJy44cvo53Z3i7yy?si=2b114447c94b49f4" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-5OrasGYY1xOzAcLr-3szYFA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>59 Fifty</strong><br/>
+                (prod. Eddie B)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5ITyPVjLmZtaVinPLOVQuB?si=ec0fc97327a64f76" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-ZR9ZSw7H2uPKkn46-EYmZRw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>RIP Mageezy</strong><br/>
+                (prod. Wellfed)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1H6sWUuCsiykfAeKfTh2UL?si=1bf24ae396de41e4" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-5bjONhx1tMyB9MZM-BDEfyg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>One Piece</strong><br/>
+                (prod. Kretty)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5bLxC2dbY08JUmXCJUwKtN?si=2b3682df88f44308" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-5bjONhx1tMyB9MZM-BDEfyg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Fiona</strong><br/>
+                (prod. Draco Murks)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2mf55xNpDgEAiXoNy7FfmS?si=15395b619ba14357" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-5bjONhx1tMyB9MZM-BDEfyg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Pay Me Homage</strong><br/>
+                (prod. Kretty)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0msDL2heGvFRlXKrgCIX1f?si=d59cc5824a584d7f" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-5bjONhx1tMyB9MZM-BDEfyg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Karen</strong><br/>
+                (prod. Kretty)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4MuKUDOGoJRKzTvppewDXm?si=7084b29904fb47f9" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-5bjONhx1tMyB9MZM-BDEfyg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Red Rover</strong><br/>
+                (prod. YK)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1A5hZCwBN4qXFCc7kCpYix?si=ed0ca260df2a4ea3" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-GZYD1DclNPKMyjbo-zzLQdA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>I Wake Up</strong><br/>
+                (prod. Ricky Rage)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/4Vc5BPUjASZnKeeuYoXJbb?si=365515680494448a" target="_blank" rel="noopener noreferrer">    
+              <img src="https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/d5/a2/44/d5a244fd-1db8-6ea1-6300-458309d7fb4e/5059324589833.jpg/1200x1200bf-60.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>panda slugger - Plug Robbery</strong><br/>
+                (feat. Kawaii Ry)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/43APfqWaiXNXltct5t4Lkc?si=be2e5eacadb74856" target="_blank" rel="noopener noreferrer">    
+              <img src="https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/d5/a2/44/d5a244fd-1db8-6ea1-6300-458309d7fb4e/5059324589833.jpg/1200x1200bf-60.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>panda slugger - Whole World Froze</strong><br/>
+                (feat. Kawaii Ry)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/5nq9WlrCSxT5ohzhyHMts4?si=65aff10b15ba4a9e" target="_blank" rel="noopener noreferrer">    
+              <img src="https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/d5/a2/44/d5a244fd-1db8-6ea1-6300-458309d7fb4e/5059324589833.jpg/1200x1200bf-60.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>panda slugger - What We Used to Have</strong><br/>
+                (feat. Kawaii Ry)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://soundcloud.com/kawaiiry/yung6ix-on-a-daily-20-feat-kawaii-ry-onadailychallenge" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-42Isfy25gEs5S4Sb-D41jow-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Yung6ix, Kawaii Ry - On a Daily 2.0 Remix</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1Ck2oOR4iRvWHtnqEVmlAs?si=8223e181465449d1" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-3zsvvwaYr23DyBgc-bOKz1Q-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Bad 4 Me</strong><br/>
+                (prod. LukeyBeats)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6pIba5jumGSRzDkcYriVQq?si=dddd79904cb94d26" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-MS137Uw7SmtzePAK-zdq7OQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>ILYT</strong><br/>
+                (prod. Jang)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5bnojcOGDT01uDjhXs3Lud?si=e6260e7fd62c4747" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-Klfh7W2EfXi3Z7LV-61xyaQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Peace</strong><br/>
+                (prod. Jang)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6KentdX28T6AR6RzWQTaDi?si=c787e039ad324cd2" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-TNXzY0ZussIZo0q4-MWqNsg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Lagged Out</strong><br/>
+                (prod. Dabeast Beats)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3Pu4JB8hXOc8JVK3rZg01e?si=f95bf20ff6824918" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-TNXzY0ZussIZo0q4-MWqNsg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Falcon Punch (feat. Remy3D, Nyquil)</strong><br/>
+                (prod. Dabeast Beats)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3vncHGYawGWiUSvJ4Wb3Z1?si=b1ac70fa0eab49f8" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-TNXzY0ZussIZo0q4-MWqNsg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Chaos Emerald (feat. Nyquil)</strong><br/>
+                (prod. Dabeast Beats)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5eJjCqAIrazhBZBgV0DM65?si=d3d1ffdd5f844ea1" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-TNXzY0ZussIZo0q4-MWqNsg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Rare Form</strong><br/>
+                (prod. griesgrammar)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2Enla1jkgqw4BzcGej7vRK?si=0b54f52e83dc439c" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-TNXzY0ZussIZo0q4-MWqNsg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Mission Impossible</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4rJ6jGykNtPScdpnHeg5ya?si=7d932c631fe94b94" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-TNXzY0ZussIZo0q4-MWqNsg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Since You Left (feat. Nyquil)</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7yqBXF8pzFY8zkJqI9QM7b?si=97b986f49c444f6b" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-lCzzd3LD8y3xT9Yz-fAk45Q-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>PJ</strong><br/>
@@ -27,10 +268,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-im-not-punk-prod-jang" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/1aXuN6pb7sIwt611TudKCe?si=78c86e7d83ff466e" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-HooCZoXylBb33wNv-PB4mjA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>im not punk.</strong><br/>
+                <strong>I'm Not Punk.</strong><br/>
                 (prod. Jang)
               </p>
             </a>
@@ -38,10 +279,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-dying-prod-abelskittles?in=kawaiiry/sets/rip-hyperpop" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/6Jp3mV1z1DSrWfjbZK2LJP?si=7d60525c86d84012" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-Szt88q4Fuc2vXg6r-FBABWQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>feels like im dying</strong><br/>
+                <strong>Feels Like Im Dying</strong><br/>
                 (prod. abelskittles)
               </p>
             </a>
@@ -49,10 +290,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-online-friends-prod-abelskittles?in=kawaiiry/sets/rip-hyperpop" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/7i1XzmOWFVHP79olcW3YGi?si=e15960d0adb4416a" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-Szt88q4Fuc2vXg6r-FBABWQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>online friends</strong><br/>
+                <strong>Online Friends</strong><br/>
                 (prod. abelskittles)
               </p>
             </a>
@@ -60,10 +301,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-hell-hounds-prod-notamachine" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/572A6YPDFX2f1sQ01PXMYu?si=b357ce3185714a22" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-y6kYvvJF00JPoUKT-GEzVRg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>hell hounds</strong><br/>
+                <strong>Hell Hounds</strong><br/>
                 (prod. Notamachine + Gotti)
               </p>
             </a>
@@ -71,10 +312,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-hey-alexa-feat-nyquil" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/6KGvwWqgnRz7MxIEhDSKFe?si=50ed8cb9b0284ed3" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-DUdXEyucgfsIXESx-5lM0Mw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>hey alexa (feat. Nyquil)</strong><br/>
+                <strong>Hey Alexa (feat. Nyquil)</strong><br/>
               </p>
             </a>
           </div>
@@ -84,17 +325,17 @@ const KawaiiAllReleasesStatic = () => {
             <a href="https://soundcloud.com/kawaiiry/kawaiiry-wasteland" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-pXlzlEN7RjbzC1sU-Fylatw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>wasteland</strong><br/>
+                <strong>Wasteland</strong><br/>
               </p>
             </a>
           </div>
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-phone-off-feat-killtheheretikprod-meauxminy" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4OYLWFaPBDoIdzTXvuqrkp?si=05c7e59a858140ee" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-n3NnSUaiJijbIAPk-0xDgzg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>phone off (feat. Killtheheretik)</strong><br/>
+                <strong>Phone Off (feat. Killtheheretik)</strong><br/>
                 (prod. Meauxminy)
               </p>
             </a>
@@ -102,10 +343,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-i-have-2-moods-prod-baredex?in=kawaiiry/sets/glitch-realm-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4YfItgXOfFih4CqoDwHChC?si=1e6e83f7fb5b4a0e" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-c4lUNRQ9kq2VZ9Lp-pwya1Q-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>i have 2 moods</strong><br/>
+                <strong>I Have 2 Moods</strong><br/>
                 (prod. Baredex)
               </p>
             </a>
@@ -113,10 +354,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-guess-its-like-that-prod-baredex?in=kawaiiry/sets/glitch-realm-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4t1Pb8lrHLngy728FFHvQr?si=89f87041aab54726" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-c4lUNRQ9kq2VZ9Lp-pwya1Q-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>guess it's like that</strong><br/>
+                <strong>Guess It's Like That</strong><br/>
                 (prod. Baredex)
               </p>
             </a>
@@ -124,10 +365,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-7-deadly-flows-prod-baredex?in=kawaiiry/sets/glitch-realm-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/2NUKAX6AjQX7AC1b22ndVi?si=2d619403021c4fb7" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-c4lUNRQ9kq2VZ9Lp-pwya1Q-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>7 deadly flows</strong><br/>
+                <strong>7 Deadly Flows Freestyle</strong><br/>
                 (prod. Baredex)
               </p>
             </a>
@@ -135,10 +376,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-lildujour-straight-100-prod-mdst?in=kawaiiry/sets/off-rip-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/7LklZ2szUrT6DlRFeTOSim?si=b09aafc1a6884d34" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-SRXfoa59wlkrXuLc-dAt4gA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Kawaii Ry & Lil Dujour - straight 100</strong><br/>
+                <strong>Kawaii Ry, Lil Dujour - Straight 100</strong><br/>
                 (prod. MDST)
               </p>
             </a>
@@ -146,10 +387,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-lildujour-state-2-state-prod-charlie-shuffler?in=kawaiiry/sets/off-rip-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/5lU2ywtwxc83uIAB90BUKz?si=233ced73afeb47c8" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-SRXfoa59wlkrXuLc-dAt4gA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Kawaii Ry & Lil Dujour - state 2 state</strong><br/>
+                <strong>Kawaii Ry, Lil Dujour - State 2 State</strong><br/>
                 (prod. Charlie Shuffler)
               </p>
             </a>
@@ -157,10 +398,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-lildujour-roundabout-prod-rossgossage?in=kawaiiry/sets/off-rip-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4LorRg9eTGXtOps9R10Av6?si=2cdee346287041c7" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-SRXfoa59wlkrXuLc-dAt4gA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Kawaii Ry & Lil Dujour - roundabout</strong><br/>
+                <strong>Kawaii Ry, Lil Dujour - Roundabout</strong><br/>
                 (prod. rossgossage)
               </p>
             </a>
@@ -168,20 +409,20 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-summer-lovefalling-apart" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/7c3M9WV1fu8EWZvQElZ7nt?si=3b17d7aeecc74885" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-1XdkqyuiQq31lSzw-1cP5xQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>summer love (falling apart)</strong><br/>
+                <strong>Summer Love (Falling Apart)</strong><br/>
               </p>
             </a>
           </div>
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-fade-2-black-prod-dan" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4BE0de8CDBPAIQVwserOqa?si=084e9929958442b6" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-JTFoDyKFC82Efh1H-Oh6Aig-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>fade 2 black</strong><br/>
+                <strong>Fade 2 Black</strong><br/>
                 (prod. Dan)
               </p>
             </a>
@@ -189,10 +430,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-lethal-injection-prod-vin-ace" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/0RNfZtR732Bpwk3LsUING6?si=28f1912f1e0449b3" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-JobXAW6ySm88HPEl-yVqtkg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>lethal injection</strong><br/>
+                <strong>Lethal Injection</strong><br/>
                 (prod. Vin Ace)
               </p>
             </a>
@@ -200,10 +441,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-miss-this-prod-vin-ace" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4ZDzGIZIrftuqB6TSFKK9O?si=d340dffce6a84e45" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-Kg2LMlXQg8JwCMxe-xp42Qw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>miss this</strong><br/>
+                <strong>Miss This</strong><br/>
                 (prod. Vin Ace)
               </p>
             </a>
@@ -211,20 +452,20 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-unforgiven" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/6kDSdMjFjtfInLd0ih3Ijc?si=37a3272389fa4ce1" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-DyIzktaoz1LKVb2r-y9pwMg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>unforgiven</strong><br/>
+                <strong>Unforgiven</strong><br/>
               </p>
             </a>
           </div>
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-roses-and-tulips-prod-caps-ctrl?in=kawaiiry/sets/still-dreaming-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/78t6EhAVHTwdNs8brPTbuy?si=b3761a7bc5834707" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-JeLnYTfsB5fpiULe-BlyBAQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>roses and tulips</strong><br/>
+                <strong>Roses and Tulips</strong><br/>
                 (prod. caps ctrl)
               </p>
             </a>
@@ -232,10 +473,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-ball-today-prod-dan?in=kawaiiry/sets/still-dreaming-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/5iVxs6h1pwFKKvUZtQGfh8?si=8a6ae6ad554a4966" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-JeLnYTfsB5fpiULe-BlyBAQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>ball today</strong><br/>
+                <strong>Ball Today</strong><br/>
                 (prod. Dan)
               </p>
             </a>
@@ -243,10 +484,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-no-pics-feat-love-goustprod-rezza?in=kawaiiry/sets/still-dreaming-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4pe5r1w7yjnxQUVw0msCAp?si=a7c6aa6479384fdd" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-JeLnYTfsB5fpiULe-BlyBAQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>no pics (feat. Love Goust)</strong><br/>
+                <strong>No Pics (feat. LOVe.GOUST)</strong><br/>
                 (prod. Rezza)
               </p>
             </a>
@@ -254,20 +495,20 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-wish-u-well?in=kawaiiry/sets/still-dreaming-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4i4ocwYh7iJIfldw5Mga5u?si=6d5d05c9bf714bb0" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-JeLnYTfsB5fpiULe-BlyBAQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>wish u well</strong><br/>
+                <strong>Wish U Well</strong><br/>
               </p>
             </a>
           </div>
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-spine-feat-ogstunesprod-rezza?in=kawaiiry/sets/kill-the-old-me-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/1AoyhRi9gpjkGGh14fL3sS?si=81c49916e9824251" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-G4PLdfHrtZ5eO43Y-mJI0KQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>spine (feat. OGS)</strong><br/>
+                <strong>Spine (feat. OGS)</strong><br/>
                 (prod. Rezza)
               </p>
             </a>
@@ -275,10 +516,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-where-yo?in=kawaiiry/sets/kill-the-old-me-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/7hYOiBrRAC4hNkRY28CwhM?si=658ac544036548a7" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-G4PLdfHrtZ5eO43Y-mJI0KQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>where ya been?</strong><br/>
+                <strong>Where Ya Been?</strong><br/>
                 (prod. Dan)
               </p>
             </a>
@@ -286,10 +527,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-new-coupe-prod-dan?in=kawaiiry/sets/kill-the-old-me-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/7M1LtR3ytemJkPuqKA3xZU?si=bbcf06b185274d69" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-G4PLdfHrtZ5eO43Y-mJI0KQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>im wrong</strong><br/>
+                <strong>I'm Wrong</strong><br/>
                 (prod. Dan)
               </p>
             </a>
@@ -297,10 +538,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-counterfeits-prod-dan?in=kawaiiry/sets/kill-the-old-me-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/6jolT8COPSIeWA8SGashOF?si=b2e34a302a7c41cd" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-G4PLdfHrtZ5eO43Y-mJI0KQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>counterfeits</strong><br/>
+                <strong>Counterfeits</strong><br/>
                 (prod. Wellfed)
               </p>
             </a>
@@ -308,20 +549,20 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-not-broken" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/0VGL1Yp1aUy8zyMwtTBpIQ?si=ec76e5d3e7d34255" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-vnIuTJmw8DJoGJ0f-OgLybQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>not broken</strong><br/>
+                <strong>Not Broken</strong><br/>
               </p>
             </a>
           </div>
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-vampire-shawty-prod-eddie-b" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/16rojT45LRU5TLLOVHlFnR?si=f4262f18bdf2435e" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-W0ru9mnXyB4siyJz-yGjW4Q-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>vampire shawty</strong><br/>
+                <strong>Vampire Shawty</strong><br/>
                 (prod. Eddie B)
               </p>
             </a>
@@ -329,10 +570,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-tell-me-prod-curtains?in=kawaiiry/sets/closed-curtains-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/0bpoKggUg9MG9fCbVfF3Jx?si=1e5f2caf12b44ddf" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-ZUVxZpT2WUL1uUTY-T0JrMQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>tell me</strong><br/>
+                <strong>Tell Me</strong><br/>
                 (prod. Curtains)
               </p>
             </a>
@@ -340,7 +581,7 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-dlmfc-prod-curtains?in=kawaiiry/sets/closed-curtains-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/6cqAGXnNvNApIRZpFA6WtW?si=77458419b9d440f1" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-ZUVxZpT2WUL1uUTY-T0JrMQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>D.L.M.F.C</strong><br/>
@@ -351,10 +592,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/why?in=kawaiiry/sets/closed-curtains-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/5H8k7TvDiAXFQxt07OBee8?si=a64a19b2de854e46" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-ZUVxZpT2WUL1uUTY-T0JrMQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>why</strong><br/>
+                <strong>Why</strong><br/>
                 (prod. Curtains)
               </p>
             </a>
@@ -362,10 +603,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-too-deep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/43IUGodArkkofdcUIO1YkN?si=0baacfacc0ab4a26" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-4O7F1xmti53F7pFf-14wdCg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>too deep</strong><br/>
+                <strong>Too Deep</strong><br/>
                 (prod. Valious + Ross Gossage)
               </p>
             </a>
@@ -373,10 +614,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-sharks-prod-valious-ross-gossage" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/3URu8rJF81NqvZVn71DOc5?si=efd56335c94a4254" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-4O7F1xmti53F7pFf-14wdCg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>sharks</strong><br/>
+                <strong>Sharks</strong><br/>
                 (prod. MDST)
               </p>
             </a>
@@ -384,10 +625,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-voices-feat-remy3dprod-mdst" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/0L2XDwH0qblogeYb5samn4?si=e8aa8ada06654af2" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-CseIW0uhch23VMdR-gYOhLg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>voices (feat. Remy3D)</strong><br/>
+                <strong>Voices (feat. Remy3D)</strong><br/>
                 (prod. MDST)
               </p>
             </a>
@@ -395,10 +636,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaii-ry-break-my-heart-again?in=kawaiiry/sets/freakshow-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/22bI3T2wcrpSaeaY7QyUAV?si=bfac7b297f6748e0" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-F9hNib4IAF0IwrfA-LTreyA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>break my heart again</strong><br/>
+                <strong>Break My Heart Again</strong><br/>
                 (prod. Wellfed)
               </p>
             </a>
@@ -406,10 +647,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaii-ry-no-more-prod-wellfed" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/3DBrQfARUigQ7QsykVToQj?si=6962a7e515124715" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-F9hNib4IAF0IwrfA-LTreyA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>no more</strong><br/>
+                <strong>No More</strong><br/>
                 (prod. Wellfed)
               </p>
             </a>
@@ -417,10 +658,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaii-ry-close-call-prod" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/1MdhNmWZ09JDFHFLqnfw4f?si=fa2c1649b31c43b4" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-F9hNib4IAF0IwrfA-LTreyA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>close call</strong><br/>
+                <strong>Close Call</strong><br/>
                 (prod. Wellfed)
               </p>
             </a>
@@ -428,10 +669,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaii-ry-gucci-rehab-feat" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/17HKijvyHrbVdeDpXymXjb?si=2ab4b10452ce47a2" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-F9hNib4IAF0IwrfA-LTreyA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>gucci rehab (feat. OGS</strong><br/>
+                <strong>Gucci Rehab (feat. OGS)</strong><br/>
                 (prod. Wellfed)
               </p>
             </a>
@@ -439,10 +680,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/ssm" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/5jnoj36nxCLcCYDoXFRj72?si=e0bbde1fcda142b3" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-0YhVJ3zwY6s7006L-1iKILA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>somebody save me (h-town)</strong><br/>
+                <strong>Somebody Save Me (H-Town)</strong><br/>
                 (prod. lupinekwakeup)
               </p>
             </a>
@@ -450,10 +691,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-girls-like-you-prod-eddie-b" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/1iuALSErZE0Nm6HasuWWO6?si=944d2d3abfb04d1c" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-ufuleIqvYMW1wQdn-MEjOZw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>girls like you</strong><br/>
+                <strong>Girls Like You</strong><br/>
                 (prod. Eddie B)
               </p>
             </a>
@@ -461,30 +702,30 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-lost-her-feat-remy3d" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4hs0rbKF12TXTgP2cBrUXE?si=6d8428dd434f42cd" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-97rj9GPmqRUF0kdA-0VzT6g-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>lost her (feat. Remy3D)</strong><br/>
+                <strong>Lost Her (feat. Remy3D)</strong><br/>
               </p>
             </a>
           </div>
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/its-over-kawaii-ry-ft-dan-4-2-20-854-am-1" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/3ZuOO9iz3KO0Z221sDmK7B?si=75d920a54cc04c66" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-UgW08tsV2bIW3Cy1-csymoQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Kawaii Ry & Dan - it's over</strong><br/>
+                <strong>Kawaii Ry, Dan - It's Over</strong><br/>
               </p>
             </a>
           </div>
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-crash-it-prod-lil-weest" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4K258rLmG3NUQoXWY85vxP?si=a62c2396206549f3" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-wmm8TwQ4LLwrcVaJ-j9Xgzw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>crash it</strong><br/>
+                <strong>Crash It</strong><br/>
                 (prod. lil weest)
               </p>
             </a>
@@ -492,10 +733,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-got-that-aim-prod-eddie-b" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/34DF7db7fKqQupYDI7v7gH?si=21aee9df3d1f408d" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-JrAczQ7F5y3pvdF1-owQaWQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>got that aim</strong><br/>
+                <strong>Got That Aim</strong><br/>
                 (prod. Eddie B)
               </p>
             </a>
@@ -503,30 +744,30 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/imy" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4XQspe9zl8uozVTFpyzFgi?si=17991e910613454e" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-gRB2JiebvSSlWniY-owwORA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>i miss u</strong><br/>
+                <strong>I Miss U</strong><br/>
               </p>
             </a>
           </div>
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/myway" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/7I8ilASjQNlLUtLrb46Md8?si=1bf611228daa4240" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-7Oy5wuUeH33K7k8H-HzA6eQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Kawaii Ry & Dan - my way</strong><br/>
+                <strong>Kawaii Ry, Dan - my way</strong><br/>
               </p>
             </a>
           </div>
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/byanymeans" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/2TFbb07WupnPtyDaPZaXpD?si=911b965029be404e" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-SAqh0h5qdxgxhD0o-l9xtVA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>by any means (feat. slim.b)</strong><br/>
+                <strong>By Any Means (feat. Slim.B)</strong><br/>
                 (prod. Wellfed)
               </p>
             </a>
@@ -534,10 +775,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-killing-innocent-prod-ty-andrew" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/08q1tjxF7RKHeUUhNAmH8A?si=426780fbb70547e9" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-iefZDvaQQ3gxzzTp-ujrfpw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>killing innocent</strong><br/>
+                <strong>Killing Innocent</strong><br/>
                 (prod. TY Andrew)
               </p>
             </a>
@@ -545,10 +786,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-red-corvette-prod-getzh" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/3xYCxCI1OcNQZ0GpdC3tlN?si=1d476be7f9c24574" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-6RtdBlMA5SVPQ3Tz-3eV1yw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>red corvette</strong><br/>
+                <strong>Red Corvette</strong><br/>
                 (prod. getzh)
               </p>
             </a>
@@ -556,10 +797,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/demons" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4MimA3kFQiAqAR9Hwlp6Fb?si=3dc7aa70f38944d6" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-YhIXTAVp7F7zFKOH-Per6Ug-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>demons</strong><br/>
+                <strong>Demons</strong><br/>
                 (prod. taurs)
               </p>
             </a>
@@ -567,10 +808,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-puerto-rico-ft-ogs-prod-kylejunior" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/1h5TVcPgq2Lnd7v9BAUtEK?si=4378e7c8eeab43f9" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-ayyfwx1fejBuZ2aY-G6yIMg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>puerto rico (feat. OGS)</strong><br/>
+                <strong>Puerto Rico (feat. OGS)</strong><br/>
                 (prod. kylejunior)
               </p>
             </a>
@@ -578,10 +819,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-im-on-prod-charlie-shuffler" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/0AsFKjON1lWcLfWSO8E6Wl?si=44655f4c1cd642e0" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-rzCVFgmHPA9yWTAT-jBcDNA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>im on</strong><br/>
+                <strong>I'm On</strong><br/>
                 (prod. Charlie Shuffler)
               </p>
             </a>
@@ -589,10 +830,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/tear-drops-ft-remy-prod-youngfyebeatz" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/1N5P23Sk9thMA4CekfpyZo?si=634f183669d94262" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-hI5gzMPuB1sIYlEr-F9ff4A-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>tear drops (feat. Remy3D)</strong><br/>
+                <strong>Tear Drops (feat. Remy3D)</strong><br/>
                 (prod. youngfyebeatz)
               </p>
             </a>
@@ -600,10 +841,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-last-dance-prod-foreignboi" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/61YHULUgsl3gK2xpCg2UF6?si=dc133627e54a4135" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-epviRLwovij20K3c-pLHSIg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>last dance</strong><br/>
+                <strong>Last Dance</strong><br/>
                 (prod. foreignboi)
               </p>
             </a>
@@ -611,10 +852,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/kawaiiry-overdid-it-prod-aeekay" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/5nhGGJR3u2jNmtNn7zryyt?si=75780c10dbde44de" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-GpGycBdzeB1sOri5-XBXTpA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>overdid it</strong><br/>
+                <strong>Overdid It</strong><br/>
                 (prod. aeekay)
               </p>
             </a>
@@ -622,10 +863,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/pastnow" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4SVWDcD3QVR2lazoV3ilAx?si=f864bdcc2e2b4ea4" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-000676273576-x0qy5d-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>past now</strong><br/>
+                <strong>Past Now</strong><br/>
                 (prod. Dan)
               </p>
             </a>
@@ -633,10 +874,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/zoom" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/6ZNDFPjvmSaV4yavSaTVvw?si=183b153d47ab42ac" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-000672443362-snlp08-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>zoom</strong><br/>
+                <strong>Zoom</strong><br/>
                 (prod. Dan)
               </p>
             </a>
@@ -647,7 +888,7 @@ const KawaiiAllReleasesStatic = () => {
             <a href="https://soundcloud.com/kawaiiry/kawaiiry-x-dan-worst-day" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-000660018088-gnmxpv-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Kawaii Ry & Dan - worst day</strong><br/>
+                <strong>Kawaii Ry, Dan - Worst Day</strong><br/>
                 (prod. Dan)
               </p>
             </a>
@@ -655,10 +896,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/shining" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/6dgklY71clFB71v1T5sHJ9?si=d8f495b95cb04815" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-000647934679-ue0ary-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>shining</strong><br/>
+                <strong>Shining</strong><br/>
                 (feat. Rustee)
               </p>
             </a>
@@ -666,10 +907,10 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/myspace" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/40QM7PQdHjqWyXVXhxZWCM?si=8ecf48670de440a3" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-000627871354-x31p7a-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>my space</strong><br/>
+                <strong>My Space</strong><br/>
                 (prod. Yunny Goldz & Rustee)
               </p>
             </a>
