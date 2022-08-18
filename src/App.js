@@ -26,6 +26,11 @@ import ArchiveMusicKawaiiEps from './pages/archive/music/kawaiiry/ArchiveMusicKa
 import ArchiveMusicKawaiiSingles from './pages/archive/music/kawaiiry/ArchiveMusicKawaiiSingles';
 import ArchiveMusicKawaiiFeatures from './pages/archive/music/kawaiiry/ArchiveMusicKawaiiFeatures';
 
+import ArchiveMusicLugosi from './pages/archive/music/lugosi/ArchiveMusicLugosi';
+import ArchiveMusicLugosiEps from './pages/archive/music/lugosi/ArchiveMusicLugosiEps';
+import ArchiveMusicLugosiSingles from './pages/archive/music/lugosi/ArchiveMusicLugosiSingles';
+import ArchiveMusicLugosiFeatures from './pages/archive/music/lugosi/ArchiveMusicLugosiFeatures';
+
 import ArchiveMusicHellscapeRadio from './pages/archive/music/ArchiveMusicHellscapeRadio';
 
 import ArchiveArtwork from './pages/archive/artwork/ArchiveArtwork';
@@ -56,6 +61,11 @@ function App() {
           <Route path='/archive/music/kawaiiry/eps' element={<ArchiveMusicKawaiiEps />} />
           <Route path='/archive/music/kawaiiry/singles' element={<ArchiveMusicKawaiiSingles />} />
           <Route path='/archive/music/kawaiiry/features' element={<ArchiveMusicKawaiiFeatures />} />
+
+          <Route path='/archive/music/lugosi/all' element={<ArchiveMusicLugosi />} />
+          <Route path='/archive/music/lugosi/eps' element={<ArchiveMusicLugosiEps />} />
+          <Route path='/archive/music/lugosi/singles' element={<ArchiveMusicLugosiSingles />} />
+          <Route path='/archive/music/lugosi/features' element={<ArchiveMusicLugosiFeatures />} />
 
           <Route path='/archive/music/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
 

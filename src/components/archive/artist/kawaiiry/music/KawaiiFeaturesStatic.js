@@ -79,6 +79,28 @@ const KawaiiFeaturesStatic = () => {
             </a>
           </div>
 
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/7DqKnfsHGSqEOTF4pK36eN?si=64314b833d4c4de8" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b2739572d52c3c656068dce4366c" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Lugosi - THANOS (feat. Kawaii Ry)</strong><br/>
+                (prod. Sorrow Bringer)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/3PLO9EIeEjTX6F2iI2F6EH?si=5247c064d3f540b6" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273647ee7b32c9d2e7f160ff352" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Lugosi - Wanting More</strong><br/>
+                (feat. Kawaii Ry)
+              </p>
+            </a>
+          </div> 
+
         </div>
       </>
     );
