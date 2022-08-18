@@ -1,30 +1,29 @@
 import { NavLink } from 'react-router-dom';
 
-const KawaiiMusicSubindex = () => {
+const LugosiMusicSubindex = () => {
     return (
       <>           
             <div class="sticky">
             <div class="title-wrap-rainbow2">
-            <h2>Archive / Music / Kawaii Ry</h2>
+            <h2>Archive / Music / Lugosi</h2>
             </div>
             <div class="title-wrap-rainbow">
                 <div class="subindexContainer">
                     <div class="containedText">
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/archive/music/kawaiiry/albums"}>Albums</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                                <NavLink to={"/archive/music/kawaiiry/eps"}>EPs & Mixtapes</NavLink>
+                                <NavLink to={"/archive/music/lugosi/eps"}>EPs</NavLink>
                             </div>
                         </h5>   
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/archive/music/kawaiiry/singles"}>Singles</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                                <NavLink to={"/archive/music/kawaiiry/features"}>Features</NavLink>
+                                <NavLink to={"/archive/music/lugosi/singles"}>Singles</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                                <NavLink to={"/archive/music/lugosi/features"}>Features</NavLink>
                             </div>
                         </h5> 
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/archive/music/kawaiiry/all"}>All Releases (248)</NavLink>
+                                <NavLink to={"/archive/music/lugosi/all"}>All Releases (30)</NavLink>
                             </div>
                         </h5>              
                     </div>
@@ -34,4 +33,4 @@ const KawaiiMusicSubindex = () => {
       </>
     );
   };
-  export default KawaiiMusicSubindex;
+  export default LugosiMusicSubindex;

@@ -5,6 +5,17 @@ const KawaiiAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/creed-prod-notamachine-x-kal" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-ySGDb77ncikjS3Kg-G0K2wQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Creed</strong><br/>
+                (prod. Notamachine, Kalpierce)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/kawaiiry/cc-crazy-prod-semaj" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-WT8UfTTW3ce7WZPk-MF1bmw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -1938,6 +1949,17 @@ const KawaiiAllReleasesStatic = () => {
           </div>
 
           <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/7DqKnfsHGSqEOTF4pK36eN?si=64314b833d4c4de8" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b2739572d52c3c656068dce4366c" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Lugosi - THANOS (feat. Kawaii Ry)</strong><br/>
+                (prod. Sorrow Bringer)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/1Ck2oOR4iRvWHtnqEVmlAs?si=8223e181465449d1" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-3zsvvwaYr23DyBgc-bOKz1Q-t500x500.jpg" width="100%" alt=""/><br/>
@@ -2403,6 +2425,17 @@ const KawaiiAllReleasesStatic = () => {
               </p>
             </a>
           </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/3PLO9EIeEjTX6F2iI2F6EH?si=5247c064d3f540b6" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273647ee7b32c9d2e7f160ff352" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Lugosi - Wanting More</strong><br/>
+                (feat. Kawaii Ry)
+              </p>
+            </a>
+          </div> 
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>

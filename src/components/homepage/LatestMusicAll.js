@@ -4,6 +4,18 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
                 <div class="gallery_item">
                     <p class="gallery-tag">Single</p>
+                    <a href="https://soundcloud.com/kawaiiry/creed-prod-notamachine-x-kal" target="_blank" rel="noopener noreferrer">    
+                    <img src="https://i1.sndcdn.com/artworks-ySGDb77ncikjS3Kg-G0K2wQ-t500x500.jpg" width="100%" alt=""/><br/>
+                    <p class="gallery-text">
+                        <strong>Kawaii Ry</strong><br/>
+                        Creed<br/>
+                        (prod. Notamachine, Kalpierce)
+                    </p>
+                    </a>
+                </div>
+                
+                <div class="gallery_item">
+                    <p class="gallery-tag">Single</p>
                     <a href="https://soundcloud.com/kawaiiry/gremlin-prod-notamachine-gotti" target="_blank" rel="noopener noreferrer">    
                         <img src="https://i1.sndcdn.com/artworks-U6SOdW1tFlB0pcSw-Ly4zwA-t500x500.jpg" width="100%" alt=""/><br/>
                         <p class="gallery-text">
