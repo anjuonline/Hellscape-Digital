@@ -31,6 +31,13 @@ import ArchiveMusicLugosiEps from './pages/archive/music/lugosi/ArchiveMusicLugo
 import ArchiveMusicLugosiSingles from './pages/archive/music/lugosi/ArchiveMusicLugosiSingles';
 import ArchiveMusicLugosiFeatures from './pages/archive/music/lugosi/ArchiveMusicLugosiFeatures';
 
+import ArchiveMusicMeauxminy from './pages/archive/music/meauxminy/ArchiveMusicMeauxminy';
+import ArchiveMusicMeauxminyAlbums from './pages/archive/music/meauxminy/ArchiveMusicMeauxminyAlbums';
+import ArchiveMusicMeauxminyEps from './pages/archive/music/meauxminy/ArchiveMusicMeauxminyEps';
+import ArchiveMusicMeauxminySingles from './pages/archive/music/meauxminy/ArchiveMusicMeauxminySingles';
+import ArchiveMusicMeauxminyCollabs from './pages/archive/music/meauxminy/ArchiveMusicMeauxminyCollabs';
+import ArchiveMusicMeauxminyRemixes from './pages/archive/music/meauxminy/ArchiveMusicMeauxminyRemixes';
+
 import ArchiveMusicHellscapeRadio from './pages/archive/music/ArchiveMusicHellscapeRadio';
 
 import ArchiveArtwork from './pages/archive/artwork/ArchiveArtwork';
@@ -49,23 +56,30 @@ function App() {
           <Route path='/archive/music' element={<ArchiveMusic />} />
           <Route path='/archive/music/all' element={<ArchiveMusicAll />} />          
 
-          <Route path='/archive/music/anjuonline/all' element={<ArchiveMusicAnju />} />
-          <Route path='/archive/music/anjuonline/singles' element={<ArchiveMusicAnjuSingles />} />
-          <Route path='/archive/music/anjuonline/remixes' element={<ArchiveMusicAnjuRemixes />} />
-          <Route path='/archive/music/anjuonline/placements' element={<ArchiveMusicAnjuPlacements />} />
-          <Route path='/archive/music/anjuonline/djsets' element={<ArchiveMusicAnjuDjSets />} />
-          <Route path='/archive/music/anjuonline/albums' element={<ArchiveMusicAnjuAlbums />} />
+          <Route path='/anjuonline/music/all' element={<ArchiveMusicAnju />} />
+          <Route path='/anjuonline/music/singles' element={<ArchiveMusicAnjuSingles />} />
+          <Route path='/anjuonline/music/remixes' element={<ArchiveMusicAnjuRemixes />} />
+          <Route path='/anjuonline/music/placements' element={<ArchiveMusicAnjuPlacements />} />
+          <Route path='/anjuonline/music/djsets' element={<ArchiveMusicAnjuDjSets />} />
+          <Route path='/anjuonline/music/albums' element={<ArchiveMusicAnjuAlbums />} />
 
-          <Route path='/archive/music/kawaiiry/all' element={<ArchiveMusicKawaii />} />
-          <Route path='/archive/music/kawaiiry/albums' element={<ArchiveMusicKawaiiAlbums />} />
-          <Route path='/archive/music/kawaiiry/eps' element={<ArchiveMusicKawaiiEps />} />
-          <Route path='/archive/music/kawaiiry/singles' element={<ArchiveMusicKawaiiSingles />} />
-          <Route path='/archive/music/kawaiiry/features' element={<ArchiveMusicKawaiiFeatures />} />
+          <Route path='/kawaiiry/all' element={<ArchiveMusicKawaii />} />
+          <Route path='/kawaiiry/albums' element={<ArchiveMusicKawaiiAlbums />} />
+          <Route path='/kawaiiry/eps' element={<ArchiveMusicKawaiiEps />} />
+          <Route path='/kawaiiry/singles' element={<ArchiveMusicKawaiiSingles />} />
+          <Route path='/kawaiiry/features' element={<ArchiveMusicKawaiiFeatures />} />
 
           <Route path='/archive/music/lugosi/all' element={<ArchiveMusicLugosi />} />
           <Route path='/archive/music/lugosi/eps' element={<ArchiveMusicLugosiEps />} />
           <Route path='/archive/music/lugosi/singles' element={<ArchiveMusicLugosiSingles />} />
           <Route path='/archive/music/lugosi/features' element={<ArchiveMusicLugosiFeatures />} />
+
+          <Route path='/meauxminy/all' element={<ArchiveMusicMeauxminy />} />
+          <Route path='/meauxminy/albums' element={<ArchiveMusicMeauxminyAlbums />} />
+          <Route path='/meauxminy/eps' element={<ArchiveMusicMeauxminyEps />} />
+          <Route path='/meauxminy/singles' element={<ArchiveMusicMeauxminySingles />} />
+          <Route path='/meauxminy/collabs' element={<ArchiveMusicMeauxminyCollabs />} />
+          <Route path='/meauxminy/remixes' element={<ArchiveMusicMeauxminyRemixes />} />
 
           <Route path='/archive/music/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
 

@@ -3,6 +3,116 @@ const KawaiiSinglesStatic = () => {
       <>
         <div class="gallery_containerThree-static">  
 
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/queued-up-prod-notamachine" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-maT9lRt2BBtnMwg3-jZ4VKQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Queue'd Up</strong><br/>
+                (prod. Notamachine, Depart Beats)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/5t4r5h1p5-prod-notamachine" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-maT9lRt2BBtnMwg3-jZ4VKQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Starships</strong><br/>
+                (prod. Notamachine, Itsjohnnyvio)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/love-in-the-air-prod-notamachine" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-maT9lRt2BBtnMwg3-jZ4VKQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Love in the Air</strong><br/>
+                (prod. Notamachine, Adam Eazy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/eyes-locked-no-words-prod-notamachine" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-maT9lRt2BBtnMwg3-jZ4VKQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>We'll Run Past the Trees</strong><br/>
+                (prod. Notamachine, Joe Leytrick)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/eyes-locked-no-words-prod-notamachine" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-maT9lRt2BBtnMwg3-jZ4VKQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Eyes Locked, No Words</strong><br/>
+                (prod. Notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/doubted-on-me-prod-notamachine-joeleytrick" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-hhN7CKiYzgb6y8rN-z2Nwag-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Doubted On Me</strong><br/>
+                (prod. Notamachine, Joe Leytrick)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/ladder" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-jGHURlKWau5V54WY-vbxzOA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Ladder</strong><br/>
+                (prod. Notamachine, Joe Leytrick)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/more-prod-notamachine-1" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-peLtxGRRN3BvaKbZ-cqJr6w-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>More</strong><br/>
+                (prod. Notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/paper-cut-prod-notamachine-kvse" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-L7bPe60si0Uq3APA-dq22gw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Paper Cut</strong><br/>
+                (prod. Notamachine, Kvse)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/who-got-the-loud-pack-prod-notamachine-bleachh" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-I59BrE7dJeupJIL2-7yzyeA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Who Got That Loud Pack?</strong><br/>
+                (prod. Notamachine, Bleachh)
+              </p>
+            </a>
+          </div>
+
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/kawaiiry/creed-prod-notamachine-x-kal" target="_blank" rel="noopener noreferrer">    
