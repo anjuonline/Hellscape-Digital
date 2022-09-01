@@ -5,7 +5,7 @@ const LugosiMusicSubindex = () => {
       <>           
             <div class="sticky">
             <div class="title-wrap-rainbow2">
-            <h2>Archive / Music / Lugosi</h2>
+            <h2>Lugosi / Music</h2>
             </div>
             <div class="title-wrap-rainbow">
                 <div class="subindexContainer">
