@@ -37,6 +37,13 @@ import ArchiveMusicMeauxminyEps from './pages/archive/music/meauxminy/ArchiveMus
 import ArchiveMusicMeauxminySingles from './pages/archive/music/meauxminy/ArchiveMusicMeauxminySingles';
 import ArchiveMusicMeauxminyCollabs from './pages/archive/music/meauxminy/ArchiveMusicMeauxminyCollabs';
 import ArchiveMusicMeauxminyRemixes from './pages/archive/music/meauxminy/ArchiveMusicMeauxminyRemixes';
+import ArchiveMusicMeauxminyPlacements from './pages/archive/music/meauxminy/ArchiveMusicMeauxminyPlacements';
+import ArchiveMusicMeauxminyDjSets from './pages/archive/music/meauxminy/ArchiveMusicMeauxminyDjSets';
+
+import ArchiveMusicJosen from './pages/archive/music/josen/ArchiveMusicJosen';
+import ArchiveMusicJosenAlbums from './pages/archive/music/josen/ArchiveMusicJosenAlbums';
+import ArchiveMusicJosenSingles from './pages/archive/music/josen/ArchiveMusicJosenSingles';
+import ArchiveMusicJosenFeatures from './pages/archive/music/josen/ArchiveMusicJosenFeatures';
 
 import ArchiveMusicHellscapeRadio from './pages/archive/music/ArchiveMusicHellscapeRadio';
 
@@ -80,6 +87,13 @@ function App() {
           <Route path='/meauxminy/singles' element={<ArchiveMusicMeauxminySingles />} />
           <Route path='/meauxminy/collabs' element={<ArchiveMusicMeauxminyCollabs />} />
           <Route path='/meauxminy/remixes' element={<ArchiveMusicMeauxminyRemixes />} />
+          <Route path='/meauxminy/placements' element={<ArchiveMusicMeauxminyPlacements />} />
+          <Route path='/meauxminy/djsets' element={<ArchiveMusicMeauxminyDjSets />} />
+
+          <Route path='/josen/all' element={<ArchiveMusicJosen />} />
+          <Route path='/josen/albums' element={<ArchiveMusicJosenAlbums />} />
+          <Route path='/josen/singles' element={<ArchiveMusicJosenSingles />} />
+          <Route path='/josen/features' element={<ArchiveMusicJosenFeatures />} />
 
           <Route path='/archive/music/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
 

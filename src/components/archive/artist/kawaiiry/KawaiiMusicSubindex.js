@@ -5,7 +5,7 @@ const KawaiiMusicSubindex = () => {
       <>           
             <div class="sticky">
             <div class="title-wrap-rainbow2">
-            <h2>Kawaii Ry / Music</h2>
+            <h2>Music - Kawaii Ry</h2>
             </div>
             <div class="title-wrap-rainbow">
                 <div class="subindexContainer">
@@ -24,7 +24,7 @@ const KawaiiMusicSubindex = () => {
                         </h5> 
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/kawaiiry/all"}>All Releases (258)</NavLink>
+                                <NavLink to={"/kawaiiry/all"}>All Releases (260)</NavLink>
                             </div>
                         </h5>              
                     </div>

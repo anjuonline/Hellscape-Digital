@@ -9,7 +9,7 @@ const KawaiiEpsStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-maT9lRt2BBtnMwg3-jZ4VKQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Acoustic Treatment</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -40,7 +40,7 @@ const KawaiiEpsStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-zdZKxCZ31L0a8AVM-375WVg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Switch It Up</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>

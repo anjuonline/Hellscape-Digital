@@ -5,11 +5,33 @@ const KawaiiAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/dont-wait-on-me-prod-notamachine" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-QbXT8DAWeJKslcgo-p9zfcA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>DONT WAIT ON ME</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/6-days-prod-bleachh-x-notamachine" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-JV5gTbocgcCq9Jzm-3ti4zA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>6 Days</strong><br/>
+                (prod. Bleachh, notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/kawaiiry/queued-up-prod-notamachine" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-maT9lRt2BBtnMwg3-jZ4VKQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Queue'd Up</strong><br/>
-                (prod. Notamachine, Depart Beats)
+                (prod. notamachine, Depart Beats)
               </p>
             </a>
           </div>
@@ -20,7 +42,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-maT9lRt2BBtnMwg3-jZ4VKQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Starships</strong><br/>
-                (prod. Notamachine, Itsjohnnyvio)
+                (prod. notamachine, Itsjohnnyvio)
               </p>
             </a>
           </div>
@@ -31,7 +53,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-maT9lRt2BBtnMwg3-jZ4VKQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Love in the Air</strong><br/>
-                (prod. Notamachine, Adam Eazy)
+                (prod. notamachine, Adam Eazy)
               </p>
             </a>
           </div>
@@ -42,7 +64,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-maT9lRt2BBtnMwg3-jZ4VKQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>We'll Run Past the Trees</strong><br/>
-                (prod. Notamachine, Joe Leytrick)
+                (prod. notamachine, Joe Leytrick)
               </p>
             </a>
           </div>
@@ -53,7 +75,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-maT9lRt2BBtnMwg3-jZ4VKQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Eyes Locked, No Words</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -64,7 +86,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-hhN7CKiYzgb6y8rN-z2Nwag-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Doubted On Me</strong><br/>
-                (prod. Notamachine, Joe Leytrick)
+                (prod. notamachine, Joe Leytrick)
               </p>
             </a>
           </div>
@@ -75,7 +97,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-jGHURlKWau5V54WY-vbxzOA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Ladder</strong><br/>
-                (prod. Notamachine, Joe Leytrick)
+                (prod. notamachine, Joe Leytrick)
               </p>
             </a>
           </div>
@@ -86,7 +108,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-peLtxGRRN3BvaKbZ-cqJr6w-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>More</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -97,7 +119,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-L7bPe60si0Uq3APA-dq22gw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Paper Cut</strong><br/>
-                (prod. Notamachine, Kvse)
+                (prod. notamachine, Kvse)
               </p>
             </a>
           </div>
@@ -108,7 +130,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-I59BrE7dJeupJIL2-7yzyeA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Who Got That Loud Pack?</strong><br/>
-                (prod. Notamachine, Bleachh)
+                (prod. notamachine, Bleachh)
               </p>
             </a>
           </div>
@@ -119,7 +141,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-ySGDb77ncikjS3Kg-G0K2wQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Creed</strong><br/>
-                (prod. Notamachine, Kalpierce)
+                (prod. notamachine, Kalpierce)
               </p>
             </a>
           </div>
@@ -152,7 +174,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-U6SOdW1tFlB0pcSw-Ly4zwA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Gremlin</strong><br/>
-                (prod. Notamachine, Gotti)
+                (prod. notamachine, Gotti)
               </p>
             </a>
           </div>
@@ -273,7 +295,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-VKox1o1QdhHLOGSk-9Eg0VQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>You're Done (I'm Numb)</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -284,7 +306,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-VKox1o1QdhHLOGSk-9Eg0VQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Thought at 4AM IV</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -295,7 +317,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-VKox1o1QdhHLOGSk-9Eg0VQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>How Romantic</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -317,7 +339,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-VKox1o1QdhHLOGSk-9Eg0VQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Walker Texas Ranger</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -646,7 +668,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-M0Rzq7jdHWKlMJHT-ormDZw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>thats right baby</strong><br/>
-                (prod. Notamachine, Uncle Beat Productions)
+                (prod. notamachine, Uncle Beat Productions)
               </p>
             </a>
           </div>
@@ -800,7 +822,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-t4xSwCgh2Slp1ZDi-MjaU2g-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Shoulda Coulda Woulda</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -811,7 +833,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-t4xSwCgh2Slp1ZDi-MjaU2g-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Elevate the Sound</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -822,7 +844,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-t4xSwCgh2Slp1ZDi-MjaU2g-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Love Me // Hurt Me</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -833,7 +855,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-t4xSwCgh2Slp1ZDi-MjaU2g-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Genre Bender</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -844,7 +866,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-t4xSwCgh2Slp1ZDi-MjaU2g-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Switch it Up</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -855,7 +877,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-6W9ZxX1f6ftK1kyN-QJvKjA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Pop Out</strong><br/>
-                (prod. Notamachine, Joeyletrick)
+                (prod. notamachine, Joeyletrick)
               </p>
             </a>
           </div>
@@ -888,7 +910,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-6yTCkFzKMGrNXQz9-zTvYtQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Few Thangs</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -899,7 +921,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-6yTCkFzKMGrNXQz9-zTvYtQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Tidal Wave</strong><br/>
-                (prod. Notamachine, Joeyletrick)
+                (prod. notamachine, Joeyletrick)
               </p>
             </a>
           </div>
@@ -910,7 +932,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-6yTCkFzKMGrNXQz9-zTvYtQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Best Place Possible</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -921,7 +943,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-6yTCkFzKMGrNXQz9-zTvYtQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Locket</strong><br/>
-                (prod. Notamachine, Depart Beats)
+                (prod. notamachine, Depart Beats)
               </p>
             </a>
           </div>
@@ -954,7 +976,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-6yTCkFzKMGrNXQz9-zTvYtQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Royal Flush</strong><br/>
-                (prod. Notamachine, Joeyletrick)
+                (prod. notamachine, Joeyletrick)
               </p>
             </a>
           </div>
@@ -1163,7 +1185,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-S8eeBrZFa7LCL6FE-awy4YA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Burn Me Down</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div> 
@@ -1218,7 +1240,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-mLSl1cRhmwiOLeZq-J9HyUQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Score Board</strong><br/>
-                (prod. Notamachine, Couple Milli)
+                (prod. notamachine, Couple Milli)
               </p>
             </a>
           </div>
@@ -1416,7 +1438,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-EsnzJHwsi1a6bU7B-3hVvnQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Element</strong><br/>
-                (prod. Notamachine, realayvah, hayleeswrld)
+                (prod. notamachine, realayvah, hayleeswrld)
               </p>
             </a>
           </div>
@@ -1559,7 +1581,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-Zy2efuUGXKFOmrQy-zGctQw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Demi Lovato</strong><br/>
-                (prod. Notamachine, Couple Milli)
+                (prod. notamachine, Couple Milli)
               </p>
             </a>
           </div>
@@ -1614,7 +1636,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-Zy2efuUGXKFOmrQy-zGctQw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Think About Me For a Second</strong><br/>
-                (prod. Semaj, Notamachine)
+                (prod. Semaj, notamachine)
               </p>
             </a>
           </div>
@@ -1768,7 +1790,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-Zy2efuUGXKFOmrQy-zGctQw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Bad News Bears</strong><br/>
-                (prod. Notamachine)
+                (prod. notamachine)
               </p>
             </a>
           </div>
@@ -1922,7 +1944,7 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-y6kYvvJF00JPoUKT-GEzVRg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Hell Hounds</strong><br/>
-                (prod. Notamachine + Gotti)
+                (prod. notamachine + Gotti)
               </p>
             </a>
           </div>
