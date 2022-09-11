@@ -1,10 +1,10 @@
 import ArchiveIndex from 'components/archive/ArchiveIndex';
 import { NavLink } from 'react-router-dom';
 import ArchiveMusicSubindex from 'components/archive/ArchiveMusicSubindex';
-import KawaiiAlbumsStatic from 'components/archive/artist/kawaiiry/music/KawaiiAlbumsStatic';
-import KawaiiMusicSubindex from 'components/archive/artist/kawaiiry/KawaiiMusicSubindex';
+import JosenFeaturesStatic from 'components/archive/artist/josen/music/JosenFeaturesStatic';
+import JosenMusicSubindex from 'components/archive/artist/josen/JosenMusicSubindex';
 
-const ArchiveMusicKawaiiAlbums = () => {
+const ArchiveMusicJosenFeatures = () => {
 
   return (
     <div class="main-column">
@@ -20,12 +20,12 @@ const ArchiveMusicKawaiiAlbums = () => {
 
       <div class="card-container">
         <div class="sticky">
-          <KawaiiMusicSubindex/>
-          <KawaiiAlbumsStatic/>
+          <JosenMusicSubindex/>
+          <JosenFeaturesStatic/>
         </div>
       </div>
 
     </div>
   );
 };
-export default ArchiveMusicKawaiiAlbums;
+export default ArchiveMusicJosenFeatures;

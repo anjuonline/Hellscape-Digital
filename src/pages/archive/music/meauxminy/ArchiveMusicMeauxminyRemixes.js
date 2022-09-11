@@ -13,7 +13,7 @@ const ArchiveMusicMeauxminyRemixes = () => {
       
       <div class="card-container">
         <div class="title-wrap-rainbow2">
-          <h2>Archive / Music</h2>
+          <h2>Hellscape Digital - Music Archive</h2>
         </div>
         <ArchiveMusicSubindex/>
       </div>

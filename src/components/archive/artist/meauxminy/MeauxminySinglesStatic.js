@@ -3,6 +3,26 @@ const MeauxminySinglesStatic = () => {
       <>
         <div class="gallery_containerThree-static">  
 
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/eauxminy/1a-1?in=eauxminy/sets/lost" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-uerFy38uAa9tHTTJ-Kh3V9Q-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>1</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/eauxminy/2a-1?in=eauxminy/sets/lost" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-uerFy38uAa9tHTTJ-Kh3V9Q-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>2</strong><br/>
+              </p>
+            </a>
+          </div>
+
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/6iWgcGoB16NunKIXGcvS9L?si=54c610ce859e4ac3" target="_blank" rel="noopener noreferrer">    
