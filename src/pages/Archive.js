@@ -6,7 +6,7 @@ const Archive = () => {
         <ArchiveIndex></ArchiveIndex>
         <div class="card-container">
             <div class="title-wrap-rainbow2">
-                <h2>Archive / Announcements</h2>
+                <h2>Archive - Announcements</h2>
             </div>            
             <div class="containedText">
                 <h3>
@@ -23,6 +23,24 @@ const Archive = () => {
                 </p>                   
             </div>
         </div> 
+
+        <div class="card-container">
+            <div class="title-wrap-rainbow2">
+                <h2>Archive - Site Changelog</h2>
+            </div>            
+            <div class="containedText">
+                <h3>
+                    September 11, 2022
+                </h3> 
+                <p class="changelogtext">
+                    <ul>
+                        <li>&bull; Added 118 Josen songs to music archive</li>
+                        <li>&bull; Added 2 Meauxminy songs to music archive</li>
+                        <li>&bull; Fixed broken navigation in Meauxminy archive</li>
+                    </ul>  
+                </p>              
+            </div>
+        </div>         
   
       </div>
     );

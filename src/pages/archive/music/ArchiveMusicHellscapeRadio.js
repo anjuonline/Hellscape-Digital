@@ -8,7 +8,7 @@ const ArchiveMusicHellscapeRadio = () => {
         <ArchiveIndex></ArchiveIndex> 
         <div class="card-container">
             <div class="title-wrap-rainbow2">
-                <h2>Archive / Music</h2>
+                <h2>Archive - Music</h2>
             </div>            
             <ArchiveMusicSubindex/>
         </div>
@@ -16,7 +16,7 @@ const ArchiveMusicHellscapeRadio = () => {
             <div class="sticky">
                 <div class="title-wrap-rainbow2">
                     <h2>
-                    <NavLink to="/archive/music">Archive / Music</NavLink> /
+                    <NavLink to="/archive/music">Music</NavLink> -
                         Hellscape Radio</h2>
                 </div>  
             </div>          

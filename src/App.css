@@ -351,6 +351,14 @@ a {
   margin-bottom: 0;
 }
 
+ul {
+  list-style: none;
+}
+
+.changelogtext {
+  text-align: left;
+}
+
 .gallery-text {
   margin-top: 0;
   margin-bottom: 0.5em;
