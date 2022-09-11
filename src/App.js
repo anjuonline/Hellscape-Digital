@@ -58,7 +58,6 @@ function App() {
         <Route path={'/'} element={<SharedLayout />}>
           <Route index element={<Home />} />
           <Route path='/artwork' element={<Artwork />} />
-          <Route path='/oldmusic' element={<Music />} />
           <Route path='/archive' element={<Archive />} />
           <Route path='/archive/music' element={<ArchiveMusic />} />
           <Route path='/archive/music/all' element={<ArchiveMusicAll />} />          
@@ -76,10 +75,10 @@ function App() {
           <Route path='/kawaiiry/singles' element={<ArchiveMusicKawaiiSingles />} />
           <Route path='/kawaiiry/features' element={<ArchiveMusicKawaiiFeatures />} />
 
-          <Route path='/archive/music/lugosi/all' element={<ArchiveMusicLugosi />} />
-          <Route path='/archive/music/lugosi/eps' element={<ArchiveMusicLugosiEps />} />
-          <Route path='/archive/music/lugosi/singles' element={<ArchiveMusicLugosiSingles />} />
-          <Route path='/archive/music/lugosi/features' element={<ArchiveMusicLugosiFeatures />} />
+          <Route path='/lugosi/all' element={<ArchiveMusicLugosi />} />
+          <Route path='/lugosi/eps' element={<ArchiveMusicLugosiEps />} />
+          <Route path='/lugosi/singles' element={<ArchiveMusicLugosiSingles />} />
+          <Route path='/lugosi/features' element={<ArchiveMusicLugosiFeatures />} />
 
           <Route path='/meauxminy/all' element={<ArchiveMusicMeauxminy />} />
           <Route path='/meauxminy/albums' element={<ArchiveMusicMeauxminyAlbums />} />
@@ -99,6 +98,8 @@ function App() {
 
           <Route path='/archive/artwork' element={<ArchiveArtwork />} />
           <Route path='/archive/artwork/all' element={<ArchiveArtworkAll />} />
+
+          <Route path='/music' element={<Music />} />
 
           <Route path='/archive/artwork/anjuonline' element={<ArchiveArtworkAnju />} />
 

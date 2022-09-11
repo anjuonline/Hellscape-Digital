@@ -11,6 +11,7 @@ const TopNav = () => {
 
       <div class="topnav activeLink">
         <NavLink to={"/"} exact>Home</NavLink>
+        <NavLink to={"/music"} exact>Music</NavLink>
         <NavLink to={"/archive"}>Archive</NavLink>
       </div>
     </>
