@@ -13,7 +13,7 @@ const Archive = () => {
                     September 11, 2022
                 </h3> 
                 <p>
-                    Josen & Meauxminy discographies have been added to the music archive.
+                    Josen, notamachine & Meauxminy discographies have been added to the music archive.
                 </p>
                 <h3>
                     July 18, 2022
@@ -36,6 +36,7 @@ const Archive = () => {
                     <ul>
                         <li>&bull; Added Site Changelog to Archive page</li>
                         <li>&bull; Added 118 Josen songs to music archive</li>
+                        <li>&bull; Added 75 notamachine songs to music archive</li>
                         <li>&bull; Added 2 Meauxminy songs to music archive</li>
                         <li>&bull; Fixed broken navigation in Meauxminy archive</li>
                     </ul>  

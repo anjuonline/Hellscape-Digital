@@ -19,13 +19,13 @@ const MeauxminyMusicSubindex = () => {
                         <h5>
                             <div class="subindexFont">
                                 <NavLink to={"/meauxminy/singles"}>Singles</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                                <NavLink to={"/meauxminy/remixes"}>Remixes</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                                <NavLink to={"/meauxminy/placements"}>Placements</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
                                 <NavLink to={"/meauxminy/collabs"}>Collabs</NavLink>
                             </div>
                         </h5> 
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/meauxminy/placements"}>Placements</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                                <NavLink to={"/meauxminy/remixes"}>Remixes</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
                                 <NavLink to={"/meauxminy/djsets"}>DJ Sets</NavLink>
                             </div>
                         </h5> 

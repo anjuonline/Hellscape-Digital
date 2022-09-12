@@ -39,7 +39,7 @@ const Home = () => {
                     September 11, 2022
                 </h3> 
                 <p>
-                    Josen & Meauxminy discographies have been added to the music archive.
+                    Josen, notamachine & Meauxminy discographies have been added to the music archive.
                 </p>
             <h3>
                 July 18, 2022

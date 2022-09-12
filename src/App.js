@@ -45,6 +45,13 @@ import ArchiveMusicJosenAlbums from './pages/archive/music/josen/ArchiveMusicJos
 import ArchiveMusicJosenSingles from './pages/archive/music/josen/ArchiveMusicJosenSingles';
 import ArchiveMusicJosenFeatures from './pages/archive/music/josen/ArchiveMusicJosenFeatures';
 
+import ArchiveMusicNotamachine from './pages/archive/music/notamachine/ArchiveMusicNotamachine';
+import ArchiveMusicNotamachineAlbums from './pages/archive/music/notamachine/ArchiveMusicNotamachineAlbums';
+import ArchiveMusicNotamachineSingles from './pages/archive/music/notamachine/ArchiveMusicNotamachineSingles';
+import ArchiveMusicNotamachinePlacements from './pages/archive/music/notamachine/ArchiveMusicNotamachinePlacements';
+import ArchiveMusicNotamachineRemixes from './pages/archive/music/notamachine/ArchiveMusicNotamachineRemixes';
+import ArchiveMusicNotamachineCollabs from './pages/archive/music/notamachine/ArchiveMusicNotamachineCollabs';
+
 import ArchiveMusicHellscapeRadio from './pages/archive/music/ArchiveMusicHellscapeRadio';
 
 import ArchiveArtwork from './pages/archive/artwork/ArchiveArtwork';
@@ -93,6 +100,13 @@ function App() {
           <Route path='/josen/albums' element={<ArchiveMusicJosenAlbums />} />
           <Route path='/josen/singles' element={<ArchiveMusicJosenSingles />} />
           <Route path='/josen/features' element={<ArchiveMusicJosenFeatures />} />
+
+          <Route path='/notamachine/all' element={<ArchiveMusicNotamachine />} />
+          <Route path='/notamachine/albums' element={<ArchiveMusicNotamachineAlbums />} />
+          <Route path='/notamachine/singles' element={<ArchiveMusicNotamachineSingles />} />
+          <Route path='/notamachine/placements' element={<ArchiveMusicNotamachinePlacements />} />
+          <Route path='/notamachine/remixes' element={<ArchiveMusicNotamachineRemixes />} />
+          <Route path='/notamachine/collabs' element={<ArchiveMusicNotamachineCollabs />} />
 
           <Route path='/archive/music/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
 
