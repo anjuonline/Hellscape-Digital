@@ -11,13 +11,13 @@ const ArchiveMusicSubindex = () => {
                     <div class="subindexFont">
                         <NavLink to={"/anjuonline/music/all"}>ANJU Online!</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
                         <NavLink to={"/kawaiiry/all"}>Kawaii Ry</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                        <NavLink to={"/archive/music/lugosi/all"}>Lugosi</NavLink>
+                        <NavLink to={"/lugosi/all"}>Lugosi</NavLink>
                     </div>  
                     <div class="subindexFont">
                         <NavLink to={"/meauxminy/all"}>Meauxminy</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
                         <NavLink to={"/josen/all"}>Josen</NavLink>
-                        {/* &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                        <NavLink to={"/archive/music/notamachine/all"}>Notamachine</NavLink> */}
+                        &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                        <NavLink to={"/notamachine/all"}>notamachine</NavLink>
                     </div>   
                     {/* <div class="subindexFont">
                         <NavLink to={"/archive/music/remy3d/all"}>Remy3D</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;

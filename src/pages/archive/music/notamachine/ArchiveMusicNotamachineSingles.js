@@ -1,10 +1,10 @@
 import ArchiveIndex from 'components/archive/ArchiveIndex';
 import { NavLink } from 'react-router-dom';
 import ArchiveMusicSubindex from 'components/archive/ArchiveMusicSubindex';
-import LugosiSinglesStatic from 'components/archive/artist/lugosi/music/LugosiSinglesStatic';
-import LugosiMusicSubindex from 'components/archive/artist/lugosi/LugosiMusicSubindex';
+import NotamachineSinglesStatic from 'components/archive/artist/notamachine/NotamachineSinglesStatic';
+import NotamachineMusicSubindex from 'components/archive/artist/notamachine/NotamachineMusicSubindex';
 
-const ArchiveMusicLugosiSingles = () => {
+const ArchiveMusicNotamachineSingles = () => {
 
   return (
     <div class="main-column">
@@ -20,12 +20,12 @@ const ArchiveMusicLugosiSingles = () => {
 
       <div class="card-container">
         <div class="sticky">
-          <LugosiMusicSubindex/>
-          <LugosiSinglesStatic/>
+          <NotamachineMusicSubindex/>
+          <NotamachineSinglesStatic/>
         </div>
       </div>
 
     </div>
   );
 };
-export default ArchiveMusicLugosiSingles;
+export default ArchiveMusicNotamachineSingles;

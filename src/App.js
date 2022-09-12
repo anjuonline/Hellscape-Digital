@@ -45,6 +45,13 @@ import ArchiveMusicJosenAlbums from './pages/archive/music/josen/ArchiveMusicJos
 import ArchiveMusicJosenSingles from './pages/archive/music/josen/ArchiveMusicJosenSingles';
 import ArchiveMusicJosenFeatures from './pages/archive/music/josen/ArchiveMusicJosenFeatures';
 
+import ArchiveMusicNotamachine from './pages/archive/music/notamachine/ArchiveMusicNotamachine';
+import ArchiveMusicNotamachineAlbums from './pages/archive/music/notamachine/ArchiveMusicNotamachineAlbums';
+import ArchiveMusicNotamachineSingles from './pages/archive/music/notamachine/ArchiveMusicNotamachineSingles';
+import ArchiveMusicNotamachinePlacements from './pages/archive/music/notamachine/ArchiveMusicNotamachinePlacements';
+import ArchiveMusicNotamachineRemixes from './pages/archive/music/notamachine/ArchiveMusicNotamachineRemixes';
+import ArchiveMusicNotamachineCollabs from './pages/archive/music/notamachine/ArchiveMusicNotamachineCollabs';
+
 import ArchiveMusicHellscapeRadio from './pages/archive/music/ArchiveMusicHellscapeRadio';
 
 import ArchiveArtwork from './pages/archive/artwork/ArchiveArtwork';
@@ -58,7 +65,6 @@ function App() {
         <Route path={'/'} element={<SharedLayout />}>
           <Route index element={<Home />} />
           <Route path='/artwork' element={<Artwork />} />
-          <Route path='/oldmusic' element={<Music />} />
           <Route path='/archive' element={<Archive />} />
           <Route path='/archive/music' element={<ArchiveMusic />} />
           <Route path='/archive/music/all' element={<ArchiveMusicAll />} />          
@@ -76,10 +82,10 @@ function App() {
           <Route path='/kawaiiry/singles' element={<ArchiveMusicKawaiiSingles />} />
           <Route path='/kawaiiry/features' element={<ArchiveMusicKawaiiFeatures />} />
 
-          <Route path='/archive/music/lugosi/all' element={<ArchiveMusicLugosi />} />
-          <Route path='/archive/music/lugosi/eps' element={<ArchiveMusicLugosiEps />} />
-          <Route path='/archive/music/lugosi/singles' element={<ArchiveMusicLugosiSingles />} />
-          <Route path='/archive/music/lugosi/features' element={<ArchiveMusicLugosiFeatures />} />
+          <Route path='/lugosi/all' element={<ArchiveMusicLugosi />} />
+          <Route path='/lugosi/eps' element={<ArchiveMusicLugosiEps />} />
+          <Route path='/lugosi/singles' element={<ArchiveMusicLugosiSingles />} />
+          <Route path='/lugosi/features' element={<ArchiveMusicLugosiFeatures />} />
 
           <Route path='/meauxminy/all' element={<ArchiveMusicMeauxminy />} />
           <Route path='/meauxminy/albums' element={<ArchiveMusicMeauxminyAlbums />} />
@@ -95,10 +101,19 @@ function App() {
           <Route path='/josen/singles' element={<ArchiveMusicJosenSingles />} />
           <Route path='/josen/features' element={<ArchiveMusicJosenFeatures />} />
 
+          <Route path='/notamachine/all' element={<ArchiveMusicNotamachine />} />
+          <Route path='/notamachine/albums' element={<ArchiveMusicNotamachineAlbums />} />
+          <Route path='/notamachine/singles' element={<ArchiveMusicNotamachineSingles />} />
+          <Route path='/notamachine/placements' element={<ArchiveMusicNotamachinePlacements />} />
+          <Route path='/notamachine/remixes' element={<ArchiveMusicNotamachineRemixes />} />
+          <Route path='/notamachine/collabs' element={<ArchiveMusicNotamachineCollabs />} />
+
           <Route path='/archive/music/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
 
           <Route path='/archive/artwork' element={<ArchiveArtwork />} />
           <Route path='/archive/artwork/all' element={<ArchiveArtworkAll />} />
+
+          <Route path='/music' element={<Music />} />
 
           <Route path='/archive/artwork/anjuonline' element={<ArchiveArtworkAnju />} />
 
