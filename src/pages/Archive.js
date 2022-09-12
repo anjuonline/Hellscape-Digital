@@ -28,7 +28,16 @@ const Archive = () => {
             <div class="title-wrap-rainbow2">
                 <h2>Archive - Site Changelog</h2>
             </div>            
-            <div class="containedText">
+            <div>
+                <h3>
+                    September 12, 2022
+                </h3> 
+                <p class="changelogtext">
+                    <ul>
+                        <li>&bull; Added 1 Lugosi feature to music archive</li>
+                        <li>&bull; Fixed broken navigation in Lugosi archive</li>
+                    </ul>  
+                </p>    
                 <h3>
                     September 11, 2022
                 </h3> 

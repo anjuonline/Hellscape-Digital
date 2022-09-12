@@ -12,15 +12,13 @@ const JosenMusicSubindex = () => {
                     <div class="containedText">
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/josen/albums"}>Albums & EPs</NavLink>
+                                <NavLink to={"/josen/albums"}>Albums & EPs</NavLink>                       
                             </div>
-                        </h5>   
-                        <h5>
                             <div class="subindexFont">
                                 <NavLink to={"/josen/singles"}>Singles</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
                                 <NavLink to={"/josen/features"}>Features</NavLink>
                             </div>
-                        </h5> 
+                        </h5>   
                         <h5>
                             <div class="subindexFont">
                                 <NavLink to={"/josen/all"}>All Releases (118)</NavLink>
