@@ -1,7 +1,8 @@
 import ArchiveIndex from 'components/archive/ArchiveIndex';
+import ArchiveChangelogStatic from 'components/archive/artist/hellscape/ArchiveChangelogStatic';
 import { NavLink } from 'react-router-dom';
 
-const Archive = () => {
+const ArchiveChangelog = () => {
     return (
       <div class="main-column">
         <ArchiveIndex></ArchiveIndex>
@@ -9,8 +10,10 @@ const Archive = () => {
         <div class="subindexFont">
             <p><NavLink to={"/updates"}>Updates</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;<NavLink to={"/changelog"}>Site Changelog</NavLink></p>
         </div>        
+
+        <ArchiveChangelogStatic/>
   
       </div>
     );
   };
-  export default Archive;
+  export default ArchiveChangelog;

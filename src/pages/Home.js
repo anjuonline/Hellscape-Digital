@@ -1,6 +1,7 @@
 import ReactPlayer from "react-player"
 import LatestArtworkAll from 'components/homepage/LatestArtworkAll';
 import LatestMusicAll from 'components/homepage/LatestMusicAll';
+import LatestUpdates from 'components/homepage/LatestUpdates';
 
 const Home = () => {
   return (
@@ -28,27 +29,7 @@ const Home = () => {
                 />
             </div>
             <p><strong>Josen</strong> - DONE!DIED! Feat. Jackie Platinum<br/>(Prod. Notamachine + Antar + OBMUS1C)</p>            
-        </div>             
-
-        <div class="card-container">
-            <div class="title-wrap-rainbow2">
-                <h2>Updates</h2>
-            </div>            
-            <div class="containedText">
-            <h3>
-                    September 11, 2022
-                </h3> 
-                <p>
-                    Josen, notamachine & Meauxminy discographies have been added to the music archive.
-                </p>
-            <h3>
-                July 18, 2022
-            </h3> 
-            <p>
-                Welcome to the new Hellscape Digital site! Take a look around and explore the pages, but keep in mind that pretty much nothing works yet. More updates to follow.
-            </p>                   
-            </div>
-        </div>            
+        </div>                        
 
         <div class="card-container">
             <div class="title-wrap-rainbow">
@@ -62,9 +43,11 @@ const Home = () => {
                 <h2>Latest Releases - Artwork</h2>
             </div>  
             <LatestArtworkAll/>
-        </div>               
+        </div>   
 
-        <div class="card-container">
+       <LatestUpdates/>   
+
+        {/* <div class="card-container">
             <div class="title-wrap-rainbow">
                 <h2>Current Sitemap</h2>
             </div>
@@ -85,9 +68,9 @@ const Home = () => {
                     </div>
                 </div>  
             </div>        
-        </div>        
+        </div>         */}
 
-        <div class="card-container">
+        {/* <div class="card-container">
             <div class="title-wrap-rainbow">
                 <h2>Potential Sitemap</h2>
             </div>
@@ -122,7 +105,8 @@ const Home = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </div> */}
+
     </div>
   );
 };

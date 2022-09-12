@@ -38,6 +38,16 @@ const KawaiiFeaturesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
+            <a href="https://soundcloud.com/user-495687265/remy3d-dont-talk-about-we-feat-kawaiiry" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-KCftv46GjY0ybXmV-ys8mXg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Remy3D - Don't Talk About We (feat. Kawaii Ry)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/4Vc5BPUjASZnKeeuYoXJbb?si=365515680494448a" target="_blank" rel="noopener noreferrer">    
               <img src="https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/d5/a2/44/d5a244fd-1db8-6ea1-6300-458309d7fb4e/5059324589833.jpg/1200x1200bf-60.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -92,6 +102,17 @@ const KawaiiFeaturesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/7lS1xUQx6sHEudgrOLfZu3?si=0124317b5b24496b" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b27325e9ba744fa8abf7d19b0ba5" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Remy3D - Duffy (feat. Kawaii Ry)</strong><br/>
+                (prod. Wellfed)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/3PLO9EIeEjTX6F2iI2F6EH?si=5247c064d3f540b6" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d0000b273647ee7b32c9d2e7f160ff352" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -100,6 +121,17 @@ const KawaiiFeaturesStatic = () => {
               </p>
             </a>
           </div> 
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/6POWh3UdMlcAqNU5lHTgvm?si=296d88b3c2ac4a38" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273b6df80eb65bc106fbea8042a" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Remy3D - Without You (feat. Kawaii Ry)</strong><br/>
+                (prod. Wellfed)
+              </p>
+            </a>
+          </div>
 
         </div>
       </>
