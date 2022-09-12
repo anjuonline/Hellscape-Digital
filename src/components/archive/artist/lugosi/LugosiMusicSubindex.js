@@ -12,18 +12,18 @@ const LugosiMusicSubindex = () => {
                     <div class="containedText">
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/archive/music/lugosi/eps"}>EPs</NavLink>
+                                <NavLink to={"/lugosi/eps"}>EPs</NavLink>
                             </div>
                         </h5>   
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/archive/music/lugosi/singles"}>Singles</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                                <NavLink to={"/archive/music/lugosi/features"}>Features</NavLink>
+                                <NavLink to={"/lugosi/singles"}>Singles</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                                <NavLink to={"/lugosi/features"}>Features</NavLink>
                             </div>
                         </h5> 
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/archive/music/lugosi/all"}>All Releases (30)</NavLink>
+                                <NavLink to={"/lugosi/all"}>All Releases (31)</NavLink>
                             </div>
                         </h5>              
                     </div>
