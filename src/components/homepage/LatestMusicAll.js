@@ -2,6 +2,66 @@ const LatestMusicAll = () => {
     return (
       <>
         <div class="gallery_containerThree-static"> 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/visa-prod-leovisa" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-wgyCob9yoY8t211z-uVZwMQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Josen</strong><br/>
+                VISA<br/>
+                (prod. LEOVISA)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/dont-wait-on-me-prod-notamachine" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-QbXT8DAWeJKslcgo-p9zfcA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry</strong><br/>
+                DONT WAIT ON ME<br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/6-days-prod-bleachh-x-notamachine" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-JV5gTbocgcCq9Jzm-3ti4zA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry</strong><br/>
+                6 Days<br/>
+                (prod. Bleachh, notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">DJ Set</p>
+            <a href="https://soundcloud.com/eauxminy/club-kawaii-mix" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-Qv5Ft6dyNjd4CyCd-Zrh9Bg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Meauxminy</strong><br/>
+                Meauxminy @ Club Kawaii
+              </p>
+            </a>
+          </div>
+
+                <div class="gallery_item">
+                    <p class="gallery-tag">Single</p>
+                    <a href="https://open.spotify.com/track/1AYPa7Fn3NhxQXzU6Z5jsA?si=ee7672cbf6454f2c" target="_blank" rel="noopener noreferrer">    
+                    <img src="https://i.scdn.co/image/ab67616d0000b27382c44367bee2d4fcf3ec9ae8" width="100%" alt=""/><br/>
+                    <p class="gallery-text">
+                        <strong>Lugosi</strong><br/>
+                        ghostsinthewalls<br/>
+                        (prod. ANJU Online!)
+                    </p>
+                    </a>
+                </div>
+
                 <div class="gallery_item">
                     <p class="gallery-tag">Single</p>
                     <a href="https://soundcloud.com/kawaiiry/creed-prod-notamachine-x-kal" target="_blank" rel="noopener noreferrer">    
@@ -47,60 +107,7 @@ const LatestMusicAll = () => {
                         </p>
                     </a>
                 </div>
-                <div class="gallery_item">
-                    <p class="gallery-tag">Single</p>
-                    <a href="https://soundcloud.com/kawaiiry/crash-it-2-prod-wound" target="_blank" rel="noopener noreferrer">    
-                        <img src="https://i1.sndcdn.com/artworks-AFS7gLNHCDzsrluL-GL5WLw-t500x500.jpg" width="100%" alt=""/><br/>
-                        <p class="gallery-text">
-                            <strong>Kawaii Ry</strong><br/>
-                            Crash It 2<br/>
-                            (Prod. Wound)
-                        </p>
-                    </a>
-                </div> 
-                <div class="gallery_item">
-                    <p class="gallery-tag">Single</p>
-                    <a href="https://soundcloud.com/kawaiiry/killmilord-freestyle-prod-foriegner2x" target="_blank" rel="noopener noreferrer">    
-                        <img src="https://i1.sndcdn.com/artworks-NHMUEUaj0ew3bunu-6aFVbw-t500x500.jpg" width="100%" alt=""/><br/>
-                        <p class="gallery-text">
-                            <strong>Kawaii Ry</strong><br/>
-                            KILLMILORD Freestyle<br/>
-                            (Prod. Foreigner2x)
-                        </p>
-                    </a>
-                </div>
-                <div class="gallery_item">
-                    <p class="gallery-tag">Single</p>
-                    <a href="https://soundcloud.com/liljosen/up-that-score-prod-leo" target="_blank" rel="noopener noreferrer">    
-                        <img src="https://i1.sndcdn.com/artworks-ayqtVbB720wA81Jy-3uR8og-t500x500.jpg" width="100%" alt=""/><br/>
-                        <p class="gallery-text">
-                            <strong>Josen</strong><br/>
-                            UP!THAT!SCORE!<br/>
-                            (Prod. Leo)
-                        </p>
-                    </a>
-                </div>
-                <div class="gallery_item">
-                    <p class="gallery-tag">Single</p>
-                    <a href="https://soundcloud.com/kawaiiry/killmilord-freestyle-prod-foriegner2x" target="_blank" rel="noopener noreferrer">    
-                        <img src="https://i1.sndcdn.com/artworks-rEyTQxOLQoxWYufg-ip6Zug-t500x500.jpg" width="100%" alt=""/><br/>
-                        <p class="gallery-text">
-                            <strong>Josen</strong><br/>
-                            BITCH!YOU!A!DUB!<br/>
-                            (Prod. Snake)
-                        </p>
-                    </a>
-                </div>  
-                <div class="gallery_item">
-                    <p class="gallery-tag">Album</p>
-                    <a href="https://soundcloud.com/liljosen/final-josen-prod-snake-mixed" target="_blank" rel="noopener noreferrer">    
-                        <img src="https://i1.sndcdn.com/artworks-m07hEzNRsO0mhwyA-V6cMUg-t500x500.jpg" width="100%" alt=""/><br/>
-                        <p class="gallery-text">
-                            <strong>Notamachine</strong><br/>
-                            Artificial
-                        </p>
-                    </a>
-                </div>                                                                                                             
+
             </div>
       </>
     );

@@ -52,11 +52,18 @@ import ArchiveMusicNotamachinePlacements from './pages/archive/music/notamachine
 import ArchiveMusicNotamachineRemixes from './pages/archive/music/notamachine/ArchiveMusicNotamachineRemixes';
 import ArchiveMusicNotamachineCollabs from './pages/archive/music/notamachine/ArchiveMusicNotamachineCollabs';
 
+import ArchiveMusicRemy3d from './pages/archive/music/remy3d/ArchiveMusicRemy3d';
+import ArchiveMusicRemy3dSingles from './pages/archive/music/remy3d/ArchiveMusicRemy3dSingles';
+import ArchiveMusicRemy3dFeatures from './pages/archive/music/remy3d/ArchiveMusicRemy3dFeatures';
+
 import ArchiveMusicHellscapeRadio from './pages/archive/music/ArchiveMusicHellscapeRadio';
 
 import ArchiveArtwork from './pages/archive/artwork/ArchiveArtwork';
 import ArchiveArtworkAll from './pages/archive/artwork/ArchiveArtworkAll';
 import ArchiveArtworkAnju from './pages/archive/artwork/ArchiveArtworkAnju';
+
+import ArchiveUpdates from './pages/archive/updates/ArchiveUpdates';
+import ArchiveChangelog from './pages/archive/updates/ArchiveChangelog';
 
 function App() {
   return (
@@ -108,6 +115,10 @@ function App() {
           <Route path='/notamachine/remixes' element={<ArchiveMusicNotamachineRemixes />} />
           <Route path='/notamachine/collabs' element={<ArchiveMusicNotamachineCollabs />} />
 
+          <Route path='/remy3d/all' element={<ArchiveMusicRemy3d />} />
+          <Route path='/remy3d/singles' element={<ArchiveMusicRemy3dSingles />} />
+          <Route path='/remy3d/features' element={<ArchiveMusicRemy3dFeatures />} />
+
           <Route path='/archive/music/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
 
           <Route path='/archive/artwork' element={<ArchiveArtwork />} />
@@ -116,6 +127,9 @@ function App() {
           <Route path='/music' element={<Music />} />
 
           <Route path='/archive/artwork/anjuonline' element={<ArchiveArtworkAnju />} />
+
+          <Route path='/updates' element={<ArchiveUpdates />} />
+          <Route path='/changelog' element={<ArchiveChangelog />} />
 
         </Route>
         <Route path='*' element={<Error />} />
