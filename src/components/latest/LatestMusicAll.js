@@ -5,6 +5,28 @@ const LatestMusicAll = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/the-spot-prod-notamachine-horuhe-san-mitchell?in=kawaiiry/sets/one-left" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-Q4zox4LUoIM5aTyY-vfsBrg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - the spot</strong><br/>
+                (prod. notamachine, horuhe san & Mitchell)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/empty-the-bank-prod-notamachine-horuhe-san-beat-nutz?in=kawaiiry/sets/one-left" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-Q4zox4LUoIM5aTyY-vfsBrg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - empty the bank</strong><br/>
+                (prod. notamachine, horuhe san & Beatnutz)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/liljosen/visa-prod-leovisa" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-wgyCob9yoY8t211z-uVZwMQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -85,28 +107,6 @@ const LatestMusicAll = () => {
                         </p>
                     </a>
                 </div>                
-                <div class="gallery_item">
-                    <p class="gallery-tag">Feature</p>
-                    <a href="https://soundcloud.com/tryfg/sodagrape" target="_blank" rel="noopener noreferrer">    
-                        <img src="https://i1.sndcdn.com/artworks-wZfZQLtYA2RTwxXE-gSGKLQ-t500x500.jpg" width="100%" alt=""/><br/>
-                        <p class="gallery-text">
-                            <strong>TRYFG</strong><br/>
-                            soda grape! (Feat. Kawaii Ry)<br/>
-                            (Prod. TRYFG)
-                        </p>
-                    </a>
-                </div>            
-                <div class="gallery_item">
-                    <p class="gallery-tag">Single</p>
-                    <a href="https://soundcloud.com/liljosen/done-died-w-jackie-platinum" target="_blank" rel="noopener noreferrer">    
-                        <img src="https://i1.sndcdn.com/artworks-rLd37yeBxMh3DJZz-TW35LQ-t500x500.jpg" width="100%" alt=""/><br/>
-                        <p class="gallery-text">
-                            <strong>Josen</strong><br/>
-                            DONE!DIED! (Feat. Jackie Platinum)<br/>
-                            (Prod. Notamachine + Antar + OBMUS1C)
-                        </p>
-                    </a>
-                </div>
 
             </div>
       </>

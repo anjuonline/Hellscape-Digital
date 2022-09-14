@@ -3,6 +3,16 @@ const KawaiiFeaturesStatic = () => {
       <>
         <div class="gallery_containerThree-static">  
 
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/7APoEgwv7Vs79Hk23Q0zRN?si=5055094ec850402c" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273d7874a8d7e99af600a1a37bb" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Semaj - Angel Face (feat. Kawaii Ry)</strong><br/>
+              </p>
+            </a>
+          </div> 
+
           <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/0Ro11kMgsHlHmWm8KyKfyI?si=e0e20d3b87ee490f" target="_blank" rel="noopener noreferrer">    

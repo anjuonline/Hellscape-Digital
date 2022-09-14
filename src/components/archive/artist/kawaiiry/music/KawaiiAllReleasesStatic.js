@@ -5,6 +5,28 @@ const KawaiiAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/the-spot-prod-notamachine-horuhe-san-mitchell?in=kawaiiry/sets/one-left" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-Q4zox4LUoIM5aTyY-vfsBrg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>the spot</strong><br/>
+                (prod. notamachine, horuhe san & Mitchell)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/empty-the-bank-prod-notamachine-horuhe-san-beat-nutz?in=kawaiiry/sets/one-left" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-Q4zox4LUoIM5aTyY-vfsBrg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>empty the bank</strong><br/>
+                (prod. notamachine, horuhe san & Beatnutz)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/kawaiiry/dont-wait-on-me-prod-notamachine" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-QbXT8DAWeJKslcgo-p9zfcA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -101,6 +123,16 @@ const KawaiiAllReleasesStatic = () => {
               </p>
             </a>
           </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/7APoEgwv7Vs79Hk23Q0zRN?si=5055094ec850402c" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273d7874a8d7e99af600a1a37bb" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Semaj - Angel Face (feat. Kawaii Ry)</strong><br/>
+              </p>
+            </a>
+          </div> 
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>

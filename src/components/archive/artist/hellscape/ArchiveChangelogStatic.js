@@ -11,8 +11,11 @@ const ArchiveChangelogStatic = () => {
                 </h3> 
                 <p class="changelogtext">
                     <ul>
-                        <li>&bull; Added Semaj discography to music archive</li>
-                        <li>&bull; Fixed labelling of 4 notamachine songs</li>
+                        <li>&bull; Added Kawaii Ry EP <i>"one left"</i> (2 songs) to music archive</li>
+                        <li>&bull; Added 8 Semaj singles to music archive</li>
+                        <li>&bull; Added 2 notamachine placements to music archive</li>
+                        <li>&bull; Added 1 Kawaii Ry feature to music archive</li>
+                        <li>&bull; Fixed visual error on /music page</li>
                     </ul>  
                 </p> 
                 <h3>

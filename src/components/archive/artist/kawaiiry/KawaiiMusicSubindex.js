@@ -24,7 +24,7 @@ const KawaiiMusicSubindex = () => {
                         </h5> 
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/kawaiiry/all"}>All Releases (263)</NavLink>
+                                <NavLink to={"/kawaiiry/all"}>All Releases (266)</NavLink>
                             </div>
                         </h5>              
                     </div>
