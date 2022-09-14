@@ -7,12 +7,35 @@ const ArchiveChangelogStatic = () => {
             </div>            
             <div>
                 <h3>
+                    September 14, 2022
+                </h3> 
+                <p class="changelogtext">
+                    <ul>
+                        <li>&bull; Added Semaj discography to music archive</li>
+                        <li>&bull; Fixed labelling of 4 notamachine songs</li>
+                    </ul>  
+                </p> 
+                <h3>
+                    September 13, 2022
+                </h3> 
+                <p class="changelogtext">
+                    <ul>
+                        <li>&bull; Added Semaj discography to music archive</li>
+                        <li>&bull; Added 75 Semaj placements to music archive</li>
+                        <li>&bull; Added Music Videos category to music archive</li>
+                        <li>&bull; Added Videos category to ANJU Online! music archive</li>
+                        <li>&bull; Added year filter to ANJU Online! music archive</li>
+                        <li>&bull; Fixed labelling of 4 notamachine songs</li>
+                    </ul>  
+                </p>   
+                <h3>
                     September 12, 2022
                 </h3> 
                 <p class="changelogtext">
                     <ul>
                         <li>&bull; Added Updates to Archive page</li>
                         <li>&bull; Added Remy3D discography to music archive</li>
+                        <li>&bull; Added 9 Remy3D songs to music archive</li>
                         <li>&bull; Added 3 Kawaii Ry features to music archive</li>
                         <li>&bull; Added 1 Lugosi feature to music archive</li>
                         <li>&bull; Fixed broken navigation in Lugosi archive</li>
