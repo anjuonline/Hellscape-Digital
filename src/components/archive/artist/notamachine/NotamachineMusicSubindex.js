@@ -27,7 +27,7 @@ const NotamachineMusicSubindex = () => {
                         </h5> 
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/notamachine/all"}>All Releases (75)</NavLink>
+                                <NavLink to={"/notamachine/all"}>All Releases (77)</NavLink>
                             </div>
                         </h5>              
                     </div>

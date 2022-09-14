@@ -24,9 +24,7 @@ const ArchiveMusicSubindex = () => {
                     </div> 
                     <div class="subindexFont">
                         <NavLink to={"/videos/all"}>Music Videos</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                        <NavLink to={"/archive/music/hellscaperadio"}>
-                            Hellscape Radio<br/>
-                        </NavLink>
+                        <NavLink to={"/hellscaperadio"}>Hellscape Radio<br/></NavLink>
                     </div>  
                 </p>        
             </div>

@@ -12,10 +12,12 @@ const ArchiveChangelogStatic = () => {
                 <p class="changelogtext">
                     <ul>
                         <li>&bull; Added Kawaii Ry EP <i>"one left"</i> (2 songs) to music archive</li>
+                        <li>&bull; Hellscape Radio archive look & feel has been revamped</li>
                         <li>&bull; Added 8 Semaj singles to music archive</li>
                         <li>&bull; Added 2 notamachine placements to music archive</li>
                         <li>&bull; Added 1 Kawaii Ry feature to music archive</li>
                         <li>&bull; Fixed visual error on /music page</li>
+                        <li>&bull; Fixed navigation error on /videos/all page</li>
                     </ul>  
                 </p> 
                 <h3>

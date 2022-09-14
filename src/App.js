@@ -68,6 +68,8 @@ import ArchiveMusicSemajPlacements from './pages/archive/music/semaj/ArchiveMusi
 import ArchiveMusicSemajFeatures from './pages/archive/music/semaj/ArchiveMusicSemajFeatures';
 
 import ArchiveMusicVideos from './pages/archive/music/hellscape/ArchiveMusicVideos';
+import ArchiveMusicVideos2021 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2021';
+import ArchiveMusicVideos2022 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2022';
 import ArchiveMusicHellscapeRadio from './pages/archive/music/hellscape/ArchiveMusicHellscapeRadio';
 
 import ArchiveArtwork from './pages/archive/artwork/ArchiveArtwork';
@@ -143,7 +145,9 @@ function App() {
           <Route path='/semaj/features' element={<ArchiveMusicSemajFeatures />} />
 
           <Route path='/videos/all' element={<ArchiveMusicVideos />} />
-          <Route path='/archive/music/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
+          <Route path='/videos/2021' element={<ArchiveMusicVideos2021 />} />
+          <Route path='/videos/2022' element={<ArchiveMusicVideos2022 />} />
+          <Route path='/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
 
           <Route path='/archive/artwork' element={<ArchiveArtwork />} />
           <Route path='/archive/artwork/all' element={<ArchiveArtworkAll />} />
