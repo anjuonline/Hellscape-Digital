@@ -200,6 +200,7 @@ a {
   position: sticky;
   top: 0;
   background-color: black;
+  z-index: 6;
 } 
 
 .title-wrap-rainbow2 {
@@ -212,6 +213,7 @@ a {
   position: sticky;
   top: 0;
   background-color: black;
+  z-index: 6;
 } 
 
 .title-wrap-rainbow-full {
@@ -358,6 +360,7 @@ ul {
 
 .music-video {
   margin: 1em;
+  z-index: 1;
 }
 
 .video-title-text {

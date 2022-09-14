@@ -63,6 +63,9 @@ import ArchiveMusicRemy3dSingles from './pages/archive/music/remy3d/ArchiveMusic
 import ArchiveMusicRemy3dFeatures from './pages/archive/music/remy3d/ArchiveMusicRemy3dFeatures';
 
 import ArchiveMusicSemaj from './pages/archive/music/semaj/ArchiveMusicSemaj';
+import ArchiveMusicSemajSingles from './pages/archive/music/semaj/ArchiveMusicSemajSingles';
+import ArchiveMusicSemajPlacements from './pages/archive/music/semaj/ArchiveMusicSemajPlacements';
+import ArchiveMusicSemajFeatures from './pages/archive/music/semaj/ArchiveMusicSemajFeatures';
 
 import ArchiveMusicVideos from './pages/archive/music/hellscape/ArchiveMusicVideos';
 import ArchiveMusicHellscapeRadio from './pages/archive/music/hellscape/ArchiveMusicHellscapeRadio';
@@ -135,6 +138,9 @@ function App() {
           <Route path='/remy3d/features' element={<ArchiveMusicRemy3dFeatures />} />
 
           <Route path='/semaj/all' element={<ArchiveMusicSemaj />} />
+          <Route path='/semaj/singles' element={<ArchiveMusicSemajSingles />} />
+          <Route path='/semaj/placements' element={<ArchiveMusicSemajPlacements />} />
+          <Route path='/semaj/features' element={<ArchiveMusicSemajFeatures />} />
 
           <Route path='/videos/all' element={<ArchiveMusicVideos />} />
           <Route path='/archive/music/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />

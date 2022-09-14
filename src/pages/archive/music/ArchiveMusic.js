@@ -1,6 +1,6 @@
 import ArchiveIndex from 'components/archive/ArchiveIndex';
 import ArchiveMusicSubindex from 'components/archive/ArchiveMusicSubindex';
-import LatestMusicAll from 'components/homepage/LatestMusicAll';
+import LatestMusicAll from 'components/latest/LatestMusicAll';
 
 const ArchiveMusic = () => {
     return (
