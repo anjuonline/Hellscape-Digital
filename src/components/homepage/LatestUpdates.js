@@ -19,14 +19,7 @@ const LatestUpdates = () => {
                   </h3> 
                   <p>
                       Josen, notamachine & Meauxminy discographies have been added to the music archive.
-                  </p>
-  
-                  <h3>
-                      July 18, 2022
-                  </h3> 
-                  <p>
-                      Welcome to the new Hellscape Digital site! Take a look around and explore the pages, but keep in mind that pretty much nothing works yet. More updates to follow.
-                  </p>                   
+                  </p>                  
   
               </div>
           </div>   

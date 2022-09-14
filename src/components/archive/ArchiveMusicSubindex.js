@@ -19,50 +19,17 @@ const ArchiveMusicSubindex = () => {
                         <NavLink to={"/notamachine/all"}>notamachine</NavLink>
                     </div>   
                     <div class="subindexFont">
-                        <NavLink to={"/remy3d/all"}>Remy3D</NavLink>
-                        {/* &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                        <NavLink to={"/archive/music/semaj/all"}>Semaj</NavLink> */}
+                        <NavLink to={"/remy3d/all"}>Remy3D</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                        <NavLink to={"/semaj/all"}>Semaj</NavLink><br/>&nbsp;
                     </div> 
-                </p>   
-                <p>   
                     <div class="subindexFont">
+                        <NavLink to={"/videos/all"}>Music Videos</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
                         <NavLink to={"/archive/music/hellscaperadio"}>
                             Hellscape Radio<br/>
                         </NavLink>
                     </div>  
-                </p>       
+                </p>        
             </div>
-            {/* <div class="flexColumn">
-                <div>
-                        <p>
-                            <div class="activeLink">
-                            <NavLink to={"/archive/music/anjuonline/all"}>
-                                    ANJU Online!<br/>
-                            </NavLink>
-                            </div>
-                        </p>
-                </div>
-                <div>
-                        <p>
-                            <div class="activeLink">
-                            <NavLink to={"/archive/music/kawaiiry"}>
-                                Kawaii Ry<br/>
-                            </NavLink>
-                            </div>
-                        </p>
-                </div>
-            </div> */}
-            {/* <div class="flexColumn">
-                <div class="containedText">
-                    <p>
-                        <div class="activeLink">
-                            <NavLink to={"/archive/music/hellscaperadio"}>
-                                Hellscape Radio<br/>
-                            </NavLink>
-                        </div>
-                    </p>
-                </div>
-            </div> */}
       </>
     );
   };

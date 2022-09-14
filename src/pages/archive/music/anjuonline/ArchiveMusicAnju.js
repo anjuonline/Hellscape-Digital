@@ -6,6 +6,7 @@ import MusicAnjuData from 'data/music/AnjuData';
 import AnjuAlbumsStatic from 'components/archive/artist/anjuonline/music/AnjuAlbumsStatic';
 import AnjuAllReleasesStatic from 'components/archive/artist/anjuonline/music/AnjuAllReleasesStatic';
 import AnjuMusicSubindex from 'components/archive/artist/anjuonline/music/AnjuMusicSubindex';
+import AnjuMusicYearSubindex from 'components/archive/artist/anjuonline/music/year/AnjuMusicYearSubindex';
 
 // var config = {
 //   method: 'get',
@@ -55,7 +56,7 @@ const ArchiveMusicAnju = () => {
 
       <div class="card-container">
         <div class="sticky">
-          <AnjuMusicSubindex/>
+          <AnjuMusicYearSubindex/>
           <AnjuAllReleasesStatic/>
         </div>
       </div>

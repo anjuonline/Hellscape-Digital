@@ -1,6 +1,6 @@
 import { NavLink } from 'react-router-dom';
 
-const AnjuMusicSubindex = () => {
+const AnjuMusicYearSubindex = () => {
     return (
       <>           
             <div class="sticky">
@@ -32,8 +32,23 @@ const AnjuMusicSubindex = () => {
                     </div>
                 </div>
             </div>
+            <div class="title-wrap-rainbow2">
+                <div class="subindexContainer">
+                    <div class="containedText">
+                        <h5>
+                            <div class="subindexFont">
+                                <NavLink to={"/anjuonline/music/2022"}>2022</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                                <NavLink to={"/anjuonline/music/2021"}>2021</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                                <NavLink to={"/anjuonline/music/2020"}>2020</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                                <NavLink to={"/anjuonline/music/2019"}>2019</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                                <NavLink to={"/anjuonline/music/2018"}>2018</NavLink>
+                            </div>
+                        </h5>                
+                    </div>
+                </div>
+            </div>
             </div>
       </>
     );
   };
-  export default AnjuMusicSubindex;
+  export default AnjuMusicYearSubindex;

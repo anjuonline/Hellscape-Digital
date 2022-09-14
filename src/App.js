@@ -19,6 +19,12 @@ import ArchiveMusicAnjuRemixes from './pages/archive/music/anjuonline/ArchiveMus
 import ArchiveMusicAnjuPlacements from './pages/archive/music/anjuonline/ArchiveMusicAnjuPlacements';
 import ArchiveMusicAnjuDjSets from './pages/archive/music/anjuonline/ArchiveMusicAnjuDjSets';
 import ArchiveMusicAnjuAlbums from './pages/archive/music/anjuonline/ArchiveMusicAnjuAlbums';
+import ArchiveMusicAnjuMusicVideos from './pages/archive/music/anjuonline/ArchiveMusicAnjuMusicVideos';
+import ArchiveMusicAnju2018 from './pages/archive/music/anjuonline/year/ArchiveMusicAnju2018';
+import ArchiveMusicAnju2019 from './pages/archive/music/anjuonline/year/ArchiveMusicAnju2019';
+import ArchiveMusicAnju2020 from './pages/archive/music/anjuonline/year/ArchiveMusicAnju2020';
+import ArchiveMusicAnju2021 from './pages/archive/music/anjuonline/year/ArchiveMusicAnju2021';
+import ArchiveMusicAnju2022 from './pages/archive/music/anjuonline/year/ArchiveMusicAnju2022';
 
 import ArchiveMusicKawaii from './pages/archive/music/kawaiiry/ArchiveMusicKawaii';
 import ArchiveMusicKawaiiAlbums from './pages/archive/music/kawaiiry/ArchiveMusicKawaiiAlbums';
@@ -56,7 +62,10 @@ import ArchiveMusicRemy3d from './pages/archive/music/remy3d/ArchiveMusicRemy3d'
 import ArchiveMusicRemy3dSingles from './pages/archive/music/remy3d/ArchiveMusicRemy3dSingles';
 import ArchiveMusicRemy3dFeatures from './pages/archive/music/remy3d/ArchiveMusicRemy3dFeatures';
 
-import ArchiveMusicHellscapeRadio from './pages/archive/music/ArchiveMusicHellscapeRadio';
+import ArchiveMusicSemaj from './pages/archive/music/semaj/ArchiveMusicSemaj';
+
+import ArchiveMusicVideos from './pages/archive/music/hellscape/ArchiveMusicVideos';
+import ArchiveMusicHellscapeRadio from './pages/archive/music/hellscape/ArchiveMusicHellscapeRadio';
 
 import ArchiveArtwork from './pages/archive/artwork/ArchiveArtwork';
 import ArchiveArtworkAll from './pages/archive/artwork/ArchiveArtworkAll';
@@ -82,6 +91,12 @@ function App() {
           <Route path='/anjuonline/music/placements' element={<ArchiveMusicAnjuPlacements />} />
           <Route path='/anjuonline/music/djsets' element={<ArchiveMusicAnjuDjSets />} />
           <Route path='/anjuonline/music/albums' element={<ArchiveMusicAnjuAlbums />} />
+          <Route path='/anjuonline/music/videos' element={<ArchiveMusicAnjuMusicVideos />} />
+          <Route path='/anjuonline/music/2018' element={<ArchiveMusicAnju2018 />} />
+          <Route path='/anjuonline/music/2019' element={<ArchiveMusicAnju2019 />} />
+          <Route path='/anjuonline/music/2020' element={<ArchiveMusicAnju2020 />} />
+          <Route path='/anjuonline/music/2021' element={<ArchiveMusicAnju2021 />} />
+          <Route path='/anjuonline/music/2022' element={<ArchiveMusicAnju2022 />} />
 
           <Route path='/kawaiiry/all' element={<ArchiveMusicKawaii />} />
           <Route path='/kawaiiry/albums' element={<ArchiveMusicKawaiiAlbums />} />
@@ -119,6 +134,9 @@ function App() {
           <Route path='/remy3d/singles' element={<ArchiveMusicRemy3dSingles />} />
           <Route path='/remy3d/features' element={<ArchiveMusicRemy3dFeatures />} />
 
+          <Route path='/semaj/all' element={<ArchiveMusicSemaj />} />
+
+          <Route path='/videos/all' element={<ArchiveMusicVideos />} />
           <Route path='/archive/music/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
 
           <Route path='/archive/artwork' element={<ArchiveArtwork />} />
