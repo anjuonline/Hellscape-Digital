@@ -16,6 +16,7 @@ const ArchiveChangelogStatic = () => {
                         <li>&bull; Added 2 notamachine placements to music archive</li>
                         <li>&bull; Added 1 Kawaii Ry feature to music archive</li>
                         <li>&bull; Fixed visual error on /music page</li>
+                        <li>&bull; Fixed navigation error on /videos/all page</li>
                     </ul>  
                 </p> 
                 <h3>
