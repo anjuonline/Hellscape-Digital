@@ -8,6 +8,13 @@ const ArchiveUpdates = () => {
             <div class="containedText">
 
                 <h3>
+                    September 13, 2022
+                </h3> 
+                <p>
+                    Semaj discography has been added to the music archive.
+                </p>
+
+                <h3>
                     September 12, 2022
                 </h3> 
                 <p>

@@ -403,6 +403,13 @@ ul {
   font-size: 8pt;
 }
 
+.gallery-tag-centered {
+  margin-top: 0;
+  margin-bottom: 0.2em;
+  text-align: center;
+  font-size: 8pt;
+}
+
 @media only screen and (max-width: 600px){
   .masonry-text {
     font-size: xx-small;
@@ -434,6 +441,9 @@ ul {
   }
   .card-container-rainbow {
     margin: 0.85em;
+  }
+  .masonry-wrap {
+    margin: 0.5em!important;
   }
 }
 

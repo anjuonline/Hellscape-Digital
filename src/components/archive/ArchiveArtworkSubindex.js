@@ -3,39 +3,18 @@ import { NavLink } from 'react-router-dom';
 const ArchiveArtworkSubindex = () => {
     return (
       <>
-        <div class="card-container">
-            <div class="title-wrap-rainbow2">
-                <h2>Archive / Artwork</h2>
-            </div>            
             <div class="containedText">
                 <h3>
                     By Artist
-                </h3>                
+                </h3>  
+                <p>   
+                    <div class="subindexFont">
+                        <NavLink to={"/anjuonline/art/all"}>ANJU Online!</NavLink>
+                        {/* &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                        <NavLink to={"/cloudidaze/all"}>Cloudi Daze</NavLink> */}
+                    </div>  
+                </p>        
             </div>
-            <div class="flexColumn">
-                <div class="containedText">
-                        <p>
-                            <a href="/archive/artwork/anjuonline">
-                                ANJU Online!<br/>
-                            </a>
-                        </p>
-                </div>
-                <div class="containedText">
-                        <p>
-                            <a href="/archive/artwork/cloudidaze">
-                                Cloudi Daze<br/>
-                            </a>
-                        </p> 
-                </div>
-            </div>
-            <div class="containedText">
-              <div class="activeLink">
-                  <NavLink to={"/archive/artwork/all"}>
-                      All Art
-                  </NavLink>
-              </div>  
-            </div>
-        </div>
       </>
     );
   };

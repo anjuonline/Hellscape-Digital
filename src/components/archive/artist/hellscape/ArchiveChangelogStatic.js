@@ -7,6 +7,15 @@ const ArchiveChangelogStatic = () => {
             </div>            
             <div>
                 <h3>
+                    September 15, 2022
+                </h3> 
+                <p class="changelogtext">
+                    <ul>
+                    <li>&bull; ANJU Online! artwork archive look & feel has been revamped</li>
+                    <li>&bull; Cloudi Daze artwork archive temporarily removed for maintenance</li>
+                    </ul>  
+                </p> 
+                <h3>
                     September 14, 2022
                 </h3> 
                 <p class="changelogtext">
