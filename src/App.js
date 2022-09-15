@@ -74,7 +74,8 @@ import ArchiveMusicHellscapeRadio from './pages/archive/music/hellscape/ArchiveM
 
 import ArchiveArtwork from './pages/archive/artwork/ArchiveArtwork';
 import ArchiveArtworkAll from './pages/archive/artwork/ArchiveArtworkAll';
-import ArchiveArtworkAnju from './pages/archive/artwork/ArchiveArtworkAnju';
+import ArchiveArtworkAnju from './pages/archive/artwork/anjuonline/ArchiveArtworkAnju';
+import ArchiveArtworkAnjuIllustration from './pages/archive/artwork/anjuonline/ArchiveArtworkAnjuIllustration';
 
 import ArchiveUpdates from './pages/archive/updates/ArchiveUpdates';
 import ArchiveChangelog from './pages/archive/updates/ArchiveChangelog';
@@ -154,7 +155,8 @@ function App() {
 
           <Route path='/music' element={<Music />} />
 
-          <Route path='/archive/artwork/anjuonline' element={<ArchiveArtworkAnju />} />
+          <Route path='/anjuonline/art/all' element={<ArchiveArtworkAnju />} />
+          <Route path='/anjuonline/art/illustration' element={<ArchiveArtworkAnjuIllustration />} />
 
           <Route path='/updates' element={<ArchiveUpdates />} />
           <Route path='/changelog' element={<ArchiveChangelog />} />
