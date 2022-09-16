@@ -45,7 +45,7 @@ const LatestUpdates = () => {
   
               </div>
               <div class="containedText">               
-                <h3><NavLink to={"/updates"}><i><strong>Archived Updates</strong></i> →</NavLink></h3>
+                <h3><NavLink to={"/updates"}><i><strong>All Updates</strong></i> →</NavLink></h3>
               </div>
           </div>   
         </>
