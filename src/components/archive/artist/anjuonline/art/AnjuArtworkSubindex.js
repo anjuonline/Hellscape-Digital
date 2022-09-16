@@ -12,9 +12,8 @@ const AnjuArtworkSubindex = () => {
                     <div class="containedText">
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/anjuonline/art/illustration"}>Illustration</NavLink>
-                                {/* &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                                <NavLink to={"/anjuonline/art/design"}>Design</NavLink> */}
+                                <NavLink to={"/anjuonline/art/illustration"}>Illustration</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                                <NavLink to={"/anjuonline/art/design"}>Design</NavLink>
                             </div>
                         </h5>   
                         <h5>

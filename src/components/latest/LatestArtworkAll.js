@@ -32,11 +32,6 @@ const LatestArtworkAll = () => {
                 </div>
             </Masonry>
         </div>
-        <p>
-            <NavLink to={"/archive/artwork/all"}>
-                All Art
-            </NavLink>
-        </p>
       </>
     );
   };
