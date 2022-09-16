@@ -8,6 +8,18 @@ const ArchiveUpdates = () => {
             <div class="containedText">
 
                 <h3>
+                    September 16, 2022
+                </h3> 
+                <p>
+                    <a href="/kawaiiry/all">New Release: Kawaii Ry - Executive EP</a>
+                </p>
+                <h3>
+                    September 14, 2022
+                </h3> 
+                <p>
+                    <a href="/kawaiiry/all">New Release: Kawaii Ry - one left EP</a>
+                </p>
+                <h3>
                     September 13, 2022
                 </h3> 
                 <p>

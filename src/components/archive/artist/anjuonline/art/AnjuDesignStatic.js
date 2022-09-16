@@ -34,6 +34,13 @@ const AnjuDesignStatic = () => {
                     </a> 
                 </div>
 
+                <div>
+                        <img src="https://i.imgur.com/i7iJUm5.jpeg"/>                  
+                        <p class="gallery-text">
+                            Tour poster for Nacho Picasso & Sadistik @ Strange Matter, Richmond VA (2017)
+                        </p>
+                </div>
+
             </Masonry>
         </div>      
       </>
