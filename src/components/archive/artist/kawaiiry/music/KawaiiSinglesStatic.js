@@ -5,6 +5,50 @@ const KawaiiSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/cutting-the-net-up-prod-uglyboy?in=kawaiiry/sets/ugly-tape" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wckpAbEaOz0AbvyM-odUPvw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Cutting the Net Up</strong><br/>
+                (prod. uglyboy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/executive-prod-uglyboy?in=kawaiiry/sets/ugly-tape" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wckpAbEaOz0AbvyM-odUPvw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Executive</strong><br/>
+                (prod. uglyboy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/ugly-ry-demo?in=kawaiiry/sets/ugly-tape" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wckpAbEaOz0AbvyM-odUPvw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Mothra</strong><br/>
+                (prod. uglyboy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/tea-time-prod-uglyboy?in=kawaiiry/sets/ugly-tape" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wckpAbEaOz0AbvyM-odUPvw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Tea Time</strong><br/>
+                (prod. uglyboy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/kawaiiry/the-spot-prod-notamachine-horuhe-san-mitchell?in=kawaiiry/sets/one-left" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-Q4zox4LUoIM5aTyY-vfsBrg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

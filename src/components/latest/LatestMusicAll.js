@@ -1,26 +1,27 @@
+import { NavLink } from 'react-router-dom';
+
 const LatestMusicAll = () => {
     return (
       <>
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/the-spot-prod-notamachine-horuhe-san-mitchell?in=kawaiiry/sets/one-left" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-Q4zox4LUoIM5aTyY-vfsBrg-t500x500.jpg" width="100%" alt=""/><br/>
+            <p class="gallery-tag">EP</p>
+            <a href="https://soundcloud.com/kawaiiry/sets/ugly-tape" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wckpAbEaOz0AbvyM-odUPvw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Kawaii Ry - the spot</strong><br/>
-                (prod. notamachine, horuhe san & Mitchell)
+                <strong>Kawaii Ry - Executive</strong><br/>
+                (prod. uglyboy)
               </p>
             </a>
           </div>
 
         <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/empty-the-bank-prod-notamachine-horuhe-san-beat-nutz?in=kawaiiry/sets/one-left" target="_blank" rel="noopener noreferrer">    
+            <p class="gallery-tag">EP</p>
+            <a href="https://soundcloud.com/kawaiiry/sets/one-left" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-Q4zox4LUoIM5aTyY-vfsBrg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Kawaii Ry - empty the bank</strong><br/>
-                (prod. notamachine, horuhe san & Beatnutz)
+                <strong>Kawaii Ry - one left</strong><br/>
               </p>
             </a>
           </div>
@@ -108,6 +109,9 @@ const LatestMusicAll = () => {
                     </a>
                 </div>                
 
+            </div>
+            <div class="containedText">               
+              <p><NavLink to={"/archive/music"}><i><strong>All Music</strong></i> →</NavLink></p>
             </div>
       </>
     );

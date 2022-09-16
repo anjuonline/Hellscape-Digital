@@ -3,9 +3,21 @@ const ArchiveChangelogStatic = () => {
       <>
         <div class="card-container">
             <div class="title-wrap-rainbow2">
-                <h2>Hellscape Digital - Site Changelog</h2>
+                <h2>Hellscape Digital - Full Site Changelog</h2>
             </div>            
             <div>
+                <h3>
+                    September 16, 2022
+                </h3> 
+                <p class="changelogtext">
+                    <ul>
+                    <li>&bull; Added Kawaii Ry EP <i>"Executive"</i> (4 songs) to music archive</li>
+                    <li>&bull; Added Mixed Media category to ANJU Online! artwork archive</li>
+                    <li>&bull; Added 18 ANJU Online! illustrations to artwork archive</li>
+                    <li>&bull; Added 4 ANJU Online! mixed media works to artwork archive</li>
+                    <li>&bull; Added 1 ANJU Online! design to artwork archive</li>
+                    </ul>  
+                </p> 
                 <h3>
                     September 15, 2022
                 </h3> 
@@ -68,7 +80,7 @@ const ArchiveChangelogStatic = () => {
                         <li>&bull; Added 2 Meauxminy songs to music archive</li>
                         <li>&bull; Fixed broken navigation in Meauxminy archive</li>
                     </ul>  
-                </p>              
+                </p>            
             </div>
         </div>    
       </>

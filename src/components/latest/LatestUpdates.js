@@ -1,3 +1,5 @@
+import { NavLink } from 'react-router-dom';
+
 const LatestUpdates = () => {
     return (
         <>
@@ -6,7 +8,20 @@ const LatestUpdates = () => {
                   <h2>Latest Updates</h2>
               </div>            
               <div class="containedText">
-  
+
+
+                <h3>
+                    September 16, 2022
+                </h3> 
+                <p>
+                    <a href="/kawaiiry/all">New Release: Kawaii Ry - Executive EP</a>
+                </p>
+                <h3>
+                    September 14, 2022
+                </h3> 
+                <p>
+                    <a href="/kawaiiry/all">New Release: Kawaii Ry - one left EP</a>
+                </p>
                 <h3>
                     September 13, 2022
                 </h3> 
@@ -26,15 +41,11 @@ const LatestUpdates = () => {
                 </h3> 
                 <p>
                     Josen, notamachine & Meauxminy discographies have been added to the music archive.
-                </p>
-
-                <h3>
-                    July 18, 2022
-                </h3> 
-                <p>
-                    Welcome to the new Hellscape Digital site! Take a look around and explore the pages, but keep in mind that pretty much nothing works yet. More updates to follow.
-                </p>                  
+                </p>                 
   
+              </div>
+              <div class="containedText">               
+                <h3><NavLink to={"/updates"}><i><strong>Archived Updates</strong></i> →</NavLink></h3>
               </div>
           </div>   
         </>
