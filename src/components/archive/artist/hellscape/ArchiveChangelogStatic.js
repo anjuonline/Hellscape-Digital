@@ -13,6 +13,8 @@ const ArchiveChangelogStatic = () => {
                     <ul>
                     <li>&bull; ANJU Online! artwork archive look & feel has been revamped</li>
                     <li>&bull; Cloudi Daze artwork archive temporarily removed for maintenance</li>
+                    <li>&bull; Added 17 ANJU Online! illustrations to artwork archive</li>
+                    <li>&bull; Added 3 ANJU Online! designs to artwork archive</li>
                     </ul>  
                 </p> 
                 <h3>
