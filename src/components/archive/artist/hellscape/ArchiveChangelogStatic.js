@@ -16,6 +16,7 @@ const ArchiveChangelogStatic = () => {
                     <li>&bull; Added 18 ANJU Online! illustrations to artwork archive</li>
                     <li>&bull; Added 4 ANJU Online! mixed media works to artwork archive</li>
                     <li>&bull; Added 1 ANJU Online! design to artwork archive</li>
+                    <li>&bull; Added additional navigation from "Latest" homepage elements to their respective archives</li>
                     </ul>  
                 </p> 
                 <h3>
