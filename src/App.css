@@ -508,6 +508,10 @@ ul {
   color: white;
 }
 
+.footerFont1 {
+  color: #7d7d7d;
+}
+
 .subindexFont a.active {
   background-color: black;
   color: magenta;

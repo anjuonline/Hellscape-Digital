@@ -7,6 +7,21 @@ const ArchiveChangelogStatic = () => {
             </div>            
             <div>
                 <h3>
+                    November 19, 2022
+                </h3> 
+                    <p class="changelogtext"> 
+                        <ul>
+                            <li>
+                                <strong>&bull; <i>Site Upgrades</i></strong>
+                                <ul>
+                                <li>&bull; Homepage UX updated - added archive section and footer</li>
+                                <li>&bull; Updated site title and browser icon</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </p> 
+
+                <h3>
                     November 18, 2022
                 </h3> 
                     <p class="changelogtext">
@@ -16,7 +31,7 @@ const ArchiveChangelogStatic = () => {
                                 <ul>
                                     <li>&bull; ANJU Online & Kawaii Ry - Mr. Drill / pist off</li>
                                     <li>&bull; Lugosi - ghostsinthewalls (Music Video)</li>
-                                    <li>&bull; 1 Kawaii Ry single added to music archive</li>
+                                    <li>&bull; 19 Kawaii Ry singles added to music archive</li>
                                     <li>&bull; 1 Remy3D placement added to music archive</li>
                                     <li>&bull; 3 notamachine placement added to music archive</li>
                                     <li>&bull; 2 Semaj placements added to music archive</li>

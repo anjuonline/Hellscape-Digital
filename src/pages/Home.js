@@ -1,7 +1,10 @@
 import ReactPlayer from "react-player"
+import { NavLink } from 'react-router-dom';
+import { CrossSymbol } from 'utils/Symbols';
 import LatestArtworkAll from 'components/latest/LatestArtworkAll';
 import LatestMusicAll from 'components/latest/LatestMusicAll';
 import LatestUpdates from 'components/latest/LatestUpdates';
+import ArchiveIndex from 'components/archive/ArchiveIndex';
 
 const Home = () => {
   return (
@@ -29,32 +32,40 @@ const Home = () => {
                 />
             </div>
             <p><strong>Kawaii Ry</strong> - Executive <br/>(prod. uglyboy)</p>          
-            <div class="react-player-responsive">
-                <ReactPlayer
-                    url="https://soundcloud.com/liljosen/done-died-w-jackie-platinum"
-                    width={"100%"}
-                    height={"100%"}
-                />
-            </div>
-            <p><strong>Josen</strong> - DONE!DIED! (feat. Jackie Platinum)<br/>(prod. notamachine, Antar & OBMUS1C)</p>          
+        </div>       
 
-        </div>                        
+        <LatestUpdates/>                 
 
         <div class="card-container">
             <div class="title-wrap-rainbow">
-                <h2>Latest Releases - Music</h2>
+                <h2><NavLink to={"/music"}>Latest Releases - Music</NavLink></h2>
             </div>
             <LatestMusicAll/>  
-        </div>
-
-        <LatestUpdates/> 
+        </div> 
 
         <div class="card-container">
+            <div class="title-wrap-rainbow">
+                <h2><NavLink to={"/archive"}>Archive</NavLink></h2>
+            </div>
+            <ArchiveIndex/> 
+            <div class="subindexFont">
+                <p><br/>
+                <a href="https://www.youtube.com/@HELLSCAPEDIGITAL" target="_blank;" rel="noopener noreferrer">YouTube</a>&nbsp;&nbsp;<CrossSymbol/>&nbsp;&nbsp;<a href="https://soundcloud.com/hellscapedigital" target="_blank" rel="noopener noreferrer">Soundcloud</a>&nbsp;&nbsp;<CrossSymbol/>&nbsp;&nbsp;<a href="https://twitter.com/H3LLSC4P3" target="_blank;" rel="noopener noreferrer">Twitter</a>&nbsp;&nbsp;<CrossSymbol/>&nbsp;&nbsp;<a href="https://www.instagram.com/hellscapedigital/" target="_blank;" rel="noopener noreferrer">Instagram</a><br/><br/>
+                </p>
+                <p class="footerFont1">
+                2019-2022 &copy; Hellscape Digital<br/><br/>Donations (ETH): 0x1E0371E4d89652Bb94F314D44337E86e0b758c9d / hellscapedigital.eth</p>
+            </div>  
+            <div >
+                
+            </div> 
+        </div> 
+
+        {/* <div class="card-container">
             <div class="title-wrap-rainbow">
                 <h2>Latest Releases - Artwork</h2>
             </div>  
             <LatestArtworkAll/>
-        </div>     
+        </div>      */}
 
         {/* <div class="card-container">
             <div class="title-wrap-rainbow">
