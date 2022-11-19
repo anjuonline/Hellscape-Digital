@@ -4,6 +4,61 @@ const MeauxminyAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/5WcMFgBGwAprkavtzpgT0d?si=d7750df71d3e4001" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-KSDnl3ihOK4mzmJM-n6cKLQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Dujour Speaks (feat. Lil Dujour)</strong><br/>
+                (prod. Meauxminy & Geist)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1SeRmotpPjvM8LxLiA11Rj?si=007f074c964a445d" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-KSDnl3ihOK4mzmJM-n6cKLQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Sacrifice</strong><br/>
+                (prod. Meauxminy & Geist)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/7mUAYHUkJULXItbZoliZRH?si=7846219685714fe8" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-KSDnl3ihOK4mzmJM-n6cKLQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Maybe Next Time</strong><br/>
+                (prod. Meauxminy & Geist)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/6MSlRI0ke0lTBhfWHWA3r3?si=7b06d3ee01b149e6" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-KSDnl3ihOK4mzmJM-n6cKLQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Spriggan</strong><br/>
+                (prod. Meauxminy & Geist)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1SERFTa6ndjpwY4b1fO4IB?si=7adc599a94dd46bd" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-KSDnl3ihOK4mzmJM-n6cKLQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - 10/31 (feat. Boy Floss)</strong><br/>
+                (prod. Meauxminy & Geist)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">DJ Set</p>
             <a href="https://soundcloud.com/eauxminy/club-kawaii-mix" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-Qv5Ft6dyNjd4CyCd-Zrh9Bg-t500x500.jpg" width="100%" alt=""/><br/>

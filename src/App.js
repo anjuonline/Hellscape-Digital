@@ -61,6 +61,7 @@ import ArchiveMusicNotamachineCollabs from './pages/archive/music/notamachine/Ar
 import ArchiveMusicRemy3d from './pages/archive/music/remy3d/ArchiveMusicRemy3d';
 import ArchiveMusicRemy3dSingles from './pages/archive/music/remy3d/ArchiveMusicRemy3dSingles';
 import ArchiveMusicRemy3dFeatures from './pages/archive/music/remy3d/ArchiveMusicRemy3dFeatures';
+import ArchiveMusicRemy3dPlacements from './pages/archive/music/remy3d/ArchiveMusicRemy3dPlacements';
 
 import ArchiveMusicSemaj from './pages/archive/music/semaj/ArchiveMusicSemaj';
 import ArchiveMusicSemajSingles from './pages/archive/music/semaj/ArchiveMusicSemajSingles';
@@ -74,11 +75,13 @@ import ArchiveMusicHellscapeRadio from './pages/archive/music/hellscape/ArchiveM
 
 import ArchiveArtwork from './pages/archive/artwork/ArchiveArtwork';
 import ArchiveArtworkAll from './pages/archive/artwork/ArchiveArtworkAll';
+
 import ArchiveArtworkAnju from './pages/archive/artwork/anjuonline/ArchiveArtworkAnju';
 import ArchiveArtworkAnjuIllustration from './pages/archive/artwork/anjuonline/ArchiveArtworkAnjuIllustration';
 import ArchiveArtworkAnjuDesign from './pages/archive/artwork/anjuonline/ArchiveArtworkAnjuDesign';
 import ArchiveArtworkAnjuMixedMedia from './pages/archive/artwork/anjuonline/ArchiveArtworkAnjuMixedMedia';
 
+import ArchiveArtworkCloudiDaze from './pages/archive/artwork/cloudidaze/ArchiveArtworkCloudiDaze';
 
 import ArchiveUpdates from './pages/archive/updates/ArchiveUpdates';
 import ArchiveChangelog from './pages/archive/updates/ArchiveChangelog';
@@ -142,6 +145,7 @@ function App() {
           <Route path='/remy3d/all' element={<ArchiveMusicRemy3d />} />
           <Route path='/remy3d/singles' element={<ArchiveMusicRemy3dSingles />} />
           <Route path='/remy3d/features' element={<ArchiveMusicRemy3dFeatures />} />
+          <Route path='/remy3d/placements' element={<ArchiveMusicRemy3dPlacements />} />
 
           <Route path='/semaj/all' element={<ArchiveMusicSemaj />} />
           <Route path='/semaj/singles' element={<ArchiveMusicSemajSingles />} />
@@ -162,6 +166,8 @@ function App() {
           <Route path='/anjuonline/art/illustration' element={<ArchiveArtworkAnjuIllustration />} />
           <Route path='/anjuonline/art/design' element={<ArchiveArtworkAnjuDesign />} />
           <Route path='/anjuonline/art/misc' element={<ArchiveArtworkAnjuMixedMedia />} />
+
+          <Route path='/cloudidaze/all' element={<ArchiveArtworkCloudiDaze />} />
 
           <Route path='/updates' element={<ArchiveUpdates />} />
           <Route path='/changelog' element={<ArchiveChangelog />} />

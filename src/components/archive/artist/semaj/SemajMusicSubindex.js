@@ -23,7 +23,7 @@ const SemajMusicSubindex = () => {
                         </h5>   
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/semaj/all"}>All Releases (83)</NavLink>
+                                <NavLink to={"/semaj/all"}>All Releases (85)</NavLink>
                             </div>
                         </h5>              
                     </div>

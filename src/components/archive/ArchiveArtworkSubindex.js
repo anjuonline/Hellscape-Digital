@@ -10,8 +10,8 @@ const ArchiveArtworkSubindex = () => {
                 <p>   
                     <div class="subindexFont">
                         <NavLink to={"/anjuonline/art/all"}>ANJU Online!</NavLink>
-                        {/* &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                        <NavLink to={"/cloudidaze/all"}>Cloudi Daze</NavLink> */}
+                        &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                        <NavLink to={"/cloudidaze/all"}>Cloudi Daze</NavLink>
                     </div>  
                 </p>        
             </div>

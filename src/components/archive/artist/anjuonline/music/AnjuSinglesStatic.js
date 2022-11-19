@@ -5,6 +5,27 @@ const AnjuSinglesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1OeOaYFIieCjVVn2Yl2Qxh?si=e01a3bf087db4d9e" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273f8f425ed3f229026f4806269" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Mr. Drill / pist off</strong><br/>(feat. Kawaii Ry)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/hellscapedigital/camo-croc" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-M65REbxvpBKAYv1s-c35jbg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Camo Croc</strong><br/>
+                (feat. Kawaii Ry)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/anjuonline/anjucore" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-XiBwUD8ULuzzZwSy-dVmFNw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
