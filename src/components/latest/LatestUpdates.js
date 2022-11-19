@@ -42,7 +42,7 @@ const LatestUpdates = () => {
                     </p>                 
               </div>
               <div class="containedText">               
-                <h3><NavLink to={"/changelog"}><i><strong>Full Site Changelog</strong></i> →</NavLink></h3>
+                <p><NavLink to={"/changelog"}><i><u>Full Site Changelog</u></i><u> →</u></NavLink></p>
               </div>
           </div>   
         </>
