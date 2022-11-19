@@ -5,6 +5,39 @@ const NotamachinePlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/off-it-prod-notamachine" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-3oINC0l3ccyLiIg2-j7IoTQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - OFF IT</strong><br/>
+                (prod. notamachine & Baredex)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/its-working-prod-notamachine-gotti" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yp6bmxZENq3T3t0c-cgzXAw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - It's Working...</strong><br/>
+                (prod. notamachine & Gotti)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/silence-open-amincmaj-151bpmprod-notamachine-joe-leytrick" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-Rx9sm1kcWYHl6eLY-LYuD0Q-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Silence (feat. Jackie Platinum)</strong><br/>
+                (prod. notamachine & Joe Leytrick)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://soundcloud.com/kawaiiry/the-spot-prod-notamachine-horuhe-san-mitchell?in=kawaiiry/sets/one-left" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-Q4zox4LUoIM5aTyY-vfsBrg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

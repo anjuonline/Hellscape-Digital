@@ -4,6 +4,28 @@ const SemajAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/fiend-prod-semaj" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-vvfmSRs9Jph3PnDo-mlFLyA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Fiend</strong><br/>
+                (prod. Semaj)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/queue-timer-prod-semaj" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-lOBaQWngDe7OMz4a-tx7GKw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Queue Timer</strong><br/>
+                (prod. Semaj)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/7APoEgwv7Vs79Hk23Q0zRN?si=5055094ec850402c" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d0000b273d7874a8d7e99af600a1a37bb" width="100%" alt=""/><br/>

@@ -5,7 +5,7 @@ const AnjuPlacementsStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
-            <a href="https://soundcloud.com/lillugosi/ghostsinthewalls-prod-anju-online?in=lillugosi/sets/ghostsinthewaells-ep" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/1AYPa7Fn3NhxQXzU6Z5jsA?si=be828dc4843b40fa" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-QD3RqZW3V4fKs7pr-jNLnBQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Lugosi - ghostsinthewalls</strong><br/>
@@ -23,18 +23,7 @@ const AnjuPlacementsStatic = () => {
                 (Prod. ANJU Online!)
               </p>
             </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Placement</p>
-            <a href="https://soundcloud.com/hellscapedigital/camo-croc" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-M65REbxvpBKAYv1s-c35jbg-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Kawaii Ry - Camo Croc</strong><br/>
-                (Prod. ANJU Online!)
-              </p>
-            </a>
-          </div>   
+          </div>  
 
         </div>
       </>

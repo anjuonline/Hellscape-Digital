@@ -26,7 +26,7 @@ const AnjuMusicYearSubindex = () => {
                         </h5> 
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/anjuonline/music/all"}>All Releases (30)</NavLink>
+                                <NavLink to={"/anjuonline/music/all"}>All Releases (31)</NavLink>
                             </div>
                         </h5>              
                     </div>

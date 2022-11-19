@@ -1,11 +1,17 @@
 import Masonry, {ResponsiveMasonry} from "react-responsive-masonry"
 
-const AnjuAllReleasesStatic = () => {
+const AnjuAllArtworkStatic = () => {
     return (
       <>
         <div class="masonry-wrap">
 
             <Masonry columnsCount={2} gutter={"0.75em"}>
+
+                <div>
+                    <a href="https://open.spotify.com/track/1OeOaYFIieCjVVn2Yl2Qxh?si=9f7847e58f6e4578" target="_blank" rel="noopener noreferrer">
+                        <img src="https://i.imgur.com/d97YdkH.jpg"/>                  
+                    </a> 
+                </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1MAZH3oa2TUTMG4Bu7SGnMVhW2Ms2ePBgL/2" target="_blank" rel="noopener noreferrer">
@@ -248,4 +254,4 @@ const AnjuAllReleasesStatic = () => {
       </>
     );
   };
-  export default AnjuAllReleasesStatic;
+  export default AnjuAllArtworkStatic;

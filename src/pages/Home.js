@@ -23,12 +23,21 @@ const Home = () => {
             </div>            
             <div class="react-player-responsive">
                 <ReactPlayer
+                    url="https://soundcloud.com/kawaiiry/executive-prod-uglyboy"
+                    width={"100%"}
+                    height={"100%"}
+                />
+            </div>
+            <p><strong>Kawaii Ry</strong> - Executive <br/>(prod. uglyboy)</p>          
+            <div class="react-player-responsive">
+                <ReactPlayer
                     url="https://soundcloud.com/liljosen/done-died-w-jackie-platinum"
                     width={"100%"}
                     height={"100%"}
                 />
             </div>
-            <p><strong>Josen</strong> - DONE!DIED! Feat. Jackie Platinum<br/>(Prod. Notamachine + Antar + OBMUS1C)</p>            
+            <p><strong>Josen</strong> - DONE!DIED! (feat. Jackie Platinum)<br/>(prod. notamachine, Antar & OBMUS1C)</p>          
+
         </div>                        
 
         <div class="card-container">
@@ -38,14 +47,14 @@ const Home = () => {
             <LatestMusicAll/>  
         </div>
 
+        <LatestUpdates/> 
+
         <div class="card-container">
             <div class="title-wrap-rainbow">
                 <h2>Latest Releases - Artwork</h2>
             </div>  
             <LatestArtworkAll/>
-        </div>   
-
-       <LatestUpdates/>   
+        </div>     
 
         {/* <div class="card-container">
             <div class="title-wrap-rainbow">

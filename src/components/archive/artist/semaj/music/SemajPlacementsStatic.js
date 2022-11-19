@@ -5,6 +5,28 @@ const SemajPlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/fiend-prod-semaj" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-vvfmSRs9Jph3PnDo-mlFLyA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Fiend</strong><br/>
+                (prod. Semaj)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/queue-timer-prod-semaj" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-lOBaQWngDe7OMz4a-tx7GKw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Queue Timer</strong><br/>
+                (prod. Semaj)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://soundcloud.com/kawaiiry/cc-crazy-prod-semaj" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-WT8UfTTW3ce7WZPk-MF1bmw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

@@ -7,6 +7,225 @@ const KawaiiAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/off-it-prod-notamachine" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-3oINC0l3ccyLiIg2-j7IoTQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>OFF IT</strong><br/>
+                (prod. notamachine & Baredex)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/motorolla-prod-lathan" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-5q5YaHItkYa2DXSK-nsq0YQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>motorola</strong><br/>
+                (prod. lathan)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/ohsht" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-qSLC3zjDthTJyU2N-oz88eg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>WDYK?</strong><br/>
+                (prod. Ty David)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/its-working-prod-notamachine-gotti" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yp6bmxZENq3T3t0c-cgzXAw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>It's Working...</strong><br/>
+                (prod. notamachine & Gotti)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/justlikeme" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-Vy6XBVY419Qz5sBo-I1oX3g-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Just Like Me</strong><br/>
+                (prod. Chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/drop-my-racks-on-the-floor-prod-chris6lair" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-je7MQTeppbGdBmDx-MbOc0g-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Drop My Racks On The Floor</strong><br/>
+                (prod. Chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/kawaii-creed-demo" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-mYqvkAizT0LtxI5W-uzb4Qw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Tune Off</strong><br/>
+                (prod. creedmakinnoise)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/2foul-prod-geist" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-jMSIBqNEcswHruhM-YwmTug-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>2FOUL</strong><br/>
+                (prod. Geist)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/chill-out-prod-sxxxxn" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-UMw0t83UkfxtT9nq-kuVLqw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>2 hands</strong><br/>
+                (prod. sxxxxn)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/leave-prod-frozeine" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-8v3y09qPpEIq24HT-LbDHIw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Leave</strong><br/>
+                (prod. frozeine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5WcMFgBGwAprkavtzpgT0d?si=d7750df71d3e4001" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-KSDnl3ihOK4mzmJM-n6cKLQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Dujour Speaks (feat. Lil Dujour)</strong><br/>
+                (prod. Meauxminy & Geist)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1SeRmotpPjvM8LxLiA11Rj?si=007f074c964a445d" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-KSDnl3ihOK4mzmJM-n6cKLQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Sacrifice</strong><br/>
+                (prod. Meauxminy & Geist)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7mUAYHUkJULXItbZoliZRH?si=7846219685714fe8" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-KSDnl3ihOK4mzmJM-n6cKLQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Maybe Next Time</strong><br/>
+                (prod. Meauxminy & Geist)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6MSlRI0ke0lTBhfWHWA3r3?si=7b06d3ee01b149e6" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-KSDnl3ihOK4mzmJM-n6cKLQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Spriggan</strong><br/>
+                (prod. Meauxminy & Geist)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1SERFTa6ndjpwY4b1fO4IB?si=7adc599a94dd46bd" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-KSDnl3ihOK4mzmJM-n6cKLQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>10/31 (feat. Boy Floss)</strong><br/>
+                (prod. Meauxminy & Geist)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1OeOaYFIieCjVVn2Yl2Qxh?si=e01a3bf087db4d9e" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273f8f425ed3f229026f4806269" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>ANJU Online! & Kawaii Ry - Mr. Drill / pist off</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/silence-open-amincmaj-151bpmprod-notamachine-joe-leytrick" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-Rx9sm1kcWYHl6eLY-LYuD0Q-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Silence (feat. Jackie Platinum)</strong><br/>
+                (prod. notamachine & Joe Leytrick)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/fiend-prod-semaj" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-vvfmSRs9Jph3PnDo-mlFLyA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Fiend</strong><br/>
+                (prod. Semaj)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/queue-timer-prod-semaj" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-lOBaQWngDe7OMz4a-tx7GKw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Queue Timer</strong><br/>
+                (prod. Semaj)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/claim-up-prod-remy3d" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-aRhN8syAckyuyBBz-fio3AQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Claim Up</strong><br/>
+                (prod. Remy3D)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/kawaiiry/cutting-the-net-up-prod-uglyboy?in=kawaiiry/sets/ugly-tape" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wckpAbEaOz0AbvyM-odUPvw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -879,6 +1098,16 @@ const KawaiiAllReleasesStatic = () => {
               <p class="gallery-text">
                 <strong>Gunna, Future, Kawaii Ry - Too Easy Remix</strong><br/>
                 (prod. Wheezy)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/hellscapedigital/camo-croc" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-M65REbxvpBKAYv1s-c35jbg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>ANJU Online! & Kawaii Ry - Camo Croc</strong><br/>
               </p>
             </a>
           </div>

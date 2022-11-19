@@ -7,6 +7,15 @@ const AnjuIllustrationStatic = () => {
             <Masonry columnsCount={1} gutter={"0.75em"}>
 
                 <div>
+                    <a href="https://open.spotify.com/track/1OeOaYFIieCjVVn2Yl2Qxh?si=9f7847e58f6e4578" target="_blank" rel="noopener noreferrer">
+                        <img src="https://i.imgur.com/d97YdkH.jpg"/>
+                        <p class="gallery-text">
+                            Cover art for <strong>ANJU Online! & Kawaii Ry - Mr. Drill / pist off</strong>
+                        </p>
+                    </a>
+                </div>
+
+                <div>
                     <a href="https://foundation.app/@ANJUonline/anju/1" target="_blank" rel="noopener noreferrer">
                         <img src="https://f8n-production-collection-assets.imgix.net/0x1f597E08f4e7428845EB693d9F49B33f07eF04eD/1/nft.png?q=80&auto=format%2Ccompress&cs=srgb&max-w=1680&max-h=1680"/>
                         <p class="gallery-text">

@@ -4,6 +4,17 @@ const Remy3dAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/claim-up-prod-remy3d" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-aRhN8syAckyuyBBz-fio3AQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Claim Up</strong><br/>
+                (prod. Remy3D)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/3JgFOUJ9Wf9hgYKuiTx3O7?si=282f46548bf64538" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-M0Rzq7jdHWKlMJHT-ormDZw-t500x500.jpg" width="100%" alt=""/><br/>
