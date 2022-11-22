@@ -24,21 +24,29 @@ const Home = () => {
             <div class="title-wrap-rainbow2">
                 <h2>Spotlight</h2>
             </div>            
-            <div class="react-player-responsive">
+            {/* <div class="react-player-responsive">
                 <ReactPlayer
                     url="https://soundcloud.com/kawaiiry/executive-prod-uglyboy"
                     width={"100%"}
                     height={"100%"}
                 />
             </div>
-            <p><strong>Kawaii Ry</strong> - Executive <br/>(prod. uglyboy)</p>          
+            <p><strong>Kawaii Ry</strong> - Executive <br/>(prod. uglyboy)</p>           */}
+            <div class="music-video">
+                <div class="music-video-container">
+                <iframe src="https://www.youtube.com/embed/0PDDyumLrYo" title="SWAG SUPPLIER" allowfullscreen></iframe>
+                </div>
+                <p class="video-title-text">
+                <strong>ANJU Online! & Kawaii Ry</strong><br/>SWAG SUPPLIER (feat. STARINTHESKY)
+                </p>
+            </div>
         </div>       
 
         <LatestUpdates/>                 
 
         <div class="card-container">
             <div class="title-wrap-rainbow">
-                <h2><NavLink to={"/music"}>Latest Releases - Music</NavLink></h2>
+                <h2><NavLink to={"/music"}>Latest Music</NavLink></h2>
             </div>
             <LatestMusicAll/>  
         </div> 

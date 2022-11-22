@@ -12,6 +12,7 @@ const LugosiMusicSubindex = () => {
                     <div class="containedText">
                         <h5>
                             <div class="subindexFont">
+                                <NavLink to={"/lugosi/albums"}>Albums</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
                                 <NavLink to={"/lugosi/eps"}>EPs</NavLink>
                             </div>
                         </h5>   
@@ -23,7 +24,7 @@ const LugosiMusicSubindex = () => {
                         </h5> 
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/lugosi/all"}>All Releases (32)</NavLink>
+                                <NavLink to={"/lugosi/all"}>All Releases (42)</NavLink>
                             </div>
                         </h5>              
                     </div>

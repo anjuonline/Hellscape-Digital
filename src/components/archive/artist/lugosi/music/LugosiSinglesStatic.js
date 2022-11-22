@@ -5,6 +5,116 @@ const LugosiSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/221eCCU3D8CGq0HgxZXjSG?si=859fd72f996f4715" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-Q2HxnkWZU8VXJnaB-wAoMKw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>BREAKING UP</strong><br/>
+                (prod. notamachine & Gotti)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/lillugosi/gone-for-a-minute-prod?in=lillugosi/sets/lugosi" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-ruOlwPoeh82e49kX-2vdXvg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>gone for a minute</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/lillugosi/howlong-prod-taurs?in=lillugosi/sets/lugosi" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-ruOlwPoeh82e49kX-2vdXvg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>HOWLONG</strong><br/>
+                (prod. Taurs)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/lillugosi/mover-shaker-prod-cl6udy?in=lillugosi/sets/lugosi" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-ruOlwPoeh82e49kX-2vdXvg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>mover//shaker</strong><br/>
+                (prod. Cl6udy & sovdes)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/lillugosi/saveme-prod-klimlords?in=lillugosi/sets/lugosi" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-ruOlwPoeh82e49kX-2vdXvg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>SAVEME</strong><br/>
+                (prod. Klimlords)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/lillugosi/slow-mo-prod-cl6udy?in=lillugosi/sets/lugosi" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-ruOlwPoeh82e49kX-2vdXvg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>slow mo</strong><br/>
+                (prod. Cl6udy & Jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/lillugosi/onechance-prod-taurs?in=lillugosi/sets/lugosi" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-ruOlwPoeh82e49kX-2vdXvg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>onechance</strong><br/>
+                (prod. Taurs)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/lillugosi/grip-prod-taurs-x-jolst?in=lillugosi/sets/lugosi" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-ruOlwPoeh82e49kX-2vdXvg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>grip</strong><br/>
+                (prod. Taurs & Jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/lillugosi/bin2-prod-jvsper?in=lillugosi/sets/lugosi" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-ruOlwPoeh82e49kX-2vdXvg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>bin2</strong><br/>
+                (prod. Jvsper)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/lillugosi/wrentonmywrist-prod-wissery-x?in=lillugosi/sets/lugosi" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-ruOlwPoeh82e49kX-2vdXvg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>wrentonmywrist</strong><br/>
+                (prod. Wissery & Jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/lillugosi/223-freestyle-prod-hxllxw" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-V1jgun19144MELyM-hHHWhg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

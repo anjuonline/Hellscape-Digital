@@ -34,6 +34,7 @@ import ArchiveMusicKawaiiFeatures from './pages/archive/music/kawaiiry/ArchiveMu
 
 import ArchiveMusicLugosi from './pages/archive/music/lugosi/ArchiveMusicLugosi';
 import ArchiveMusicLugosiEps from './pages/archive/music/lugosi/ArchiveMusicLugosiEps';
+import ArchiveMusicLugosiAlbums from './pages/archive/music/lugosi/ArchiveMusicLugosiAlbums';
 import ArchiveMusicLugosiSingles from './pages/archive/music/lugosi/ArchiveMusicLugosiSingles';
 import ArchiveMusicLugosiFeatures from './pages/archive/music/lugosi/ArchiveMusicLugosiFeatures';
 
@@ -86,6 +87,8 @@ import ArchiveArtworkCloudiDaze from './pages/archive/artwork/cloudidaze/Archive
 import ArchiveUpdates from './pages/archive/updates/ArchiveUpdates';
 import ArchiveChangelog from './pages/archive/updates/ArchiveChangelog';
 
+import AnjuHomepage from './pages/roster/anjuonline/AnjuHomepage';
+
 function App() {
   return (
     <BrowserRouter>
@@ -118,6 +121,7 @@ function App() {
 
           <Route path='/lugosi/all' element={<ArchiveMusicLugosi />} />
           <Route path='/lugosi/eps' element={<ArchiveMusicLugosiEps />} />
+          <Route path='/lugosi/albums' element={<ArchiveMusicLugosiAlbums />} />
           <Route path='/lugosi/singles' element={<ArchiveMusicLugosiSingles />} />
           <Route path='/lugosi/features' element={<ArchiveMusicLugosiFeatures />} />
 
@@ -171,6 +175,8 @@ function App() {
 
           <Route path='/updates' element={<ArchiveUpdates />} />
           <Route path='/changelog' element={<ArchiveChangelog />} />
+
+          <Route path='/anjuonline' element={<AnjuHomepage />} />
 
         </Route>
         <Route path='*' element={<Error />} />

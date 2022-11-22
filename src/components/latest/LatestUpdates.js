@@ -11,35 +11,31 @@ const LatestUpdates = () => {
 
 
               <h3>
-                    November 18, 2022
+                    November 20, 2022
                 </h3> 
-                    <p class="changelogtext">
+                    <p class="changelogtext"> 
                         <ul>
                             <li>
                                 <strong>&bull; <i>New Music</i></strong>
                                 <ul>
-                                    <li>&bull; ANJU Online & Kawaii Ry - Mr. Drill / pist off</li>
+                                <li>&bull; Kawaii Ry - Fruity Pebbles (prod. notamachine, depart & dynoxmusic)</li>
+                                <li>&bull; Kawaii Ry - It Happened (prod. Pand)</li>
+                                <li>&bull; Lugosi - LUGOSI LP (9 tracks)</li>
+                                <li>&bull; Lugosi - BREAKING UP (prod. notamachine & Gotti)</li>
+                                <li>&bull; Josen - LEAVIN EM STUCK' w/ REROCK! (prod. REROCK / mashup by Geist)</li>
+                                <li>&bull; Josen - LOLLIPOP (prod. TONTO)</li>
                                 </ul>
                             </li>
-                        </ul> 
-                        <ul>
-                            <li>
-                                <strong>&bull; <i>New Artwork</i></strong>
-                                <ul>
-                                    <li>&bull; 41 Cloudi Daze illustrations added to artwork archive</li>
-                                    <li>&bull; 1 ANJU Online! illustration added to artwork archive</li>
-                                </ul>
-                            </li>
-                        </ul>   
+                        </ul>
                         <ul>
                             <li>
                                 <strong>&bull; <i>Site Upgrades</i></strong>
                                 <ul>
-                                    <li>&bull; Cloudi Daze portfolio reinstated to artwork archive</li>
+                                <li>&bull; Albums page added to Lugosi archive</li>
                                 </ul>
                             </li>
-                        </ul> 
-                    </p>                 
+                        </ul>
+                    </p>                
               </div>
               <div class="containedText">               
                 <p><NavLink to={"/changelog"}><i><u>Full Site Changelog</u></i><u> →</u></NavLink></p>
