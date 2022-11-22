@@ -7,6 +7,39 @@ const KawaiiAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/trunk-prod-malloy" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-ynaqd74XgLbY0jib-UMYkzA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Trunk</strong><br/>
+                (prod. malloy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/it-happened-prod-pand" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-S9ei2QinDvtuySMZ-uP6PUg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>It Happened</strong><br/>
+                (prod. Pand)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/fruity-peebbbles-53122-455-pm" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-KKiZ1NmLLzlGvNPx-o64N4Q-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Fruity Pebbles</strong><br/>
+                (prod. notamachine, depart & dynoxmusic)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/kawaiiry/off-it-prod-notamachine" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-3oINC0l3ccyLiIg2-j7IoTQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

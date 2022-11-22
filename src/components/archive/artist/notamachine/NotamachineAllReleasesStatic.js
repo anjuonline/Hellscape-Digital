@@ -5,6 +5,17 @@ const NotamachineAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/fruity-peebbbles-53122-455-pm" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-KKiZ1NmLLzlGvNPx-o64N4Q-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Fruity Pebbles</strong><br/>
+                (prod. notamachine, depart & dynoxmusic)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://soundcloud.com/kawaiiry/off-it-prod-notamachine" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-3oINC0l3ccyLiIg2-j7IoTQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

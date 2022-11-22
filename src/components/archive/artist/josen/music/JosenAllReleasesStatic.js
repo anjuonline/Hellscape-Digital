@@ -5,6 +5,28 @@ const JosenAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/lolipop-prod-tonto" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-eG5y9Tg0XSqYe9QV-8jK1JQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>LOLLIPOP</strong><br/>
+                (prod. TONTO)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/leavin-em-stuck-w-rerockraps" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-XWGEXOZGAA4d0KhN-DBYCUQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>LEAVIN EM STUCK' w/ REROCK!</strong><br/>
+                (prod. REROCK / mashup by Geist)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/liljosen/visa-prod-leovisa" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-wgyCob9yoY8t211z-uVZwMQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
