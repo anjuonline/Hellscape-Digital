@@ -259,6 +259,14 @@ a {
   height: 20em;
 }
 
+.react-player-responsive-playlist { 
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 1em;
+  padding-bottom: 0;
+  height: 40em;
+}
+
 .flex-column-contained-text { 
   align-content: center;
   padding-left: 1em;
@@ -458,8 +466,8 @@ ul {
   .containedTextLeft {
     margin-left: 0!important;
     margin-right: 0!important;
-    padding-left: 0.5em!important;
-    padding-right: 0.5em!important;
+    padding-left: 0.6em!important;
+    padding-right: 0.6em!important;
     text-align: left;
   }
   .containedImg {
@@ -594,4 +602,14 @@ ul {
 .grayTextLeft {
   color: #acacac;
   text-align: left;
+}
+
+.grayText {
+  color: #acacac;
+}
+
+.backToTop {
+  color: #555555;
+  font-size: 12px;
+  text-align: right;
 }
