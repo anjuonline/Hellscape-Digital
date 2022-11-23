@@ -455,6 +455,19 @@ ul {
   .masonry-wrap {
     margin: 0.5em!important;
   }
+  .containedTextLeft {
+    margin-left: 0!important;
+    margin-right: 0!important;
+    padding-left: 0.5em!important;
+    padding-right: 0.5em!important;
+    text-align: left;
+  }
+  .containedImg {
+    margin-left: 0!important;
+    margin-right: 0!important;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
 }
 
 .masonry-wrap {
@@ -562,14 +575,23 @@ ul {
   margin-right: 1em;
 }
 
-.containedText {
+.containedTextLeft {
   margin-left: .25em;
   margin-right: .25em;
   text-align: left;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .containedTextRight {
   margin-left: .25em;
   margin-right: .25em;
   text-align: right;
+}
+
+.grayTextLeft {
+  color: #acacac;
+  text-align: left;
 }
