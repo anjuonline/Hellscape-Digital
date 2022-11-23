@@ -10,8 +10,8 @@ const AnjuHomepageIndex = () => {
             <div class="containedText">
               <div class="indexText">
                 <a href="#artwork">Artwork 🎨</a>
-                &nbsp;&nbsp;<a href="#music">Music 🎸</a>
-                &nbsp;&nbsp;<a href="#clothing">Clothing 🧵</a>
+                &nbsp;<a href="#music">Music 🎸</a>
+                &nbsp;<a href="#clothing">Clothing 🧵</a>
                 {/* <NavLink to={"/archive/artwork"}>&nbsp;&nbsp;Artwork&nbsp;&nbsp;</NavLink> */}
               </div>
             </div>
@@ -20,7 +20,7 @@ const AnjuHomepageIndex = () => {
             <div class="containedText">
               <div class="indexText">
                 <a href="#socials">Socials 💌</a>
-                &nbsp;&nbsp;<a href="#fanart">Fan Art 💖</a>
+                &nbsp;<a href="#fanart">Fan Art 💖</a>
               </div>
             </div>
           </div>
