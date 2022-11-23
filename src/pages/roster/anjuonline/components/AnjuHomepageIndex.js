@@ -9,12 +9,18 @@ const AnjuHomepageIndex = () => {
           <div class="flexColumn">
             <div class="containedText">
               <div class="indexText">
-                &nbsp;&nbsp;<a href="#artwork">Artwork</a>&nbsp;&nbsp;
-                <CrossSymbol />
-                <NavLink to={"/anjuonline/music/all"}>&nbsp;&nbsp;Music&nbsp;&nbsp;</NavLink>
-                <CrossSymbol />
-                &nbsp;&nbsp;<a href="#clothing">Clothing</a>&nbsp;&nbsp;
+                <a href="#artwork">Artwork 🎨</a>
+                &nbsp;&nbsp;<a href="#music">Music 🎸</a>
+                &nbsp;&nbsp;<a href="#clothing">Clothing 🧵</a>
                 {/* <NavLink to={"/archive/artwork"}>&nbsp;&nbsp;Artwork&nbsp;&nbsp;</NavLink> */}
+              </div>
+            </div>
+          </div>
+          <div class="flexColumn">
+            <div class="containedText">
+              <div class="indexText">
+                <a href="#socials">Socials 💌</a>
+                &nbsp;&nbsp;<a href="#fanart">Fan Art 💖</a>
               </div>
             </div>
           </div>

@@ -22,28 +22,33 @@ const AnjuHomepage = () => {
 
           <div class="containedImg">
             <img src="https://i.imgur.com/sO14OX6.jpg"></img>
+            <img src="https://i.imgur.com/xXfmz1h.jpeg"></img>
           </div>
         
           <div>
             <p class="containedTextLeft">
-              <br/>Creator of Hellscape Digital, <strong>ANJU Online!</strong> is a virtual girl making art, music & clothes alone in her room.
+              <br/>Creator of Hellscape Digital, <strong>ANJU Online!</strong> is a virtual girl making art, music and clothing.
               <br/><br/>
               Through a nostalgic lens of mid-2000s web culture, Anju's work across multiple mediums explores concepts of social connectedness and the way technology drives perception of others and oneself.
             </p>
+            <div id="index"></div>
           </div>
 
         </div> 
+
+        
 
         <AnjuHomepageIndex></AnjuHomepageIndex>
 
         <div class="card-container">
           <div class="title-wrap-rainbow">
-            <h2 id="artwork">🎨 Artwork</h2>
+            <h2 id="artwork">ANJU Online! - Artwork 🎨 <a href="#index"><span class="backToTop"><i>(Back to Index)</i></span></a></h2>
           </div>
 
           <div>
-            <p>
-            <br/><i>Below are Anju's collections of selected works available for sale. <br/>See <a href="https://hellscapedigital.net/anjuonline/art/all"><u>Archive</u></a> for complete portfolio.</i><br/>
+            <p class="containedText">
+              <span class="grayText">
+            <br/><i>Below are Anju's collections of selected works available for sale. <br/>See <a href="https://hellscapedigital.net/anjuonline/art/all"><u>Archive</u></a> for complete portfolio.</i></span><br/>
             </p>
           </div>
 
@@ -55,7 +60,7 @@ const AnjuHomepage = () => {
         
           <div>
             <p class="containedTextLeft">
-              <strong>ANJU Online! (Foundation Collection)</strong><br/><span class="grayTextLeft">1/1 illustrations on the Ethereum blockchain.</span><br/>
+              <strong><a href="https://foundation.app/@ANJUonline" target="blank;" rel="noopener noreferrer">ANJU Online! (Foundation)</a></strong><br/><span class="grayTextLeft">1/1 illustrations on the Ethereum blockchain</span><br/>
             </p>
           </div>
 
@@ -107,13 +112,13 @@ const AnjuHomepage = () => {
 
         <div>
             <p class="containedText">
-             <u>View full collection on Foundation</u><br/><br/>
+            <span class="grayText"><u><i><a href="https://foundation.app/@ANJUonline" target="_blank" rel="noopener noreferrer" class="grayText">View full collection on Foundation</a></i></u></span><br/><br/>
             </p>
           </div>
 
           <div>
             <p class="containedTextLeft">
-            <strong>ANJU Online! (Objkt Collection)</strong><br/><span class="grayTextLeft">Multi-edition illustrations on the Tezos blockchain.</span>
+            <strong><a href="https://objkt.com/collection/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ" target="_blank" rel="noopener noreferrer">ANJU Online! (Objkt.com)</a></strong><br/><span class="grayTextLeft">Multi-edition illustrations on the Tezos blockchain</span>
             </p>
           </div>
 
@@ -122,12 +127,12 @@ const AnjuHomepage = () => {
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/26" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmW4eR9cP5nPGxcNKpsaT73Sw98HZz8U9DEwg5eF2Uo1bT/artifact"/>                  
+                        <img src="https://i.imgur.com/Z9JVWbo.jpeg"/>                  
                         <p class="gallery-text-left">
                           <strong>Summer in November</strong><br/>
                           <span class="grayTextLeft">
                             <strong>9/12</strong> Available<br/>
-                            <strong>2 ꜩ</strong> (Primary)
+                            <strong>2 XTZ</strong> (Primary)
                           </span>
                         </p>
                     </a> 
@@ -135,11 +140,11 @@ const AnjuHomepage = () => {
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/25" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmYibnANxNLUCo1jR64whSR8XXmBPgZFZzFDaerTcEcFdv/artifact"/>                  
+                        <img src="https://i.imgur.com/7IDSjbZ.jpeg"/>                  
                         <p class="gallery-text-left">
                           <strong>Friend Request</strong><br/>
                           <span class="grayTextLeft">
-                            <strong>0/12</strong> Available
+                            <strike><strong>0/12</strong> Available</strike><br/>Sold Out
                           </span>
                         </p>
                     </a> 
@@ -147,12 +152,12 @@ const AnjuHomepage = () => {
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/24" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmdQ6vopmoQTMBrttmyzMWSiXmG2ouxXPrUKzJBUTgF3ZB/artifact"/>                  
+                        <img src="https://i.imgur.com/IIO7yUN.jpeg"/>                  
                         <p class="gallery-text-left">
                           <strong>Fit Check</strong><br/>
                           <span class="grayTextLeft">
                             <strong>1/30</strong> Available<br/>
-                            <strong>1 ꜩ</strong> (Primary)
+                            <strong>1 XTZ</strong> (Primary)
                           </span>
                         </p>
                     </a> 
@@ -160,12 +165,12 @@ const AnjuHomepage = () => {
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/23" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmeyYHJpRTgpnSUSpDdMvcvQPNz26kNSUHgqHzwAK8uQLA/artifact"/>                  
+                        <img src="https://i.imgur.com/TpKsXp6.jpeg"/>                  
                         <p class="gallery-text-left">
                           <strong>Almost Home</strong><br/>
                           <span class="grayTextLeft">
                             <strong>11/15</strong> Available<br/>
-                            <strong>1 ꜩ</strong> (Primary)
+                            <strong>1 XTZ</strong> (Primary)
                           </span>
                         </p>
                     </a> 
@@ -178,7 +183,7 @@ const AnjuHomepage = () => {
                           <strong>ANJU is Now Online!</strong><br/>
                           <span class="grayTextLeft">
                             <strong>13/20</strong> Available<br/>
-                            <strong>1 ꜩ</strong> (Primary)
+                            <strong>1 XTZ</strong> (Primary)
                           </span>
                         </p>
                     </a> 
@@ -186,12 +191,12 @@ const AnjuHomepage = () => {
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/21" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmRttAk9BLjZkYataWyUCWDEQCPGUfHgshMZ8GjRYQZMKZ/artifact"/>                  
+                        <img src="https://i.imgur.com/1cjm1lq.png"/>                  
                         <p class="gallery-text-left">
                           <strong>Fresh Air</strong><br/>
                           <span class="grayTextLeft">
                             <strong>4/15</strong> Available<br/>
-                            <strong>0.8 ꜩ</strong> (Primary)
+                            <strong>0.8 XTZ</strong> (Primary)
                           </span>
                         </p>
                     </a> 
@@ -199,12 +204,12 @@ const AnjuHomepage = () => {
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/20" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmY1pv3XXpdgBuppYMPAyAXREemxwU1W7XV8e93EzCbYvo/artifact"/>                  
+                        <img src="https://i.imgur.com/yxPX7Wt.png"/>                  
                         <p class="gallery-text-left">
                           <strong>Sound Check</strong><br/>
                           <span class="grayTextLeft">
                             <strong>15/20</strong> Available<br/>
-                            <strong>0.8 ꜩ</strong> (Primary)
+                            <strong>0.8 XTZ</strong> (Primary)
                           </span>
                         </p>
                     </a> 
@@ -212,12 +217,12 @@ const AnjuHomepage = () => {
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/18" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/Qme1K88Syt8JKENMz6cKrScdid5c1hdfothm8SjdiFr3cW/artifact"/>                  
+                        <img src="https://i.imgur.com/cRqH6Vf.jpeg"/>                  
                         <p class="gallery-text-left">
                           <strong>Good... For Now.</strong><br/>
                           <span class="grayTextLeft">
                             <strong>1/20</strong> Available<br/>
-                            <strong>0.8 ꜩ</strong> (Primary)
+                            <strong>0.8 XTZ</strong> (Primary)
                           </span>
                         </p>
                     </a> 
@@ -225,27 +230,39 @@ const AnjuHomepage = () => {
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/17" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmW5sEVqCNECBqDLp8nB9RGcFbjMeEDmWVtiyB1iesWFvZ/artifact"/>                  
+                        <img src="https://i.imgur.com/X3KC0hL.jpeg"/>                  
                         <p class="gallery-text-left">
-                          <strong>Procrastination</strong><br/>10/20 Available<br/>0.8 ꜩ (Primary)
+                          <strong>Procrastination</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>10/20</strong> Available<br/>
+                            <strong>0.8 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/16" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmWQQdNbj2KMUFnmjgRqZuExw1Vx2aLgdK77hAE7MZx2Xt/artifact"/>                  
+                        <img src="https://i.imgur.com/dbFW6b8.jpeg"/>                  
                         <p class="gallery-text-left">
-                          <strong>Logging In</strong><br/>9/20 Available<br/>0.8 ꜩ (Primary)
+                          <strong>Logging In</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>9/20</strong> Available<br/>
+                            <strong>0.8 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/15" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmPmVVRQCJZDPmdrjCqsFpnXjAAXNkksesih5bYnijuBNi/artifact"/>                  
+                        <img src="https://i.imgur.com/GlRLjhN.jpeg"/>                  
                         <p class="gallery-text-left">
-                          <strong>Security</strong><br/>11/20 Available<br/>0.69 ꜩ (Primary)
+                          <strong>Security</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>11/20</strong> Available<br/>
+                            <strong>0.69 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
@@ -254,34 +271,50 @@ const AnjuHomepage = () => {
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/14" target="_blank" rel="noopener noreferrer">
                         <img src="https://i.imgur.com/wDxXKAh.jpeg"/>                  
                         <p class="gallery-text-left">
-                          <strong>4AM Anxiety Bath</strong><br/>6/20 Available<br/>0.8 ꜩ (Primary)
+                          <strong>4AM Anxiety Bath</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>6/20</strong> Available<br/>
+                            <strong>0.8 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/13" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/Qmc8yeq3hHmr8UmDfAkXCMG16DkamxxhNQRifrW5MMKH5N/artifact"/>                  
+                        <img src="https://i.imgur.com/xXfmz1h.jpeg"/>                  
                         <p class="gallery-text-left">
-                          <strong>We Need To Talk</strong><br/>9/20 Available<br/>0.69 ꜩ (Primary)
+                          <strong>We Need To Talk</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>9/20</strong> Available<br/>
+                            <strong>0.69 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/12" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmR18Qf2Q3MbKGy3st7iKHSszpgG9s4cgK1mLmedFLAxzx/artifact"/>                  
+                        <img src="https://i.imgur.com/OxApZUB.jpeg"/>                  
                         <p class="gallery-text-left">
-                          <strong>Do Not Disturb</strong><br/>9/19 Available<br/>0.69 ꜩ (Primary)
+                          <strong>Do Not Disturb</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>9/19</strong> Available<br/>
+                            <strong>0.69 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/11" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmV5jXBM3Xvp3SepEymyUia8ikGcmYem8xxj6Jd84yjqa5/artifact"/>                  
+                        <img src="https://i.imgur.com/7tL0IEb.jpeg"/>                  
                         <p class="gallery-text-left">
-                          <strong>Coffee Break</strong><br/>7/15 Available<br/>0.69 ꜩ (Primary)
+                          <strong>Coffee Break</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>7/15</strong> Available<br/>
+                            <strong>0.69 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
@@ -290,43 +323,63 @@ const AnjuHomepage = () => {
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/11" target="_blank" rel="noopener noreferrer">
                         <img src="https://i.imgur.com/jDzjkr7.jpeg"/>                  
                         <p class="gallery-text-left">
-                          <strong>Missed Calls</strong><br/>6/13 Available<br/>0.69 ꜩ (Primary)
+                          <strong>Missed Calls</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>6/13</strong> Available<br/>
+                            <strong>0.69 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/9" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmYd7MA2ibBaKJ3xDMP4GPJoCFFim9RUhmQMedVo3YZS8A/artifact"/>                  
+                        <img src="https://i.imgur.com/DWQNOGD.jpeg"/>                  
                         <p class="gallery-text-left">
-                          <strong>No Hands</strong><br/>15/19 Available<br/>0.69 ꜩ (Primary)
+                          <strong>No Hands</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>15/19</strong> Available<br/>
+                            <strong>0.69 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/8" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmZWBxXmdRAWk3cqSninKFAtbWERR5QszUbguPfsNnVuvo/artifact"/>                  
+                        <img src="https://i.imgur.com/EyXf2ZE.jpeg"/>                  
                         <p class="gallery-text-left">
-                          <strong>Bedford Station</strong><br/>3/9 Available<br/>0.69 ꜩ (Primary)
+                          <strong>Bedford Station</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>3/9</strong> Available<br/>
+                            <strong>0.69 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/7" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmYDS7H4j1Ta3539EE1CBDZuQD7mujmrFHPchutrWFy9rM/artifact"/>                  
+                        <img src="https://i.imgur.com/VrlMT9g.jpeg"/>                  
                         <p class="gallery-text-left">
-                          <strong>No Service</strong><br/>12/14 Available<br/>0.69 ꜩ (Primary)
+                          <strong>No Service</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>12/14</strong> Available<br/>
+                            <strong>0.69 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/6" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmXrBVFdxhF7aRvcC4ffcgU77kf6bKbxnvv6TZEriDjYYH/artifact"/>                  
+                        <img src="https://i.imgur.com/e5HqlMh.jpg"/>                  
                         <p class="gallery-text-left">
-                          <strong>?</strong><br/>10/16 Available<br/>0.69 ꜩ (Primary)
+                          <strong>?</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>10/16</strong> Available<br/>
+                            <strong>0.69 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
@@ -335,34 +388,50 @@ const AnjuHomepage = () => {
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/5" target="_blank" rel="noopener noreferrer">
                         <img src="https://i.imgur.com/eCB2G2q.jpeg"/>                  
                         <p class="gallery-text-left">
-                          <strong>The World Is Yours</strong><br/>6/11 Available<br/>0.8 ꜩ (Primary)
+                          <strong>The World Is Yours</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>6/11</strong> Available<br/>
+                            <strong>0.8 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/4" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmYz6Bi4yAjKeQiLb8v5wGfLsjFP3Wm58EcBGEGWSWvKRH/artifact"/>                  
+                        <img src="https://i.imgur.com/pGrmlDk.jpg"/>                  
                         <p class="gallery-text-left">
-                          <strong>Concept Art 2</strong><br/>18/20 Available<br/>0.69 ꜩ (Primary)
+                          <strong>Concept Art 2</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>18/20</strong> Available<br/>
+                            <strong>0.69 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/3" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmbvwqoWXtGLxGZ9AW5NvVro1qADtB2DR3ZnDyw3rGKm41/artifact"/>                  
+                        <img src="https://i.imgur.com/EALW4vv.jpg"/>                  
                         <p class="gallery-text-left">
-                          <strong>Concept Art 1</strong><br/>18/20 Available<br/>0.69 ꜩ (Primary)
+                          <strong>Concept Art 1</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>18/20</strong> Available<br/>
+                            <strong>0.69 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ/0" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmPdoHBVs2QsYukPdmgXpifVyCWnooiRNYb2DuCagUfsAP/artifact"/>                  
+                        <img src="https://i.imgur.com/X3tCScn.jpg"/>                  
                         <p class="gallery-text-left">
-                          <strong>Open For Business</strong><br/><span class="grayTextLeft">0/1 Available</span>
+                          <strong>Open For Business</strong><br/>
+                          <span class="grayTextLeft">
+                            <strike><strong>0/1</strong> Available</strike><br/>
+                            Sold Out
+                          </span>
                         </p>
                     </a> 
                 </div>
@@ -372,60 +441,148 @@ const AnjuHomepage = () => {
 
         <div>
             <p class="containedText">
-             <u>View full collection on Objkt</u><br/><br/>
+             <u><a href="https://objkt.com/collection/KT1DesRScqioLdizyRvsGyc9rkxh5qwtUcrZ" target="_blank" rel="noopener noreferrer" class="grayText"><i>View full collection on Objkt.com</i></a></u><br/><br/>
             </p>
           </div>
 
           <div>
             <p class="containedTextLeft">
-            <strong>Solid State Memories (Objkt Collection)</strong><br/>1/1 photography captured on a Motorola Razr V3M:
+            <strong><a href="https://objkt.com/collection/KT1DRrBU2FaowRrrkDwcPSsGU392TWRzZqpo" target="_blank;" rel="noopener noreferrer">Solid State Memories (Objkt.com)</a></strong><br/><span class="grayTextLeft">1/1 photography captured on a Motorola Razr V3M</span>
             </p>
           </div>
+
+          {/* <div class="containedImg">
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.imgur.com/SMCBKdQ.jpg"></img>
+              <p class="gallery-text-left">
+                <span class="grayTextLeft">
+                  <strike><strong>0/1</strong> Available<br/></strike>
+                  <i>Owned by <a href="https://twitter.com/ry2kawaii" target="_blank" rel="noopener noreferrer"><strong>Kawaii Ry</strong></a></i>
+                </span>
+              </p> 
+            </a>
+          </div> */}
 
           <div class="masonry-wrap">
             <Masonry columnsCount={3} gutter={"0.75em"}>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DRrBU2FaowRrrkDwcPSsGU392TWRzZqpo/9" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmXr9cs8GJu7wg2oe7KkFe45j6q3DusUAw1Qz9hgafbShC/artifact"/>                  
+                        <img src="https://i.imgur.com/1Nj7cIP.jpg"/>                  
                         <p class="gallery-text-left">
-                          1/1 Available (Primary)<br/>1 ꜩ
+                          <span class="grayTextLeft">
+                            <strong>1/1</strong> Available<br/>
+                            <strong>1 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DRrBU2FaowRrrkDwcPSsGU392TWRzZqpo/8" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmP4xaSGcgALmZa4mFF2tHHM5QpbARLseLbUYVHRhv8vfh/artifact"/>                  
+                        <img src="https://i.imgur.com/uMGum0K.jpg"/>                  
                         <p class="gallery-text-left">
-                          1/1 Available (Primary)<br/>1 ꜩ
+                          <span class="grayTextLeft">
+                            <strong>1/1</strong> Available<br/>
+                            <strong>1 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DRrBU2FaowRrrkDwcPSsGU392TWRzZqpo/7" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmdiWAdAEErtvjRRe7XhqAk7ubREhRXv6etvDmLtpHe5qW/artifact"/>                  
+                        <img src="https://i.imgur.com/pYxYmnU.jpg"/>                  
                         <p class="gallery-text-left">
-                          <span class="grayTextLeft">0/1 Available</span><br/><i>Owned by <strong><a href="https://twitter.com/EyeAmPeriod" target="_blank" rel="noopener noreferrer"></a>EyeAm.</strong></i>
+                          <span class="grayTextLeft">
+                            <strike><strong>0/1</strong> Available</strike><br/>
+                            <i>Owned by <a href="https://twitter.com/EyeAmPeriod" target="_blank" rel="noopener noreferrer"><strong>EyeAm.</strong></a></i>
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DRrBU2FaowRrrkDwcPSsGU392TWRzZqpo/6" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmU1wrk6QGU3hHUNfWkhwCEsjWJ19RWSwzJyDpzpXKTs9h/artifact"/>                  
+                        <img src="https://i.imgur.com/4MAfaZc.jpg"/>                  
                         <p class="gallery-text-left">
-                          1/1 Available (Secondary)<br/>50 ꜩ<br/><i>Owned by <strong><a href="https://twitter.com/EyeAmPeriod" target="_blank" rel="noopener noreferrer"></a>EyeAm.</strong></i>
+                          <span class="grayTextLeft">
+                            <strong>1/1</strong> Available<br/>
+                            <strong>50 XTZ</strong> (Secondary)<br/>
+                            <i>Owned by <a href="https://twitter.com/EyeAmPeriod" target="_blank" rel="noopener noreferrer"><strong>EyeAm.</strong></a></i>
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1DRrBU2FaowRrrkDwcPSsGU392TWRzZqpo/5" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmU8vVy9EdDaR4LZ1JV2BHPwFoQrJm6MkJw1xC4c5TuBSW/artifact"/>                  
+                        <img src="https://i.imgur.com/ajkfAwX.jpg"/>                  
                         <p class="gallery-text-left">
-                          1/1 Available (Primary)<br/>1 ꜩ
+                          <span class="grayTextLeft">
+                            <strong>1/1</strong> Available<br/>
+                            <strong>1 XTZ</strong> (Primary)
+                          </span>
+                        </p>
+                    </a> 
+                </div>
+
+                <div>
+                    <a href="https://objkt.com/asset/KT1DRrBU2FaowRrrkDwcPSsGU392TWRzZqpo/4" target="_blank" rel="noopener noreferrer">
+                        <img src="https://i.imgur.com/1czvNkJ.jpg"/>                  
+                        <p class="gallery-text-left">
+                          <span class="grayTextLeft">
+                            <strong>1/1</strong> Available<br/>
+                            <strong>3 XTZ</strong> (Primary)
+                          </span>
+                        </p>
+                    </a> 
+                </div>
+
+                <div>
+                    <a href="https://objkt.com/asset/KT1DRrBU2FaowRrrkDwcPSsGU392TWRzZqpo/3" target="_blank" rel="noopener noreferrer">
+                        <img src="https://i.imgur.com/yeicEjf.jpg"/>                  
+                        <p class="gallery-text-left">
+                          <span class="grayTextLeft">
+                            <strong>1/1</strong> Available<br/>
+                            <strong>2 XTZ</strong> (Primary)
+                          </span>
+                        </p>
+                    </a> 
+                </div>
+
+                <div>
+                    <a href="https://objkt.com/asset/KT1DRrBU2FaowRrrkDwcPSsGU392TWRzZqpo/2" target="_blank" rel="noopener noreferrer">
+                        <img src="https://i.imgur.com/VyV5dmj.jpg"/>                  
+                        <p class="gallery-text-left">
+                          <span class="grayTextLeft">
+                            <strong>1/1</strong> Available<br/>
+                            <strong>2 XTZ</strong> (Primary)
+                          </span>
+                        </p>
+                    </a> 
+                </div>
+
+                <div>
+                    <a href="https://objkt.com/asset/KT1DRrBU2FaowRrrkDwcPSsGU392TWRzZqpo/1" target="_blank" rel="noopener noreferrer">
+                        <img src="https://i.imgur.com/p9aEcEb.jpg"/>                  
+                        <p class="gallery-text-left">
+                          <span class="grayTextLeft">
+                            <strong>1/1</strong> Available<br/>
+                            <strong>3 XTZ</strong> (Primary)
+                          </span>
+                        </p>
+                    </a> 
+                </div>
+
+                <div>
+                    <a href="https://objkt.com/asset/KT1DRrBU2FaowRrrkDwcPSsGU392TWRzZqpo/0" target="_blank" rel="noopener noreferrer">
+                        <img src="https://i.imgur.com/SMCBKdQ.jpg"/>                  
+                        <p class="gallery-text-left">
+                          <span class="grayTextLeft">
+                            <strike><strong>0/1</strong> Available</strike><br/>
+                            <i>Owned by <a href="https://twitter.com/ry2kawaii" target="_blank" rel="noopener noreferrer"><strong>Kawaii Ry</strong></a></i>
+                          </span>
                         </p>
                     </a> 
                 </div>
@@ -434,8 +591,17 @@ const AnjuHomepage = () => {
         </div>          
 
           <div>
+            <p class="containedText">
+             <u><a href="https://objkt.com/collection/KT1DRrBU2FaowRrrkDwcPSsGU392TWRzZqpo" target="_blank" rel="noopener noreferrer" class="grayText"><i>View full collection on Objkt.com</i></a></u><br/><br/>
+            </p>
+          </div>
+
+          <div>
             <p class="containedTextLeft">
-            <strong>ANJUcore (Objkt Collection)</strong><br/>A mixed media collection exploring the aesthetics and creative direction of the ANJU Online! universe:
+            <strong><a href="https://objkt.com/collection/KT1MAZH3oa2TUTMG4Bu7SGnMVhW2Ms2ePBgL" target="_blank" rel="noopener noreferrer">ANJUcore (Objkt.com)</a></strong><br/>
+              <span class="grayTextLeft">
+                A mixed media collection exploring the aesthetics and creative direction of the <strong>ANJU Online!</strong> universe
+              </span>
             </p>
           </div>
 
@@ -444,18 +610,26 @@ const AnjuHomepage = () => {
 
                 <div>
                     <a href="https://objkt.com/asset/KT1MAZH3oa2TUTMG4Bu7SGnMVhW2Ms2ePBgL/2" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/Qmbux6c83d4fyEH3vas67WNqQkw7ymjPGjgsZ3qhn8NQaa/artifact"/>                  
+                        <img src="https://i.imgur.com/t12GAYt.jpg"/>                  
                         <p class="gallery-text-left">
-                          <strong>𝘨𝘭𝘢𝘴𝘴_𝘫𝘢𝘳.𝘫𝘱𝘨</strong><br/>2/4 Available (Primary)<br/>0.75 ꜩ
+                          <strong>𝘨𝘭𝘢𝘴𝘴_𝘫𝘢𝘳.𝘫𝘱𝘨</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>2/4</strong> Available<br/>
+                            <strong>0.75 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
 
                 <div>
                     <a href="https://objkt.com/asset/KT1MAZH3oa2TUTMG4Bu7SGnMVhW2Ms2ePBgL/1" target="_blank" rel="noopener noreferrer">
-                        <img src="https://assets.objkt.media/file/assets-003/QmXcnJNGnUp99sGGCcWrzi7X9JvPcJotoTdLe1jBqQnWAy/artifact"/>                  
+                        <img src="https://i.imgur.com/lDe1wEX.jpg"/>                  
                         <p class="gallery-text-left">
-                          <strong>𝘨𝘰𝘰𝘥_𝘭𝘶𝘤𝘬_𝘤𝘩𝘢𝘳𝘮.𝘫𝘱𝘨</strong><br/>5/5 Available (Primary)<br/>0.8 ꜩ
+                          <strong>𝘨𝘰𝘰𝘥_𝘭𝘶𝘤𝘬_𝘤𝘩𝘢𝘳𝘮.𝘫𝘱𝘨</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>5/5</strong> Available<br/>
+                            <strong>0.8 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
@@ -464,7 +638,11 @@ const AnjuHomepage = () => {
                     <a href="https://objkt.com/asset/KT1MAZH3oa2TUTMG4Bu7SGnMVhW2Ms2ePBgL/0" target="_blank" rel="noopener noreferrer">
                         <img src="https://ipfs.io/ipfs/QmUszpgEKexoL46MRG68zjj6TUPyK5bxQa55e3Yt3xdAom"/>                  
                         <p class="gallery-text-left">
-                          <strong>𝘤𝘭𝘶𝘣_𝘬𝘢𝘸𝘢𝘪𝘪.𝘫𝘱𝘨</strong><br/>3/5 Available (Primary)<br/>1 ꜩ
+                          <strong>𝘤𝘭𝘶𝘣_𝘬𝘢𝘸𝘢𝘪𝘪.𝘫𝘱𝘨</strong><br/>
+                          <span class="grayTextLeft">
+                            <strong>3/5</strong> Available<br/>
+                            <strong>1 XTZ</strong> (Primary)
+                          </span>
                         </p>
                     </a> 
                 </div>
@@ -474,7 +652,36 @@ const AnjuHomepage = () => {
 
           <div>
             <p class="containedText">
-             <span class="grayTextLeft"><i>Items: 3 | Total Volume: 2.5 ꜩ | Floor: 0.75 ꜩ</i></span><br/><u>View on Objkt.com</u><br/><br/>
+             <u><a href="https://objkt.com/collection/KT1MAZH3oa2TUTMG4Bu7SGnMVhW2Ms2ePBgL" target="_blank" rel="noopener noreferrer" class="grayText"><i>View full collection on Objkt.com</i></a></u><br/><br/>
+            </p>
+          </div>
+
+        </div>
+
+        <div class="card-container">
+          <div class="title-wrap-rainbow">
+            <h2 id="music">ANJU Online! - Music 🎸 <a href="#index"><span class="backToTop"><i>(Back to Index)</i></span></a></h2>
+          </div>
+
+          <div>
+            <p class="containedText">
+              <br/><a href="https://open.spotify.com/artist/37ttXQurF9FaNHsmWS0Rp0?si=97e7c055fed640ba"><strong>Spotify</strong></a> <CrossSymbol/> <a href="https://soundcloud.com/anjuonline"><strong>Soundcloud</strong></a>  <CrossSymbol/>  <a href="https://www.youtube.com/@anju"><strong>YouTube</strong></a> <CrossSymbol/> <a href="https://hellscapedigital.net/anjuonline/music/all"><strong>Archive</strong></a><br/>
+            </p>
+          </div>
+
+          <div class="react-player-responsive-playlist">
+                <ReactPlayer
+                    url="https://soundcloud.com/anjuonline/sets/discography"
+                    width={"100%"}
+                    height={"100%"}
+                />
+
+          </div>
+
+          <div>
+            <p class="containedText">
+              <span class="grayText">
+            <br/><i>For a more organized view of the <strong>ANJU Online!</strong> discography, see <a href="https://hellscapedigital.net/anjuonline/music/all"><u>Archive</u></a>.</i></span><br/>
             </p>
           </div>
 
