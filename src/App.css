@@ -613,3 +613,8 @@ ul {
   font-size: 12px;
   text-align: right;
 }
+
+.halfWidth {
+  width: 50%;
+  align-items: center!important;
+}

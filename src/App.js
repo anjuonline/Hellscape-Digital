@@ -86,6 +86,7 @@ import ArchiveArtworkCloudiDaze from './pages/archive/artwork/cloudidaze/Archive
 
 import ArchiveUpdates from './pages/archive/updates/ArchiveUpdates';
 import ArchiveChangelog from './pages/archive/updates/ArchiveChangelog';
+import Store from './pages/store/Store';
 
 import AnjuHomepage from './pages/roster/anjuonline/AnjuHomepage';
 
@@ -175,6 +176,7 @@ function App() {
 
           <Route path='/updates' element={<ArchiveUpdates />} />
           <Route path='/changelog' element={<ArchiveChangelog />} />
+          <Route path='/store' element={<Store />} />
 
           <Route path='/anjuonline' element={<AnjuHomepage />} />
 

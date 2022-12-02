@@ -213,9 +213,9 @@ const JosenAllReleasesStatic = () => {
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/liljosen/fridaynight-prod-remghost" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-hR3l8ukUfa7ysXT5-U34kng-t500x500.jpg" width="100%" alt=""/><br/>
+              <img src="https://i.scdn.co/image/ab67616d0000b27378e4bb414145546f8d13bf1d" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>FRIDAYNIGHT</strong><br/>
+                <strong>Friday Night</strong><br/>
                 (prod. Remghost)
               </p>
             </a>

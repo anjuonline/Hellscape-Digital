@@ -5,6 +5,50 @@ const NotamachineAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/cant-believe" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-N9Ay8ThifqkFOruy-iurflg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Can't Believe</strong><br/>
+                (prod. notamachine & prodmitchell1)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/smokin-ganj-in-the-saint-laurent-prod-notamachine-depart-lodoni" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-se0MVGyDOi849ltY-53i1DA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Smokin' Ganj In The Saint Laurent</strong><br/>
+                (prod. notamachine, depart & lodoni)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/6ZamekFJYHEtWJHNG0cnjp?si=4a5c0b57f8ea452a" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273fc0c69c5d2911d6c36ae1837" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>chet - need ur luv</strong><br/>
+                (prod. Chris6lair & notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/eleven-prod-notamachine-nightmare-freezepop" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-kThfbKvF8b7190lf-OusyVQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Eleven</strong><br/>
+                (prod. notamachine, nightmare & freezepop)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://soundcloud.com/kawaiiry/fruity-peebbbles-53122-455-pm" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-KKiZ1NmLLzlGvNPx-o64N4Q-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -32,6 +76,17 @@ const NotamachineAllReleasesStatic = () => {
               <p class="gallery-text">
                 <strong>Kawaii Ry - It's Working...</strong><br/>
                 (prod. notamachine & Gotti)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Remix</p>
+            <a href="https://open.spotify.com/track/7yW9WO384xyDp0UrB58q4g?si=b84fbb8270514bd7" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-bSn7x6Ssylq1SLKi-pFqxUQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Button Maker, 1booth & billy ! - ENOUGH!</strong><br/>
+                (notamachine Remix)
               </p>
             </a>
           </div>

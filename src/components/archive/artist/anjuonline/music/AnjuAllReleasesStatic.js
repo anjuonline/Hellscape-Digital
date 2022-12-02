@@ -3,6 +3,16 @@ const AnjuAllReleasesStatic = () => {
       <>
         <div class="gallery_containerThree-static">  
 
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/anjuonline/swagsupplier" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-wDezjcyyNBP4WjQZ-zFdTCg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>SWAG SUPPLIER</strong><br/>(feat. Kawaii Ry & STARINTHESKY)
+              </p>
+            </a>
+          </div>
+
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/1OeOaYFIieCjVVn2Yl2Qxh?si=e01a3bf087db4d9e" target="_blank" rel="noopener noreferrer">    

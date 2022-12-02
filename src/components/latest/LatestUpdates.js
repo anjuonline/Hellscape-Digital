@@ -10,35 +10,29 @@ const LatestUpdates = () => {
               <div class="containedText">
 
 
-              <h3>
-                    November 20, 2022
+                <h3>
+                    December 2022
                 </h3> 
                     <p class="changelogtext"> 
                         <ul>
                             <li>
                                 <strong>&bull; <i>New Music</i></strong>
                                 <ul>
-                                <li>&bull; Kawaii Ry - Fruity Pebbles (prod. notamachine, depart & dynoxmusic)</li>
-                                <li>&bull; Kawaii Ry - It Happened (prod. Pand)</li>
-                                <li>&bull; Lugosi - LUGOSI LP (9 tracks)</li>
-                                <li>&bull; Lugosi - BREAKING UP (prod. notamachine & Gotti)</li>
-                                <li>&bull; Josen - LEAVIN EM STUCK' w/ REROCK! (prod. REROCK / mashup by Geist)</li>
-                                <li>&bull; Josen - LOLLIPOP (prod. TONTO)</li>
+                                    <li>
+                                        <a href="https://youtu.be/0PDDyumLrYo" target="_blank;" rel="noopener noreferrer">
+                                            &bull; ANJU Online! & Kawaii Ry - SWAG SUPPLIER (feat. STARINTHESKY) [Single/Music Video]
+                                        </a>
+                                    </li>
+                                    <li><a href="https://soundcloud.com/kawaiiry/sets/bleezy-seazy" target="_blank;" rel="noopener noreferrer">&bull; Kawaii Ry - BLEEZY SEAZY VOL. 1 (prod. Chris6lair) [EP]</a></li>
                                 </ul>
                             </li>
                         </ul>
-                        <ul>
-                            <li>
-                                <strong>&bull; <i>Site Upgrades</i></strong>
-                                <ul>
-                                <li>&bull; Albums page added to Lugosi archive</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </p>                
+                    </p>  
+
+
               </div>
               <div class="containedText">               
-                <p><NavLink to={"/changelog"}><i><u>Full Site Changelog</u></i><u> →</u></NavLink></p>
+                <p><br/><NavLink to={"/changelog"}><i><u>Full Site Changelog</u></i><u> →</u></NavLink></p>
               </div>
           </div>   
         </>

@@ -5,6 +5,17 @@ const NotamachineRemixesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Remix</p>
+            <a href="https://open.spotify.com/track/7yW9WO384xyDp0UrB58q4g?si=b84fbb8270514bd7" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-bSn7x6Ssylq1SLKi-pFqxUQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Button Maker, 1booth & billy ! - ENOUGH!</strong><br/>
+                (notamachine Remix)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Remix</p>
             <a href="https://soundcloud.com/notamachineprod/skinny-love-notamachine-remix" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-ezHsyWu4zSvmpsBR-M47n8g-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
