@@ -15,7 +15,7 @@ const Home = () => {
                     Hellscape Digital is an artist collective and friend group; a creative multiverse driven by music, fashion, design, gaming, and avant-garde web culture.
                 </p>
                 <p>
-                    This website is a constant work in progress—an evolving omnibus of Hellscape's full music & art catalog, new releases, upcoming events, and documentation of our work as artists.
+                    This website is a constant work in progress—an evolving omnibus of Hellscape's full music & art catalog, new releases, clothing drops, and more.
                 </p>
             </div>
         </div>

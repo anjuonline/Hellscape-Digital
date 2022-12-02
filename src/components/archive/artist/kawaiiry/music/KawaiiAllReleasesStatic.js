@@ -7,6 +7,137 @@ const KawaiiAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/anjuonline/swagsupplier" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-wDezjcyyNBP4WjQZ-zFdTCg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>ANJU Online! & Kawaii Ry - SWAG SUPPLIER</strong><br/>(feat. STARINTHESKY)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/porch?in=kawaiiry/sets/bleezy-seazy" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-w7LojHOCn7pzzJz6-5ChH1Q-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Porch</strong><br/>
+                (prod. Chris6lair)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/hellscape-soldier-prod-chris6lair?in=kawaiiry/sets/bleezy-seazy" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-w7LojHOCn7pzzJz6-5ChH1Q-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Hellscape Soldier</strong><br/>
+                (prod. Chris6lair)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/belt?in=kawaiiry/sets/bleezy-seazy" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-w7LojHOCn7pzzJz6-5ChH1Q-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Asteroid Belt</strong><br/>
+                (prod. Chris6lair)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/b2dc?in=kawaiiry/sets/bleezy-seazy" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-w7LojHOCn7pzzJz6-5ChH1Q-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>B2DC</strong><br/>
+                (prod. Chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/kiki-krazy-prod-meauxminy" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-94Pwt3xAqVIRPzIA-rbwgLg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>KiKi Crazy</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/cant-believe" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-N9Ay8ThifqkFOruy-iurflg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Can't Believe</strong><br/>
+                (prod. notamachine & prodmitchell1)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/smokin-ganj-in-the-saint-laurent-prod-notamachine-depart-lodoni" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-se0MVGyDOi849ltY-53i1DA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Smokin' Ganj In The Saint Laurent</strong><br/>
+                (prod. notamachine, depart & lodoni)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/army-stickprod-gotti" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nJg0yEUAy7SywuSK-4EeGrQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Army Stick</strong><br/>
+                (prod. gotti)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/eleven-prod-notamachine-nightmare-freezepop" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-kThfbKvF8b7190lf-OusyVQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Eleven</strong><br/>
+                (prod. notamachine, nightmare & freezepop)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/flawless-prod-ezy" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-BskyiNlQWC99Xmh4-fTJmyw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Flaw(less)</strong><br/>
+                (prod. ezy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/haagen-dazs-prod-ezy" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-znFnFVktPrjveNGf-fzzROw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Häagen-Dazs</strong><br/>
+                (prod. ezy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/kawaiiry/trunk-prod-malloy" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-ynaqd74XgLbY0jib-UMYkzA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -209,6 +340,17 @@ const KawaiiAllReleasesStatic = () => {
               <img src="https://i.scdn.co/image/ab67616d0000b273f8f425ed3f229026f4806269" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>ANJU Online! & Kawaii Ry - Mr. Drill / pist off</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://soundcloud.com/tryfg/cloudflare" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-R6uejmF0UVvyuNAj-FFVMww-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>TRYFG - Cloudflare (feat. Kawaii Ry)</strong><br/>
+                (prod. TRYFG)
               </p>
             </a>
           </div>

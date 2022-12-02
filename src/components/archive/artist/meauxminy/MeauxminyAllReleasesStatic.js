@@ -5,6 +5,17 @@ const MeauxminyAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/kiki-krazy-prod-meauxminy" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-94Pwt3xAqVIRPzIA-rbwgLg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - KiKi Crazy</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/5WcMFgBGwAprkavtzpgT0d?si=d7750df71d3e4001" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-KSDnl3ihOK4mzmJM-n6cKLQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

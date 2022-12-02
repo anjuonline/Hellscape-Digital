@@ -4,6 +4,8 @@ import { CrossSymbol } from 'utils/Symbols';
 import React from 'react'
 import ReactPlayer from 'react-player'
 import Masonry, {ResponsiveMasonry} from "react-responsive-masonry"
+import AnjuAllReleasesStatic from 'components/archive/artist/anjuonline/music/AnjuAllReleasesStatic';
+import AnjuMusicYearSubindex from 'components/archive/artist/anjuonline/music/year/AnjuMusicYearSubindex';
 
 const AnjuHomepage = () => {
     return (
@@ -144,7 +146,8 @@ const AnjuHomepage = () => {
                         <p class="gallery-text-left">
                           <strong>Friend Request</strong><br/>
                           <span class="grayTextLeft">
-                            <strike><strong>0/12</strong> Available</strike><br/>Sold Out
+                            <strong>1/12</strong> Available<br/>
+                            <strong>20 XTZ</strong> (Secondary)
                           </span>
                         </p>
                     </a> 
@@ -312,7 +315,7 @@ const AnjuHomepage = () => {
                         <p class="gallery-text-left">
                           <strong>Coffee Break</strong><br/>
                           <span class="grayTextLeft">
-                            <strong>7/15</strong> Available<br/>
+                            <strong>6/15</strong> Available<br/>
                             <strong>0.69 XTZ</strong> (Primary)
                           </span>
                         </p>
@@ -682,6 +685,214 @@ const AnjuHomepage = () => {
             <p class="containedText">
               <span class="grayText">
             <br/><i>For a more organized view of the <strong>ANJU Online!</strong> discography, see <a href="https://hellscapedigital.net/anjuonline/music/all"><u>Archive</u></a>.</i></span><br/>
+            </p>
+          </div>
+
+          {/* <AnjuMusicYearSubindex/>
+          <AnjuAllReleasesStatic/> */}
+
+        </div>
+
+        <div class="card-container">
+          <div class="title-wrap-rainbow">
+            <h2 id="clothing">ANJU Online! - Clothing 🧵 <a href="#index"><span class="backToTop"><i>(Back to Index)</i></span></a></h2>
+          </div>
+
+          <div class="containedImg">
+            <img src="https://i.imgur.com/fOmCwax.jpg"></img>
+          </div>
+
+          <div>
+            <p class="containedText">
+              <br/><strong>Anju Supply Co.</strong><br/>
+              <span class="grayText">Sustainable, upcycled apparel and embroidery work.<br/>Every piece is 1/1, uniquely sourced and handmade by Anju.</span>
+            </p>
+          </div>
+
+          <div>
+            <p class="containedTextLeft">
+              <br/>
+              <span class="grayText"><strong><i>In Stock</i></strong></span>
+            </p>
+          </div>
+
+          <div class="masonry-wrap">
+            <Masonry columnsCount={3} gutter={"0.75em"}>
+
+                <div>
+                  <a href="https://hellscapedigital.myshopify.com/products/anju-supply-co-black-metal-beanie?variant=44089147785527" target="blank;" rel="noopener noreferrer">
+                        <img src="https://i.imgur.com/DtoC6RH.png"/>                  
+                        <p class="gallery-text">
+                          <strong>Black Metal Beanie (Rainbow)</strong><br/>
+                          <span class="grayText">
+                          <strong>$25.00</strong> (In Stock)<br/>
+                          </span>
+                        </p>
+                        </a>
+                </div>
+
+                <div>
+                  <a href="https://hellscapedigital.myshopify.com/products/anju-supply-co-black-metal-beanie?variant=44089147818295" target="blank;" rel="noopener noreferrer">
+                        <img src="https://cdn.shopify.com/s/files/1/0684/5179/5255/products/ASC20009.png?v=1669495965&width=990"/>                  
+                        <p class="gallery-text">
+                          <strong>Black Metal Beanie (Red)</strong><br/>
+                          <span class="grayText">
+                          <strong>$25.00</strong> (In Stock)<br/>
+                          </span>
+                        </p>
+                        </a>
+                </div>
+
+                <div>
+                  <a href="https://hellscapedigital.myshopify.com/products/anju-supply-co-black-metal-beanie?variant=44089147851063" target="blank;" rel="noopener noreferrer">
+                        <img src="https://cdn.shopify.com/s/files/1/0684/5179/5255/products/ASC20006.png?v=1669496003&width=990"/>                  
+                        <p class="gallery-text">
+                          <strong>Black Metal Beanie (Green)</strong><br/>
+                          <span class="grayText">
+                          <strong>$25.00</strong> (In Stock)<br/>
+                          </span>
+                        </p>
+                        </a>
+                </div>
+
+                <div>
+                  <a href="https://hellscapedigital.myshopify.com/products/anju-supply-co-1-1-thrifted-crewneck-m" target="blank;" rel="noopener noreferrer">
+                        <img src="https://cdn.shopify.com/s/files/1/0684/5179/5255/products/88197190_2916060388473346_8206259564186731949_n.jpg?v=1669508476&width=990"/>                  
+                        <p class="gallery-text">
+                          <strong>1/1 Thrifted Crewneck (M)</strong><br/>
+                          <span class="grayText">
+                          <strong>$50.00</strong> (In Stock)<br/>
+                          </span>
+                        </p>
+                        </a>
+                </div>
+
+                <div>
+                  <a href="https://hellscapedigital.myshopify.com/products/anju-supply-co-thrifted-gap-fleece-m" target="blank;" rel="noopener noreferrer">
+                        <img src="https://cdn.shopify.com/s/files/1/0684/5179/5255/products/ASC19008.jpg?v=1669491745&width=990"/>                  
+                        <p class="gallery-text">
+                          <strong>1/1 Thrifted Gap Fleece (M)</strong><br/>
+                          <span class="grayText">
+                          <strong>$40.00</strong> (In Stock)<br/>
+                          </span>
+                        </p>
+                        </a>
+                </div>
+
+                <div>
+                  <a href="https://hellscapedigital.myshopify.com/products/anju-supply-co-1-1-thrifted-womens-tee-s" target="blank;" rel="noopener noreferrer">
+                        <img src="https://cdn.shopify.com/s/files/1/0684/5179/5255/products/ASC19013.jpg?v=1669494356&width=990"/>                  
+                        <p class="gallery-text">
+                          <strong>1/1 Thrifted Women's Tee (L)</strong><br/>
+                          <span class="grayText">
+                          <strong>$25.00</strong> (In Stock)<br/>
+                          </span>
+                        </p>
+                        </a>
+                </div>
+
+                <div>
+                    <a href="https://hellscapedigital.myshopify.com/products/do-not-disturb-vinyl-sticker" target="_blank" rel="noopener noreferrer">
+                        <img src="https://cdn.shopify.com/s/files/1/0684/5179/5255/products/ASC18001.png?v=1669419724&width=990"/>                  
+                        <p class="gallery-text">
+                          <strong>Do Not Disturb (Vinyl Sticker)</strong><br/>
+                          <span class="grayText">
+                            <strong>$3.00</strong> (In Stock)<br/>
+                          </span>
+                        </p>
+                    </a> 
+                </div>
+
+                <div>
+                    <a href="https://hellscapedigital.myshopify.com/products/anju-supply-co-pixel-anju-vinyl-sticker" target="_blank" rel="noopener noreferrer">
+                        <img src="https://i.imgur.com/8EeEMQn.png"/>                  
+                        <p class="gallery-text">
+                          <strong>Pixel Anju (Vinyl Sticker)</strong><br/>
+                          <span class="grayText">
+                            <strong>$3.00</strong> (In Stock)<br/>
+                          </span>
+                        </p>
+                    </a> 
+                </div>
+
+            </Masonry>
+          </div>
+
+          <div>
+            <p class="containedTextLeft">
+              <br/><br/>
+              <span class="grayText"><i><strong>Archive</strong> (Past Items)</i></span>
+            </p>
+          </div>
+
+          <div class="masonry-wrap">
+            <Masonry columnsCount={3} gutter={"0.75em"}>
+
+                <div>
+                        <img src="https://i.imgur.com/JpGP1Mf.png"/>                  
+                        <p class="gallery-text">
+                          <strong>Dollface Darkness Cropped Long Sleeve</strong><br/>
+                          <span class="grayText">
+                          <i>SKU: ASC20012</i><br/>
+                          </span>
+                        </p>
+                </div>
+
+                <div>
+                        <img src="https://i.imgur.com/DtoC6RH.png"/>                  
+                        <p class="gallery-text">
+                          <strong>Black Metal Beanie (RYGB on Black)</strong><br/>
+                          <span class="grayText">
+                          <i>SKU: ASC20011</i><br/>
+                          </span>
+                        </p>
+                </div>
+
+                <div>
+                        <img src="https://i.imgur.com/iTRUetn.png"/>                  
+                        <p class="gallery-text">
+                          <strong>Custom Fila for Meauxminy</strong><br/>
+                          <span class="grayText">
+                          <i>SKU: ASC20010</i><br/>
+                          </span>
+                        </p>
+                </div>
+
+                <div>
+                        <img src="https://i.imgur.com/XG7TWFQ.png"/>                  
+                        <p class="gallery-text">
+                          <strong>Black Metal Tee</strong><br/>
+                          <span class="grayText">
+                          Anju Supply Co.'s first release; Summer 2018.<br/>
+                          <i>SKU: ASC18002</i><br/>
+                          </span>
+                        </p>
+                </div>
+
+            </Masonry>
+          </div>
+
+          <div class="containedImg">
+            <img src="https://i.imgur.com/jAtfSk2.jpg"></img>
+          </div>
+
+          {/* <div class="containedImg">
+            <img src="https://i.imgur.com/k91wLgz.gif" class="halfWidth"></img>
+          </div> */}
+
+          {/* <AnjuMusicYearSubindex/>
+          <AnjuAllReleasesStatic/> */}
+
+        </div>
+
+        <div class="card-container">
+          <div class="title-wrap-rainbow">
+            <h2 id="music">ANJU Online! - Socials 💌 <a href="#socials"><span class="backToTop"><i>(Back to Index)</i></span></a></h2>
+          </div>
+
+          <div>
+            <p class="containedText">
+              <br/><a href="https://open.spotify.com/artist/37ttXQurF9FaNHsmWS0Rp0?si=97e7c055fed640ba"><strong>Twitter</strong></a> <CrossSymbol/> <a href="https://soundcloud.com/anjuonline"><strong>Instagram</strong></a>  <CrossSymbol/>  <a href="https://www.youtube.com/@anju"><strong>YouTube</strong></a> <CrossSymbol/> <a href="https://hellscapedigital.net/anjuonline/music/all"><strong>Tumblr</strong></a><br/>
             </p>
           </div>
 

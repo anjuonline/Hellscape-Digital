@@ -12,7 +12,9 @@ const TopNav = () => {
       <div class="topnav activeLink">
         <NavLink to={"/"} exact>Home</NavLink>
         <NavLink to={"/music"} exact>Music</NavLink>
-        <NavLink to={"/archive"}>Archive</NavLink>
+        <NavLink to={"/archive"} exact>Archive</NavLink>
+        {/* <NavLink to={"/store"} exact>Store</NavLink> */}
+        <a href="https://hellscapedigital.myshopify.com/" target="_blank" rel="noopener nofollower">Store</a>
       </div>
     </>
   );

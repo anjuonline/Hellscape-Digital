@@ -7,21 +7,22 @@ const LatestMusicAll = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/trunk-prod-malloy" target="_blank" rel="noopener noreferrer">
-              <img src="https://i1.sndcdn.com/artworks-ynaqd74XgLbY0jib-UMYkzA-t500x500.jpg" width="100%" alt=""/><br/>
+            <a href="https://soundcloud.com/anjuonline/swagsupplier" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-wDezjcyyNBP4WjQZ-zFdTCg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Trunk</strong><br/>
-                (prod. malloy)
+                <strong>ANJU Online! & Kawaii Ry</strong><br/>SWAG SUPPLIER (feat. STARINTHESKY)
               </p>
             </a>
           </div>
 
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/1OeOaYFIieCjVVn2Yl2Qxh?si=e01a3bf087db4d9e" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i.scdn.co/image/ab67616d0000b273f8f425ed3f229026f4806269" width="100%" alt=""/><br/>
+        <div class="gallery_item">
+            <p class="gallery-tag">EP</p>
+            <a href="https://soundcloud.com/kawaiiry/sets/bleezy-seazy" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-w7LojHOCn7pzzJz6-5ChH1Q-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>ANJU Online! & Kawaii Ry</strong><br/>Mr. Drill / pist off
+                <strong>Kawaii Ry</strong><br/>
+                BLEEZY SEAZY VOL. 1<br/>
+                (prod. Chris6lair)
               </p>
             </a>
           </div>
@@ -49,25 +50,26 @@ const LatestMusicAll = () => {
           </div> 
 
           <div class="gallery_item">
-            <p class="gallery-tag">DJ Set</p>
-            <a href="https://soundcloud.com/eauxminy/club-kawaii-mix" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-Qv5Ft6dyNjd4CyCd-Zrh9Bg-t500x500.jpg" width="100%" alt=""/><br/>
+            <p class="gallery-tag">Remix</p>
+            <a href="https://open.spotify.com/track/7yW9WO384xyDp0UrB58q4g?si=b84fbb8270514bd7" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-bSn7x6Ssylq1SLKi-pFqxUQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Meauxminy</strong><br/>Meauxminy @ Club Kawaii
+                <strong>Button Maker, 1booth & billy !</strong><br/>
+                ENOUGH!<br/>
+                (notamachine Remix)
               </p>
             </a>
-          </div>
+          </div>     
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/it-happened-prod-pand" target="_blank" rel="noopener noreferrer">
-              <img src="https://i1.sndcdn.com/artworks-S9ei2QinDvtuySMZ-uP6PUg-t500x500.jpg" width="100%" alt=""/><br/>
+            <a href="https://open.spotify.com/track/1OeOaYFIieCjVVn2Yl2Qxh?si=e01a3bf087db4d9e" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273f8f425ed3f229026f4806269" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>It Happened</strong><br/>
-                (prod. Pand)
+                <strong>ANJU Online! & Kawaii Ry</strong><br/>Mr. Drill / pist off
               </p>
             </a>
-          </div>          
+          </div>     
 
             </div>
       </>

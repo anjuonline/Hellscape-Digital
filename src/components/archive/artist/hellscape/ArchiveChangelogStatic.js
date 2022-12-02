@@ -8,6 +8,77 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                December 1, 2022
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="https://youtu.be/0PDDyumLrYo" target="_blank;" rel="noopener noreferrer">
+                                    &bull; ANJU Online! & Kawaii Ry - SWAG SUPPLIER (feat. STARINTHESKY) [Single/Music Video]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://soundcloud.com/kawaiiry/sets/bleezy-seazy" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Kawaii Ry - BLEEZY SEAZY VOL. 1 (prod. Chris6lair) [EP]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p> 
+
+            <h3>
+                    November 30, 2022
+                </h3> 
+                    <p class="changelogtext"> 
+                        <ul>
+                            <li>
+                                <strong>&bull; <i>New Music</i></strong>
+                                <ul>
+                                    <li>&bull; Kawaii Ry - KiKi Crazy (prod. Meauxminy)</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </p> 
+
+            <h3>
+                    November 29, 2022
+                </h3> 
+                    <p class="changelogtext"> 
+                        <ul>
+                            <li>
+                                <strong>&bull; <i>New Music</i></strong>
+                                <ul>
+                                    <li>&bull; Kawaii Ry - Can't Believe (prod. notamachine & prodmitchell1)</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </p> 
+
+            <h3>
+                    November 28, 2022
+                </h3> 
+                    <p class="changelogtext"> 
+                        <ul>
+                            <li>
+                                <strong>&bull; <i>New Music</i></strong>
+                                <ul>
+                                    <li>&bull; Kawaii Ry - Smokin' Ganj In The Saint Laurent (prod. notamachine, depart & lodoni)</li>
+                                    <li>&bull; Kawaii Ry - Army Stick (prod. gotti)</li>
+                                    <li>&bull; Kawaii Ry - Eleven (prod. notamachine, nightmare & freezepop)</li>
+                                    <li>&bull; Kawaii Ry - Flaw(less) (prod. ezy)</li>
+                                    <li>&bull; Kawaii Ry - Häagen-Dazs (prod. ezy)</li>
+                                    <li>&bull; Button Maker, 1booth & billy ! - ENOUGH! (notamachine Remix)</li>
+                                    <li>&bull; chet - need ur luv (prod. Chris6lair & notamachine)</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </p> 
+
+            <h3>
                     November 21, 2022
                 </h3> 
                     <p class="changelogtext"> 

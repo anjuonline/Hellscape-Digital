@@ -5,6 +5,17 @@ const KawaiiEpsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">EP</p>
+            <a href="https://soundcloud.com/kawaiiry/sets/bleezy-seazy" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-w7LojHOCn7pzzJz6-5ChH1Q-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>BLEEZY SEAZY VOL. 1</strong><br/>
+                (prod. Chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">EP</p>
             <a href="https://open.spotify.com/album/4b2bNbXYAxIWvz7g6pVYVB?si=7sb-59arR8iVOlfhCj6zpA" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-KSDnl3ihOK4mzmJM-n6cKLQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
