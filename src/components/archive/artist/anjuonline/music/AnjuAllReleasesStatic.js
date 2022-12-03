@@ -4,8 +4,8 @@ const AnjuAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/anjuonline/swagsupplier" target="_blank" rel="noopener noreferrer">    
+            <p class="gallery-tag">Music Video / Single</p>
+            <a href="https://www.youtube.com/watch?v=0PDDyumLrYo" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-wDezjcyyNBP4WjQZ-zFdTCg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>SWAG SUPPLIER</strong><br/>(feat. Kawaii Ry & STARINTHESKY)
