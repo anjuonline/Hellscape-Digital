@@ -7,7 +7,7 @@ const LatestMusicAll = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/anjuonline/swagsupplier" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/2tr8CqLI23Ixk15fGrMVko?si=2a767a105c5c41bc" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-wDezjcyyNBP4WjQZ-zFdTCg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>ANJU Online! & Kawaii Ry</strong><br/>SWAG SUPPLIER (feat. STARINTHESKY)
