@@ -9,6 +9,7 @@ const LatestUpdates = () => {
               </div>            
               <div class="containedText">
 
+                <p><br/>Welcome to the new Hellscape Digital site! This project is a true labor of love - countless hours were spent to capture and organize the full collective's discography, and many more will be spent adding new content and features over time. Check this space often, and from the bottom of my heart - thank you for spending time in our world. <strong><i>-Anju</i></strong><br/></p>
 
                 <h3>
                     December 2022
