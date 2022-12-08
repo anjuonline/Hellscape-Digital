@@ -8,7 +8,25 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
-                December 1, 2022
+                December 8, 2022
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="https://hellscapedigital.net/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Kawaii Ry - USED 2 THE HATE EP (prod. notamachine) [7 tracks]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p> 
+
+            <h3>
+                December 3, 2022
             </h3> 
             <p class="changelogtext"> 
                 <ul>
@@ -17,9 +35,30 @@ const ArchiveChangelogStatic = () => {
                         <ul>
                             <li>
                                 <a href="https://youtu.be/0PDDyumLrYo" target="_blank;" rel="noopener noreferrer">
-                                    &bull; ANJU Online! & Kawaii Ry - SWAG SUPPLIER (feat. STARINTHESKY) [Single/Music Video]
+                                    &bull; ANJU Online! & Kawaii Ry - SWAG SUPPLIER (feat. STARINTHESKY) [Music Video]
                                 </a>
                             </li>
+                        </ul>
+                        <strong><br/>&bull; <i>Milestone</i></strong>
+                        <ul>
+                            <li>
+                                <a href="https://youtu.be/0PDDyumLrYo" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Hellscape Digital site released publically! 
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p> 
+
+            <h3>
+                December 1, 2022
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
                             <li>
                                 <a href="https://soundcloud.com/kawaiiry/sets/bleezy-seazy" target="_blank;" rel="noopener noreferrer">
                                     &bull; Kawaii Ry - BLEEZY SEAZY VOL. 1 (prod. Chris6lair) [EP]

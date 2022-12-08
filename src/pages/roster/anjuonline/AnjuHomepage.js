@@ -198,7 +198,7 @@ const AnjuHomepage = () => {
                         <p class="gallery-text-left">
                           <strong>Fresh Air</strong><br/>
                           <span class="grayTextLeft">
-                            <strong>4/15</strong> Available<br/>
+                            <strong>2/15</strong> Available<br/>
                             <strong>0.8 XTZ</strong> (Primary)
                           </span>
                         </p>

@@ -6,6 +6,83 @@ const KawaiiAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/u2th?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>U2TH</strong><br/>
+                (prod. notamachine & depart)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/bussy-prod-notamachine-kvse?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Coup de Grace</strong><br/>
+                (prod. notamachine & kvse)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/hp-p-notamachine-depart-1mvgnolia?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>HP</strong><br/>
+                (prod. notamachine, depart & 1mvgnolia)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/hittin-different-p-notamachinedepartryanbevelo?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Hittin' Different</strong><br/>
+                (prod. notamachine, depart & ryanbevelo)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/hullbreaker-prod-notamachine?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Hullbreaker</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/my-cup-prod-notamachine-sensei?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>My Cup</strong><br/>
+                (prod. notamachine & kaishigui)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/hope-this-never-ends-prod-notamachine-antar-jacktxt?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Hope This Never Ends</strong><br/>
+                (prod. notamachine, antar & jacktxt)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Music Video / Single</p>
             <a href="https://www.youtube.com/watch?v=0PDDyumLrYo" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-wDezjcyyNBP4WjQZ-zFdTCg-t500x500.jpg" width="100%" alt=""/><br/>

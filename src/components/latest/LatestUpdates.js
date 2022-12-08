@@ -20,6 +20,11 @@ const LatestUpdates = () => {
                                 <strong>&bull; <i>New Music</i></strong>
                                 <ul>
                                     <li>
+                                        <a href="https://hellscapedigital.net/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                            &bull; Kawaii Ry - USED 2 THE HATE (prod. notamachine) [EP]
+                                        </a>
+                                    </li>
+                                    <li>
                                         <a href="https://youtu.be/0PDDyumLrYo" target="_blank;" rel="noopener noreferrer">
                                             &bull; ANJU Online! & Kawaii Ry - SWAG SUPPLIER (feat. STARINTHESKY) [Single/Music Video]
                                         </a>
