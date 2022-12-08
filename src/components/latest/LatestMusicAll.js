@@ -6,23 +6,22 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/2tr8CqLI23Ixk15fGrMVko?si=2a767a105c5c41bc" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-wDezjcyyNBP4WjQZ-zFdTCg-t500x500.jpg" width="100%" alt=""/><br/>
+            <p class="gallery-tag">EP</p>
+            <a href="https://soundcloud.com/kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>ANJU Online! & Kawaii Ry</strong><br/>SWAG SUPPLIER (feat. STARINTHESKY)
+                <strong>Kawaii Ry</strong><br/>USED 2 THE HATE
+                (prod. notamachine)
               </p>
             </a>
           </div>
 
         <div class="gallery_item">
-            <p class="gallery-tag">EP</p>
-            <a href="https://soundcloud.com/kawaiiry/sets/bleezy-seazy" target="_blank" rel="noopener noreferrer">
-              <img src="https://i1.sndcdn.com/artworks-w7LojHOCn7pzzJz6-5ChH1Q-t500x500.jpg" width="100%" alt=""/><br/>
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2tr8CqLI23Ixk15fGrMVko?si=2a767a105c5c41bc" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-wDezjcyyNBP4WjQZ-zFdTCg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Kawaii Ry</strong><br/>
-                BLEEZY SEAZY VOL. 1<br/>
-                (prod. Chris6lair)
+                <strong>ANJU Online! & Kawaii Ry</strong><br/>SWAG SUPPLIER (feat. STARINTHESKY)
               </p>
             </a>
           </div>

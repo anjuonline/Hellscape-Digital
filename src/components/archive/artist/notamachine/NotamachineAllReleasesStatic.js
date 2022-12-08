@@ -4,6 +4,83 @@ const NotamachineAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/u2th?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - U2TH</strong><br/>
+                (prod. notamachine & depart)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/bussy-prod-notamachine-kvse?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Coup de Grace</strong><br/>
+                (prod. notamachine & kvse)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/hp-p-notamachine-depart-1mvgnolia?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - HP</strong><br/>
+                (prod. notamachine, depart & 1mvgnolia)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/hittin-different-p-notamachinedepartryanbevelo?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Hittin' Different</strong><br/>
+                (prod. notamachine, depart & ryanbevelo)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/hullbreaker-prod-notamachine?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Hullbreaker</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/my-cup-prod-notamachine-sensei?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - My Cup</strong><br/>
+                (prod. notamachine & kaishigui)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/hope-this-never-ends-prod-notamachine-antar-jacktxt?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Hope This Never Ends</strong><br/>
+                (prod. notamachine, antar & jacktxt)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
             <a href="https://soundcloud.com/kawaiiry/cant-believe" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-N9Ay8ThifqkFOruy-iurflg-t500x500.jpg" width="100%" alt=""/><br/>
