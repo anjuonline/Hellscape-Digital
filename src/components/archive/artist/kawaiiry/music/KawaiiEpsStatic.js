@@ -5,7 +5,18 @@ const KawaiiEpsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">EP</p>
-            <a href="https://soundcloud.com/kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/album/4x1pls8MUxYQW4X6XHaw3w?si=_Y80wmryRaa51Tp7itZsQg" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273c14e90e6caa1072827e7a18b" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Make Your World</strong><br/>
+                (prod. Jang)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">EP</p>
+            <a href="https://open.spotify.com/album/0VAN9MbMhclX7vKhwVWfuE?si=o8L1FlcTQvqEmMR_KakeqQ" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>USED 2 THE HATE</strong><br/>

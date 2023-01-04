@@ -4,8 +4,19 @@ const NotamachinePlacementsStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/u2th?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/last-weekend-prod-notamachine-joeleytrick" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-IEsDz7OWY1WNEHKM-kRQDhQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Last Weekend</strong><br/>
+                (prod. notamachine & Joe Leytrick)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1nmmEsDbD37rdqfk08G5uI?si=547f012e4c6b4835" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Kawaii Ry - U2TH</strong><br/>
@@ -16,7 +27,7 @@ const NotamachinePlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
-            <a href="https://soundcloud.com/kawaiiry/bussy-prod-notamachine-kvse?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/1q4Kf0FEfS3UXsXg9WzGyb?si=815d1f87776c4e38" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Kawaii Ry - Coup de Grace</strong><br/>
@@ -27,7 +38,7 @@ const NotamachinePlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
-            <a href="https://soundcloud.com/kawaiiry/hp-p-notamachine-depart-1mvgnolia?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/0AZeoMyTf3jX5fPqcLuRTO?si=3a2e808374c74d39" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Kawaii Ry - HP</strong><br/>
@@ -38,7 +49,7 @@ const NotamachinePlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
-            <a href="https://soundcloud.com/kawaiiry/hittin-different-p-notamachinedepartryanbevelo?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4qYH2UURO65Led2Sfq3B1T?si=b5b8efb740a94fa4" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Kawaii Ry - Hittin' Different</strong><br/>
@@ -49,7 +60,7 @@ const NotamachinePlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
-            <a href="https://soundcloud.com/kawaiiry/hullbreaker-prod-notamachine?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/7mOYd1ttL4T0yBdg8QvJrU?si=e48ba773052e4a45" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Kawaii Ry - Hullbreaker</strong><br/>
@@ -60,7 +71,7 @@ const NotamachinePlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
-            <a href="https://soundcloud.com/kawaiiry/my-cup-prod-notamachine-sensei?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4NPZqZsrp6oUx9nG64nnkk?si=7a9428086d93494a" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Kawaii Ry - My Cup</strong><br/>
@@ -71,7 +82,7 @@ const NotamachinePlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
-            <a href="https://soundcloud.com/kawaiiry/hope-this-never-ends-prod-notamachine-antar-jacktxt?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/6GOYZrzUYyxqF7BTiXA99x?si=58af8bff623e4adb" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Kawaii Ry - Hope This Never Ends</strong><br/>

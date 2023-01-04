@@ -12,28 +12,37 @@ const LatestUpdates = () => {
                 <p><br/>Welcome to the new Hellscape Digital site! This project is a true labor of love - countless hours were spent to capture and organize the full collective's discography, and many more will be spent adding new content and features over time. Check this space often, and from the bottom of my heart - thank you for spending time in our world. <strong><i>-Anju</i></strong><br/></p>
 
                 <h3>
-                    December 2022
+                    January 2023
                 </h3> 
-                    <p class="changelogtext"> 
+                <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
                         <ul>
                             <li>
-                                <strong>&bull; <i>New Music</i></strong>
-                                <ul>
-                                    <li>
-                                        <a href="https://hellscapedigital.net/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
-                                            &bull; Kawaii Ry - USED 2 THE HATE (prod. notamachine) [EP]
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://youtu.be/0PDDyumLrYo" target="_blank;" rel="noopener noreferrer">
-                                            &bull; ANJU Online! & Kawaii Ry - SWAG SUPPLIER (feat. STARINTHESKY) [Single/Music Video]
-                                        </a>
-                                    </li>
-                                    <li><a href="https://soundcloud.com/kawaiiry/sets/bleezy-seazy" target="_blank;" rel="noopener noreferrer">&bull; Kawaii Ry - BLEEZY SEAZY VOL. 1 (prod. Chris6lair) [EP]</a></li>
-                                </ul>
+                                <a href="https://hellscapedigital.net/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Kawaii Ry - Last Weekend (prod. notamachine & Joe Leytrick)
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Kawaii Ry - Glo Baby LP [7 tracks]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Kawaii Ry - Make Your World EP (prod. Jang) [3 tracks]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Kawaii Ry - Flip That (prod. Culoso)
+                                </a>
                             </li>
                         </ul>
-                    </p>  
+                    </li>
+                </ul>
+            </p>
 
 
               </div>

@@ -3,6 +3,16 @@ const KawaiiAlbumsStatic = () => {
       <>
         <div class="gallery_containerThree-static"> 
 
+        <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/7zLxfhulK3PoEwXwbO7J7t" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b27396c6aa05e224dd591203ac34" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Glo Baby</strong><br/>
+              </p>
+            </a>
+          </div>
+
           <div class="gallery_item">
             <p class="gallery-tag">Album</p>
             <a href="https://soundcloud.com/kawaiiry/sets/title-tba" target="_blank" rel="noopener noreferrer">
