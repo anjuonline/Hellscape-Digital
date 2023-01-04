@@ -8,7 +8,40 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
-                December 8, 2022
+                January 3, 2023 - v1.0.2
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="https://hellscapedigital.net/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Kawaii Ry - Last Weekend (prod. notamachine & Joe Leytrick)
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Kawaii Ry - Glo Baby LP [7 tracks]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Kawaii Ry - Make Your World EP (prod. Jang) [3 tracks]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Kawaii Ry - Flip That (prod. Culoso)
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p> 
+
+            <h3>
+                December 8, 2022 - v1.0.1
             </h3> 
             <p class="changelogtext"> 
                 <ul>
@@ -26,7 +59,7 @@ const ArchiveChangelogStatic = () => {
             </p> 
 
             <h3>
-                December 3, 2022
+                December 3, 2022 - v1.0.0
             </h3> 
             <p class="changelogtext"> 
                 <ul>

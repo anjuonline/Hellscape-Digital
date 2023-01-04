@@ -5,7 +5,139 @@ const KawaiiSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/u2th?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+            <a href="https://soundcloud.com/kawaiiry/last-weekend-prod-notamachine-joeleytrick" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-IEsDz7OWY1WNEHKM-kRQDhQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Last Weekend</strong><br/>
+                (prod. notamachine & Joe Leytrick)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6g5skYYhAvM3RMocjkkKJs?si=55200d5073c14322" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b27396c6aa05e224dd591203ac34" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Finally Here</strong><br/>
+                (prod. dmtplug99)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6tOM6zohEDuiLYdPpT42j9?si=25a4fa5c03f24633" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b27396c6aa05e224dd591203ac34" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>28</strong><br/>
+                (prod. zukiing)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3g9T3on4AJcSgYhBVDAJRy?si=379be706a1d240be" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b27396c6aa05e224dd591203ac34" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Who Feed the Block</strong><br/>
+                (prod. k1llobyte)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/03Gls6kUhnpbjvlF8Fs6SG?si=ecfd3494f9964f25" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b27396c6aa05e224dd591203ac34" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>I Can Do Anything</strong><br/>
+                (prod. k1llobyte)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0HGsxP3r9qiMycfPMzFb9K?si=aab63f8a93704ad0" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b27396c6aa05e224dd591203ac34" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Not Just What You Thought</strong><br/>
+                (prod. i_survived_2007)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5m8naUO9XQec8hU9Mrq8mX?si=9281ece995144b70" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b27396c6aa05e224dd591203ac34" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Cat Eyes</strong><br/>
+                (prod. jeepsy jim)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4NrqLUi6PWQAr94M3vATLf?si=8048b4d33dc349fa" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b27396c6aa05e224dd591203ac34" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Bring the Bells Out</strong><br/>
+                (prod. k1llobyte)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7yrtbZY3s5pIAD5efGYrWu?si=91db0d3ddb0c45f6" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273c14e90e6caa1072827e7a18b" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Can't Make Me</strong><br/>
+                (prod. Jang)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/25pbPjFwrFcAdNuXtK56OF?si=f5c13c6340bd428c" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273c14e90e6caa1072827e7a18b" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Sorry, Again</strong><br/>
+                (prod. Jang)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2BNyh64L9wNPn5bDrdcK0k?si=2f77d02eab804075" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273c14e90e6caa1072827e7a18b" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>You, Forever</strong><br/>
+                (prod. Jang)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/flip-that-prod-culoso" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-xl7YZ8y3NXUoKl0V-K5Vj6g-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Flip That</strong><br/>
+                (prod. Culoso)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1nmmEsDbD37rdqfk08G5uI?si=e34e00060aa04bdb" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>U2TH</strong><br/>
@@ -16,7 +148,7 @@ const KawaiiSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/bussy-prod-notamachine-kvse?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/1q4Kf0FEfS3UXsXg9WzGyb?si=fd61dd37e4134be8" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Coup de Grace</strong><br/>
@@ -27,7 +159,7 @@ const KawaiiSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/hp-p-notamachine-depart-1mvgnolia?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/0AZeoMyTf3jX5fPqcLuRTO?si=f4271a5f0fa442d5" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>HP</strong><br/>
@@ -38,7 +170,7 @@ const KawaiiSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/hittin-different-p-notamachinedepartryanbevelo?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4qYH2UURO65Led2Sfq3B1T?si=0215f33a2f2b4316" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Hittin' Different</strong><br/>
@@ -49,7 +181,7 @@ const KawaiiSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/hullbreaker-prod-notamachine?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/7mOYd1ttL4T0yBdg8QvJrU?si=59815811729e4d0c" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Hullbreaker</strong><br/>
@@ -60,7 +192,7 @@ const KawaiiSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/my-cup-prod-notamachine-sensei?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/4NPZqZsrp6oUx9nG64nnkk?si=c75a65f660724434" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>My Cup</strong><br/>
@@ -71,7 +203,7 @@ const KawaiiSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/hope-this-never-ends-prod-notamachine-antar-jacktxt?in=kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/6GOYZrzUYyxqF7BTiXA99x?si=f73ee4566b494032" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Hope This Never Ends</strong><br/>
