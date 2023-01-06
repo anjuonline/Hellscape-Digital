@@ -4,6 +4,26 @@ const SemajAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5lOAp8UYEVwfOA4J3ZXtRj?si=50cc379840a84648" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273592825391a9e3e954a11f917" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Smile</strong><br/>
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/05NcdpGP7jAPJ5is5KTPIP?si=2ddc5370f9de435d" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b27376c812a9d0253fd87b5cfd7e" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Worth It</strong><br/>
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
             <a href="https://soundcloud.com/kawaiiry/fiend-prod-semaj" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-vvfmSRs9Jph3PnDo-mlFLyA-t500x500.jpg" width="100%" alt=""/><br/>
@@ -24,6 +44,16 @@ const SemajAllReleasesStatic = () => {
               </p>
             </a>
           </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1NNCG385bXJIG186MEYa9e?si=f1075dea671d4083" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273967c7ad7b3c78178c8db69ef" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Only For Tonight</strong><br/>
+              </p>
+            </a>
+          </div> 
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>

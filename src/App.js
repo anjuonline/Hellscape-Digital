@@ -64,6 +64,11 @@ import ArchiveMusicRemy3dSingles from './pages/archive/music/remy3d/ArchiveMusic
 import ArchiveMusicRemy3dFeatures from './pages/archive/music/remy3d/ArchiveMusicRemy3dFeatures';
 import ArchiveMusicRemy3dPlacements from './pages/archive/music/remy3d/ArchiveMusicRemy3dPlacements';
 
+import ArchiveMusicRileylol from './pages/archive/music/rileylol/ArchiveMusicRileylol';
+import ArchiveMusicRileylolEps from './pages/archive/music/rileylol/ArchiveMusicRileylolEps';
+import ArchiveMusicRileylolSingles from './pages/archive/music/rileylol/ArchiveMusicRileylolSingles';
+import ArchiveMusicRileylolFeatures from './pages/archive/music/rileylol/ArchiveMusicRileylolFeatures';
+
 import ArchiveMusicSemaj from './pages/archive/music/semaj/ArchiveMusicSemaj';
 import ArchiveMusicSemajSingles from './pages/archive/music/semaj/ArchiveMusicSemajSingles';
 import ArchiveMusicSemajPlacements from './pages/archive/music/semaj/ArchiveMusicSemajPlacements';
@@ -151,6 +156,11 @@ function App() {
           <Route path='/remy3d/singles' element={<ArchiveMusicRemy3dSingles />} />
           <Route path='/remy3d/features' element={<ArchiveMusicRemy3dFeatures />} />
           <Route path='/remy3d/placements' element={<ArchiveMusicRemy3dPlacements />} />
+
+          <Route path='/rileylol/all' element={<ArchiveMusicRileylol />} />
+          <Route path='/rileylol/eps' element={<ArchiveMusicRileylolEps />} />
+          <Route path='/rileylol/singles' element={<ArchiveMusicRileylolSingles />} />
+          <Route path='/rileylol/features' element={<ArchiveMusicRileylolFeatures />} />
 
           <Route path='/semaj/all' element={<ArchiveMusicSemaj />} />
           <Route path='/semaj/singles' element={<ArchiveMusicSemajSingles />} />
