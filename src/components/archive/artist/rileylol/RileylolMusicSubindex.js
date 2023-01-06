@@ -1,30 +1,29 @@
 import { NavLink } from 'react-router-dom';
 
-const KawaiiMusicSubindex = () => {
+const RileylolMusicSubindex = () => {
     return (
       <>           
             <div class="sticky">
             <div class="title-wrap-rainbow2">
-            <h2>Music - Kawaii Ry</h2>
+            <h2>Music - Rileylol</h2>
             </div>
             <div class="title-wrap-rainbow">
                 <div class="subindexContainer">
                     <div class="containedText">
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/kawaiiry/albums"}>Albums</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                                <NavLink to={"/kawaiiry/eps"}>EPs & Mixtapes</NavLink>
+                                <NavLink to={"/rileylol/eps"}>EPs</NavLink>
                             </div>
                         </h5>   
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/kawaiiry/singles"}>Singles</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                                <NavLink to={"/kawaiiry/features"}>Features</NavLink>
+                                <NavLink to={"/rileylol/singles"}>Singles</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                                <NavLink to={"/rileylol/features"}>Features</NavLink>
                             </div>
                         </h5> 
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/kawaiiry/all"}>All Releases (327)</NavLink>
+                                <NavLink to={"/rileylol/all"}>All Releases (1)</NavLink>
                             </div>
                         </h5>              
                     </div>
@@ -34,4 +33,4 @@ const KawaiiMusicSubindex = () => {
       </>
     );
   };
-  export default KawaiiMusicSubindex;
+  export default RileylolMusicSubindex;

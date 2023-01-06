@@ -6,12 +6,34 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
-            <p class="gallery-tag">EP</p>
-            <a href="https://soundcloud.com/kawaiiry/sets/u2thnam" target="_blank" rel="noopener noreferrer">
-              <img src="https://i1.sndcdn.com/artworks-aPzQtNEpZZ9vfZFQ-8gqmoA-t500x500.jpg" width="100%" alt=""/><br/>
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/6n4uvRv2VsNpGPuVHrNRzP?si=49f4a00ed6154764" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273ce6f569a4fc1d7bc5fa20a14" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Kawaii Ry</strong><br/>USED 2 THE HATE
+                <strong>Loudpak Shawty</strong><br/>Slow It Down
                 (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6f0wOhCOhyz8S7pR5HiZGj?si=b6f34406a5b741d2" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273baf9695f125261f9cecc3f90" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>notamachine</strong><br/>dont4getme
+                (feat. Kawaii Ry)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/last-weekend-prod-notamachine-joeleytrick" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-IEsDz7OWY1WNEHKM-kRQDhQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry</strong><br/>Last Weekend
+                (prod. notamachine & Joe Leytrick)
               </p>
             </a>
           </div>
@@ -46,31 +68,9 @@ const LatestMusicAll = () => {
                 (prod. TONTO)
               </p>
             </a>
-          </div> 
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Remix</p>
-            <a href="https://open.spotify.com/track/7yW9WO384xyDp0UrB58q4g?si=b84fbb8270514bd7" target="_blank" rel="noopener noreferrer">
-              <img src="https://i1.sndcdn.com/artworks-bSn7x6Ssylq1SLKi-pFqxUQ-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Button Maker, 1booth & billy !</strong><br/>
-                ENOUGH!<br/>
-                (notamachine Remix)
-              </p>
-            </a>
-          </div>     
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/1OeOaYFIieCjVVn2Yl2Qxh?si=e01a3bf087db4d9e" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i.scdn.co/image/ab67616d0000b273f8f425ed3f229026f4806269" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>ANJU Online! & Kawaii Ry</strong><br/>Mr. Drill / pist off
-              </p>
-            </a>
-          </div>     
-
-            </div>
+          </div>    
+    
+          </div>
       </>
     );
   };

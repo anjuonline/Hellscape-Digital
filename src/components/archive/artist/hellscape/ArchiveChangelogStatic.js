@@ -8,6 +8,44 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                January 5, 2023 - v1.0.3
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="https://hellscapedigital.net/notamachine/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; notamachine - dont4getme (feat. Kawaii Ry)
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/notamachine/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Loudpak Shawty - Slow It Down (prod. notamachine)
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/semaj/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Semaj - Smile
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/semaj/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Semaj - Worth It
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/semaj/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Semaj - Only For Tonight
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p> 
+
+            <h3>
                 January 3, 2023 - v1.0.2
             </h3> 
             <p class="changelogtext"> 
