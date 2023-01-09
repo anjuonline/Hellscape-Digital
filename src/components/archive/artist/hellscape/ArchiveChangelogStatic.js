@@ -38,7 +38,7 @@ const ArchiveChangelogStatic = () => {
                         <ul>
                             <li>
                                 <a href="https://hellscapedigital.net/rileylol/all" target="_blank;" rel="noopener noreferrer">
-                                    &bull; Full rileylol discography (X releases) added to music archive
+                                    &bull; Full rileylol discography (91 releases) added to music archive
                                 </a>
                             </li>
                             <li>
