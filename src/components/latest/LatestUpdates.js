@@ -20,6 +20,31 @@ const LatestUpdates = () => {
                         <strong>&bull; <i>New Music</i></strong>
                         <ul>
                             <li>
+                                <a href="https://hellscapedigital.net/notamachine/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; notamachine - dont4getme (feat. Kawaii Ry)
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/notamachine/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Loudpak Shawty - Slow It Down (prod. notamachine)
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/semaj/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Semaj - Smile
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/semaj/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Semaj - Worth It
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/semaj/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Semaj - Only For Tonight
+                                </a>
+                            </li>
+                            <li>
                                 <a href="https://hellscapedigital.net/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
                                     &bull; Kawaii Ry - Last Weekend (prod. notamachine & Joe Leytrick)
                                 </a>
