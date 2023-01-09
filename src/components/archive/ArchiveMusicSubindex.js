@@ -21,8 +21,8 @@ const ArchiveMusicSubindex = () => {
                     <div class="subindexFont">
                         <NavLink to={"/remy3d/all"}>Remy3D</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
                         <NavLink to={"/semaj/all"}>Semaj</NavLink>
-                        {/* &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                        <NavLink to={"/rileylol/all"}>Rileylol</NavLink> */}
+                        &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+                        <NavLink to={"/rileylol/all"}>rileylol</NavLink>
                         <br/>&nbsp;
                     </div> 
                     <div class="subindexFont">

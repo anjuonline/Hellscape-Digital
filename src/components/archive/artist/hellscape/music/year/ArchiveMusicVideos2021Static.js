@@ -3,12 +3,19 @@ const ArchiveMusicVideos2021Static = () => {
       <>
         <div class="music-video">
 
-            <div class="music-video-container">
-            <iframe src="https://www.youtube.com/embed/kXeKwQsEtg4" title="Hellscape Radio Vol. 3" allowfullscreen></iframe>
-            </div>
-            <p class="video-title-text">
-            <strong>Hellscape Radio, Vol. 3</strong> (Hosted by ANJU Online!)
-            </p>
+        <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/a5TkVrfFQP8" title="spine" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>rileylol</strong> - spine (prod. jodom)
+          </p> 
+
+         <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/ka715cKjppo" title="spine" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>panda slugger & Kawaii Ry</strong> - Whole World Froze (prod. panda slugger)
+          </p> 
 
         </div>
       </>

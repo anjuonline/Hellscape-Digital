@@ -6,6 +6,27 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/sadoutwest/iphone?in=sadoutwest/sets/next-lifetime-ep" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-zYbISggjwbSMyy6R-oQKJFQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>rileylol</strong><br/>iPhone
+                (prod. wintfye, riporigin & milojensen)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">EP</p>
+            <a href="https://soundcloud.com/sadoutwest/sets/next-lifetime-ep" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-zeA3BQWMzbUmcj1R-w2smyQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>rileylol</strong><br/>next lifetime
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/6n4uvRv2VsNpGPuVHrNRzP?si=49f4a00ed6154764" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d0000b273ce6f569a4fc1d7bc5fa20a14" width="100%" alt=""/><br/>
@@ -69,6 +90,16 @@ const LatestMusicAll = () => {
               </p>
             </a>
           </div>    
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1OeOaYFIieCjVVn2Yl2Qxh?si=e01a3bf087db4d9e" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273f8f425ed3f229026f4806269" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>ANJU Online!</strong><br/>Mr. Drill / pist off (feat. Kawaii Ry)
+              </p>
+            </a>
+          </div>
     
           </div>
       </>

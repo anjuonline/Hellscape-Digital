@@ -68,6 +68,8 @@ import ArchiveMusicRileylol from './pages/archive/music/rileylol/ArchiveMusicRil
 import ArchiveMusicRileylolEps from './pages/archive/music/rileylol/ArchiveMusicRileylolEps';
 import ArchiveMusicRileylolSingles from './pages/archive/music/rileylol/ArchiveMusicRileylolSingles';
 import ArchiveMusicRileylolFeatures from './pages/archive/music/rileylol/ArchiveMusicRileylolFeatures';
+import ArchiveMusicRileylolSets from './pages/archive/music/rileylol/ArchiveMusicRileylolSets';
+import ArchiveMusicRileylolVideos from './pages/archive/music/rileylol/ArchiveMusicRileylolVideos';
 
 import ArchiveMusicSemaj from './pages/archive/music/semaj/ArchiveMusicSemaj';
 import ArchiveMusicSemajSingles from './pages/archive/music/semaj/ArchiveMusicSemajSingles';
@@ -75,6 +77,7 @@ import ArchiveMusicSemajPlacements from './pages/archive/music/semaj/ArchiveMusi
 import ArchiveMusicSemajFeatures from './pages/archive/music/semaj/ArchiveMusicSemajFeatures';
 
 import ArchiveMusicVideos from './pages/archive/music/hellscape/ArchiveMusicVideos';
+import ArchiveMusicVideos2020 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2020';
 import ArchiveMusicVideos2021 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2021';
 import ArchiveMusicVideos2022 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2022';
 import ArchiveMusicHellscapeRadio from './pages/archive/music/hellscape/ArchiveMusicHellscapeRadio';
@@ -161,6 +164,8 @@ function App() {
           <Route path='/rileylol/eps' element={<ArchiveMusicRileylolEps />} />
           <Route path='/rileylol/singles' element={<ArchiveMusicRileylolSingles />} />
           <Route path='/rileylol/features' element={<ArchiveMusicRileylolFeatures />} />
+          <Route path='/rileylol/sets' element={<ArchiveMusicRileylolSets />} />
+          <Route path='/rileylol/videos' element={<ArchiveMusicRileylolVideos />} />
 
           <Route path='/semaj/all' element={<ArchiveMusicSemaj />} />
           <Route path='/semaj/singles' element={<ArchiveMusicSemajSingles />} />
@@ -168,6 +173,7 @@ function App() {
           <Route path='/semaj/features' element={<ArchiveMusicSemajFeatures />} />
 
           <Route path='/videos/all' element={<ArchiveMusicVideos />} />
+          <Route path='/videos/2020' element={<ArchiveMusicVideos2020 />} />
           <Route path='/videos/2021' element={<ArchiveMusicVideos2021 />} />
           <Route path='/videos/2022' element={<ArchiveMusicVideos2022 />} />
           <Route path='/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />

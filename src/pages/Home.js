@@ -24,14 +24,15 @@ const Home = () => {
             <div class="title-wrap-rainbow2">
                 <h2>Spotlight</h2>
             </div>            
-            {/* <div class="react-player-responsive">
+            <div class="react-player-responsive">
                 <ReactPlayer
-                    url="https://soundcloud.com/kawaiiry/executive-prod-uglyboy"
+                    url="https://soundcloud.com/sadoutwest/sets/next-lifetime-ep"
                     width={"100%"}
                     height={"100%"}
                 />
             </div>
-            <p><strong>Kawaii Ry</strong> - Executive <br/>(prod. uglyboy)</p>           */}
+            <p><strong>rileylol</strong> - next lifetime EP</p>          
+            <br></br>
             <div class="music-video">
                 <div class="music-video-container">
                 <iframe src="https://www.youtube.com/embed/0PDDyumLrYo" title="SWAG SUPPLIER" allowfullscreen></iframe>
