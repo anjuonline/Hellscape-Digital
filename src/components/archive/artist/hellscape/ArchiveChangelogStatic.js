@@ -8,6 +8,50 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                January 9, 2023 - v1.0.4
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>NEW MEMBER!</i></strong>
+                        <ul>
+                            <li>
+                                <a href="https://hellscapedigital.net/rileylol/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; rileylol has officially joined Hellscape Digital
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/rileylol/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Full rileylol discography (91 releases) added to music archive
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/videos/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; 3 rileylol videos added to music videos archive
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <br></br>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="https://hellscapedigital.net/rileylol/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Full rileylol discography (X releases) added to music archive
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/videos/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; 3 rileylol videos added to music videos archive
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p> 
+
+            <h3>
                 January 5, 2023 - v1.0.3
             </h3> 
             <p class="changelogtext"> 
