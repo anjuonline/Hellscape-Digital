@@ -5,6 +5,50 @@ const SemajPlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/4mX5Cv2hxmb820ZIWhEeXj?si=cc1439f22d784f54" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Craze</strong><br/>
+                (prod. notamachine, Semaj & noahmejia)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/4Hy8Gumbaxxu72udHRQI5D?si=e3cc3977b2224a3c" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Biggie Bag</strong><br/>
+                (prod. Semaj)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/2sOXUprrPY5YcMeI6pGFeQ?si=826ad058f4ec4d41" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - CK Lessons</strong><br/>
+                (prod. Semaj)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1MdhDRH1HByEP2Ggq45K8H?si=d46cab217bba4caa" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - I Hope They Remember Me</strong><br/>
+                (prod. Semaj)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://soundcloud.com/kawaiiry/fiend-prod-semaj" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-vvfmSRs9Jph3PnDo-mlFLyA-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
