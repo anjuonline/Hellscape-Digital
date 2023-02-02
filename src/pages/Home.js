@@ -23,24 +23,16 @@ const Home = () => {
         <div class="card-container">
             <div class="title-wrap-rainbow2">
                 <h2>Spotlight</h2>
-            </div>            
+            </div> 
+
             <div class="react-player-responsive">
                 <ReactPlayer
-                    url="https://soundcloud.com/sadoutwest/sets/next-lifetime-ep"
+                    url="https://soundcloud.com/kawaiiry/sets/club-kawaii"
                     width={"100%"}
                     height={"100%"}
                 />
             </div>
-            <p><strong>rileylol</strong> - next lifetime EP</p>          
-            <br></br>
-            <div class="music-video">
-                <div class="music-video-container">
-                <iframe src="https://www.youtube.com/embed/0PDDyumLrYo" title="SWAG SUPPLIER" allowfullscreen></iframe>
-                </div>
-                <p class="video-title-text">
-                <strong>ANJU Online! & Kawaii Ry</strong><br/>SWAG SUPPLIER (feat. STARINTHESKY)
-                </p>
-            </div>
+            <p><strong>Kawaii Ry</strong> - Club Kawaii</p>          
         </div>       
 
         <LatestUpdates/>                 

@@ -6,6 +6,215 @@ const KawaiiAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6D2Z0F2UoGaMaoxttHmxlN?si=e87dbbf645ff4c82" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Bite Back</strong><br/>
+                (prod. jp)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/75qximJXHMRtlxhusEou5n?si=f8416c92fa4f4031" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>#Hashtag</strong><br/>
+                (prod. jp, vvs melody & aria)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4tbBDrtDQ4HZ5GtXVeQvD8?si=2369eb1c2f914c9e" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Noddin' Off</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2aMFcaZgeLkEjrs9GVPbh4?si=b53a89b3b64a4a2b" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Lemme Find Out</strong><br/>
+                (prod. xxcelent)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0Cud6vdCbvE5pqD4MCo43h?si=1846ede2f2fe4235" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Confidential</strong><br/>
+                (prod. Djon Beats)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4mX5Cv2hxmb820ZIWhEeXj?si=cc1439f22d784f54" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Craze</strong><br/>
+                (prod. notamachine, Semaj & noahmejia)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3OkIYX4Ia3DLUvxUzy382V?si=28246eb1f4ee4faa" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Feel Me (Feel You)</strong><br/>
+                (prod. culoso)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4cfW9jkHXRQzwxbLUc0F9Y?si=3f6278cdd9b94bd5" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Vanilla Bean</strong><br/>
+                (prod. culoso & compact)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7vnTTbPhFfKaLUSu3xW97E?si=bccad54c33ff4720" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Getting Off Late</strong><br/>
+                (prod. takezo & Illnfinite)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/48MBHHurX3Jy3YhEw36XeC?si=6315483343e34e67" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>GAMBA</strong><br/>
+                (prod. Hyper)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3gNZeBFViTDGkyChsu0BbD?si=75f3f51539df4ec4" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>POTUS</strong><br/>
+                (prod. domboi)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/49fjMewwpwAlHt7ccyWzIS?si=44a443e4ad4645d6" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kit-Kat</strong><br/>
+                (prod. jg)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7lKZTXW3Or4Ldyzq06ohCv?si=dfa1d947664744d2" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Sorry Not Sorry</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4Hy8Gumbaxxu72udHRQI5D?si=e3cc3977b2224a3c" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Biggie Bag</strong><br/>
+                (prod. Semaj)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1OkAqk181H4cBxlRI47LjU?si=51fca0bcb8114226" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Like '08 & MySpace</strong><br/>
+                (prod. notamachine & AntarNSA)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2sOXUprrPY5YcMeI6pGFeQ?si=826ad058f4ec4d41" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>CK Lessons</strong><br/>
+                (prod. Semaj)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1Eog4N1duEm6BpapbqmiwF?si=b11a81e24e764186" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Lakeside</strong><br/>
+                (prod. notamachine, teo domani & inflxble)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1MdhDRH1HByEP2Ggq45K8H?si=d46cab217bba4caa" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>I Hope They Remember Me</strong><br/>
+                (prod. Semaj)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1pURuEWsRJItiHOivOInb4?si=4d36690b8fa84e79" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Thirsty (feat. Tommy Thomas) [BONUS]</strong><br/>
+                (prod. Halfblown)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/6f0wOhCOhyz8S7pR5HiZGj?si=b6f34406a5b741d2" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d0000b273baf9695f125261f9cecc3f90" width="100%" alt=""/><br/>

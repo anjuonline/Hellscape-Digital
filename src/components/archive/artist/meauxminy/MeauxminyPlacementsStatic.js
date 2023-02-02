@@ -5,6 +5,17 @@ const MeauxminyPlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/4tbBDrtDQ4HZ5GtXVeQvD8?si=2369eb1c2f914c9e" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Noddin' Off</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://soundcloud.com/kawaiiry/kiki-krazy-prod-meauxminy" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-94Pwt3xAqVIRPzIA-rbwgLg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

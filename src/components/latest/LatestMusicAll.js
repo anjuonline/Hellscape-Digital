@@ -6,6 +6,37 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/7BT2hW7eoWgOrWRALq14QR?si=OPmNtn9BTmuVsVcwJZumUA" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry</strong><br/>Club Kawaii
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/drill-la-drill-intro-album" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Josen</strong><br/>Drill La Drill (Intro)
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1Zu1h83Iblsg8HbbCjivaQ?si=19d6439a9f6948e8" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e0282d3274a098b9be639dc6125" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Semaj</strong><br/>All For Nothing
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/sadoutwest/iphone?in=sadoutwest/sets/next-lifetime-ep" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-zYbISggjwbSMyy6R-oQKJFQ-t500x500.jpg" width="100%" alt=""/><br/>
@@ -65,38 +96,6 @@ const LatestMusicAll = () => {
               <img src="https://i1.sndcdn.com/artworks-wDezjcyyNBP4WjQZ-zFdTCg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>ANJU Online! & Kawaii Ry</strong><br/>SWAG SUPPLIER (feat. STARINTHESKY)
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/221eCCU3D8CGq0HgxZXjSG?si=859fd72f996f4715" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-Q2HxnkWZU8VXJnaB-wAoMKw-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Lugosi</strong><br/>BREAKING UP<br/>
-                (prod. notamachine & Gotti)
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/liljosen/lolipop-prod-tonto" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-eG5y9Tg0XSqYe9QV-8jK1JQ-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Josen</strong><br/>LOLLIPOP<br/>
-                (prod. TONTO)
-              </p>
-            </a>
-          </div>    
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/1OeOaYFIieCjVVn2Yl2Qxh?si=e01a3bf087db4d9e" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i.scdn.co/image/ab67616d0000b273f8f425ed3f229026f4806269" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>ANJU Online!</strong><br/>Mr. Drill / pist off (feat. Kawaii Ry)
               </p>
             </a>
           </div>

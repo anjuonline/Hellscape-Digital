@@ -8,6 +8,34 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                February 1, 2023 - v1.0.5
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="https://hellscapedigital.net/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; 01/31/23: Kawaii Ry - Club Kawaii [20 tracks]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/josen/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; 01/28/23: Josen - Drill La Drill (Intro) (prod. notamachine)
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/semaj/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; 01/20/23: Semaj - All For Nothing
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p> 
+
+            <h3>
                 January 9, 2023 - v1.0.4
             </h3> 
             <p class="changelogtext"> 
