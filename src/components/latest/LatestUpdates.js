@@ -12,7 +12,7 @@ const LatestUpdates = () => {
                 <p><br/>Welcome to the new Hellscape Digital site! This project is a true labor of love - countless hours were spent to capture and organize the full collective's discography, and many more will be spent adding new content and features over time. Check this space often, and from the bottom of my heart - thank you for spending time in our world. <strong><i>-Anju</i></strong><br/></p>
 
                 <h3>
-                February 1, 2023 - v1.0.5
+                February 17, 2023 - v1.0.6
             </h3> 
             <p class="changelogtext"> 
                 <ul>
@@ -20,18 +20,8 @@ const LatestUpdates = () => {
                         <strong>&bull; <i>New Music</i></strong>
                         <ul>
                             <li>
-                                <a href="https://hellscapedigital.net/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
-                                    &bull; Kawaii Ry - Club Kawaii [20 tracks]
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://hellscapedigital.net/josen/all" target="_blank;" rel="noopener noreferrer">
-                                    &bull; Josen - Drill La Drill (Intro) (prod. notamachine)
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://hellscapedigital.net/semaj/all" target="_blank;" rel="noopener noreferrer">
-                                    &bull; Semaj - All For Nothing
+                                <a href="https://hellscapedigital.net/hellscaperadio" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Hellscape Radio Vol. 4 - Kawaii Ry & ANJU Online! @ CG Fest 2023
                                 </a>
                             </li>
                         </ul>

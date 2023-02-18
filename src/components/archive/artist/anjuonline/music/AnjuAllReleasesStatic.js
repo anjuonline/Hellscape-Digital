@@ -4,6 +4,16 @@ const AnjuAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">DJ Set</p>
+            <a href="https://www.youtube.com/watch?v=444jIQF-mRU" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.imgur.com/hA2r41r.png" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Hellscape Radio Vol. 4</strong><br/>Kawaii Ry & ANJU Online! @ CG Fest 2023
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Music Video / Single</p>
             <a href="https://www.youtube.com/watch?v=0PDDyumLrYo" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-wDezjcyyNBP4WjQZ-zFdTCg-t500x500.jpg" width="100%" alt=""/><br/>
