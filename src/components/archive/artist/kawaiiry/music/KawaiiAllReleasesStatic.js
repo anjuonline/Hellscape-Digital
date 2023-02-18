@@ -6,6 +6,16 @@ const KawaiiAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Set</p>
+            <a href="https://www.youtube.com/watch?v=444jIQF-mRU" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.imgur.com/hA2r41r.png" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Hellscape Radio Vol. 4</strong><br/>Kawaii Ry & ANJU Online! @ CG Fest 2023
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/6D2Z0F2UoGaMaoxttHmxlN?si=e87dbbf645ff4c82" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>

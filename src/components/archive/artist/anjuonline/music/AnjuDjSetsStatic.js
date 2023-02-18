@@ -3,6 +3,16 @@ const AnjuDjSetsStatic = () => {
       <>
         <div class="gallery_containerThree-static">  
 
+        <div class="gallery_item">
+            <p class="gallery-tag">DJ Set</p>
+            <a href="https://www.youtube.com/watch?v=444jIQF-mRU" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.imgur.com/hA2r41r.png" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Hellscape Radio Vol. 4</strong><br/>Kawaii Ry & ANJU Online! @ CG Fest 2023
+              </p>
+            </a>
+          </div>
+
           <div class="gallery_item">
             <p class="gallery-tag">DJ Set</p>
             <a href="https://soundcloud.com/anjuonline/club-kawaii" target="_blank" rel="noopener noreferrer">    

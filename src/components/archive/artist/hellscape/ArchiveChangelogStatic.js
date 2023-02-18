@@ -8,6 +8,24 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                February 17, 2023 - v1.0.6
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="https://hellscapedigital.net/hellscaperadio" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Hellscape Radio Vol. 4 - Kawaii Ry & ANJU Online! @ CG Fest 2023
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
                 February 1, 2023 - v1.0.5
             </h3> 
             <p class="changelogtext"> 

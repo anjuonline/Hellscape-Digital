@@ -6,6 +6,16 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
+            <p class="gallery-tag">DJ Set</p>
+            <a href="https://www.youtube.com/watch?v=444jIQF-mRU" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.imgur.com/hA2r41r.png" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Hellscape Radio Vol. 4</strong><br/>Kawaii Ry & ANJU Online! @ CG Fest 2023
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Album</p>
             <a href="https://open.spotify.com/album/7BT2hW7eoWgOrWRALq14QR?si=OPmNtn9BTmuVsVcwJZumUA" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
@@ -75,17 +85,6 @@ const LatestMusicAll = () => {
               <p class="gallery-text">
                 <strong>notamachine</strong><br/>dont4getme
                 (feat. Kawaii Ry)
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/last-weekend-prod-notamachine-joeleytrick" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-IEsDz7OWY1WNEHKM-kRQDhQ-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Kawaii Ry</strong><br/>Last Weekend
-                (prod. notamachine & Joe Leytrick)
               </p>
             </a>
           </div>
