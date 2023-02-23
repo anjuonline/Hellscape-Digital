@@ -5,7 +5,7 @@ const AnjuAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/anjuonline/technology" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/1AyndiHKMM2XMK0PXHGvi0?si=a74325d6f6f14b48" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-2hiibxk8Rz27EfAI-Vk4ozw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Technology</strong><br/>
