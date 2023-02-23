@@ -12,7 +12,7 @@ const LatestUpdates = () => {
                 <p><br/>Welcome to the new Hellscape Digital site! This project is a true labor of love - countless hours were spent to capture and organize the full collective's discography, and many more will be spent adding new content and features over time. Check this space often, and from the bottom of my heart - thank you for spending time in our world. <strong><i>-Anju</i></strong><br/></p>
 
                 <h3>
-                February 17, 2023 - v1.0.6
+                February 23, 2023 - v1.0.7
             </h3> 
             <p class="changelogtext"> 
                 <ul>
@@ -20,8 +20,20 @@ const LatestUpdates = () => {
                         <strong>&bull; <i>New Music</i></strong>
                         <ul>
                             <li>
-                                <a href="https://hellscapedigital.net/hellscaperadio" target="_blank;" rel="noopener noreferrer">
-                                    &bull; Hellscape Radio Vol. 4 - Kawaii Ry & ANJU Online! @ CG Fest 2023
+                                <a href="/anjuonline/music/all">
+                                    &bull; ANJU Online! - Technology
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Artwork</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/anjuonline/art/illustration">
+                                    &bull; ANJU Online! - "Don't Be Shy"
                                 </a>
                             </li>
                         </ul>

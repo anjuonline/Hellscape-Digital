@@ -56,7 +56,8 @@ const ArchiveMusicAnju = () => {
 
       <div class="card-container">
         <div class="sticky">
-          <AnjuMusicYearSubindex/>
+          {/* <AnjuMusicYearSubindex/> */}
+          <AnjuMusicSubindex/>
           <AnjuAllReleasesStatic/>
         </div>
       </div>

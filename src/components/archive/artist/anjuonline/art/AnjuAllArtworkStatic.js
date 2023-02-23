@@ -8,9 +8,11 @@ const AnjuAllArtworkStatic = () => {
             <Masonry columnsCount={2} gutter={"0.75em"}>
 
                 <div>
-                    <a href="https://open.spotify.com/track/1OeOaYFIieCjVVn2Yl2Qxh?si=9f7847e58f6e4578" target="_blank" rel="noopener noreferrer">
+                        <img src="https://pbs.twimg.com/media/Fjy_P1KXkBY2AJc?format=jpg&name=large"/>                  
+                </div>
+
+                <div>
                         <img src="https://i.imgur.com/d97YdkH.jpg"/>                  
-                    </a> 
                 </div>
 
                 <div>

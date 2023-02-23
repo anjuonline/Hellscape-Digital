@@ -6,6 +6,17 @@ const AnjuIllustrationStatic = () => {
         <div class="masonry-wrap">
             <Masonry columnsCount={1} gutter={"0.75em"}>
 
+            <div>
+                    <a href="https://foundation.app/@ANJUonline/anju/3" target="_blank" rel="noopener noreferrer">
+                        <img src="https://pbs.twimg.com/media/Fjy_P1KXkBY2AJc?format=jpg&name=large"/>
+                        <p class="gallery-text">
+                            <strong>"Don't By Shy"</strong><br/>
+                            Cover art for <strong>ANJU Online! - Solid State Memories</strong><br/>
+                            1/1 edition available on Foundation - 0.1 ETH
+                        </p>
+                    </a>
+                </div>
+
                 <div>
                     <a href="https://open.spotify.com/track/1OeOaYFIieCjVVn2Yl2Qxh?si=9f7847e58f6e4578" target="_blank" rel="noopener noreferrer">
                         <img src="https://i.imgur.com/d97YdkH.jpg"/>
