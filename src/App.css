@@ -618,3 +618,7 @@ ul {
   width: 50%;
   align-items: center!important;
 }
+
+.default {
+  font-style: default;
+}

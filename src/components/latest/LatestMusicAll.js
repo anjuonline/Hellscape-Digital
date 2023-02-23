@@ -6,6 +6,16 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1AyndiHKMM2XMK0PXHGvi0?si=a74325d6f6f14b48" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-2hiibxk8Rz27EfAI-Vk4ozw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>ANJU Online!</strong><br/>Technology
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">DJ Set</p>
             <a href="https://www.youtube.com/watch?v=444jIQF-mRU" target="_blank" rel="noopener noreferrer">
               <img src="https://i.imgur.com/hA2r41r.png" width="100%" alt=""/><br/>
@@ -98,7 +108,33 @@ const LatestMusicAll = () => {
               </p>
             </a>
           </div>
-    
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/7zLxfhulK3PoEwXwbO7J7t" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b27396c6aa05e224dd591203ac34" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry</strong><br/>
+                Glo Baby
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">EP</p>
+            <a href="https://open.spotify.com/album/4x1pls8MUxYQW4X6XHaw3w?si=_Y80wmryRaa51Tp7itZsQg" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273c14e90e6caa1072827e7a18b" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry</strong><br/>
+                Make Your World (prod. Jang)
+              </p>
+            </a>
+          </div>
+
+          </div>
+
+          <div class="containedText">               
+            <p><NavLink to={"/archive/music"}><i><u>All Music</u></i><u> →</u></NavLink></p>
           </div>
       </>
     );

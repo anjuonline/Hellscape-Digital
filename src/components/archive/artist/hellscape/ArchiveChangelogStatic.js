@@ -8,6 +8,36 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                February 23, 2023 - v1.0.7
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/anjuonline/music/all">
+                                    &bull; ANJU Online! - Technology [Single]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Artwork</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/anjuonline/art/illustration">
+                                    &bull; ANJU Online! - "Don't Be Shy" [Illustration; ETH 1/1]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
                 February 17, 2023 - v1.0.6
             </h3> 
             <p class="changelogtext"> 
