@@ -5,11 +5,31 @@ const KawaiiFeaturesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
+            <a href="https://soundcloud.com/prodgotti/further-with-kawaii-ryy" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-dOKOMvavpxFw4ct2-NEo6Ng-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Gotti - FURTHER (feat. Kawaii Ry)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/6f0wOhCOhyz8S7pR5HiZGj?si=b6f34406a5b741d2" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d0000b273baf9695f125261f9cecc3f90" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>notamachine - dont4getme</strong><br/>
                 (feat. Kawaii Ry)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/album/6GPMxxzNf8zxoQ0gKY8vU5?si=UA-0UYy7TwG8sHLCrY4JsQ" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-znFnFVktPrjveNGf-fzzROw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>ReTread - BlueLabel (feat. Kawaii Ry)</strong><br/>
               </p>
             </a>
           </div>

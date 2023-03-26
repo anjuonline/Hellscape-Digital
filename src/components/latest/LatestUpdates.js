@@ -12,7 +12,7 @@ const LatestUpdates = () => {
                 <p><br/>Welcome to the new Hellscape Digital site! This project is a true labor of love - countless hours were spent to capture and organize the full collective's discography, and many more will be spent adding new content and features over time. Check this space often, and from the bottom of my heart - thank you for spending time in our world. <strong><i>-Anju</i></strong><br/></p>
 
                 <h3>
-                February 23, 2023 - v1.0.7
+                March 2, 2023 - v1.0.8
             </h3> 
             <p class="changelogtext"> 
                 <ul>
@@ -21,19 +21,22 @@ const LatestUpdates = () => {
                         <ul>
                             <li>
                                 <a href="/anjuonline/music/all">
-                                    &bull; ANJU Online! - Technology
+                                    &bull; ANJU Online! - Solid State Memories [Album]
                                 </a>
                             </li>
-                        </ul>
-                    </li>
-                </ul>
-                <ul>
-                    <li>
-                        <strong>&bull; <i>New Artwork</i></strong>
-                        <ul>
                             <li>
-                                <a href="/anjuonline/art/illustration">
-                                    &bull; ANJU Online! - "Don't Be Shy"
+                                <a href="/kawaiiry/all">
+                                    &bull; Kawaii Ry & Meauxminy - Meaux Money Less Talk [Album]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/all">
+                                    &bull; Gotti - FURTHER (feat. Kawaii Ry) [Feature]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/all">
+                                    &bull; ReTread - BlueLabel (feat. Kawaii Ry) [Feature]
                                 </a>
                             </li>
                         </ul>
