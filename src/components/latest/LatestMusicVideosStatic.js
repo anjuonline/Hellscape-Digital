@@ -3,6 +3,13 @@ const LatestMusicVideosStatic = () => {
       <>
         <div class="music-video">
 
+        <div class="music-video-container">
+          <iframe src="https://www.youtube.com/embed/viEzTBEkDMw" title="SWAG SUPPLIER" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+          <strong>Hyder Daze - idontwannaseeyou</strong> (feat. rileylol)
+          </p>
+
           <div class="music-video-container">
           <iframe src="https://www.youtube.com/embed/0PDDyumLrYo" title="SWAG SUPPLIER" allowfullscreen></iframe>
           </div>
