@@ -8,6 +8,39 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                March 2, 2023 - v1.0.8
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/anjuonline/music/all">
+                                    &bull; ANJU Online! - Solid State Memories [Album]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/all">
+                                    &bull; Kawaii Ry & Meauxiny - Meaux Money Less Talk [Album]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/all">
+                                    &bull; Gotti - FURTHER (feat. Kawaii Ry) [Feature]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/all">
+                                    &bull; ReTread - BlueLabel (feat. Kawaii Ry) [Feature]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
                 February 23, 2023 - v1.0.7
             </h3> 
             <p class="changelogtext"> 

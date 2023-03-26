@@ -6,6 +6,126 @@ const KawaiiAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6HhQeMgYZ1LlatIMASuH3w?si=7a71d453a3b94d31" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Backend</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4tig1jSQUwK67VvKhA2OUk?si=e54ca3c2ae4d4144" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Pocky</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/67jt4fzuZIK8JzjStDXL3N?si=7c7d03837a424c9e" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Slippers</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2WChMqbDmN4ZNvTia8HpJU?si=f9ce53875320455a" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>ACSOM</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1Aru5QsDHrVu0mSejzoOJQ?si=9dc49be86fac4b11" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Appearances (feat. ReTread, Ivanko & Brole)</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/16NQubJdSSrjbjK2h4UPWv?si=25378694bab94477" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Circle Back</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/235GslmeWnm8issDYxeH1g?si=9042e42881d040ed" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Chop Walk</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4iHZ1g5m34xsqxqg92keim?si=58eb8de3a94e4f7e" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Thrill</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0Od6jyoTFaPHyWGbaB8ox5?si=7b0afedc66874df6" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Guild</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0ar12H8rKtrtFR8Tx3rkHO?si=438e9f5f35644004" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Credentials (BONUS)</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://soundcloud.com/prodgotti/further-with-kawaii-ryy" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-dOKOMvavpxFw4ct2-NEo6Ng-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Gotti - FURTHER (feat. Kawaii Ry)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Set</p>
             <a href="https://www.youtube.com/watch?v=444jIQF-mRU" target="_blank" rel="noopener noreferrer">
               <img src="https://i.imgur.com/hA2r41r.png" width="100%" alt=""/><br/>
@@ -560,6 +680,16 @@ const KawaiiAllReleasesStatic = () => {
               <p class="gallery-text">
                 <strong>Flaw(less)</strong><br/>
                 (prod. ezy)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/album/6GPMxxzNf8zxoQ0gKY8vU5?si=UA-0UYy7TwG8sHLCrY4JsQ" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-znFnFVktPrjveNGf-fzzROw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>ReTread - BlueLabel (feat. Kawaii Ry)</strong><br/>
               </p>
             </a>
           </div>

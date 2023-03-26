@@ -6,6 +6,26 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>ANJU Online!</strong><br/>Solid State Memories
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/6VuabdaL17mTNuxhVDeRUD?si=bIKyvilAR4SphXqVWyvTMA" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Meauxminy</strong><br/>Meaux Money Less Talk
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/1AyndiHKMM2XMK0PXHGvi0?si=a74325d6f6f14b48" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-2hiibxk8Rz27EfAI-Vk4ozw-t500x500.jpg" width="100%" alt=""/><br/>
@@ -116,17 +136,6 @@ const LatestMusicAll = () => {
               <p class="gallery-text">
                 <strong>Kawaii Ry</strong><br/>
                 Glo Baby
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">EP</p>
-            <a href="https://open.spotify.com/album/4x1pls8MUxYQW4X6XHaw3w?si=_Y80wmryRaa51Tp7itZsQg" target="_blank" rel="noopener noreferrer">
-              <img src="https://i.scdn.co/image/ab67616d0000b273c14e90e6caa1072827e7a18b" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Kawaii Ry</strong><br/>
-                Make Your World (prod. Jang)
               </p>
             </a>
           </div>

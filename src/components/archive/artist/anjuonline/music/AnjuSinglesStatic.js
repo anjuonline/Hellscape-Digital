@@ -5,10 +5,160 @@ const AnjuSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>4th Floor Hallway</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/anjuonline/anjucore" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>ANJUcore</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>A Love Letter to My Akai</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Handmirror</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Gunmetal</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Elixir</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Solid State Memories</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>I Think I'm Ready Now (Interlude)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Ok Yeah... For Sure</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Backroom</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/1AyndiHKMM2XMK0PXHGvi0?si=a74325d6f6f14b48" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-2hiibxk8Rz27EfAI-Vk4ozw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Technology</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/anjuonline/memory-leak" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Memory Leak</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Knife Practice</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/anjuonline/status-effect" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Status Effect</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Stratus</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>We All Change / It's Fine</strong><br/>
               </p>
             </a>
           </div>
@@ -40,36 +190,6 @@ const AnjuSinglesStatic = () => {
               <p class="gallery-text">
                 <strong>Camo Croc</strong><br/>
                 (feat. Kawaii Ry)
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/anjuonline/anjucore" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-XiBwUD8ULuzzZwSy-dVmFNw-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>ANJUcore</strong><br/>
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/anjuonline/status-effect" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-HVZr9zrkM3AMnvyy-eHIY2g-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Status Effect</strong><br/>
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/anjuonline/memory-leak" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-vnFtz9CytSEhbz0J-8xyrSw-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Memory Leak</strong><br/>
               </p>
             </a>
           </div>
