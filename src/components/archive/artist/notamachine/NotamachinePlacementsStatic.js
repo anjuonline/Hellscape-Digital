@@ -5,6 +5,17 @@ const NotamachinePlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/7BWuJJD9fvbpqQ8HRTePPj?si=7ec43658dba6437a" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273200c87078b070d6ac16a2bdc" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Heems - Take Me (The Heights) (feat. Josen)</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/4mX5Cv2hxmb820ZIWhEeXj?si=cc1439f22d784f54" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -43,6 +54,17 @@ const NotamachinePlacementsStatic = () => {
               <p class="gallery-text">
                 <strong>Kawaii Ry - Lakeside</strong><br/>
                 (prod. notamachine, teo domani & inflxble)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/liljosen/drill-la-drill-intro-album" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Josen - Drill La Drill (Intro)</strong><br/>
+                (prod. notamachine)
               </p>
             </a>
           </div>

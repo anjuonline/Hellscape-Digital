@@ -4,6 +4,16 @@ const RileylolAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Feature / Music Video</p>
+            <a href="https://www.youtube.com/watch?v=viEzTBEkDMw" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-5e8PhdPzzuuG8twL-xaG7Lg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Hyder Daze - idontwannaseeyou (feat. rileylol)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/sadoutwest/iphone?in=sadoutwest/sets/next-lifetime-ep" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-zYbISggjwbSMyy6R-oQKJFQ-t500x500.jpg" width="100%" alt=""/><br/>

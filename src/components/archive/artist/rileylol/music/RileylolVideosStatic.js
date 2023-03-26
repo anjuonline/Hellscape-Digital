@@ -4,6 +4,13 @@ const RileylolVideosStatic = () => {
         <div class="music-video"> 
 
         <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/viEzTBEkDMw" title="idontwannaseeyou" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>Hyder Daze - idontwannseeyou (feat. rileylol)</strong>
+          </p>  
+
+        <div class="music-video-container">
             <iframe src="https://www.youtube.com/embed/a5TkVrfFQP8" title="spine" allowfullscreen></iframe>
           </div>
           <p class="video-title-text">

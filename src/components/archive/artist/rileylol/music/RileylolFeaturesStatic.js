@@ -4,6 +4,16 @@ const RileylolFeaturesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Feature / Music Video</p>
+            <a href="https://www.youtube.com/watch?v=viEzTBEkDMw" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-5e8PhdPzzuuG8twL-xaG7Lg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Hyder Daze - idontwannaseeyou (feat. rileylol)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
             <a href="https://soundcloud.com/weight/nervous-w-benzohart-rileylol-xmichaelwarren" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-Wz12ivW4gfUczeBO-42Q0cw-t500x500.jpg" width="100%" alt=""/><br/>

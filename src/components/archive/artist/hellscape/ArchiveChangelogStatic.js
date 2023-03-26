@@ -8,6 +8,50 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                March 26, 2023 - v1.0.9
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/kawaiiry/all">
+                                    &bull; Kawaii Ry - BLEEZY SEAZY II (prod. chrislair) [EP]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/josen/all">
+                                    &bull; Heems - Take Me (The Heights) (feat. Josen) (prod. notamachine) [Single]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/semaj/all">
+                                    &bull; Semaj - Heartless [Single]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/rileylol/videos">
+                                    &bull; Hyder Daze - idontwannaseeyou (feat. rileylol) [Video]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <br/>
+                    <li>
+                        <strong>&bull; <i>Site Upgrades</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/videos/2023">
+                                    &bull; Added 2023 filter for Music Videos
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
                 March 2, 2023 - v1.0.8
             </h3> 
             <p class="changelogtext"> 

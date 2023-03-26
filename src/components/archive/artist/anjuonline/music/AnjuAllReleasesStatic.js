@@ -5,7 +5,7 @@ const AnjuAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/2UiSXHE6Y3KAIsfCCo67kW?si=8f4ff287c6ce4cbe" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>4th Floor Hallway</strong><br/>
@@ -15,7 +15,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/anjuonline/anjucore" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/0p8xn5zhYLz0eYM9Rm4BTy?si=fa6fef479a144467" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>ANJUcore</strong><br/>
@@ -25,7 +25,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/27uAJ6UU7SCXthoPFK8JEY?si=e73a2cdb960748d6" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>A Love Letter to My Akai</strong><br/>
@@ -35,7 +35,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/0LnoYV9Ktxdok3xOye9Cnx?si=37ed6dcc47164855" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Handmirror</strong><br/>
@@ -45,7 +45,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/43yUpWMe4OIn5Xm4vVolxP?si=93543bb87b674185" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Gunmetal</strong><br/>
@@ -55,7 +55,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/2LJ0o2dsAj0ObeloTYnUgg?si=5e6d4ab8dd904c94" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Elixir</strong><br/>
@@ -65,7 +65,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/0dIzMzWKIKU1qtmgeUcEZu?si=eaf58530cc5d4d34" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Solid State Memories</strong><br/>
@@ -75,7 +75,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/7deooiS0UWqz3F8Xr7q4VX?si=759fd988e1a14d5c" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>I Think I'm Ready Now (Interlude)</strong><br/>
@@ -85,7 +85,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/3LQlElCLsz4oaHnY4tKKXh?si=5798f4ab394a438d" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Ok Yeah... For Sure</strong><br/>
@@ -95,7 +95,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/6U7lqReUObvSFCr3tv4Yfp?si=06b3dd9e70f44c27" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Backroom</strong><br/>
@@ -105,7 +105,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/1AyndiHKMM2XMK0PXHGvi0?si=a74325d6f6f14b48" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/2KMG3eEjaUWNfQrDNNz32D?si=0e6b9a7552254724" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-2hiibxk8Rz27EfAI-Vk4ozw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Technology</strong><br/>
@@ -115,7 +115,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/anjuonline/memory-leak" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/1RY9FprhayEsfvFiSSJe6Z?si=ec9fa801c93b4952" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Memory Leak</strong><br/>
@@ -125,7 +125,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/0JWRHn6RzoSFTFjr6fjVrF?si=5390c8f13a6e499d" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Knife Practice</strong><br/>
@@ -135,7 +135,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/anjuonline/status-effect" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/track/6PGRiwsikB36Xf2WUMhCTa?si=8c040fcce7ff4fd4" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Status Effect</strong><br/>
@@ -145,7 +145,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/3RKLue8lbXdm7e9siiXdCa?si=f2b9cca8af7042d8" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Stratus</strong><br/>
@@ -155,7 +155,7 @@ const AnjuAllReleasesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/71SWQvh58lo5B4FHLzsbe3?si=a6a9e204cbc743d8" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>We All Change / It's Fine</strong><br/>

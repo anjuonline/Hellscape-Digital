@@ -27,12 +27,22 @@ const Home = () => {
 
             <div class="react-player-responsive">
                 <ReactPlayer
+                    url="https://www.youtube.com/watch?v=viEzTBEkDMw"
+                    width={"100%"}
+                    height={"100%"}
+                />
+            </div>
+            <p><strong>Hyder Daze</strong><br/>idontwannaseeyou (feat. rileylol)</p>  
+            
+            <div class="react-player-responsive">
+                <ReactPlayer
                     url="https://www.youtube.com/watch?v=444jIQF-mRU"
                     width={"100%"}
                     height={"100%"}
                 />
             </div>
-            <p><strong>Hellscape Radio Vol. 4</strong><br/>Kawaii Ry & ANJU Online! @ CG Fest 2023</p>          
+            <p><strong>Hellscape Radio Vol. 4</strong><br/>Kawaii Ry & ANJU Online! @ CG Fest 2023</p>  
+
         </div>       
 
         <LatestUpdates/>                 

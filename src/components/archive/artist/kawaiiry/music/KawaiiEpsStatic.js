@@ -5,6 +5,17 @@ const KawaiiEpsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">EP</p>
+            <a href="https://open.spotify.com/album/66hR39PDDqiJrKfvaNgm04" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273c2e40b9ca6e14145aecac252" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>BLEEZY SEAZY II</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">EP</p>
             <a href="https://open.spotify.com/album/4x1pls8MUxYQW4X6XHaw3w?si=_Y80wmryRaa51Tp7itZsQg" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d0000b273c14e90e6caa1072827e7a18b" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -31,7 +42,7 @@ const KawaiiEpsStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-w7LojHOCn7pzzJz6-5ChH1Q-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>BLEEZY SEAZY VOL. 1</strong><br/>
-                (prod. Chris6lair)
+                (prod. chris6lair)
               </p>
             </a>
           </div>
