@@ -5,6 +5,16 @@ const SemajSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2OQUzGnNi4BYDPYhLLkfzi?si=6d0717d55ab34948" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b27365972bcc710045581cd0a935" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Heartless</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/1Zu1h83Iblsg8HbbCjivaQ?si=19d6439a9f6948e8" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d00001e0282d3274a098b9be639dc6125" width="100%" alt=""/><br/>
               <p class="gallery-text">

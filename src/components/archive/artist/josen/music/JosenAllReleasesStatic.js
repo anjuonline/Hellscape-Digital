@@ -4,6 +4,17 @@ const JosenAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/7BWuJJD9fvbpqQ8HRTePPj?si=7ec43658dba6437a" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273200c87078b070d6ac16a2bdc" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Heems - Take Me (The Heights) (feat. Josen)</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/liljosen/drill-la-drill-intro-album" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>

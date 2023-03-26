@@ -7,6 +7,61 @@ const KawaiiAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6kJndbk2XV3ExXBuIju5E1?si=a658f1fab25d4aa7" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273c2e40b9ca6e14145aecac252" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Hunger Games</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/15F56AsbQwkY1hkYAB5oBg?si=144db226bd4646f4" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273c2e40b9ca6e14145aecac252" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Trap Gymnastics</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6fFYZXyoDkDaY8Q33VIj9y?si=908ce9922ab84624" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273c2e40b9ca6e14145aecac252" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Darius</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4dRif5APRPfafnvcDpSo94?si=71151fef555b4065" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273c2e40b9ca6e14145aecac252" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Scary Kid</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5pyZ9I02ByYwfKNYA4LRM4?si=0956d214cb70400b" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273c2e40b9ca6e14145aecac252" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Bleezy</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/6HhQeMgYZ1LlatIMASuH3w?si=7a71d453a3b94d31" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
               <p class="gallery-text">
