@@ -9,6 +9,10 @@ import ArchiveIndex from 'components/archive/ArchiveIndex';
 const Home = () => {
   return (
     <div class="main-column">
+
+        <div class="logo">
+          <NavLink to={"/"}><img src="https://i.imgur.com/wZj6tJi.jpg" alt="Hellscape Logo"/></NavLink>
+        </div>
         <div class="card-container-rainbow">
             <div class="featured-card">
                 <p>
@@ -25,14 +29,12 @@ const Home = () => {
                 <h2>Spotlight</h2>
             </div> 
 
-            <div class="react-player-responsive">
-                <ReactPlayer
-                    url="https://www.youtube.com/watch?v=viEzTBEkDMw"
-                    width={"100%"}
-                    height={"100%"}
-                />
+            <div class="music-video">
+                <div class="music-video-container">
+                    <iframe src="https://www.youtube.com/embed/viEzTBEkDMw" title="test" allowfullscreen></iframe>
+                </div>
+                <p><strong>Hyder Daze</strong><br/>idontwannaseeyou (feat. rileylol)</p>  
             </div>
-            <p><strong>Hyder Daze</strong><br/>idontwannaseeyou (feat. rileylol)</p>  
             
             <div class="react-player-responsive">
                 <ReactPlayer

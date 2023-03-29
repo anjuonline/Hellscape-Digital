@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  padding-top: 50px;
 }
 
 img {
@@ -8,9 +9,16 @@ img {
 
 .logo {
  padding-top: 2em;
- padding-left: 6em;
- padding-right: 6em;
+ padding-left: 8em;
+ padding-right: 8em;
  padding-bottom: 1em;
+}
+
+.logoicon {
+  width: 70px;
+  position: absolute;
+  top: 6px;
+  right: 6px;
 }
 
 p {
@@ -80,8 +88,63 @@ a {
 
 .main-column {
   margin: auto;
-  max-width: 43em;
+  max-width: 50em;
   min-width: 320px;
+}
+
+.sticky-topnav-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
+.sticky-topnav-column {
+  margin: auto;
+  width: 100%;
+  min-width: 320px;
+  min-height: 34px;
+  max-height: 34px;
+  --angle: 0deg;
+	border-bottom: 2px solid;
+	border-image: conic-gradient(from var(--angle), red, yellow, lime, aqua, blue, magenta, red) 1;
+	animation: 20s rotate linear infinite;
+  background-color: black;
+}
+
+.subnav {
+  display: flex;
+  flex-direction: column;
+  z-index: 9998;
+  background-color: black;
+  --angle: 0deg;
+	border: 1px solid;
+	border-image: conic-gradient(from var(--angle), red, yellow, lime, aqua, blue, magenta, red) 1;
+	animation: 20s rotate linear infinite;
+  text-align: left;
+}
+
+.sub-menu {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 100%;
+  z-index: 10;
+  background-color: black;
+	border: 1px solid;
+  border-top: 0px;
+	border-image: conic-gradient(from var(--angle), red, yellow, lime, aqua, blue, magenta, red) 1;
+	animation: 20s rotate linear infinite;
+  padding: 4px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: -2px;
+  text-align: left;
+}
+
+.sub-menu a {
+  text-align: left;
 }
 
 .featured-card {
@@ -172,6 +235,10 @@ a {
   margin: 1em;
 } 
 
+.sticky-container {
+  margin-top:50px;
+}
+
 .card-container-rainbow {
 	--angle: 0deg;
 	border: 1px solid;
@@ -198,7 +265,7 @@ a {
   margin-left: 1em;
   margin-right: 1em;
   position: sticky;
-  top: 0;
+  top: 36px;
   background-color: black;
   z-index: 6;
 } 
@@ -211,7 +278,7 @@ a {
   margin-left: 1em;
   margin-right: 1em;
   position: sticky;
-  top: 0;
+  top: 36px;
   background-color: black;
   z-index: 6;
 } 
@@ -256,7 +323,7 @@ a {
   padding-right: 1em;
   padding-top: 1em;
   padding-bottom: 0;
-  height: 20em;
+  height: 24em;
 }
 
 .react-player-responsive-playlist { 
@@ -488,7 +555,7 @@ ul {
 
 .sticky {
   position: sticky;
-  top: 0;
+  top: 36px;
   background-color: black;
   z-index: 6;
 }
@@ -507,17 +574,16 @@ ul {
 .topnav a {
   float: left;   
   color: #f2f2f2;
-  text-align: center;
+  text-align: left;
   padding: 10px 10px;
   text-decoration: none;
   font-size: 14px;
   font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
-
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #f2f2f2;
   color: black;
 }
 
@@ -527,12 +593,46 @@ ul {
   color: magenta;
 }
 
+/* Add a black background color to the top navigation */
+.topnavhomebutton {
+  background-color: black;
+  overflow: hidden;
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+/* Style the links inside the navigation bar */
+.topnavhomebutton a {
+  float: left;   
+  color: #f2f2f2;
+  text-align: left;
+  padding: 7.5px 10px;
+  text-decoration: none;
+  font-size: 14px;
+  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+
+}
+
+/* Change the color of links on hover */
+.topnavhomebutton a:hover {
+  background-color: #f2f2f2;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnavhomebutton a.active {
+  background-color: black;
+  color: magenta;
+}
+
 .activeLink {
   font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
   color: white;
   font-size: 10pt;
-  padding-top: 8px;
-  padding-bottom: 8px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 .subindexFont {

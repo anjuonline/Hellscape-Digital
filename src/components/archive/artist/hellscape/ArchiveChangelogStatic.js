@@ -8,6 +8,76 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                March 26, 2023 - v1.1.0
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>NEW MEMBER!</i></strong>
+                        <ul>
+                            <li>
+                                <a href="https://hellscapedigital.net/lildujour/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Lil Dujour has officially joined Hellscape Digital
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/lildujour/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; Full Lil Dujour discography (X releases) added to music archive
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://hellscapedigital.net/videos/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; 3 Lil Dujour videos added to music videos archive
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <br/>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/kawaiiry/all">
+                                    &bull; Kawaii Ry - BLEEZY SEAZY II (prod. chrislair) [EP]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <br/>
+                    <li>
+                        <strong>&bull; <i>Site Upgrades</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/">
+                                    &bull; Navigation across the site has been revamped and overhauled to provide scalability and improved user experience
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/">
+                                    &bull; Redesigned navigation for both desktop and mobile versions
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/">
+                                    &bull; New site masthead which now displays version number
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/">
+                                    &bull; Page width on desktop increased approximately 20% to improve legibility
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/">
+                                    &bull; Blog section placeholder created, now in active development
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
                 March 26, 2023 - v1.0.9
             </h3> 
             <p class="changelogtext"> 

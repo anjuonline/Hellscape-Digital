@@ -97,6 +97,8 @@ import ArchiveUpdates from './pages/archive/updates/ArchiveUpdates';
 import ArchiveChangelog from './pages/archive/updates/ArchiveChangelog';
 import Store from './pages/store/Store';
 
+import UnderConstruction from './pages/UnderConstruction';
+
 import AnjuHomepage from './pages/roster/anjuonline/AnjuHomepage';
 
 function App() {
@@ -195,6 +197,8 @@ function App() {
           <Route path='/updates' element={<ArchiveUpdates />} />
           <Route path='/changelog' element={<ArchiveChangelog />} />
           <Route path='/store' element={<Store />} />
+
+          <Route path='/underconstruction' element={<UnderConstruction />} />
 
           <Route path='/anjuonline' element={<AnjuHomepage />} />
 
