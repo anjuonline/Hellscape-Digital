@@ -1,6 +1,7 @@
+import ReactPlayer from "react-player"
 import { NavLink } from 'react-router-dom';
 
-const Error = () => {
+const UnderConstruction = () => {
   return (
     <div class="main-column">
 
@@ -10,7 +11,7 @@ const Error = () => {
         <div class="card-container-rainbow">
             <div class="featured-card">
                 <p>
-                    404. Sorry!
+                    This page is currently under construction. Please check back later!
                 </p>
             </div>
         </div>      
@@ -25,4 +26,4 @@ const Error = () => {
     </div>
   );
 };
-export default Error;
+export default UnderConstruction;
