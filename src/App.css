@@ -263,7 +263,7 @@ a {
   margin-left: 1em;
   margin-right: 1em;
   position: sticky;
-  top: 40px;
+  top: 2.4em;
   background-color: black;
   z-index: 900;
 } 
@@ -276,7 +276,7 @@ a {
   margin-left: 1em;
   margin-right: 1em;
   position: sticky;
-  top: 40px;
+  top: 2.4em;
   background-color: black;
   z-index: 9000;
 } 
@@ -575,7 +575,7 @@ ul {
   text-align: left;
   padding: 10px 10px;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 1em;
   /* font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif; */
 }
 
@@ -608,7 +608,7 @@ ul {
   text-align: left;
   padding: 10px 10px;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 0.78em;
   /* font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif; */
 
 }
