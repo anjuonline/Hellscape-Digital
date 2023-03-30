@@ -263,7 +263,7 @@ a {
   margin-left: 1em;
   margin-right: 1em;
   position: sticky;
-  top: 2.4em;
+  top: 2.35em;
   background-color: black;
   z-index: 900;
 } 
@@ -276,7 +276,7 @@ a {
   margin-left: 1em;
   margin-right: 1em;
   position: sticky;
-  top: 2.4em;
+  top: 2.35em;
   background-color: black;
   z-index: 9000;
 } 
@@ -607,6 +607,7 @@ ul {
   color: #f2f2f2;
   text-align: left;
   padding: 10px 10px;
+  padding-bottom: 8px;
   text-decoration: none;
   font-size: 0.78em;
   /* font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif; */
@@ -615,8 +616,8 @@ ul {
 
 /* Change the color of links on hover */
 .topnavhomebutton a:hover {
-  background-color: #f2f2f2;
-  color: black;
+  background-color: black;
+  color: magenta;
 }
 
 /* Add a color to the active/current link */
