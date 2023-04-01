@@ -4,6 +4,17 @@ const RileylolFeaturesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/5Y3RT0cNWDm32BCFpEbCOu?si=dfd67e4cdf9f41f1" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Lugosi - 40 (feat. rileylol)</strong><br/>
+                (prod. gotti)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Feature / Music Video</p>
             <a href="https://www.youtube.com/watch?v=viEzTBEkDMw" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-5e8PhdPzzuuG8twL-xaG7Lg-t500x500.jpg" width="100%" alt=""/><br/>

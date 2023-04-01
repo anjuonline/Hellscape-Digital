@@ -20,7 +20,7 @@ const MusicVideosSubindex = () => {
                         </h5>   
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/videos/all"}>All Music Videos (9)</NavLink>
+                                <NavLink to={"/videos/all"}>All Music Videos (10)</NavLink>
                             </div>
                         </h5>              
                     </div>

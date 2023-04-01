@@ -5,6 +5,17 @@ const Remy3dFeaturesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/1cBIAPbkt6Mb4qrbTzrvuq?si=cd741088348c4148" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Lugosi - Schoolin' (feat. Remy3D)</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/3JgFOUJ9Wf9hgYKuiTx3O7?si=282f46548bf64538" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-M0Rzq7jdHWKlMJHT-ormDZw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

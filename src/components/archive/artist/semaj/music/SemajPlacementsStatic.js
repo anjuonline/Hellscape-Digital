@@ -5,6 +5,17 @@ const SemajPlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1h1bV5x6Rqak2ZYNbc6JzC?si=0b1c59bbfcd64ba8" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Lugosi - FYBB</strong><br/>
+                (prod. Semaj)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/4mX5Cv2hxmb820ZIWhEeXj?si=cc1439f22d784f54" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
               <p class="gallery-text">
