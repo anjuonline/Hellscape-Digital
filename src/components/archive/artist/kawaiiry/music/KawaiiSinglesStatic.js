@@ -5,6 +5,83 @@ const KawaiiSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/32HZhtJOV3cj8iObJdadYj?si=e7031c7bdb5944af" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Lugosi - Hey Lugosi</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5Y3RT0cNWDm32BCFpEbCOu?si=dfd67e4cdf9f41f1" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Lugosi - 40 (feat. rileylol)</strong><br/>
+                (prod. gotti)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1h1bV5x6Rqak2ZYNbc6JzC?si=0b1c59bbfcd64ba8" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Lugosi - FYBB</strong><br/>
+                (prod. Semaj)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6s1JmW3MXAb2BH9jFi8w13?si=604dfba0a31f48e2" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Lugosi - Remy Truck</strong><br/>
+                (prod. Remy3D & notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1cBIAPbkt6Mb4qrbTzrvuq?si=cd741088348c4148" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Lugosi - Schoolin' (feat. Remy3D)</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0NzImhZKMO4N0YWy2gU0XA?si=be8a36a1e55f4ed5" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Lugosi - Oh So Fine</strong><br/>
+                (prod. bleachh)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5MuS0w5MtGeXNSqo1WFVay?si=14d98e6e598047e8" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Lugosi - Feelin' Old</strong><br/>
+                (prod. chris6lair & toobears)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/6kJndbk2XV3ExXBuIju5E1?si=a658f1fab25d4aa7" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d0000b273c2e40b9ca6e14145aecac252" width="100%" alt=""/><br/>
               <p class="gallery-text">

@@ -12,7 +12,7 @@ const LatestUpdates = () => {
                 <p><br/>Welcome to the new Hellscape Digital site! This project is a true labor of love - countless hours were spent to capture and organize the full collective's discography, and many more will be spent adding new content and features over time. Check this space often, and from the bottom of my heart - thank you for spending time in our world. <strong><i>-Anju</i></strong><br/></p>
 
                 <h3>
-                March 26, 2023 - v1.0.9
+                April 1, 2023 - v1.0.10
             </h3> 
             <p class="changelogtext"> 
                 <ul>
@@ -20,23 +20,13 @@ const LatestUpdates = () => {
                         <strong>&bull; <i>New Music</i></strong>
                         <ul>
                             <li>
+                                <a href="/hellscaperadio">
+                                    &bull; Hellscape Radio Vol. 5 - Kawaii Ry @ CRACKFEST V (Full Set)
+                                </a>
+                            </li>
+                            <li>
                                 <a href="/kawaiiry/all">
-                                    &bull; Kawaii Ry - BLEEZY SEAZY II (prod. chrislair) [EP]
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/josen/all">
-                                    &bull; Heems - Take Me (The Heights) (feat. Josen) (prod. notamachine) [Single]
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/semaj/all">
-                                    &bull; Semaj - Heartless [Single]
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/rileylol/videos">
-                                    &bull; Hyder Daze - idontwannaseeyou (feat. rileylol) [Video]
+                                    &bull; Kawaii Ry & Lugosi - Bimmy Boys [Album]
                                 </a>
                             </li>
                         </ul>

@@ -5,6 +5,17 @@ const MeauxminyAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1cBIAPbkt6Mb4qrbTzrvuq?si=cd741088348c4148" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Lugosi - Schoolin' (feat. Remy3D)</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/6HhQeMgYZ1LlatIMASuH3w?si=7a71d453a3b94d31" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
               <p class="gallery-text">

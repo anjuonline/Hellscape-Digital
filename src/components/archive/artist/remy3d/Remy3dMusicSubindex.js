@@ -22,7 +22,7 @@ const Remy3dMusicSubindex = () => {
                         </h5>   
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/remy3d/all"}>All Releases (10)</NavLink>
+                                <NavLink to={"/remy3d/all"}>All Releases (12)</NavLink>
                             </div>
                         </h5>              
                     </div>

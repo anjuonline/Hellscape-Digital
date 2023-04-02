@@ -8,6 +8,29 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                April 1, 2023 - v1.0.10
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/hellscaperadio">
+                                    &bull; Hellscape Radio Vol. 5 - Kawaii Ry @ CRACKFEST V (Full Set)
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/all">
+                                    &bull; Kawaii Ry & Lugosi - Bimmy Boys [Album]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
                 March 26, 2023 - v1.0.9
             </h3> 
             <p class="changelogtext"> 

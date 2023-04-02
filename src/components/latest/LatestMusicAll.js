@@ -6,6 +6,17 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/7mygx4N05Il50UcBbLPI4V?si=8JXBdqaBSB6Jkz3JR8J0cw" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Lugosi</strong><br/>
+                Bimmy Boys
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">EP</p>
             <a href="https://open.spotify.com/album/66hR39PDDqiJrKfvaNgm04" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d0000b273c2e40b9ca6e14145aecac252" width="100%" alt=""/><br/>
