@@ -32,6 +32,15 @@ const ArchiveChangelogStatic = () => {
                             </li>
                         </ul>
                     </li>
+                    <br/>
+                    <li>
+                        <strong>&bull; <i>New Press</i></strong>
+                        <ul>
+                            <li>
+                                    &bull; SHEF Radio Ep. 22 feat. Kawaii Ry (Full Interview)
+                            </li>
+                        </ul>
+                    </li>
                 </ul>
             </p>
 
