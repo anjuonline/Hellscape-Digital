@@ -36,6 +36,15 @@ const Home = () => {
 
             <div class="react-player-responsive">
                 <ReactPlayer
+                    url="https://www.youtube.com/watch?v=s-1KhYY6rtw"
+                    width={"100%"}
+                    height={"100%"}
+                />
+            </div>
+            <p><strong>Interview - Kawaii Ry</strong><br/>SHEF Radio Ep. 22 feat. Kawaii Ry (Full Episode)</p>  
+
+            <div class="react-player-responsive">
+                <ReactPlayer
                     url="https://www.youtube.com/watch?v=viEzTBEkDMw"
                     width={"100%"}
                     height={"100%"}

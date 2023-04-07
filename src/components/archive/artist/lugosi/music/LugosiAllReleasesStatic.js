@@ -5,6 +5,72 @@ const LugosiAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6AKfhwQkwgQ4hWBDZNWAZ8?si=f5c232a6041749bc" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yLuM6rPvjbgplNsW-lwUwlA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>PHOTO</strong><br/>
+                (prod. chris6lair & Rio Leyva)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0I5rJlaBkO20fULmnRwQLt?si=729abdeee4ac4e08" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yLuM6rPvjbgplNsW-lwUwlA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>RUNTZ</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2HilJDWDjosfDgUGeZRYZd?si=c5aa2bc772a14fe7" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yLuM6rPvjbgplNsW-lwUwlA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>2ICY</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2w07H6GivKVa0smoNfePdP?si=71389f79d0fa4256" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yLuM6rPvjbgplNsW-lwUwlA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>GEEKIN</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/51IKc0tBc5VQebIgKpt1ee?si=5856e134990347ac" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yLuM6rPvjbgplNsW-lwUwlA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>BIG BOYS</strong><br/>
+                (prod. chris6lair & TF)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4cW0oMR1t5I53h417vwa2T?si=0e18b91cd74d4a66" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yLuM6rPvjbgplNsW-lwUwlA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>PISTOLTUCKED</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/32HZhtJOV3cj8iObJdadYj?si=e7031c7bdb5944af" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
               <p class="gallery-text">

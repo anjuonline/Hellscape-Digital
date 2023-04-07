@@ -8,6 +8,34 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                April 6, 2023 - v1.0.11
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/lugosi/all">
+                                    &bull; Lugosi - BODY IN THE TRUNK [EP]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/josen/all">
+                                    &bull; Josen - HollabackBoy (prod. Apartment9) [Single]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/all">
+                                    &bull; Kawaii Ry - Special K (prod. Nextime) [Single]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
                 April 1, 2023 - v1.0.10
             </h3> 
             <p class="changelogtext"> 

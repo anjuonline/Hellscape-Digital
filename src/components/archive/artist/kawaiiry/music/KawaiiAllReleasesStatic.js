@@ -7,6 +7,17 @@ const KawaiiAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/special-k-prod-nextime" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-KrJUMZIniMPUu3Pf-p58Zew-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Special K</strong><br/>
+                (prod. Nextime)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/32HZhtJOV3cj8iObJdadYj?si=e7031c7bdb5944af" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
               <p class="gallery-text">
