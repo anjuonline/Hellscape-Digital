@@ -4,6 +4,17 @@ const JosenAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/hollabackboy-prod-apt-9" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>HollabackBoy</strong><br/>
+                (prod. Apartment9)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/7BWuJJD9fvbpqQ8HRTePPj?si=7ec43658dba6437a" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d0000b273200c87078b070d6ac16a2bdc" width="100%" alt=""/><br/>

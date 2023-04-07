@@ -6,6 +6,39 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
+            <p class="gallery-tag">EP</p>
+            <a href="https://open.spotify.com/album/3X6qESmAaBE0pSlEssgIEt?si=7sSNkmB2RgyEfhDrz7ygsw" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yLuM6rPvjbgplNsW-lwUwlA-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Lugosi</strong><br/>
+                BODY IN THE TRUNK
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/hollabackboy-prod-apt-9" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Josen</strong><br/>
+                HollabackBoy (prod. Apartment9)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/special-k-prod-nextime" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-KrJUMZIniMPUu3Pf-p58Zew-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry</strong><br/>
+                Special K (prod. Nextime)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Album</p>
             <a href="https://open.spotify.com/album/7mygx4N05Il50UcBbLPI4V?si=8JXBdqaBSB6Jkz3JR8J0cw" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
@@ -128,26 +161,6 @@ const LatestMusicAll = () => {
               <p class="gallery-text">
                 <strong>rileylol</strong><br/>iPhone
                 (prod. wintfye, riporigin & milojensen)
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">EP</p>
-            <a href="https://soundcloud.com/sadoutwest/sets/next-lifetime-ep" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-zeA3BQWMzbUmcj1R-w2smyQ-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>rileylol</strong><br/>next lifetime
-              </p>
-            </a>
-          </div>
-
-        <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/2tr8CqLI23Ixk15fGrMVko?si=2a767a105c5c41bc" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-wDezjcyyNBP4WjQZ-zFdTCg-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>ANJU Online! & Kawaii Ry</strong><br/>SWAG SUPPLIER (feat. STARINTHESKY)
               </p>
             </a>
           </div>

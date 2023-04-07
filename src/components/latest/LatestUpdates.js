@@ -12,7 +12,7 @@ const LatestUpdates = () => {
                 <p><br/>Welcome to the new Hellscape Digital site! This project is a true labor of love - countless hours were spent to capture and organize the full collective's discography, and many more will be spent adding new content and features over time. Check this space often, and from the bottom of my heart - thank you for spending time in our world. <strong><i>-Anju</i></strong><br/></p>
 
                 <h3>
-                April 1, 2023 - v1.0.10
+                April 6, 2023 - v1.0.11
             </h3> 
             <p class="changelogtext"> 
                 <ul>
@@ -20,13 +20,18 @@ const LatestUpdates = () => {
                         <strong>&bull; <i>New Music</i></strong>
                         <ul>
                             <li>
-                                <a href="/hellscaperadio">
-                                    &bull; Hellscape Radio Vol. 5 - Kawaii Ry @ CRACKFEST V (Full Set)
+                                <a href="/lugosi/all">
+                                    &bull; Lugosi - BODY IN THE TRUNK [EP]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/josen/all">
+                                    &bull; Josen - HollabackBoy (prod. Apartment9) [Single]
                                 </a>
                             </li>
                             <li>
                                 <a href="/kawaiiry/all">
-                                    &bull; Kawaii Ry & Lugosi - Bimmy Boys [Album]
+                                    &bull; Kawaii Ry - Special K (prod. Nextime) [Single]
                                 </a>
                             </li>
                         </ul>
