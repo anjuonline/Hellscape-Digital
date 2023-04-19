@@ -12,7 +12,7 @@ const LatestUpdates = () => {
                 <p><br/>Welcome to the new Hellscape Digital site! This project is a true labor of love - countless hours were spent to capture and organize the full collective's discography, and many more will be spent adding new content and features over time. Check this space often, and from the bottom of my heart - thank you for spending time in our world. <strong><i>-Anju</i></strong><br/></p>
 
                 <h3>
-                April 6, 2023 - v1.0.11
+                April 19, 2023 - v1.0.12
             </h3> 
             <p class="changelogtext"> 
                 <ul>
@@ -21,27 +21,23 @@ const LatestUpdates = () => {
                         <ul>
                             <li>
                                 <a href="/lugosi/all">
-                                    &bull; Lugosi - BODY IN THE TRUNK [EP]
+                                    &bull; Lugosi - PHOTO [Music Video]
                                 </a>
                             </li>
                             <li>
-                                <a href="/josen/all">
-                                    &bull; Josen - HollabackBoy (prod. Apartment9) [Single]
+                                <a href="/kawaiiry/features">
+                                    &bull; TRYFG - слэп!! (feat. Kawaii Ry) [Feature]
                                 </a>
                             </li>
                             <li>
-                                <a href="/kawaiiry/all">
-                                    &bull; Kawaii Ry - Special K (prod. Nextime) [Single]
+                                <a href="/kawaiiry/features">
+                                    &bull; TRYFG - hannah montana (feat. Kawaii Ry) [Feature]
                                 </a>
                             </li>
-                        </ul>
-                    </li>
-                    <br/>
-                    <li>
-                        <strong>&bull; <i>New Press</i></strong>
-                        <ul>
                             <li>
-                                    &bull; SHEF Radio Ep. 22 feat. Kawaii Ry (Full Interview)
+                                <a href="/kawaiiry/features">
+                                    &bull; TRYFG - marilyn monroe! (feat. Kawaii Ry) [Feature]
+                                </a>
                             </li>
                         </ul>
                     </li>
