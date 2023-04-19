@@ -27,6 +27,15 @@ const Home = () => {
 
             <div class="react-player-responsive">
                 <ReactPlayer
+                    url="https://www.youtube.com/watch?v=Q0Ot5LS6GjU"
+                    width={"100%"}
+                    height={"100%"}
+                />
+            </div>
+            <p><strong>Lugosi</strong><br/>PHOTO (prod. chris6lair)</p> 
+
+            <div class="react-player-responsive">
+                <ReactPlayer
                     url="https://www.youtube.com/watch?v=21VuClIGW4o"
                     width={"100%"}
                     height={"100%"}
@@ -42,15 +51,6 @@ const Home = () => {
                 />
             </div>
             <p><strong>Interview - Kawaii Ry</strong><br/>SHEF Radio Ep. 22 feat. Kawaii Ry (Full Episode)</p>  
-
-            <div class="react-player-responsive">
-                <ReactPlayer
-                    url="https://www.youtube.com/watch?v=viEzTBEkDMw"
-                    width={"100%"}
-                    height={"100%"}
-                />
-            </div>
-            <p><strong>Hyder Daze</strong><br/>idontwannaseeyou (feat. rileylol)</p>  
 
         </div>       
 

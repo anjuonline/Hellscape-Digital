@@ -6,6 +6,17 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/1oSqlaTf5EDR5bFYkhDZGq?si=a5d1b68172b04baf" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-vWB1gQFkHcjOFhJO-UxYAYg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>TRYFG</strong><br/>
+                слэп!! (feat. Kawaii Ry)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">EP</p>
             <a href="https://open.spotify.com/album/3X6qESmAaBE0pSlEssgIEt?si=7sSNkmB2RgyEfhDrz7ygsw" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yLuM6rPvjbgplNsW-lwUwlA-t500x500.jpg" width="100%" alt=""/><br/>
@@ -153,17 +164,6 @@ const LatestMusicAll = () => {
               </p>
             </a>
           </div> 
-
-        <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/sadoutwest/iphone?in=sadoutwest/sets/next-lifetime-ep" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-zYbISggjwbSMyy6R-oQKJFQ-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>rileylol</strong><br/>iPhone
-                (prod. wintfye, riporigin & milojensen)
-              </p>
-            </a>
-          </div>
 
           </div>
 

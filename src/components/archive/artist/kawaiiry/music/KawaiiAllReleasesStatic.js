@@ -6,6 +6,39 @@ const KawaiiAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/1oSqlaTf5EDR5bFYkhDZGq?si=a5d1b68172b04baf" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-vWB1gQFkHcjOFhJO-UxYAYg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>TRYFG - слэп!! (feat. Kawaii Ry)</strong><br/>
+                (prod. TRYFG)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/5R6kaUncgpb6XuulgTUSTg?si=f6ff03033cbe4727" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-vWB1gQFkHcjOFhJO-UxYAYg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>TRYFG - hannah montana (feat. Kawaii Ry)</strong><br/>
+                (prod. TRYFG)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/5l50h1VPMMg5Kv7tc95Xio?si=3d4bf9b6961d467d" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-vWB1gQFkHcjOFhJO-UxYAYg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>TRYFG - marilyn monroe! (feat. Kawaii Ry)</strong><br/>
+                (prod. TRYFG)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/kawaiiry/special-k-prod-nextime" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-KrJUMZIniMPUu3Pf-p58Zew-t500x500.jpg" width="100%" alt=""/><br/>

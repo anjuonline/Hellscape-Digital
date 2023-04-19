@@ -8,6 +8,39 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                April 19, 2023 - v1.0.12
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/lugosi/all">
+                                    &bull; Lugosi - PHOTO [Music Video]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/features">
+                                    &bull; TRYFG - слэп!! (feat. Kawaii Ry) [Feature]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/features">
+                                    &bull; TRYFG - hannah montana (feat. Kawaii Ry) [Feature]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/features">
+                                    &bull; TRYFG - marilyn monroe! (feat. Kawaii Ry) [Feature]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
                 April 6, 2023 - v1.0.11
             </h3> 
             <p class="changelogtext"> 
