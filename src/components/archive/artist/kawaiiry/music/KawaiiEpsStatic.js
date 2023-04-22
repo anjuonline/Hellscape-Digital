@@ -5,6 +5,17 @@ const KawaiiEpsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">EP</p>
+            <a href="https://open.spotify.com/album/6V2daPLMFTZbhNMGQUN9e5?si=GYGU7EMjQHaH0A0VrRcoUA" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-M0iURrDPpvvoSZT9-nWUIZg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>The Porch</strong><br/>
+                (prod. STEFANO)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">EP</p>
             <a href="https://open.spotify.com/album/66hR39PDDqiJrKfvaNgm04" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d0000b273c2e40b9ca6e14145aecac252" width="100%" alt=""/><br/>
               <p class="gallery-text">

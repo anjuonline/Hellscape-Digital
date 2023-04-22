@@ -12,7 +12,7 @@ const LatestUpdates = () => {
                 <p><br/>Welcome to the new Hellscape Digital site! This project is a true labor of love - countless hours were spent to capture and organize the full collective's discography, and many more will be spent adding new content and features over time. Check this space often, and from the bottom of my heart - thank you for spending time in our world. <strong><i>-Anju</i></strong><br/></p>
 
                 <h3>
-                April 19, 2023 - v1.0.12
+                April 21, 2023 - v1.0.12
             </h3> 
             <p class="changelogtext"> 
                 <ul>
@@ -22,6 +22,11 @@ const LatestUpdates = () => {
                             <li>
                                 <a href="/lugosi/all">
                                     &bull; Lugosi - PHOTO [Music Video]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/all">
+                                    &bull; Kawaii Ry - The Porch [EP]
                                 </a>
                             </li>
                             <li>
