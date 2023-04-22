@@ -6,9 +6,9 @@ const ArchiveChangelogStatic = () => {
                 <h2>Hellscape Digital - Full Site Changelog</h2>
             </div>            
             <div>
-
+                
             <h3>
-                April 19, 2023 - v1.0.12
+                April 21, 2023 - v1.0.12
             </h3> 
             <p class="changelogtext"> 
                 <ul>
@@ -18,6 +18,11 @@ const ArchiveChangelogStatic = () => {
                             <li>
                                 <a href="/lugosi/all">
                                     &bull; Lugosi - PHOTO [Music Video]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/all">
+                                    &bull; Kawaii Ry - The Porch [EP]
                                 </a>
                             </li>
                             <li>

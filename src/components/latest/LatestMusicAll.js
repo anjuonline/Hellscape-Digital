@@ -6,6 +6,17 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
+            <p class="gallery-tag">EP</p>
+            <a href="https://open.spotify.com/album/6V2daPLMFTZbhNMGQUN9e5?si=GYGU7EMjQHaH0A0VrRcoUA" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-M0iURrDPpvvoSZT9-nWUIZg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry</strong><br/>
+                The Porch (prod. STEFANO)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/1oSqlaTf5EDR5bFYkhDZGq?si=a5d1b68172b04baf" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-vWB1gQFkHcjOFhJO-UxYAYg-t500x500.jpg" width="100%" alt=""/><br/>

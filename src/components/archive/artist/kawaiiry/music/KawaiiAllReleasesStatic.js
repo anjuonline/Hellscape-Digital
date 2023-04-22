@@ -6,6 +6,72 @@ const KawaiiAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0vzQNOp7XkJbNQntszSXar?si=4d52b04c1c9b4f11" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-M0iURrDPpvvoSZT9-nWUIZg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>EVUL</strong><br/>
+                (prod. STEFANO)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3Up1xuHDEH2P9fRE5BQwLU?si=9c0782b04e4e4ea1" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-M0iURrDPpvvoSZT9-nWUIZg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Junebug</strong><br/>
+                (prod. STEFANO)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/31fRvMHvUOukArlWPzaBV7?si=4650516848324875" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-M0iURrDPpvvoSZT9-nWUIZg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Biscoff</strong><br/>
+                (prod. STEFANO)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6DmrkzpD4GGTUhPzU9103M?si=7c670ea39aac4a6b" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-M0iURrDPpvvoSZT9-nWUIZg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Prime Day</strong><br/>
+                (prod. STEFANO)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7HE0r3JDsMHtpfKH2EEl2C?si=2d5bc929c99545c3" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-M0iURrDPpvvoSZT9-nWUIZg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Prada Me</strong><br/>
+                (prod. STEFANO & Remy3D)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6HSS8C7qTFp7xp4XaeVSYr?si=826231b058c24d70" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-M0iURrDPpvvoSZT9-nWUIZg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Realistic</strong><br/>
+                (prod. STEFANO)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/1oSqlaTf5EDR5bFYkhDZGq?si=a5d1b68172b04baf" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-vWB1gQFkHcjOFhJO-UxYAYg-t500x500.jpg" width="100%" alt=""/><br/>

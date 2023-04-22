@@ -27,12 +27,12 @@ const Home = () => {
 
             <div class="react-player-responsive">
                 <ReactPlayer
-                    url="https://www.youtube.com/watch?v=Q0Ot5LS6GjU"
+                    url="https://www.youtube.com/watch?v=EgCdIxRRYdI"
                     width={"100%"}
                     height={"100%"}
                 />
             </div>
-            <p><strong>Lugosi</strong><br/>PHOTO (prod. chris6lair)</p> 
+            <p><strong>Lugosi - PHOTO</strong><br/>(prod. chris6lair & Rio Leyva)</p> 
 
             <div class="react-player-responsive">
                 <ReactPlayer
