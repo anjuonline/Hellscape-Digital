@@ -6,6 +6,39 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/6wLFadNSS3Uv1wgYaM1M0b?si=Tm93dx20TOGFoLrEHKVD9Q" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry</strong><br/>
+                Slime Shawty 2
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">EP</p>
+            <a href="https://open.spotify.com/album/13cL9Nd7P2yWXcOgBXU7Sh?si=m6vcmheySxqVwjxcvCmkjA" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>notamachine</strong><br/>
+                birdsongs
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://soundcloud.com/liljosen/sets/drill-la-drill" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Josen</strong><br/>
+                Drill La Drill
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">EP</p>
             <a href="https://open.spotify.com/album/6V2daPLMFTZbhNMGQUN9e5?si=GYGU7EMjQHaH0A0VrRcoUA" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-M0iURrDPpvvoSZT9-nWUIZg-t500x500.jpg" width="100%" alt=""/><br/>
@@ -37,17 +70,6 @@ const LatestMusicAll = () => {
               </p>
             </a>
           </div> 
-
-        <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/liljosen/hollabackboy-prod-apt-9" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Josen</strong><br/>
-                HollabackBoy (prod. Apartment9)
-              </p>
-            </a>
-          </div>
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
@@ -104,17 +126,6 @@ const LatestMusicAll = () => {
             </a>
           </div>
 
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/2OQUzGnNi4BYDPYhLLkfzi?si=6d0717d55ab34948" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i.scdn.co/image/ab67616d0000b27365972bcc710045581cd0a935" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Semaj</strong><br/>
-                Heartless
-              </p>
-            </a>
-          </div>
-
         <div class="gallery_item">
             <p class="gallery-tag">Album</p>
             <a href="" target="_blank" rel="noopener noreferrer">
@@ -154,27 +165,6 @@ const LatestMusicAll = () => {
               </p>
             </a>
           </div>
-
-        <div class="gallery_item">
-            <p class="gallery-tag">Album</p>
-            <a href="https://open.spotify.com/album/7BT2hW7eoWgOrWRALq14QR?si=OPmNtn9BTmuVsVcwJZumUA" target="_blank" rel="noopener noreferrer">
-              <img src="https://i.scdn.co/image/ab67616d00001e02eb6ed43d5b7a864793e53697" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Kawaii Ry</strong><br/>Club Kawaii
-              </p>
-            </a>
-          </div>
-
-        <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/liljosen/drill-la-drill-intro-album" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Josen</strong><br/>Drill La Drill (Intro)
-                (prod. notamachine)
-              </p>
-            </a>
-          </div> 
 
           </div>
 

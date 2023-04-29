@@ -4,6 +4,17 @@ const AnjuAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/7dj4Rf9bwDANLQLHQhycne?si=195758df3bc740fc" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Slime Cry</strong><br/>
+                (prod. ANJU Online!)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/2UiSXHE6Y3KAIsfCCo67kW?si=8f4ff287c6ce4cbe" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>

@@ -4,6 +4,70 @@ const NotamachineAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2fHsutbgrRGYSrFJVZZX6V?si=6b85741ea955425a" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>pt i</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/25UlkXqFHvwxPeGZhokNa8?si=a0ac72e67a304531" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>birdsongs</strong><br/>
+                (feat. Kawaii Ry)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3V50ZTDDET86sQo9gKwFfF?si=cf0bd3d342094f3c" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>enjoy yourself</strong><br/>
+                (feat. Kawaii Ry & Lugosi)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3D22ziOgyplsGFDLkUFR7H?si=d97c4e405064475d" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>pt ii</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6f0wOhCOhyz8S7pR5HiZGj?si=b6f34406a5b741d2" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>faded</strong><br/>
+                (feat. Lugosi)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/4C1UNfTBBlsstOX9rzuApo?si=95915470b7b3435b" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - No Keys</strong><br/>
+                (prod. Meauxminy & notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/6s1JmW3MXAb2BH9jFi8w13?si=604dfba0a31f48e2" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>

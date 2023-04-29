@@ -5,6 +5,16 @@ const JosenAlbumsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Album</p>
+            <a href="https://soundcloud.com/liljosen/sets/drill-la-drill" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Drill La Drill</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
             <a href="https://soundcloud.com/liljosen/sets/to-drill-a-mockingbird" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-CarFD2NJ42gNIEXz-cJk87Q-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

@@ -7,6 +7,160 @@ const KawaiiAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/60QeHdQVK1xoR8d4JEIUbK?si=5377300783af4d5b" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Lottery</strong><br/>
+                (prod. Hygo)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2znkJL6RINFc0LOP9OAiHb?si=7913409f29ce4dc4" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Bimmy Got Me</strong><br/>
+                (prod. Picasso)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0O0JKXmVtXg6dmhzEmOKFb?si=00fc8bd3c49b468c" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Wanted Dead or a Wild</strong><br/>
+                (prod. ezy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7dj4Rf9bwDANLQLHQhycne?si=195758df3bc740fc" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Slime Cry</strong><br/>
+                (prod. ANJU Online!)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5akPO8eS8O6JgxEZ8QU2XR?si=c6ed5bd8d33442d2" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>HML</strong><br/>
+                (prod. S&S)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1oyNixV2h2TIYe6MoXLeqH?si=3b284aef1de14684" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>If Looks Could Kill</strong><br/>
+                (prod. Picasso)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1Yx3ow3qQKzyKXbGH5BW2M?si=361140afb52c4a0d" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Vetements Dance</strong><br/>
+                (prod. Picasso)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6PqdCvv3kuNg60alx0fyMh?si=81c499a820284964" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kodone</strong><br/>
+                (prod. Picasso)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3WCVPNkmcZf2Z5ieayWJ28?si=48a07d9489ef4d08" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Face</strong><br/>
+                (prod. Picasso)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6AlOrM7ecnefZ1eggWSBoh?si=dfd91bc6450e48f4" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>One & Done</strong><br/>
+                (prod. Picasso)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6NrS774Ihj0OXafBn0D534?si=40d955813aa943fa" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Memories</strong><br/>
+                (prod. Picasso)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4C1UNfTBBlsstOX9rzuApo?si=95915470b7b3435b" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>No Keys</strong><br/>
+                (prod. Meauxminy & notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/25UlkXqFHvwxPeGZhokNa8?si=a0ac72e67a304531" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>notamachine - birdsongs</strong><br/>
+                (feat. Kawaii Ry)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/3V50ZTDDET86sQo9gKwFfF?si=cf0bd3d342094f3c" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>notamachine - enjoy yourself</strong><br/>
+                (feat. Kawaii Ry & Lugosi)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/0vzQNOp7XkJbNQntszSXar?si=4d52b04c1c9b4f11" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-M0iURrDPpvvoSZT9-nWUIZg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
