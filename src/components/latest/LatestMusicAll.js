@@ -126,17 +126,6 @@ const LatestMusicAll = () => {
             </a>
           </div>
 
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/2OQUzGnNi4BYDPYhLLkfzi?si=6d0717d55ab34948" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i.scdn.co/image/ab67616d0000b27365972bcc710045581cd0a935" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Semaj</strong><br/>
-                Heartless
-              </p>
-            </a>
-          </div>
-
         <div class="gallery_item">
             <p class="gallery-tag">Album</p>
             <a href="" target="_blank" rel="noopener noreferrer">
