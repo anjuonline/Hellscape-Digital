@@ -6,7 +6,35 @@ const ArchiveChangelogStatic = () => {
                 <h2>Hellscape Digital - Full Site Changelog</h2>
             </div>            
             <div>
-                
+
+            <h3>
+                April 29, 2023 - v1.0.13
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/josen/all">
+                                    &bull; Josen - Drill La Drill [Album]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/notamachine/all">
+                                    &bull; notamachine - birdsongs [EP]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/features">
+                                    &bull; Kawaii Ry - Slime Shawty 2 [Album]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
             <h3>
                 April 21, 2023 - v1.0.12
             </h3> 

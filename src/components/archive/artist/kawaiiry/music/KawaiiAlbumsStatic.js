@@ -5,6 +5,16 @@ const KawaiiAlbumsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/6wLFadNSS3Uv1wgYaM1M0b?si=Tm93dx20TOGFoLrEHKVD9Q" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Slime Shawty 2</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
             <a href="https://open.spotify.com/album/7mygx4N05Il50UcBbLPI4V?si=8JXBdqaBSB6Jkz3JR8J0cw" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
               <p class="gallery-text">

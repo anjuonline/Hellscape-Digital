@@ -5,6 +5,28 @@ const KawaiiFeaturesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/25UlkXqFHvwxPeGZhokNa8?si=a0ac72e67a304531" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>notamachine - birdsongs</strong><br/>
+                (feat. Kawaii Ry)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/3V50ZTDDET86sQo9gKwFfF?si=cf0bd3d342094f3c" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>notamachine - enjoy yourself</strong><br/>
+                (feat. Kawaii Ry & Lugosi)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/1oSqlaTf5EDR5bFYkhDZGq?si=a5d1b68172b04baf" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-vWB1gQFkHcjOFhJO-UxYAYg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

@@ -3,6 +3,17 @@ const LugosiFeaturesStatic = () => {
       <>
         <div class="gallery_containerThree-static">  
 
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/6f0wOhCOhyz8S7pR5HiZGj?si=b6f34406a5b741d2" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>notamachine - faded</strong><br/>
+                (feat. Lugosi)
+              </p>
+            </a>
+          </div>
+
           <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/5KD8KacsVrnRgrIsmNhQTt?si=9528e5ffa2304123" target="_blank" rel="noopener noreferrer">    
