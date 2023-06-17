@@ -8,6 +8,59 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                June 17, 2023 - v1.0.14
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/kawaiiry/albums">
+                                    &bull; Kawaii Ry & chris6lair - BLEEZY SEAZY III [Album]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/notamachine/all">
+                                    &bull; sphere merchants - trust (prod. notamachine) [Single]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/features">
+                                    &bull; Kodak Black - New Girl (feat. Kawaii Ry) [Single]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/albums">
+                                    &bull; Kawaii Ry & notamachine - Alone Together [Album]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/semaj/all">
+                                    &bull; Semaj - Keep Quiet [Single]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://open.spotify.com/track/6XOdRRqu65ZxZJlNl72Bzm?si=0db04b58019a42c3">
+                                    &bull; Kawaii Ry & Remy3D - Horseshoes and Buddhaman [Single]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/notamachine/all">
+                                    &bull; Tomali & Ptown - BEN10 (prod. notamachine) [Single]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/notamachine/all">
+                                    &bull; Tomali & Ptown - ALL4LUV (prod. notamachine) [Single]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
                 April 29, 2023 - v1.0.13
             </h3> 
             <p class="changelogtext"> 
