@@ -7,6 +7,47 @@ const LatestMusicAll = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/3Cg1oeHtDkO6iRgVcv9sok?si=CNRU9M62QdC3vjpJeq5T7g" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry</strong><br/>BLEEZY SEAZY III (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/4lanKESHOVSShxc9OQRHYh?si=4e0bc0ede4f34e86" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d00001e02d22b78e993fd00183366b4b6" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>sphere merchants</strong><br/>
+                trust (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/6phk15MEf67TkrlpJ6BW0u?si=mg64TCx3SQGJSW_075dW8Q" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry</strong><br/>Alone Together (prod. Notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7dy9xmY6Ei20AjyEdhXSg9?si=3c9d7dccba1342cb" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e0267311d28774ca875d4e5e4b7" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Semaj</strong><br/>Keep Quiet
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
             <a href="https://open.spotify.com/album/6wLFadNSS3Uv1wgYaM1M0b?si=Tm93dx20TOGFoLrEHKVD9Q" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -122,46 +163,6 @@ const LatestMusicAll = () => {
               <p class="gallery-text">
                 <strong>Hyder Daze</strong><br/>
                 idontwannaseeyou (feat. rileylol)
-              </p>
-            </a>
-          </div>
-
-        <div class="gallery_item">
-            <p class="gallery-tag">Album</p>
-            <a href="" target="_blank" rel="noopener noreferrer">
-              <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>ANJU Online!</strong><br/>Solid State Memories
-              </p>
-            </a>
-          </div>
-
-        <div class="gallery_item">
-            <p class="gallery-tag">Album</p>
-            <a href="https://open.spotify.com/album/6VuabdaL17mTNuxhVDeRUD?si=bIKyvilAR4SphXqVWyvTMA" target="_blank" rel="noopener noreferrer">
-              <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Kawaii Ry & Meauxminy</strong><br/>Meaux Money Less Talk
-              </p>
-            </a>
-          </div>
-
-        <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/1AyndiHKMM2XMK0PXHGvi0?si=a74325d6f6f14b48" target="_blank" rel="noopener noreferrer">
-              <img src="https://i1.sndcdn.com/artworks-2hiibxk8Rz27EfAI-Vk4ozw-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>ANJU Online!</strong><br/>Technology
-              </p>
-            </a>
-          </div>
-
-        <div class="gallery_item">
-            <p class="gallery-tag">DJ Set</p>
-            <a href="https://www.youtube.com/watch?v=444jIQF-mRU" target="_blank" rel="noopener noreferrer">
-              <img src="https://i.imgur.com/hA2r41r.png" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Hellscape Radio Vol. 4</strong><br/>Kawaii Ry & ANJU Online! @ CG Fest 2023
               </p>
             </a>
           </div>

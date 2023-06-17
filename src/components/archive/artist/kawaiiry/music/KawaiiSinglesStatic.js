@@ -5,6 +5,358 @@ const KawaiiSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/29tpLhE6PvwdYko6NrgT18?si=6a59d17f87214a10" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Telegram</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6oVpG2vpg43WsYG2na3m7c?si=dd893e2095464fb2" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Goto The Moon (feat. Boy Floss)</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0InUZQv6p4VpfR9ZRRiJ68?si=c284283d50bf4599" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Come Around</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6IT4Z652KDl6QswaZ7fQSS?si=7bc55faf55914baf" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>L2L (feat. Rileylol)</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3kxpNUWsWZUM8kUQ7X48us?si=99c28c69495741b6" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>I'm Sorry</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/67T31MVYxb8XvdMFjGGi53?si=2e1eebfb45e04d11" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Cranium</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7lwIwXIuL33qNQQ1ibD5Ue?si=cca5b710f03e4d27" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Tapped In</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6LHQi6LysGr2gsHhddG0Fw?si=cb590340a80c4bdb" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Whole House</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/288deYC4uxPey0c6V1zX2C?si=d619f3b923f9423f" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Sweet Type</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2m5E7Z01E0oMrtqxUSUYhS?si=b6cedfc1e9dc4cdd" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Don't Try It (feat. rileylol)</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/312bqPDtMXOd5tWS1z2vEu?si=4bbcd81383b34426" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Why Do I?</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1h8hmTVelqWuuypBoLkiMI?si=75dcd1b4362f47e3" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>For You</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5ia1RNOp0es4kL3XcZnD9O?si=6c0736fc141c46a2" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>I Guess I Gotta Do It</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0M4zWyxXS0q3BnRRTfUkpa?si=23c16d3883ed4d75" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>What She Hides</strong><br/>
+                (prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0uO0Qosc5WYTfBjPi5x466?si=ded88831c62f4e41" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Clown</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3IAym27cx48RClaaVPghKA?si=b9532f9724fe412c" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Battle Bus (feat. Lil Dujour)</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/45eev9YzAniaNF9bgyqyn8?si=1017582b25774fc2" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>It's Me</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2BIrMMXBlknKNhscZOwrLG?si=855e5f8d22a44ac8" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Don't Wait On Me II</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4NpTXoV5k39TEPsxWUMaAb?si=54b25bf9cac04398" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Due Time</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2MAfiUDgKAhfvvD8GS9PUe?si=6e0edac5d99943d0" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Firefight</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4OTMVKBesbX2ro17DfE2Ke?si=0409e375d3354d11" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Folder</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7M98tFfeZZpPWghv4YTHoN?si=d0beeec085004371" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>My Weed</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5MFzQ5UCpnAYycgzybFkZV?si=595062485ebf4273" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Scoop</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/17ulPTVLeXnirBCGWvwp6f?si=c9416311568c4e8b" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Money Called</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3eD07yn0xIZCEux6CvequI?si=ad02750dffae4b97" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Twizzy (feat. rileylol)</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5HYuriuAaQLqXzOKFObaxg?si=76eba43232f44032" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Follow The Lead</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0tHeaM2h00oF2ENmetcIzV?si=52b864d9a54547a0" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Watches</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4XmqGJR6rmTmZFHXeK6czn?si=03ecd747da1d4424" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Yes No Maybe</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2mF8iIquaFdCK41bobEJuV?si=ad01060b0ec545b0" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Body Shop</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/57PCMEmvSTispedM3yZzn1?si=a7d22874325a40b7" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Would Your Rather</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2u1XRHa9HRGr5os98iTE21?si=68d6045ae23f4a81" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Stop! Look!</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4aZJiqQvn2EBp860EouMxR?si=a289c0fe4184483d" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Top Geek</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/60QeHdQVK1xoR8d4JEIUbK?si=5377300783af4d5b" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -197,6 +549,17 @@ const KawaiiSinglesStatic = () => {
               <p class="gallery-text">
                 <strong>Realistic</strong><br/>
                 (prod. STEFANO)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6XOdRRqu65ZxZJlNl72Bzm?si=0db04b58019a42c3" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yfterL7ItIyXrKxb-1kOkBQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Horseshoes and Buddhaman</strong><br/>
+                (prod. Remy3D & chris6lair)
               </p>
             </a>
           </div>

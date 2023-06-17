@@ -14,6 +14,17 @@ const Remy3dAllReleasesStatic = () => {
             </a>
           </div>
 
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/6XOdRRqu65ZxZJlNl72Bzm?si=0db04b58019a42c3" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-yfterL7ItIyXrKxb-1kOkBQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Horseshoes and Buddhaman</strong><br/>
+                (prod. Remy3D & chris6lair)
+              </p>
+            </a>
+          </div>
+
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/6s1JmW3MXAb2BH9jFi8w13?si=604dfba0a31f48e2" target="_blank" rel="noopener noreferrer">
