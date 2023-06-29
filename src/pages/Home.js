@@ -27,30 +27,12 @@ const Home = () => {
 
             <div class="react-player-responsive">
                 <ReactPlayer
-                    url="https://www.youtube.com/watch?v=EgCdIxRRYdI"
+                    url="https://www.youtube.com/watch?v=zKSQZpGMiWA"
                     width={"100%"}
                     height={"100%"}
                 />
             </div>
-            <p><strong>Lugosi - PHOTO</strong><br/>(prod. chris6lair & Rio Leyva)</p> 
-
-            <div class="react-player-responsive">
-                <ReactPlayer
-                    url="https://www.youtube.com/watch?v=21VuClIGW4o"
-                    width={"100%"}
-                    height={"100%"}
-                />
-            </div>
-            <p><strong>Hellscape Radio Vol. 5</strong><br/>Kawaii Ry @ CRACKFEST V (Full Set)</p>  
-
-            <div class="react-player-responsive">
-                <ReactPlayer
-                    url="https://www.youtube.com/watch?v=s-1KhYY6rtw"
-                    width={"100%"}
-                    height={"100%"}
-                />
-            </div>
-            <p><strong>Interview - Kawaii Ry</strong><br/>SHEF Radio Ep. 22 feat. Kawaii Ry (Full Episode)</p>  
+            <p><strong>Kawaii Ry, TRYFG & Boy Floss - Rare Link</strong><br/>(prod. Meauxminy)</p>
 
         </div>       
 

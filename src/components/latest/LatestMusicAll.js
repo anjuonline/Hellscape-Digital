@@ -6,6 +6,17 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
+            <p class="gallery-tag">HSD Exclusive</p>
+            <a href="https://open.spotify.com/track/6JPdZVcrAGL1jrIbSYWwOQ?si=c139737a2862412f" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.imgur.com/AIZYHuT.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry, TRYFG & Boy Floss</strong><br/>
+                Rare Link (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Album</p>
             <a href="https://open.spotify.com/album/3Cg1oeHtDkO6iRgVcv9sok?si=CNRU9M62QdC3vjpJeq5T7g" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
@@ -152,17 +163,6 @@ const LatestMusicAll = () => {
               <p class="gallery-text">
                 <strong>Heems</strong><br/>
                 Take Me (The Heights) (feat. Josen)<br/>(prod. notamachine)
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Music Video</p>
-            <a href="https://www.youtube.com/watch?v=viEzTBEkDMw" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-5e8PhdPzzuuG8twL-xaG7Lg-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Hyder Daze</strong><br/>
-                idontwannaseeyou (feat. rileylol)
               </p>
             </a>
           </div>
