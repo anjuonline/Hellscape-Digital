@@ -8,6 +8,24 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                June 29, 2023 - v1.0.14.1
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="https://open.spotify.com/track/6JPdZVcrAGL1jrIbSYWwOQ?si=f6128fe2056e48d2" target="_blank;">
+                                    &bull; Kawaii Ry, TRYFG & Boy Floss - Rare Link [Hellscape Exclusive]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
                 June 17, 2023 - v1.0.14
             </h3> 
             <p class="changelogtext"> 

@@ -7,6 +7,17 @@ const KawaiiAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6JPdZVcrAGL1jrIbSYWwOQ?si=2fcb959ae9e34cab" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.imgur.com/AIZYHuT.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry, TRYFG & Boy Floss - Rare Link</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/29tpLhE6PvwdYko6NrgT18?si=6a59d17f87214a10" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

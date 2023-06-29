@@ -5,6 +5,17 @@ const MeauxminyAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/6JPdZVcrAGL1jrIbSYWwOQ?si=2fcb959ae9e34cab" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.imgur.com/AIZYHuT.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry, TRYFG & Boy Floss - Rare Link</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/4C1UNfTBBlsstOX9rzuApo?si=95915470b7b3435b" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
