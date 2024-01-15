@@ -5,6 +5,26 @@ const SemajSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3mD4FwrHVPf2ZQwvaKree4?si=2bd5aca8f10f4ec6" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e025e2a34dc4644b169f30f6b44" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Love's Not Fair</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7dy9xmY6Ei20AjyEdhXSg9?si=3c9d7dccba1342cb" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e0267311d28774ca875d4e5e4b7" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Keep Quiet</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/2OQUzGnNi4BYDPYhLLkfzi?si=6d0717d55ab34948" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d0000b27365972bcc710045581cd0a935" width="100%" alt=""/><br/>
               <p class="gallery-text">

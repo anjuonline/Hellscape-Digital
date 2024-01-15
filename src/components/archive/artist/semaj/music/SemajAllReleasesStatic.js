@@ -4,6 +4,26 @@ const SemajAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3mD4FwrHVPf2ZQwvaKree4?si=2bd5aca8f10f4ec6" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e025e2a34dc4644b169f30f6b44" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Love's Not Fair</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7dy9xmY6Ei20AjyEdhXSg9?si=3c9d7dccba1342cb" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e0267311d28774ca875d4e5e4b7" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Keep Quiet</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/1h1bV5x6Rqak2ZYNbc6JzC?si=0b1c59bbfcd64ba8" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>

@@ -5,16 +5,16 @@ import './TopNav.css';
 
 const TopNav = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const [showBlogSubMenu, setShowBlogSubMenu] = useState(false);
+  const [showCommunitySubMenu, setShowCommunitySubMenu] = useState(false);
   const [showMusicSubMenu, setShowMusicSubMenu] = useState(false);
   const [showArchiveSubMenu, setShowArchiveSubMenu] = useState(false);
 
-  const handleBlogSubMenuMouseEnter = () => {
-    setShowBlogSubMenu(true);
+  const handleCommunitySubMenuMouseEnter = () => {
+    setShowCommunitySubMenu(true);
   };
 
-  const handleBlogSubMenuMouseLeave = () => {
-    setShowBlogSubMenu(false);
+  const handleCommunitySubMenuMouseLeave = () => {
+    setShowCommunitySubMenu(false);
   };
 
   const handleMusicSubMenuMouseEnter = () => {
@@ -65,24 +65,26 @@ const TopNav = () => {
                 </div>
               )}
             </div>
-            <div onMouseEnter={handleBlogSubMenuMouseEnter} onMouseLeave={handleBlogSubMenuMouseLeave}>
-              <NavLink to={"/underconstruction"} exact>Blog</NavLink>
-              {showBlogSubMenu && (
-                <div className="sub-menu" onMouseEnter={handleBlogSubMenuMouseEnter} onMouseLeave={handleBlogSubMenuMouseLeave}>
-                  <a href="/underconstruction">Hellscape Digital</a>
-                  <a href="/underconstruction">ANJU Online!</a>
-                </div>
-              )}
-            </div>
             <div onMouseEnter={handleArchiveSubMenuMouseEnter} onMouseLeave={handleArchiveSubMenuMouseLeave}>
               <NavLink to={"/archive"} exact>Archive</NavLink>
               {showArchiveSubMenu && (
                 <div className="sub-menu" onMouseEnter={handleArchiveSubMenuMouseEnter} onMouseLeave={handleArchiveSubMenuMouseLeave}>
                   <a href="/archive/music">Music</a>
                   <a href="/archive/artwork">Artwork</a>
+                  <a href="/archive/vods">Stream VODs</a>
                 </div>
               )}
             </div>
+            <div onMouseEnter={handleCommunitySubMenuMouseEnter} onMouseLeave={handleCommunitySubMenuMouseLeave}>
+              <NavLink to={"/underconstruction"} exact>Community</NavLink>
+              {showCommunitySubMenu && (
+                <div className="sub-menu" onMouseEnter={handleCommunitySubMenuMouseEnter} onMouseLeave={handleCommunitySubMenuMouseLeave}>
+                  <a href="/chat">Chat <i>(NEW!)</i></a>
+                  <a href="https://discord.gg/Dg4a3pQrg6" target="_blank;">Discord</a>
+                </div>
+              )}
+            </div>
+            <a href="/underconstruction" target="_blank" rel="noopener nofollower">Blog</a>
             <a href="https://hellscapedigital.myshopify.com/" target="_blank" rel="noopener nofollower">Store</a>
           </div>
           <div class="topnavhomebutton">

@@ -1,10 +1,10 @@
 import ArchiveIndex from 'components/archive/ArchiveIndex';
 import { NavLink } from 'react-router-dom';
 import ArchiveMusicSubindex from 'components/archive/ArchiveMusicSubindex';
-import LilDujourFeaturesStatic from 'components/archive/artist/lildujour/music/LilDujourFeaturesStatic';
+import LilDujourVideosStatic from 'components/archive/artist/lildujour/music/LilDujourVideosStatic';
 import LilDujourMusicSubindex from 'components/archive/artist/lildujour/LilDujourMusicSubindex';
 
-const ArchiveMusicLilDujourFeatures = () => {
+const ArchiveMusicLilDujourVideos = () => {
 
   return (
     <div class="main-column">
@@ -21,11 +21,11 @@ const ArchiveMusicLilDujourFeatures = () => {
       <div class="card-container">
         <div class="sticky">
           <LilDujourMusicSubindex/>
-          <LilDujourFeaturesStatic/>
+          <LilDujourVideosStatic/>
         </div>
       </div>
 
     </div>
   );
 };
-export default ArchiveMusicLilDujourFeatures;
+export default ArchiveMusicLilDujourVideos;

@@ -8,29 +8,6 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
-                April 1, 2023 - v1.0.10
-            </h3> 
-            <p class="changelogtext"> 
-                <ul>
-                    <li>
-                        <strong>&bull; <i>New Music</i></strong>
-                        <ul>
-                            <li>
-                                <a href="/hellscaperadio">
-                                    &bull; Hellscape Radio Vol. 5 - Kawaii Ry @ CRACKFEST V (Full Set)
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/kawaiiry/all">
-                                    &bull; Kawaii Ry & Lugosi - Bimmy Boys [Album]
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </p>
-
-            <h3>
                 March 26, 2023 - v1.1.0
             </h3> 
             <p class="changelogtext"> 
@@ -61,7 +38,12 @@ const ArchiveChangelogStatic = () => {
                         <ul>
                             <li>
                                 <a href="/kawaiiry/all">
-                                    &bull; Kawaii Ry - BLEEZY SEAZY II (prod. chrislair) [EP]
+                                    &bull; Kawaii Ry - I Cry, I Bleed [Album]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/semaj/all">
+                                    &bull; Semaj - Love's Not Fair [Single]
                                 </a>
                             </li>
                         </ul>
@@ -93,6 +75,203 @@ const ArchiveChangelogStatic = () => {
                             <li>
                                 <a href="/">
                                     &bull; Blog section placeholder created, now in active development
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
+                June 29, 2023 - v1.0.14.1
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="https://open.spotify.com/track/6JPdZVcrAGL1jrIbSYWwOQ?si=f6128fe2056e48d2" target="_blank;">
+                                    &bull; Kawaii Ry, TRYFG & Boy Floss - Rare Link [Hellscape Exclusive]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
+                June 17, 2023 - v1.0.14
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/kawaiiry/albums">
+                                    &bull; Kawaii Ry & chris6lair - BLEEZY SEAZY III [Album]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/notamachine/all">
+                                    &bull; sphere merchants - trust (prod. notamachine) [Single]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/features">
+                                    &bull; Kodak Black - New Girl (feat. Kawaii Ry) [Single]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/albums">
+                                    &bull; Kawaii Ry & notamachine - Alone Together [Album]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/semaj/all">
+                                    &bull; Semaj - Keep Quiet [Single]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://open.spotify.com/track/6XOdRRqu65ZxZJlNl72Bzm?si=0db04b58019a42c3">
+                                    &bull; Kawaii Ry & Remy3D - Horseshoes and Buddhaman [Single]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/notamachine/all">
+                                    &bull; Tomali & Ptown - BEN10 (prod. notamachine) [Single]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/notamachine/all">
+                                    &bull; Tomali & Ptown - ALL4LUV (prod. notamachine) [Single]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
+                April 29, 2023 - v1.0.13
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/josen/all">
+                                    &bull; Josen - Drill La Drill [Album]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/notamachine/all">
+                                    &bull; notamachine - birdsongs [EP]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/features">
+                                    &bull; Kawaii Ry - Slime Shawty 2 [Album]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
+                April 21, 2023 - v1.0.12
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/lugosi/all">
+                                    &bull; Lugosi - PHOTO [Music Video]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/all">
+                                    &bull; Kawaii Ry - The Porch [EP]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/features">
+                                    &bull; TRYFG - слэп!! (feat. Kawaii Ry) [Feature]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/features">
+                                    &bull; TRYFG - hannah montana (feat. Kawaii Ry) [Feature]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/features">
+                                    &bull; TRYFG - marilyn monroe! (feat. Kawaii Ry) [Feature]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
+                April 6, 2023 - v1.0.11
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/lugosi/all">
+                                    &bull; Lugosi - BODY IN THE TRUNK [EP]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/josen/all">
+                                    &bull; Josen - HollabackBoy (prod. Apartment9) [Single]
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/all">
+                                    &bull; Kawaii Ry - Special K (prod. Nextime) [Single]
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <br/>
+                    <li>
+                        <strong>&bull; <i>New Press</i></strong>
+                        <ul>
+                            <li>
+                                    &bull; SHEF Radio Ep. 22 feat. Kawaii Ry (Full Interview)
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+            <h3>
+                April 1, 2023 - v1.0.10
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/hellscaperadio">
+                                    &bull; Hellscape Radio Vol. 5 - Kawaii Ry @ CRACKFEST V (Full Set)
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/all">
+                                    &bull; Kawaii Ry & Lugosi - Bimmy Boys [Album]
                                 </a>
                             </li>
                         </ul>

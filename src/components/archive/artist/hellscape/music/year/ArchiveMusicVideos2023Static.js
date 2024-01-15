@@ -4,6 +4,14 @@ const ArchiveMusicVideos2023Static = () => {
         <div class="music-video">
 
         <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/EgCdIxRRYdI" title="lost freestyle" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>Lugosi</strong><br/>
+            PHOTO (prod. chris6lair & Rio Leyva)
+          </p>
+
+        <div class="music-video-container">
             <iframe src="https://www.youtube.com/embed/21VuClIGW4o" title="Hellscape Radio Vol. 5" allowfullscreen></iframe>
             </div>
             <p class="video-title-text">
