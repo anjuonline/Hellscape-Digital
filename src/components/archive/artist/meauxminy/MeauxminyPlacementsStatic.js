@@ -5,6 +5,32 @@ const MeauxminyPlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/kawaiiry/buddha-man" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-dRUzGXmrWMNzsqCS-ptfv2A-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Buddha Man</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/3IhCkp0pe3KNpimBr5vWYr?si=75dad82cc0764a3c" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-mNjoZfs4ncaHSVx0-83Gnmw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Late (feat. Lil Dujour)</strong><br/>
+                (prod. Meauxminy & notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/6JPdZVcrAGL1jrIbSYWwOQ?si=2fcb959ae9e34cab" target="_blank" rel="noopener noreferrer">
               <img src="https://i.imgur.com/AIZYHuT.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

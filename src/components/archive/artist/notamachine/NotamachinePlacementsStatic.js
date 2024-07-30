@@ -5,6 +5,19 @@ const NotamachinePlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1SZ0QWWosnbutwoVOZMDOp?si=c84b6242a7fc4055" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02165adc96751fcdfd89a71fb8" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - DALYDK</strong><br/>
+                (prod. chris6lair & notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/4lanKESHOVSShxc9OQRHYh?si=4e0bc0ede4f34e86" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d00001e02d22b78e993fd00183366b4b6" width="100%" alt=""/><br/>
               <p class="gallery-text">

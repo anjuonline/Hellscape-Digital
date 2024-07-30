@@ -5,6 +5,91 @@ const NotamachineAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1SZ0QWWosnbutwoVOZMDOp?si=c84b6242a7fc4055" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02165adc96751fcdfd89a71fb8" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - DALYDK</strong><br/>
+                (prod. chris6lair & notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5rFGxsBhT4TN99u0qoNDSN?si=3d5a498c923a4762" target="_blank" rel="noopener noreferrer">    
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02a7d33975f76d56a20163251b" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>fall</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Remix</p>
+            <a href="https://open.spotify.com/track/4jEUhtplLJ4nqCgEtgvqWd?si=1453b24701bf44cd" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e020f5bb9160e67d5b178b8e069" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>isid or - all the sounds (notamachine remix)</strong><br/>
+              </p>
+            </a>
+          </div> 
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Remix</p>
+            <a href="https://open.spotify.com/track/5oQMbDorntRCD9Y0wYXuAp?si=d983ef85ebd241e0" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e020f5bb9160e67d5b178b8e069" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Jedwill - placebo effect (notamachine remix)</strong><br/>
+              </p>
+            </a>
+          </div> 
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Remix</p>
+            <a href="https://open.spotify.com/track/46GNeZiuPE67iFEgYE68iW?si=241f3219f56448c0" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e020f5bb9160e67d5b178b8e069" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>internetboy - skin care (notamachine remix)</strong><br/>
+              </p>
+            </a>
+          </div> 
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Remix</p>
+            <a href="https://open.spotify.com/track/11UPjUSepAMxQVN7UkPOSV?si=4e72e9d8b8d34ed1" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e020f5bb9160e67d5b178b8e069" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>blissom - so far (notamachine remix)</strong><br/>
+              </p>
+            </a>
+          </div> 
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Remix</p>
+            <a href="https://open.spotify.com/track/2SMLAFmAMBZljHgI55TBYp?si=b59791853f3b48d0" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e020f5bb9160e67d5b178b8e069" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Button Maker, billy ! & 1Booth - ENOUGH! (notamachine remix)</strong><br/>
+              </p>
+            </a>
+          </div>  
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/4lanKESHOVSShxc9OQRHYh?si=4e0bc0ede4f34e86" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d00001e02d22b78e993fd00183366b4b6" width="100%" alt=""/><br/>
               <p class="gallery-text">

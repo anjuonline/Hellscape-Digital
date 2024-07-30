@@ -4,6 +4,31 @@ const AnjuAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Music Video / Single</p>
+            <a href="https://www.youtube.com/watch?v=Bs84gP1d888" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02264fc0884fd1a7358886ac1a" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Katy</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">DJ Set</p>
+            <a href="https://www.youtube.com/watch?v=Oa17vu2-w2E" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-PwqCZJx2omOIloxP-81g7Pw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Hellscape Radio Vol. 6</strong> - Hellscape Digital @ CRACKFEST VI<br/>
+                (Hosted by ANJU Online!)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/3hEyr112NkmziqWp5PWzlt?si=4635bf8a2ce942c7" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d0000b273d27409c904dea9363500f85e" width="100%" alt=""/><br/>

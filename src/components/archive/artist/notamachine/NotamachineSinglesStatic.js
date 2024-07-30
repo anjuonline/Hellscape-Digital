@@ -5,6 +5,16 @@ const NotamachineSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5rFGxsBhT4TN99u0qoNDSN?si=3d5a498c923a4762" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02a7d33975f76d56a20163251b" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>fall</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/2fHsutbgrRGYSrFJVZZX6V?si=6b85741ea955425a" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
               <p class="gallery-text">

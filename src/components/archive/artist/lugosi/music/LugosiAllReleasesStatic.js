@@ -5,6 +5,135 @@ const LugosiAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/2y7Ob9mEbDcSN2zlr8gx4c?si=ec2010d33dac44a5" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02794a65ba4b225e2f483fd3a1" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>zx sallow & Nate Hollow - Sacrifice (feat. Lugosi)</strong><br/>
+                (prod. Gmanz)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Music Video / Single</p>
+            <a href="https://www.youtube.com/watch?v=2-770OlCAYc" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-yy68X89uin4lRYwY-3kzbEw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>+++rice</strong><br/>
+                (prod. bygadriel)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6d9A2SPqK59qCzjty5rD4m?si=560b65ca4a4f46e5" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b27335b7903e635582c019f3e082" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>kill 4 you</strong><br/>
+                (prod. jolst & 5head)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1E5C2fjIBnz3FEZIDcCNeS?si=7a4396f88b954ae5" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b27335b7903e635582c019f3e082" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>throughtherain</strong><br/>
+                (prod. ugly beats)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2PbTn8Cn0v55tBm3Qosumo?si=b7d57598cc5f4c74" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b27335b7903e635582c019f3e082" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>tragic</strong><br/>
+                (prod. jolst & 5head)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/38YrKFKFLRU923EP5Dl96O?si=46a17cda8b8b4d12" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b27335b7903e635582c019f3e082" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>burn holes</strong><br/>
+                (prod. notamachine & rjpasin)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2FiKoq8EzKkYuGwGzM7Anr?si=b15a5820130644d3" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b27335b7903e635582c019f3e082" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>goinoutsad</strong><br/>
+                (prod. jolst & thislandis)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6AzXRbvSqff6Y15fp9W6Xw?si=c9eee4a87531425e" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b27335b7903e635582c019f3e082" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>paranoid</strong><br/>
+                (prod. jolst, ertu & wasterr)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1cqwO1a9HesEJJ4MpG92U6?si=b668f624f2f04bb4" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b27335b7903e635582c019f3e082" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>truey on truey</strong><br/>
+                (prod. trunks & thislandis)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/74XbWghfe7umH8kIsdQJVY?si=54eeb783a9b747b4" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b27335b7903e635582c019f3e082" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>goinoutsadv2</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/3V50ZTDDET86sQo9gKwFfF?si=cf0bd3d342094f3c" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
               <p class="gallery-text">

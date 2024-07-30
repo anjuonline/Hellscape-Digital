@@ -5,6 +5,66 @@ const KawaiiAlbumsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/5gkCKPsIkKRUdbaGCem5p6?si=ZmWSVJB-Ttuyq6krZgu_VQ" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02165adc96751fcdfd89a71fb8" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>BLEEZY SEAZY V</strong><br/>(prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/0IqSbY1aTlQzXwSsIyJoeo?si=7XAmnJ1iRUOcrCXXRC-H-g" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-mepLuhhx8vY3fKo0-ZFrxug-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Space Quest</strong><br/>(prod. Baredex)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/2oq7EGlpThVFL8buqJcs6v?si=7ocmUVCmQ3u9CyYd7AXM9g" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-zNjezkg8qbFqiFKY-wPllXQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>BLEEZY SEAZY IV</strong><br/>(prod. chris6lair)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/5i43dPAoghBM5HqhJyyFga?si=KuZSbEH2QbeXlGJreOoFZA" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-Gu6OVaO4vhT4lHEK-GylG5A-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>The Drop Off</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/3tuJhiJJJl47JJhU8kdCQH?si=1EqxtmemTeuzp0yCCr4H2w" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-mNjoZfs4ncaHSVx0-83Gnmw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>I Cry, I Bleed</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
             <a href="https://open.spotify.com/album/3Cg1oeHtDkO6iRgVcv9sok?si=CNRU9M62QdC3vjpJeq5T7g" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -18,7 +78,7 @@ const KawaiiAlbumsStatic = () => {
             <a href="https://open.spotify.com/album/6phk15MEf67TkrlpJ6BW0u?si=mg64TCx3SQGJSW_075dW8Q" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Alone Together </strong><br/>(prod. Notamachine)
+                <strong>Alone Together </strong><br/>(prod. notamachine)
               </p>
             </a>
           </div>

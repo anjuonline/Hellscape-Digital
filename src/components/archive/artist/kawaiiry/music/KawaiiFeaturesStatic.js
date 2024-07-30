@@ -4,6 +4,106 @@ const KawaiiFeaturesStatic = () => {
       <div class="gallery_containerThree-static">  
 
       <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/1E5hPGQOOUvjnqwkML1Gws?si=8cc395eb94bc4a21" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02794a65ba4b225e2f483fd3a1" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>zx sallow & Nate Hollow - United Nations (feat. Kawaii Ry)</strong><br/>
+                (prod. Gmanz)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/3DAMzEoeQukDNrsa0qZXOV?si=9c129d8af7554866" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02794a65ba4b225e2f483fd3a1" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>zx sallow & Nate Hollow - Carrying K’s (feat. Kawaii Ry)</strong><br/>
+                (prod. Aureola)
+              </p>
+            </a>
+          </div> 
+
+      <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/0EOFxaLHwDn26glk2cWKCz?si=b055df2171804937" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02e35e67fb293f1b2356e43371" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>kn1febaby - Forreal (feat. Kawaii Ry)</strong><br/>
+                (prod. Ruci)
+              </p>
+            </a>
+          </div>
+
+      <div class="gallery_item">
+          <p class="gallery-tag">Feature</p>
+          <a href="https://open.spotify.com/track/0YLCTucom54tdgSZ4dxL6y?si=530a22c58e924185" target="_blank" rel="noopener noreferrer">    
+            <img src="https://i.scdn.co/image/ab67616d00001e0226aa69fc6987ad9b20b68d93" width="100%" alt=""/><br/>
+            <p class="gallery-text">
+              <strong>TRYFG - 0__00 куплю рюкзак хелло китти!! 0__00 (feat. Kawaii Ry)</strong><br/>
+              (prod. TRYFG)
+            </p>
+          </a>
+        </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/0AfCU5Ta1U7n3D5MStX5c3?si=7c729855a1c14487" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-bKxQu7uZqJ4w1EDK-U86hsw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>zx sallow - steez of the year (feat. Kawaii Ry & Lexik)</strong><br/>
+                (prod. shade08)
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/5fWXYtkqK5gEJBrIe3XXiA?si=567c0787fd264bf1" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02f1102f1e0a4990f9494b5633" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>8ngelonline - Ecstasy (feat. Kawaii Ry & woes)</strong><br/>
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/4AsnKcz8tPUixESzOSQwrC?si=c0913eaa711d4d47" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e025c5d7234a74ca5a0a9ceef9d" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>chris6lair - Strawberry (feat. Kawaii Ry & scumboi)</strong><br/>
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/5iw3aYvepVEbVJpyuWrKOc?si=6d58febd77b3411a" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e0265c4452b75195eb8a08646dd" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>zx sallow - realest steezer (feat. Kawaii Ry)</strong><br/>
+                (prod. Geist)
+              </p>
+            </a>
+          </div>  
+
+      <div class="gallery_item">
           <p class="gallery-tag">Feature</p>
           <a href="https://open.spotify.com/track/25UlkXqFHvwxPeGZhokNa8?si=a0ac72e67a304531" target="_blank" rel="noopener noreferrer">    
             <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
@@ -21,6 +121,17 @@ const KawaiiFeaturesStatic = () => {
             <p class="gallery-text">
               <strong>notamachine - enjoy yourself</strong><br/>
               (feat. Kawaii Ry & Lugosi)
+            </p>
+          </a>
+        </div>
+
+        <div class="gallery_item">
+          <p class="gallery-tag">Feature</p>
+          <a href="https://open.spotify.com/track/67DUyxGfvco2I9WmR0u6kO?si=ae55ddc10bdf40f2" target="_blank" rel="noopener noreferrer">    
+            <img src="https://i.scdn.co/image/ab67616d00001e023595397e5851ee6203358080" width="100%" alt=""/><br/>
+            <p class="gallery-text">
+              <strong>STICK GOD - RUNNIN’</strong><br/>
+              (feat. Kawaii Ry)
             </p>
           </a>
         </div>
@@ -82,7 +193,7 @@ const KawaiiFeaturesStatic = () => {
         <div class="gallery_item">
           <p class="gallery-tag">Feature</p>
           <a href="https://open.spotify.com/album/6GPMxxzNf8zxoQ0gKY8vU5?si=UA-0UYy7TwG8sHLCrY4JsQ" target="_blank" rel="noopener noreferrer">
-            <img src="https://i1.sndcdn.com/artworks-znFnFVktPrjveNGf-fzzROw-t500x500.jpg" width="100%" alt=""/><br/>
+            <img src="https://i.scdn.co/image/ab67616d00001e023c8dea1412143c1eebd29db9" width="100%" alt=""/><br/>
             <p class="gallery-text">
               <strong>ReTread - BlueLabel (feat. Kawaii Ry)</strong><br/>
             </p>
@@ -181,6 +292,17 @@ const KawaiiFeaturesStatic = () => {
             <img src="https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/d5/a2/44/d5a244fd-1db8-6ea1-6300-458309d7fb4e/5059324589833.jpg/1200x1200bf-60.jpg" width="100%" alt=""/><br/>
             <p class="gallery-text">
               <strong>panda slugger - What We Used to Have</strong><br/>
+              (feat. Kawaii Ry)
+            </p>
+          </a>
+        </div>
+
+        <div class="gallery_item">
+          <p class="gallery-tag">Feature</p>
+          <a href="https://open.spotify.com/track/6STl7gABycwdZmWM3T9wBG?si=c3f9b8fab27945d9" target="_blank" rel="noopener noreferrer">    
+            <img src="https://i.scdn.co/image/ab67616d00001e028439eb45880945bfacf42bf6" width="100%" alt=""/><br/>
+            <p class="gallery-text">
+              <strong>prettyboigordo - BLAST 4 ME</strong><br/>
               (feat. Kawaii Ry)
             </p>
           </a>

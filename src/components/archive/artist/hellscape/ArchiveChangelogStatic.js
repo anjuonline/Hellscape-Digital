@@ -8,7 +8,7 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
-                March 26, 2023 - v1.1.0
+                February X, 2024 - v1.1.0
             </h3> 
             <p class="changelogtext"> 
                 <ul>
@@ -34,12 +34,98 @@ const ArchiveChangelogStatic = () => {
                     </li>
                     <br/>
                     <li>
+                        <strong>&bull; <i>New Features</i></strong>
+                        <ul>
+                            <li>
+                                <a href="https://hellscapedigital.net/lildujour/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; <strong><i>Community</i></strong> tab added to navigation
+                                </a>
+                                <ul>
+                                    <li>
+                                        <a href="https://hellscapedigital.net/lildujour/all" target="_blank;" rel="noopener noreferrer">
+                                            &bull; (Experimental) Chat feature added to site - test it out and come say hi!
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://hellscapedigital.net/videos/all" target="_blank;" rel="noopener noreferrer">
+                                            &bull; Hellscape Discord server is now open, invite portal added to site
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/">
+                                            &bull; Blog section placeholder created, now in active development
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <br/>
+                    <li>
                         <strong>&bull; <i>New Music</i></strong>
                         <ul>
                             <li>
-                                <a href="/kawaiiry/all">
-                                    &bull; Kawaii Ry - I Cry, I Bleed [Album]
+                                <a href="/anjuonline/music/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; <strong>ANJU Online!</strong> - 3 new releases added to music archive
                                 </a>
+                                <ul>
+                                    <li>
+                                        <a href="/anjuonline/music/placements" target="_blank;" rel="noopener noreferrer">&bull; [Placement] Kawaii Ry - March 2nd (prod. ANJU Online!)</a>
+                                    </li>
+                                    <li>
+                                        <a href="/anjuonline/music/placements" target="_blank;" rel="noopener noreferrer">&bull; [Placement] Kawaii Ry - Catalyst (prod. ANJU Online!)</a>
+                                    </li>
+                                    <li>
+                                        <a href="/anjuonline/music/placements" target="_blank;" rel="noopener noreferrer">&bull; [Placement] Kawaii Ry - Slime Cry (prod. ANJU Online!)</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; <strong>Kawaii Ry</strong> - 162 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>
+                                        <a href="/kawaiiry/albums" target="_blank;" rel="noopener noreferrer">&bull; [Album] Kawaii Ry - BLEEZY SEAZY V </a>
+                                    </li>
+                                    <li>
+                                        <a href="/kawaiiry/albums" target="_blank;" rel="noopener noreferrer">&bull; [Album] Kawaii Ry - Space Quest </a>
+                                    </li>
+                                    <li>
+                                        <a href="/kawaiiry/albums" target="_blank;" rel="noopener noreferrer">&bull; [Album] Kawaii Ry - BLEEZY SEAZY IV</a>
+                                    </li>
+                                    <li>
+                                        <a href="/kawaiiry/albums" target="_blank;" rel="noopener noreferrer">&bull; [Album] Kawaii Ry - The Drop Off</a>
+                                    </li>
+                                    <li>
+                                        <a href="/kawaiiry/albums" target="_blank;" rel="noopener noreferrer">&bull; [Album] Kawaii Ry - I Cry, I Bleed</a>
+                                    </li>
+                                    <li>
+                                        <a href="/kawaiiry/singles" target="_blank;" rel="noopener noreferrer">&bull; [Single] Kawaii Ry - Hold The Key</a>
+                                    </li>
+                                    <li>
+                                        <a href="/kawaiiry/features" target="_blank;" rel="noopener noreferrer">&bull; [Feature] 1 additional Kawaii Ry Feature added</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="/meauxminy/all">
+                                    &bull; <strong>Meauxminy</strong> - 4 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>
+                                        <a href="/meauxminy/djsets" target="_blank;" rel="noopener noreferrer">&bull; [DJ Set] Meauxminy - Sunday in CK </a>
+                                    </li>
+                                    <li>
+                                        <a href="/meauxminy/djsets" target="_blank;" rel="noopener noreferrer">&bull; [DJ Set] Meauxminy - DUBSCAPE </a>
+                                    </li>
+                                    <li>
+                                        <a href="/meauxminy/placements" target="_blank;" rel="noopener noreferrer">&bull; [Placement] Kawaii Ry - Buddha Man (prod. Meauxminy)</a>
+                                    </li>
+                                    <li>
+                                        <a href="/meauxminy/placements" target="_blank;" rel="noopener noreferrer">&bull; [Placement] Kawaii Ry - Late (feat. Lil Dujour) (prod. Meauxminy)</a>
+                                    </li>
+                                </ul>
                             </li>
                             <li>
                                 <a href="/semaj/all">
@@ -70,11 +156,6 @@ const ArchiveChangelogStatic = () => {
                             <li>
                                 <a href="/">
                                     &bull; Page width on desktop increased approximately 20% to improve legibility
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/">
-                                    &bull; Blog section placeholder created, now in active development
                                 </a>
                             </li>
                         </ul>

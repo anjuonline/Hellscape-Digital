@@ -5,6 +5,18 @@ const KawaiiEpsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">EP</p>
+            <a href="https://open.spotify.com/album/0IqSbY1aTlQzXwSsIyJoeo?si=7XAmnJ1iRUOcrCXXRC-H-g" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-725aVzztbF5NzClY-oSS88A-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Leesta - Green Dot</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">EP</p>
             <a href="https://open.spotify.com/album/6V2daPLMFTZbhNMGQUN9e5?si=GYGU7EMjQHaH0A0VrRcoUA" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-M0iURrDPpvvoSZT9-nWUIZg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
