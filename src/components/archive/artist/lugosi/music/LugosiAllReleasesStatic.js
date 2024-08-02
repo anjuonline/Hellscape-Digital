@@ -4,6 +4,165 @@ const LugosiAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Music Video / Single</p>
+            <a href="https://www.youtube.com/watch?v=2-770OlCAYc" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-yy68X89uin4lRYwY-3kzbEw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>rice</strong><br/>
+                (prod. bygadriel)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/19gjH663KG6k84FsjMPLok?si=a75a5b7fd9a94f3f" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>big (die tonight)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5UGbQ8Vv6n3t5dU6oh5nx8?si=6ba13f8e4a574a75" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>$creamin%%%</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0YHNqTEXdkHFzPKxFYFOn9?si=73f280f6e6424081" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>$tre$$ (feat. Lil Dujour)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5mSeARHVVZiFy9U2RKtDoT?si=360d593579dc49e3" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>on g0d (feat. Boy Floss)</strong><br/>
+                (prod. Itsmefouzy)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/18bJWL6krjiyNR4C9wwu0o?si=8121e46f0ca0443c" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>u$ v3</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4nBFeSoSkHFBUVKln62JE6?si=ed2c426c1d994358" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>kino der toten (feat. Newalias</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5SlHqGNRyPlCReXG2QBFmc?si=85e6372989694720" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>nerd$ rope</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4xIv2QMw15eMj2urIIsBSg?si=0953932754e84b6f" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>frän fine (9)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3OStwiruzHj2kVIz0ljK0z?si=78c2578115054de4" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>WHATSINYOCUP</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2aZQtMMpNlpOHGNoBcTSbY?si=91f4610b6306486b" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>hone$tly</strong><br/>
+              </p>
+            </a>
+          </div> 
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2sTpAhjPgRVpUPZmboygbp?si=e0fb32b8b49040e8" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>bulletproof</strong><br/>
+              </p>
+            </a>
+          </div> 
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/62QksB8fuA5h5SriHVm3sh?si=23994054e9fc4b48" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>g00fy bitch free$tyle</strong><br/>
+                (prod. Kawaii Ry)
+              </p>
+            </a>
+          </div>  
+
+        <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/2y7Ob9mEbDcSN2zlr8gx4c?si=ec2010d33dac44a5" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
@@ -12,19 +171,6 @@ const LugosiAllReleasesStatic = () => {
               <p class="gallery-text">
                 <strong>zx sallow & Nate Hollow - Sacrifice (feat. Lugosi)</strong><br/>
                 (prod. Gmanz)
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Music Video / Single</p>
-            <a href="https://www.youtube.com/watch?v=2-770OlCAYc" target="_blank" rel="noopener noreferrer">
-              <div class="overflow-hidden">
-                <img src="https://i1.sndcdn.com/artworks-yy68X89uin4lRYwY-3kzbEw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
-              </div>
-              <p class="gallery-text">
-                <strong>+++rice</strong><br/>
-                (prod. bygadriel)
               </p>
             </a>
           </div>
@@ -128,6 +274,7 @@ const LugosiAllReleasesStatic = () => {
               </div>
               <p class="gallery-text">
                 <strong>goinoutsadv2</strong><br/>
+                (prod. notamachine)
               </p>
             </a>
           </div>

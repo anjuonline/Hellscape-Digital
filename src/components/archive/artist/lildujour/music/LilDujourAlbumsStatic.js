@@ -4,6 +4,16 @@ const LilDujourAlbumsStatic = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
+            <p class="gallery-tag">Mixtape</p>
+            <a href="https://soundcloud.com/dujourmusic/hellscape-presentslil-dujour" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-1rSSZehbsTvFfCFp-eqi6Hw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>HELLSCAPE PRESENTS... LIL DUJOUR</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">EP</p>
             <a href="https://open.spotify.com/album/2gdhxenJ952mOx1cLE9fkr?si=U8L4XcFpTKyYx0lPN6HlHQ" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-xSP18AVFYaNF6ukw-HQPBuA-t500x500.jpg" width="100%" alt=""/><br/>

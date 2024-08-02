@@ -8,7 +8,7 @@ const RileylolFeaturesStatic = () => {
             <a href="https://open.spotify.com/track/2m5E7Z01E0oMrtqxUSUYhS?si=b6cedfc1e9dc4cdd" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Don't Try It (feat. rileylol)</strong><br/>
+                <strong>Kawaii Ry - Don't Try It (feat. rileylol)</strong><br/>
                 (prod. chris6lair)
               </p>
             </a>
@@ -19,7 +19,7 @@ const RileylolFeaturesStatic = () => {
             <a href="https://open.spotify.com/track/3eD07yn0xIZCEux6CvequI?si=ad02750dffae4b97" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Twizzy (feat. rileylol)</strong><br/>
+                <strong>Kawaii Ry - Twizzy (feat. rileylol)</strong><br/>
                 (prod. notamachine)
               </p>
             </a>

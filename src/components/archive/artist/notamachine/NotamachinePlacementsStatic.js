@@ -5,6 +5,32 @@ const NotamachinePlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/6TlGO1N7o6fDPi33JlRGRR?si=731290fbfc564031" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-g0uVyurAIIE2seWI-l0vjSA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Josen - DRILLBOWSKI</strong><br/>
+                (prod. notamachine & Rich Illuminati)
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/25DGi20DcsMZHL8UCkmxXF?si=a8b7d4e7e65b4b96" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e0278fd9409884acfd0f39fabe9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>CoryRay - 4 a Lifetime (feat. Rico Leone)</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/1SZ0QWWosnbutwoVOZMDOp?si=c84b6242a7fc4055" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
                 <img src="https://i.scdn.co/image/ab67616d00001e02165adc96751fcdfd89a71fb8" width="100%" alt="" class="hover-zoom"/>
@@ -15,6 +41,123 @@ const NotamachinePlacementsStatic = () => {
               </p>
             </a>
           </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/scumboishit/have-no-dreams-notamachineprod-prodantar_wund00" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-ahavJsn4fwsgywGU-eJtT3A-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Scum Boi - have no dreams (feat. kurtwarnermovie)</strong><br/>
+                (prod. notamachine, Antar & Wund)
+              </p>
+            </a>
+          </div> 
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/38YrKFKFLRU923EP5Dl96O?si=46a17cda8b8b4d12" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b27335b7903e635582c019f3e082" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lugosi - burn holes</strong><br/>
+                (prod. notamachine & rjpasin)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/74XbWghfe7umH8kIsdQJVY?si=54eeb783a9b747b4" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b27335b7903e635582c019f3e082" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lugosi - goinoutsadv2</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/2war7lT6JfBZrlAuzOR7Bc?si=f4dde20fd4e7404e" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-rztihdDfLmZzgfl5-IDykQA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Daria St. Clair - Pieces</strong><br/>
+                (prod. notamachine & ROHO)
+              </p>
+            </a>
+          </div> 
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1jeY1KAGYUobEegT0LVy4x?si=5109dd14ea9a4bec" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-Gu6OVaO4vhT4lHEK-GylG5A-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Hope You Don't</strong><br/>
+                (prod. Rich Illuminati & notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/7tb64UVOARyAbQyIReaR4n?si=b5f836548ba8417c" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-Gu6OVaO4vhT4lHEK-GylG5A-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Rockstar Wasted</strong><br/>
+                (prod. gotti & notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/3IhCkp0pe3KNpimBr5vWYr?si=75dad82cc0764a3c" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-mNjoZfs4ncaHSVx0-83Gnmw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Late (feat. Lil Dujour)</strong><br/>
+                (prod. Meauxminy & notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1a6AkDSELN9zj8LhcXnkAu?si=341722a5b10a40ee" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-mNjoZfs4ncaHSVx0-83Gnmw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Love is Dead</strong><br/>
+                (prod. notamachine, antar & 1wireshark)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/6M7DgI8n3DR8zvo8cZ8oXz?si=c88fe36e5e174fd3" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-mNjoZfs4ncaHSVx0-83Gnmw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - God Complex</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div> 
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>

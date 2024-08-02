@@ -5,12 +5,89 @@ const JosenSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6TlGO1N7o6fDPi33JlRGRR?si=afc0586c5e48475c" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e0235c369908d2d27353d745088" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>DRILLBOWSKI</strong><br/>
+                (prod. notamachine & Rich Illuminati)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/dont-wipe-ya-nose-w-luvrei-slime" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-WB3yoKXwNsJtzcgd-LiYfUA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>#DONT #WIPE #YA #NOSE (feat. LUVREI)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1fBcPFnWwW1IwgauSc2U95?si=aeeb60dfb3824727" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02655f51d7a07be7d226346106" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>JUMP IN DAT WATER LIKE A DOLPHIN</strong><br/>
+                (prod. Toju)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/iwalkindisbitchlikeimericdoa" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-wNs6XIflN1ISzLma-nBoqRA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>IWALKINDISBITCHLIKEIMERICDOA</strong><br/>
+                (prod. THEYLUVFLARE)
+              </p>
+            </a>
+          </div>
+          
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/denzelle-prod-astral-trap-real" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-CzeiXhnZTRcjsrbz-Z5I8zA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>DenZelle</strong><br/>
+                (prod. Astral Trap)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/i-had-a-long-day-i-tell-a" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-i5NoiuyidghQkhhm-q4kVFw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>I HAD A LONG DAY I TELL A NIGGA TO STFU</strong><br/>
+                (prod. Taurs, Glokmane & Skreer)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/liljosen/paid2much-w-destiny" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
                 <img src="https://i1.sndcdn.com/artworks-dy0d03mtsQ01jEtY-Psx9Qg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
               </div>
               <p class="gallery-text">
-                <strong>PAID2MUCH💯 ‼️ (feat. DESTINY)</strong><br/>
+                <strong>PAID2MUCH (feat. DESTINY)</strong><br/>
                 (prod. dead2finesse)
               </p>
             </a>
@@ -20,7 +97,7 @@ const JosenSinglesStatic = () => {
             <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/liljosen/g17-w-otakugod-prod" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
-                <img src="https://i1.sndcdn.com/artworks-3wImeOzHC8Iz2wQy-za4MYw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+                <img src="https://i.scdn.co/image/ab67616d00001e024c323c84146da484a1d3a5b7" width="100%" alt="" class="hover-zoom"/>
               </div>
               <p class="gallery-text">
                 <strong>G17 (feat. Otaku God)</strong><br/>
@@ -29,14 +106,14 @@ const JosenSinglesStatic = () => {
             </a>
           </div>
 
-        <div class="gallery_item">
+          <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/0NXPj10xvnUPRYggfaa9Q4?si=a80dde6ad34e49b3" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/1mwaKzNhv87dwW4ICSXeBn?si=d58a2351cc454cda" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
-                <img src="https://i1.sndcdn.com/artworks-1cypplCuK76GcuYS-CTi2PQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+                <img src="https://i.scdn.co/image/ab67616d00001e02f268eb8eeb655ea03454b17d" width="100%" alt="" class="hover-zoom"/>
               </div>
               <p class="gallery-text">
-                <strong>POKEMON ZAZA LEGENDS 2024</strong><br/>
+                <strong>POKEMON ZAZA LEGENDS FREESTYLE</strong><br/>
                 (prod. Rich Illuminati)
               </p>
             </a>

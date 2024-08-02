@@ -5,6 +5,120 @@ const LilDujourAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/0YHNqTEXdkHFzPKxFYFOn9?si=73f280f6e6424081" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lugosi - $tre$$ (feat. Lil Dujour)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Mixtape</p>
+            <a href="https://soundcloud.com/dujourmusic/hellscape-presentslil-dujour" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-1rSSZehbsTvFfCFp-eqi6Hw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>HELLSCAPE PRESENTS... LIL DUJOUR</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/dujourmusic/kawaii-ry-dujour-this-my-last-one-but-i-can-break-it-down-in-half" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-CX8LoV5NILXcG9lS-aEpOTw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lil Dujour & Kawaii Ry - This My Last One But I Can Break It Down In Half</strong><br/>
+                (prod. Mista)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/dujourmusic/kawaii-ry-lil-dujour-conceited" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-z7hfX094yoqjG26P-FJhglg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lil Dujour & Kawaii Ry - Conceited</strong><br/>
+                (prod. Lil Dujour)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/dujourmusic/2good4unot-like-us-remix" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-6CBMFzupiHTUoZwL-ghbyxg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>2GOOD4U (NOT LIKE US REMIX)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/dujourmusic/stop-rappingparesden" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-QVcLbDFGN82rFEQf-Dvl8qQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Stop Rapping</strong><br/>
+                (prod. aresden)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/dujourmusic/traceprodsl4yyer" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-TsjGamsu5Zzy4UoQ-uRW5UA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>TRACE</strong><br/>
+                (prod. sl4yyer!)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/dujourmusic/stampedwitanmprodsohi" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-ymy6k9IDpxlMODFT-0fIeyA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>StampedWitAnM</strong><br/>
+                (prod. SoHi)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/dujourmusic/if-its-me-or-u-its-me-every-time-ft-kawaii-ryprod1awesome" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-kdY8Ehe36GlVyqS1-t8JCAA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>If Its Me Or U Its Me Every Time (feat. Kawaii Ry)</strong><br/>
+                (prod. 1awesome)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/3IAym27cx48RClaaVPghKA?si=b9532f9724fe412c" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

@@ -6,6 +6,45 @@ const KawaiiAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/62QksB8fuA5h5SriHVm3sh?si=23994054e9fc4b48" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>g00fy bitch free$tyle</strong><br/>
+                (prod. Kawaii Ry)
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://soundcloud.com/dujourmusic/kawaii-ry-dujour-this-my-last-one-but-i-can-break-it-down-in-half" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-CX8LoV5NILXcG9lS-aEpOTw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lil Dujour & Kawaii Ry - This My Last One But I Can Break It Down In Half</strong><br/>
+                (prod. Mista)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://soundcloud.com/dujourmusic/kawaii-ry-lil-dujour-conceited" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-z7hfX094yoqjG26P-FJhglg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lil Dujour & Kawaii Ry - Conceited</strong><br/>
+                (prod. Lil Dujour)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/38mJNU36DX5bruypiJoOws?si=08909b28b1644028" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
@@ -433,6 +472,19 @@ const KawaiiAllReleasesStatic = () => {
               </p>
             </a>
           </div>  
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://soundcloud.com/dujourmusic/if-its-me-or-u-its-me-every-time-ft-kawaii-ryprod1awesome" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-kdY8Ehe36GlVyqS1-t8JCAA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lil Dujour - If Its Me Or U Its Me Every Time (feat. Kawaii Ry)</strong><br/>
+                (prod. 1awesome)
+              </p>
+            </a>
+          </div>
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>

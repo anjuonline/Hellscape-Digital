@@ -24,7 +24,7 @@ const LilDujourMusicSubindex = () => {
                         </h5> 
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/lildujour/all"}>All Releases (90)</NavLink>
+                                <NavLink to={"/lildujour/all"}>All Releases (91)</NavLink>
                             </div>
                         </h5>              
                     </div>

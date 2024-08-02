@@ -5,6 +5,18 @@ const LilDujourFeaturesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/0YHNqTEXdkHFzPKxFYFOn9?si=73f280f6e6424081" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lugosi - $tre$$ (feat. Lil Dujour)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/3IAym27cx48RClaaVPghKA?si=b9532f9724fe412c" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

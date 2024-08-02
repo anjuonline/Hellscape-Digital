@@ -3,6 +3,84 @@ const JosenAllReleasesStatic = () => {
       <>
         <div class="gallery_containerThree-static">  
 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6TlGO1N7o6fDPi33JlRGRR?si=afc0586c5e48475c" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e0235c369908d2d27353d745088" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>DRILLBOWSKI</strong><br/>
+                (prod. notamachine & Rich Illuminati)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/dont-wipe-ya-nose-w-luvrei-slime" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-WB3yoKXwNsJtzcgd-LiYfUA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>#DONT #WIPE #YA #NOSE (feat. LUVREI)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1fBcPFnWwW1IwgauSc2U95?si=aeeb60dfb3824727" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02655f51d7a07be7d226346106" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>JUMP IN DAT WATER LIKE A DOLPHIN</strong><br/>
+                (prod. Toju)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/iwalkindisbitchlikeimericdoa" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-wNs6XIflN1ISzLma-nBoqRA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>IWALKINDISBITCHLIKEIMERICDOA</strong><br/>
+                (prod. THEYLUVFLARE)
+              </p>
+            </a>
+          </div>
+          
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/denzelle-prod-astral-trap-real" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-CzeiXhnZTRcjsrbz-Z5I8zA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>DenZelle</strong><br/>
+                (prod. Astral Trap)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/i-had-a-long-day-i-tell-a" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-i5NoiuyidghQkhhm-q4kVFw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>I HAD A LONG DAY I TELL A NIGGA TO STFU</strong><br/>
+                (prod. Taurs, Glokmane & Skreer)
+              </p>
+            </a>
+          </div>
+
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/liljosen/paid2much-w-destiny" target="_blank" rel="noopener noreferrer">
@@ -10,7 +88,7 @@ const JosenAllReleasesStatic = () => {
                 <img src="https://i1.sndcdn.com/artworks-dy0d03mtsQ01jEtY-Psx9Qg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
               </div>
               <p class="gallery-text">
-                <strong>PAID2MUCH💯 ‼️ (feat. DESTINY)</strong><br/>
+                <strong>PAID2MUCH (feat. DESTINY)</strong><br/>
                 (prod. dead2finesse)
               </p>
             </a>
@@ -20,7 +98,7 @@ const JosenAllReleasesStatic = () => {
             <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/liljosen/g17-w-otakugod-prod" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
-                <img src="https://i1.sndcdn.com/artworks-3wImeOzHC8Iz2wQy-za4MYw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+                <img src="https://i.scdn.co/image/ab67616d00001e024c323c84146da484a1d3a5b7" width="100%" alt="" class="hover-zoom"/>
               </div>
               <p class="gallery-text">
                 <strong>G17 (feat. Otaku God)</strong><br/>
@@ -31,12 +109,12 @@ const JosenAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/0NXPj10xvnUPRYggfaa9Q4?si=a80dde6ad34e49b3" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/1mwaKzNhv87dwW4ICSXeBn?si=d58a2351cc454cda" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
-                <img src="https://i1.sndcdn.com/artworks-1cypplCuK76GcuYS-CTi2PQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+                <img src="https://i.scdn.co/image/ab67616d00001e02f268eb8eeb655ea03454b17d" width="100%" alt="" class="hover-zoom"/>
               </div>
               <p class="gallery-text">
-                <strong>POKEMON ZAZA LEGENDS 2024</strong><br/>
+                <strong>POKEMON ZAZA LEGENDS FREESTYLE</strong><br/>
                 (prod. Rich Illuminati)
               </p>
             </a>
@@ -51,6 +129,18 @@ const JosenAllReleasesStatic = () => {
               <p class="gallery-text">
                 <strong>SUPERBAD LIKE MCLOViN2</strong><br/>
                 (prod. QueueUpNext & 1brite)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/4HpXDdjsCepoVmWt7LJLyv?si=93717e5dacba4466" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02eac330ad37d0953d938a76ab" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Gothnormie - NEMATODES (feat. Josen)</strong><br/>
               </p>
             </a>
           </div>
@@ -90,6 +180,18 @@ const JosenAllReleasesStatic = () => {
               <p class="gallery-text">
                 <strong>KIRBY 2024 FREESTYLE</strong><br/>
                 (prod. Prblm)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/5TgdN44gvyBk53GGTYjJBn?si=4777b42b513b4162" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e024506286616ec54ad77c41d32" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Ivanko - Hottest (feat. Josen)</strong><br/>
               </p>
             </a>
           </div>
@@ -324,6 +426,18 @@ const JosenAllReleasesStatic = () => {
             </a>
           </div>
 
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/4OdIvZBRfzeZROBIzusuB7?si=8c6e5c6d695e418f" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02122e45195d1c485c5a346f1e" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>kn1febaby - Ws (feat. Josen)</strong><br/>
+              </p>
+            </a>
+          </div>
+
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/4tv5mcKiigYUapWtKnyogk?si=91d2d1399d524a2a" target="_blank" rel="noopener noreferrer">
@@ -392,6 +506,18 @@ const JosenAllReleasesStatic = () => {
               </div>
               <p class="gallery-text">
                 <strong>PUSH and KICK</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/2vkqPaPHiaRiEmlrtkARQj?si=15c26ec165154af2" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e0274ce8b14387117ac4138c364" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>REROCK. - HOP OUT (feat. Josen)</strong><br/>
               </p>
             </a>
           </div>
@@ -672,6 +798,43 @@ const JosenAllReleasesStatic = () => {
               </p>
             </a>
           </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/7GESdSsY3Buq9zuKa7gnTK?si=4b16c5efe24549d3" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02661a8cf335824d47685a0f49" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>REROCK. - PICK A SIDE (feat. Josen)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/3k9r90ESy0oo0q8hnLENnz?si=d1172bd3c274409b" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e0282c7f0beffc4717784cabc53" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>DamienPRIE$T - New York Flex (feat. Josen)</strong><br/>
+                (prod. 730HAHAH)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/47oJ5zYZQCVdz6fxMsSazf?si=24a40317e731455f" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e0209cd92204db6799df2dc7b09" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Miami Dave - Mobb (feat. Josen)</strong><br/>
+              </p>
+            </a>
+          </div>          
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
@@ -1204,6 +1367,16 @@ const JosenAllReleasesStatic = () => {
             </a>
           </div>
 
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/752xtJbY3NKs3E25WjgxYb?si=58b99050faf347b5" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02fc6c565454276a1d56745d30" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Miami Dave - GABAGOOL (feat. Josen)</strong><br/>
+              </p>
+            </a>
+          </div>
+
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/liljosen/just-bars-w-natenumbaeight" target="_blank" rel="noopener noreferrer">    
@@ -1485,6 +1658,16 @@ const JosenAllReleasesStatic = () => {
               <p class="gallery-text">
                 <strong>40ROUNDDRUM!</strong><br/>
                 (prod. Dontsleep, RyderJohnson)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/3zXI0uxNFIX8HYrcOXRYoB?si=eb8fe46e818e460f" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e026f387f82b8dc8e8078b537d8" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Don Da Menace - Digital Age (feat. Josen)</strong><br/>
               </p>
             </a>
           </div>

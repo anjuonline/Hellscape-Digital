@@ -774,4 +774,5 @@ ul {
 .overflow-hidden {
   overflow: hidden;
   max-height: 245px;
+  margin-bottom: 0.4em;
 }
