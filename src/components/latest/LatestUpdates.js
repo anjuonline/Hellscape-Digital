@@ -12,24 +12,12 @@ const LatestUpdates = () => {
                 <p><br/>Welcome to the new Hellscape Digital site! This project is a true labor of love - countless hours were spent to capture and organize the full collective's discography, and many more will be spent adding new content and features over time. Check this space often, and from the bottom of my heart - thank you for spending time in our world. <strong><i>-Anju</i></strong><br/></p>
 
                 <h3>
-                April 1, 2023 - v1.0.10
+                November 14, 2024 - v1.1.0
             </h3> 
-            <p class="changelogtext"> 
+            <p class="containedText"> 
                 <ul>
                     <li>
-                        <strong>&bull; <i>New Music</i></strong>
-                        <ul>
-                            <li>
-                                <a href="/hellscaperadio">
-                                    &bull; Hellscape Radio Vol. 5 - Kawaii Ry @ CRACKFEST V (Full Set)
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/kawaiiry/all">
-                                    &bull; Kawaii Ry & Lugosi - Bimmy Boys [Album]
-                                </a>
-                            </li>
-                        </ul>
+                        This is by far our biggest update to date - including UI improvements, a new community chatroom, hundreds of new music releases in the archive. See the changelog for full details!
                     </li>
                 </ul>
             </p>

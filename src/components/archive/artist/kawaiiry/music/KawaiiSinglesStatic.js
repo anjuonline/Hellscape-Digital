@@ -5,6 +5,19 @@ const KawaiiSinglesStatic = () => {
 
       <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/habit-remix-m" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-HbQQX1LsfyLLH2L7-xev1gQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lil Durk - Habit</strong><br/>
+                (Kawaii Ry Remix)
+              </p>
+            </a>
+          </div> 
+
+      <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/38mJNU36DX5bruypiJoOws?si=08909b28b1644028" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
                 <img src="https://i.scdn.co/image/ab67616d00001e02165adc96751fcdfd89a71fb8" width="100%" alt="" class="hover-zoom"/>

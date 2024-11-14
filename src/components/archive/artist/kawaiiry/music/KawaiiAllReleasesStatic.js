@@ -6,6 +6,19 @@ const KawaiiAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/habit-remix-m" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-HbQQX1LsfyLLH2L7-xev1gQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lil Durk - Habit</strong><br/>
+                (Kawaii Ry Remix)
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/62QksB8fuA5h5SriHVm3sh?si=23994054e9fc4b48" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">

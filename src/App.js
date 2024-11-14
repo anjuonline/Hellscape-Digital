@@ -88,6 +88,7 @@ import ArchiveMusicVideos2020 from './pages/archive/music/hellscape/year/Archive
 import ArchiveMusicVideos2021 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2021';
 import ArchiveMusicVideos2022 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2022';
 import ArchiveMusicVideos2023 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2023';
+import ArchiveMusicVideos2024 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2024';
 import ArchiveMusicHellscapeRadio from './pages/archive/music/hellscape/ArchiveMusicHellscapeRadio';
 
 import ArchiveArtwork from './pages/archive/artwork/ArchiveArtwork';
@@ -96,6 +97,7 @@ import ArchiveArtworkAll from './pages/archive/artwork/ArchiveArtworkAll';
 import ArchiveStreamVods from './pages/archive/ArchiveStreamVods';
 
 import Blog from './pages/blog/Blog';
+import BlogMusic from './pages/blog/topics/BlogMusic';
 
 import ArchiveArtworkAnju from './pages/archive/artwork/anjuonline/ArchiveArtworkAnju';
 import ArchiveArtworkAnjuIllustration from './pages/archive/artwork/anjuonline/ArchiveArtworkAnjuIllustration';
@@ -112,6 +114,7 @@ import UnderConstruction from './pages/UnderConstruction';
 
 import AnjuHomepage from './pages/roster/anjuonline/AnjuHomepage';
 
+import Community from './pages/Community';
 import Chat from './pages/Chat';
 
 function App() {
@@ -200,6 +203,7 @@ function App() {
           <Route path='/videos/2021' element={<ArchiveMusicVideos2021 />} />
           <Route path='/videos/2022' element={<ArchiveMusicVideos2022 />} />
           <Route path='/videos/2023' element={<ArchiveMusicVideos2023 />} />
+          <Route path='/videos/2024' element={<ArchiveMusicVideos2024 />} />
           <Route path='/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
 
           <Route path='/archive/artwork' element={<ArchiveArtwork />} />
@@ -210,6 +214,7 @@ function App() {
           <Route path='/archive/vods' element={<ArchiveStreamVods />} />
 
           <Route path='/blog' element={<Blog />} />
+          <Route path='/blog/music' element={<BlogMusic />} />
 
           <Route path='/anjuonline/art/all' element={<ArchiveArtworkAnju />} />
           <Route path='/anjuonline/art/illustration' element={<ArchiveArtworkAnjuIllustration />} />
@@ -221,6 +226,8 @@ function App() {
           <Route path='/updates' element={<ArchiveUpdates />} />
           <Route path='/changelog' element={<ArchiveChangelog />} />
           <Route path='/store' element={<Store />} />
+
+          <Route path='/community' element={<Community />} />
           <Route path='/chat' element={<Chat />} />
 
           <Route path='/underconstruction' element={<UnderConstruction />} />

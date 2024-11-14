@@ -4,6 +4,11 @@ import { NavLink } from 'react-router-dom';
 const Archive = () => {
     return (
       <div class="main-column">
+
+        <div class="logo">
+          <NavLink to={"/"}><img src="https://i.imgur.com/wZj6tJi.jpg" alt="Hellscape Logo"/></NavLink>
+        </div>
+
         <div class="card-container">
             <div class="title-wrap-rainbow2">
                 <h2>Hellscape Digital - Archive</h2>

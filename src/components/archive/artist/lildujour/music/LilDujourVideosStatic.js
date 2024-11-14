@@ -74,18 +74,18 @@ const LilDujourVideosStatic = () => {
           </p>
 
         <div class="music-video-container">
-            <iframe src="https://www.youtube.com/embed/3sdp4H8AweY" title="lost freestyle" allowfullscreen></iframe>
-          </div>
-          <p class="video-title-text">
-            <strong>I Was Broke Last Weekend (Now I'm Up)</strong>
-          </p> 
-
-        <div class="music-video-container">
             <iframe src="https://www.youtube.com/embed/YwfcLWMmelo" title="lost freestyle" allowfullscreen></iframe>
           </div>
           <p class="video-title-text">
             <strong>CONDITIONED ASSOCIATIONS</strong>
           </p>    
+
+          <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/3sdp4H8AweY" title="lost freestyle" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>I Was Broke Last Weekend (Now I'm Up)</strong>
+          </p>   
 
         <div class="music-video-container">
             <iframe src="https://www.youtube.com/embed/kErw7AAVk0k" title="lost freestyle" allowfullscreen></iframe>

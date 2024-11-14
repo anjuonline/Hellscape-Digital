@@ -3,6 +3,91 @@ const JosenAllReleasesStatic = () => {
       <>
         <div class="gallery_containerThree-static">  
 
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/greendot-24khris-josenfriday" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-jPlPR2pZso29uTzl-ji0QXQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>🟢GREENDOT🟢</strong><br/>
+                (prod. 24KHRIS)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1w6kMjL8FGvmFVXCT0WL8T?si=ad09b28a2cf845c0" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e023fd21cc66edb0472674a6007" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>GLOCK HIT LIKE DA INTERVENTION</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0cjRt5b9VnhatXJAd0z3Zj?si=fdada77113ef4e7d" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02278d62cd221ead6dfc221f81" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>ON MY OWN</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/44qNSRzwLplgOIxTcHezTj?si=f0918acd5c8944bd" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e0279ee2962c723396ed5f7692e" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>KOKAINE (feat. POPSTARBILLS)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2BLUOaAUNOZC4pbmw0iwrL?si=43262d0592a94a7d" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02b9ff17fcd530916999d819a6" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>WAKEUPDENiGEEK</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1uGi1orzJC8zQd9mctQsDO?si=5fc7e6dedead4633" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02c4e673ca86f4e2a6c5eeb91a" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>ROADRUNNAH</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5Qia5WzcW3vZCrSG5YRE3r?si=11a0339bd418413e" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02a75614b6f019ee8bcb1f13ab" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>LETDAPHONERiNG</strong><br/>
+              </p>
+            </a>
+          </div>
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>

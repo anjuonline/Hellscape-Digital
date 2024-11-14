@@ -4,6 +4,78 @@ const ArchiveMusicVideosStatic = () => {
         <div class="music-video">
 
         <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/UARzWic5SnY" title="u$ v3" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>Lugosi</strong><br/>
+            u$ v3
+          </p>
+
+        <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/QBVe2zzlhRc" title="sixtyminutes" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>rileylol</strong><br/>
+            sixtyminutes
+          </p>
+
+          <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/2-770OlCAYc" title="+++rice" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>Lugosi</strong><br/>
+            +++rice (prod. bygadriel)
+          </p>
+
+        <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/lT7F5eKwxlU" title="portland" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>rileylol</strong><br/>
+            portland
+          </p>
+
+        <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/Bs84gP1d888" title="Katy" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>ANJU Online!</strong><br/>
+            Katy
+          </p>
+
+        <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/I0-9h_qYDhg" title="lost freestyle" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>Lugosi</strong><br/>
+            Lugosi @ CRACKFEST VI (Full Set)
+          </p>
+
+        <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/Oa17vu2-w2E" title="lost freestyle" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>Hellscape Radio Vol. 6</strong><br/>
+            Hellscape Digital @ CRACKFEST VI (Full Set)
+          </p>
+
+          <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/cSAXCagiLRg" title="lost freestyle" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>Lugosi</strong><br/>
+            paranoid
+          </p>
+
+        <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/ioJ2ZLxPN7U" title="lost freestyle" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>Kawaii Ry</strong><br/>
+            I'm Serious (LEGO Island AMV) [480p]
+          </p>
+
+        <div class="music-video-container">
             <iframe src="https://www.youtube.com/embed/EgCdIxRRYdI" title="lost freestyle" allowfullscreen></iframe>
           </div>
           <p class="video-title-text">
@@ -23,8 +95,8 @@ const ArchiveMusicVideosStatic = () => {
             <iframe src="https://www.youtube.com/embed/viEzTBEkDMw" title="SWAG SUPPLIER" allowfullscreen></iframe>
             </div>
             <p class="video-title-text">
-            <strong>Hyder Daze</strong><br/>
-            idontwannaseeyou (feat. rileylol)
+            <strong>QADRI</strong><br/>
+            IDONTWANNASEEYOU (feat. rileylol)
             </p>
 
         <div class="music-video-container">

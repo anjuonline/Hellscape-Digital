@@ -4,6 +4,19 @@ const LugosiSinglesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/lillugosi/bad-bitch-prod-wintfye-open-4-baby-osama" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-CGueGSJkjsyAdBFP-xIEUrA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>bad bitch (feat. baby osama)</strong><br/>
+                (prod. Wintfye)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Music Video / Single</p>
             <a href="https://www.youtube.com/watch?v=2-770OlCAYc" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
@@ -24,6 +37,7 @@ const LugosiSinglesStatic = () => {
               </div>
               <p class="gallery-text">
                 <strong>big (die tonight)</strong><br/>
+                (prod. shinju & taylor morgan)
               </p>
             </a>
           </div>
@@ -36,6 +50,7 @@ const LugosiSinglesStatic = () => {
               </div>
               <p class="gallery-text">
                 <strong>$creamin%%%</strong><br/>
+                (prod. Ugly Beats)
               </p>
             </a>
           </div>
@@ -48,6 +63,7 @@ const LugosiSinglesStatic = () => {
               </div>
               <p class="gallery-text">
                 <strong>$tre$$ (feat. Lil Dujour)</strong><br/>
+                (prod. Ugly Beats)
               </p>
             </a>
           </div>
@@ -60,7 +76,7 @@ const LugosiSinglesStatic = () => {
               </div>
               <p class="gallery-text">
                 <strong>on g0d (feat. Boy Floss)</strong><br/>
-                (prod. Itsmefouzy)
+                (prod. itsmefouzy)
               </p>
             </a>
           </div>
@@ -73,6 +89,7 @@ const LugosiSinglesStatic = () => {
               </div>
               <p class="gallery-text">
                 <strong>u$ v3</strong><br/>
+                (prod. Jolst)
               </p>
             </a>
           </div>
@@ -84,7 +101,8 @@ const LugosiSinglesStatic = () => {
                 <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
               </div>
               <p class="gallery-text">
-                <strong>kino der toten (feat. Newalias</strong><br/>
+                <strong>kino der toten (feat. Newalias)</strong><br/>
+                (prod. kagayaki)
               </p>
             </a>
           </div>
@@ -97,6 +115,7 @@ const LugosiSinglesStatic = () => {
               </div>
               <p class="gallery-text">
                 <strong>nerd$ rope</strong><br/>
+                (prod. Jolst)
               </p>
             </a>
           </div>
@@ -109,6 +128,7 @@ const LugosiSinglesStatic = () => {
               </div>
               <p class="gallery-text">
                 <strong>frän fine (9)</strong><br/>
+                (prod. itsmefouzy)
               </p>
             </a>
           </div>
@@ -121,6 +141,7 @@ const LugosiSinglesStatic = () => {
               </div>
               <p class="gallery-text">
                 <strong>WHATSINYOCUP</strong><br/>
+                (prod. OhMyGon!)
               </p>
             </a>
           </div>
@@ -133,6 +154,7 @@ const LugosiSinglesStatic = () => {
               </div>
               <p class="gallery-text">
                 <strong>hone$tly</strong><br/>
+                (prod. Meauxminy)
               </p>
             </a>
           </div> 
@@ -145,6 +167,7 @@ const LugosiSinglesStatic = () => {
               </div>
               <p class="gallery-text">
                 <strong>bulletproof</strong><br/>
+                (prod. Jolst)
               </p>
             </a>
           </div> 
@@ -160,7 +183,7 @@ const LugosiSinglesStatic = () => {
                 (prod. Kawaii Ry)
               </p>
             </a>
-          </div> 
+          </div>  
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>

@@ -4,6 +4,19 @@ const MeauxminyAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/2aZQtMMpNlpOHGNoBcTSbY?si=91f4610b6306486b" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lugosi - hone$tly</strong><br/>
+                (prod. Meauxminy)
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
             <p class="gallery-tag">DJ Set</p>
             <a href="https://soundcloud.com/eauxminy/sunday2-wip" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">

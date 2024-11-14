@@ -4,6 +4,18 @@ const AnjuSinglesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/anjuonline/rave-tool" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-fKHMwXQWCF534ISz-qf55Rg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Rave Tool</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Music Video / Single</p>
             <a href="https://www.youtube.com/watch?v=Bs84gP1d888" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">

@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import { CrossSymbol } from 'utils/Symbols';
-import './Blog.css';
+import '../Blog.css';
 import BlogTopicNavigation from 'components/blog/BlogTopicNavigation';
 
-const Blog = () => {
+const BlogGaming = () => {
   const [posts, setPosts] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
   const postsPerPage = 8;
@@ -25,7 +25,7 @@ const Blog = () => {
 
   const featuredPosts = posts.filter(post => post.featured);
   const nonFeaturedPosts = posts
-    .filter(post => !post.featured)
+    .filter(post => !post.featured && post.tags.includes('Gaming'))
     .sort((a, b) => b.id - a.id);
 
   const indexOfLastPost = currentPage * postsPerPage;
@@ -35,8 +35,6 @@ const Blog = () => {
   const totalPages = Math.ceil(nonFeaturedPosts.length / postsPerPage);
 
   const paginate = (pageNumber) => setCurrentPage(pageNumber);
-
-  const encodeHashtag = (tag) => encodeURIComponent(tag.toLowerCase());
 
   return (
     <div className="main-column">
@@ -71,7 +69,7 @@ const Blog = () => {
             </div>
             <p className="left-aligned blog-hashtags-container">
               {post.tags.map(tag => (
-                <NavLink to={`/blog/${encodeHashtag(tag)}`} className="blog-hashtags" key={tag}>#{tag}</NavLink>
+                <a href="/test" className="blog-hashtags" key={tag}>#{tag}</a>
               ))}
             </p>
             <p className="left-aligned blog-copy">{post.content}</p>
@@ -106,7 +104,7 @@ const Blog = () => {
               </div>
               <p className="left-aligned blog-hashtags-container">
                 {post.tags.map(tag => (
-                  <NavLink to={`/blog/${encodeHashtag(tag)}`} className="blog-hashtags" key={tag}>#{tag}</NavLink>
+                  <a href="/test" className="blog-hashtags" key={tag}> #{tag}</a>
                 ))}
               </p>
               <p className="left-aligned blog-copy">{post.content}</p>
@@ -137,4 +135,4 @@ const Blog = () => {
   );
 };
 
-export default Blog;
+export default BlogGaming;

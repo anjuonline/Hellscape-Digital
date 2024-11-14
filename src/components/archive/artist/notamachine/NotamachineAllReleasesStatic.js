@@ -4,6 +4,79 @@ const NotamachineAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5teiDAoXfvk01DfsLzTyNh?si=661e383ffa3e4ff6" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02e503f1aa754b23c993e3ab4a" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>parallax:</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4SqTAwF0hf7l34udkx4ddp?si=e1e10becb29b446e" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02e503f1aa754b23c993e3ab4a" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>someday:</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/23IOnBpuPdZwntyINljAmS?si=f56a548771f54ba8" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02e503f1aa754b23c993e3ab4a" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>heart atk:</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6PRTErX4k3YgEUEHPsXXvd?si=0d1636af56984afe" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02e503f1aa754b23c993e3ab4a" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>u got us:</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1bL8uqxt4CtTk6A0au6GAX?si=1dc7c7e79ba9490f" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02e503f1aa754b23c993e3ab4a" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>lost in your eyessss:</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/2BLUOaAUNOZC4pbmw0iwrL?si=43262d0592a94a7d" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02b9ff17fcd530916999d819a6" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Josen - WAKEUPDENiGEEK</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/6TlGO1N7o6fDPi33JlRGRR?si=731290fbfc564031" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">

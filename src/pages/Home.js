@@ -31,19 +31,26 @@ const Home = () => {
 
             <div class="music-video">
                 <div class="music-video-container">
-                    <iframe src="https://www.youtube.com/embed/viEzTBEkDMw" title="test" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/k-7oPEbGaC8" title="test" allowfullscreen></iframe>
                 </div>
-                <p><strong>Hyder Daze</strong><br/>idontwannaseeyou (feat. rileylol)</p>  
+                <p><strong>Lil Dujour</strong><br/>KEANO</p>  
+            </div>
+
+            <div class="music-video">
+                <div class="music-video-container">
+                    <iframe src="https://www.youtube.com/embed/Bs84gP1d888" title="test" allowfullscreen></iframe>
+                </div>
+                <p><strong>ANJU Online!</strong><br/>Katy</p>  
             </div>
             
-            <div class="react-player-responsive">
+            {/* <div class="react-player-responsive">
                 <ReactPlayer
                     url="https://www.youtube.com/watch?v=444jIQF-mRU"
                     width={"100%"}
                     height={"100%"}
                 />
             </div>
-            <p><strong>Hellscape Radio Vol. 4</strong><br/>Kawaii Ry & ANJU Online! @ CG Fest 2023</p>  
+            <p><strong>Hellscape Radio Vol. 4</strong><br/>Kawaii Ry & ANJU Online! @ CG Fest 2023</p>   */}
 
         </div>       
 
@@ -66,7 +73,7 @@ const Home = () => {
                 <a href="https://www.youtube.com/@HELLSCAPEDIGITAL" target="_blank;" rel="noopener noreferrer">YouTube</a>&nbsp;&nbsp;<CrossSymbol/>&nbsp;&nbsp;<a href="https://soundcloud.com/hellscapedigital" target="_blank" rel="noopener noreferrer">Soundcloud</a>&nbsp;&nbsp;<CrossSymbol/>&nbsp;&nbsp;<a href="https://twitter.com/H3LLSC4P3" target="_blank;" rel="noopener noreferrer">Twitter</a>&nbsp;&nbsp;<CrossSymbol/>&nbsp;&nbsp;<a href="https://www.instagram.com/hellscapedigital/" target="_blank;" rel="noopener noreferrer">Instagram</a><br/><br/>
                 </p>
                 <p class="footerFont1">
-                2019-2023 &copy; Hellscape Digital <br/><br/>Site developed by <a href="https://twitter.com/ANJUonIine" class="footerFont1">ANJU Online!</a>
+                2019-2024 &copy; Hellscape Digital <br/><br/>Site developed by <a href="https://twitter.com/ANJUonIine" class="footerFont1">ANJU Online!</a>
                 {/* <br/><br/>Donations (ETH): 0x1E0371E4d89652Bb94F314D44337E86e0b758c9d / hellscapedigital.eth */}
                 </p>
             </div>  

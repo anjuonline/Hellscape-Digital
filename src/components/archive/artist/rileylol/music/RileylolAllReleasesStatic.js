@@ -6,7 +6,7 @@ const RileylolAllReleasesStatic = () => {
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/1cuRA9aXS4nFQtlLR34X8J?si=865f43cdf5014863" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i.scdn.co/image/ab67616d00001e0216b8950d642d82301bf063bc" width="100%" alt=""/><br/>
+              <img src="https://i1.sndcdn.com/artworks-vjQ81JKb9kyLXEvS-Xk207Q-t500x500.png" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>nothing more</strong><br/>
                 (prod. dead yami)
