@@ -1036,18 +1036,117 @@ const JosenAllReleasesStatic = () => {
             <a href="https://open.spotify.com/track/7BWuJJD9fvbpqQ8HRTePPj?si=7ec43658dba6437a" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d0000b273200c87078b070d6ac16a2bdc" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Heems - Take Me (The Heights) (feat. Josen)</strong><br/>
+                <strong>Drill La Drill (Intro)</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
           </div>
 
-        <div class="gallery_item">
+          <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/liljosen/drill-la-drill-intro-album" target="_blank" rel="noopener noreferrer">    
+            <a href="https://soundcloud.com/liljosen/hollabackboy-prod-apt-9-1?in=liljosen/sets/drill-la-drill" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Drill La Drill (Intro)</strong><br/>
+                <strong>Da Aki Way</strong><br/>
+                (prod. ljstnn)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/hollabackboy-prod-apt-9" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>HollabackBoy</strong><br/>
+                (prod. Apartment9)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/ijustwannadrill-yungskrrt?in=liljosen/sets/drill-la-drill" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>IJustWannaDrill</strong><br/>
+                (prod. Yung Skrrt & Taylor Morgan)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/ocarina-of-drill-prod?in=liljosen/sets/drill-la-drill" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Ocarina of Drill</strong><br/>
+                (prod. Bleachh)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/drill-al-pastor-prod-tonto?in=liljosen/sets/drill-la-drill" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Drill Al Pastor</strong><br/>
+                (prod. Tonto)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/i-h8-xmas-prod-rich-illuminati?in=liljosen/sets/drill-la-drill" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>i h8 Xmas</strong><br/>
+                (prod. Rich Illuminati)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/8-drill-in-kiyoko-prod-dani?in=liljosen/sets/drill-la-drill" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Drill In Kiyoko</strong><br/>
+                (prod. Dani Kiyoko)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/rizz-carlton-prod-heikadog?in=liljosen/sets/drill-la-drill" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Rizz Carlton</strong><br/>
+                (prod. Heikadog)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/itstime2drill-prod-rich?in=liljosen/sets/drill-la-drill" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>ItsTime2Drill</strong><br/>
+                (prod. Rich Illuminati)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/7BWuJJD9fvbpqQ8HRTePPj?si=7ec43658dba6437a" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d0000b273200c87078b070d6ac16a2bdc" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Heems - Take Me (The Heights) (feat. Josen)</strong><br/>
                 (prod. notamachine)
               </p>
             </a>

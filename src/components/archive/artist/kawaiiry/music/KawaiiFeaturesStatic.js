@@ -1,4 +1,4 @@
-const KawaiiFeaturesStatic = () => {
+ const KawaiiFeaturesStatic = () => {
   return (
     <>
       <div class="gallery_containerThree-static">  

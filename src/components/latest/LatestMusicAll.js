@@ -128,7 +128,7 @@ const LatestMusicAll = () => {
             </a>
           </div>
 
-        <div class="gallery_item">
+          <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/dujourmusic/kawaii-ry-dujour-this-my-last-one-but-i-can-break-it-down-in-half" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
