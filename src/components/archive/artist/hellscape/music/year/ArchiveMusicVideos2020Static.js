@@ -12,6 +12,22 @@ const ArchiveMusicVideos2020Static = () => {
           </p> 
 
           <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/-F6EolbbvMs" title="lost freestyle" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>Lil Dujour</strong><br/>
+            Blossom
+          </p>
+
+          <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/YwfcLWMmelo" title="CONDITIONED ASSOCIATIONS" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>Lil Dujour</strong><br/>
+            CONDITIONED ASSOCIATIONS
+          </p> 
+
+          <div class="music-video-container">
             <iframe src="https://www.youtube.com/embed/kXeKwQsEtg4" title="Hellscape Radio Vol. 3" allowfullscreen></iframe>
             </div>
             <p class="video-title-text">
@@ -19,12 +35,34 @@ const ArchiveMusicVideos2020Static = () => {
             (Hosted by ANJU Online!)
             </p>
 
+          <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/3sdp4H8AweY" title="lost freestyle" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>I Was Broke Last Weekend (Now I'm Up)</strong>
+          </p>  
+
+            <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/kErw7AAVk0k" title="lost freestyle" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>Lil Dujour</strong><br/>
+            Cruel Summer
+          </p>   
+
+          <div class="music-video-container">
+            <iframe src="https://www.youtube.com/embed/hmxTwaOksgI" title="lost freestyle" allowfullscreen></iframe>
+          </div>
+          <p class="video-title-text">
+            <strong>Shawty, Pt. 2</strong>
+          </p>    
+
             <div class="music-video-container">
             <iframe src="https://www.youtube.com/embed/igBUEgE6bQA" title="lost freestyle" allowfullscreen></iframe>
           </div>
           <p class="video-title-text">
-            <strong>lost freestyle</strong><br/>
-            (prod. elxnce)
+            <strong>rileylol</strong><br/>
+            lost freestyle (prod. elxnce)
           </p>    
 
         </div>

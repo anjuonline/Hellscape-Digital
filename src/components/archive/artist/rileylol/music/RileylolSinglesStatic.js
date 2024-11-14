@@ -1,7 +1,105 @@
-const LugosiSinglesStatic = () => {
+const RileylolSinglesStatic = () => {
     return (
       <>
         <div class="gallery_containerThree-static">  
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1cuRA9aXS4nFQtlLR34X8J?si=865f43cdf5014863" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-vjQ81JKb9kyLXEvS-Xk207Q-t500x500.png" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>nothing more</strong><br/>
+                (prod. dead yami)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1cuRA9aXS4nFQtlLR34X8J?si=865f43cdf5014863" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02329d13e9be5a889e415ff8cd" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>petty</strong><br/>
+                (prod. drecyy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Music Video / Single</p>
+            <a href="https://www.youtube.com/watch?v=QBVe2zzlhRc" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-zV3zzxBLHVjpKYao-GkWYPQ-t500x500.png" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>sixtyminutes</strong><br/>
+                (prod. antsy, supa & G06)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Music Video / Single</p>
+            <a href="https://www.youtube.com/watch?v=lT7F5eKwxlU&feature=youtu.be" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-hrrjgNPpDzbCO7wR-7tezOw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>portland</strong><br/>
+                (prod. immortal)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3ejiQdnRk1RrI7uGmyZfFM?si=1d0b20eafb0c4700" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e029e17edf9a34a73a530e9a37e" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>another life</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6snMT1m4cAviOUqR5Dyf3n?si=62b4942a44d2445a" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02a07cd096f8b879cbe1caa60c" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>time zones</strong><br/>
+                (prod. grayskies)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/53NHEFALc5PzvBfIUrbMeZ?si=849e27a656004640" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e022481f3eabf8222ec51ccbe72" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>church st.</strong><br/>
+                (prod. nick nash & vlex)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1S4WkFXLw4plyxvofsqmZp?si=83c48d84d77a4e0f" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-GWPhy8UbYAKL0mDz-0LkXfg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>just friends</strong><br/>
+                (prod. luvdakvsh)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/36ujinTqEa7emYLSgeW7ss?si=5059e69f476e4298" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e024de4bbe8fcab4f2ac30a8605" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>size zero</strong><br/>
+                (prod. yogic & diem)
+              </p>
+            </a>
+          </div>
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
@@ -809,4 +907,4 @@ const LugosiSinglesStatic = () => {
       </>
     );
   };
-  export default LugosiSinglesStatic;
+  export default RileylolSinglesStatic;

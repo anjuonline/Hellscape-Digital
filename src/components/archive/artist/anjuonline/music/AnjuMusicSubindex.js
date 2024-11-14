@@ -5,7 +5,7 @@ const AnjuMusicSubindex = () => {
       <>           
             <div class="sticky">
             <div class="title-wrap-rainbow2">
-            <h2>Music - ANJU Online!</h2>
+            <h2>ANJU Online!</h2>
             </div>
             <div class="title-wrap-rainbow">
                 <div class="subindexContainer">
@@ -26,7 +26,7 @@ const AnjuMusicSubindex = () => {
                         </h5> 
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/anjuonline/music/all"}>All Releases (48)</NavLink>
+                                <NavLink to={"/anjuonline/music/all"}>All Releases (53)</NavLink>
                             </div>
                         </h5>              
                     </div>

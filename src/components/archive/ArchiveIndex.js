@@ -12,6 +12,8 @@ const ArchiveIndex = () => {
                 <NavLink to={"/archive/music"}>&nbsp;&nbsp;Music&nbsp;&nbsp;</NavLink>
                 <CrossSymbol />
                 <NavLink to={"/archive/artwork"}>&nbsp;&nbsp;Artwork&nbsp;&nbsp;</NavLink>
+                {/* <CrossSymbol />
+                <NavLink to={"/archive/vods"}>&nbsp;&nbsp;Stream VODs&nbsp;&nbsp;</NavLink> */}
                 {/* <NavLink to={"/archive/artwork"}>&nbsp;&nbsp;Artwork&nbsp;&nbsp;</NavLink> */}
               </div>
             </div>

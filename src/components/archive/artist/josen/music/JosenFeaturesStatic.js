@@ -5,6 +5,91 @@ const JosenFeaturesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/4HpXDdjsCepoVmWt7LJLyv?si=93717e5dacba4466" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02eac330ad37d0953d938a76ab" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Gothnormie - NEMATODES (feat. Josen)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/5TgdN44gvyBk53GGTYjJBn?si=4777b42b513b4162" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e024506286616ec54ad77c41d32" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Ivanko - Hottest (feat. Josen)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/4OdIvZBRfzeZROBIzusuB7?si=8c6e5c6d695e418f" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02122e45195d1c485c5a346f1e" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>kn1febaby - Ws (feat. Josen)</strong><br/>
+              </p>
+            </a>
+          </div>          
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/2vkqPaPHiaRiEmlrtkARQj?si=15c26ec165154af2" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e0274ce8b14387117ac4138c364" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>REROCK. - HOP OUT (feat. Josen)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/7GESdSsY3Buq9zuKa7gnTK?si=4b16c5efe24549d3" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02661a8cf335824d47685a0f49" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>REROCK. - PICK A SIDE (feat. Josen)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/3k9r90ESy0oo0q8hnLENnz?si=d1172bd3c274409b" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e0282c7f0beffc4717784cabc53" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>DamienPRIE$T - New York Flex (feat. Josen)</strong><br/>
+                (prod. 730HAHAH)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/47oJ5zYZQCVdz6fxMsSazf?si=24a40317e731455f" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e0209cd92204db6799df2dc7b09" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Miami Dave - Mobb (feat. Josen)</strong><br/>
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/7BWuJJD9fvbpqQ8HRTePPj?si=7ec43658dba6437a" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d0000b273200c87078b070d6ac16a2bdc" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -68,6 +153,16 @@ const JosenFeaturesStatic = () => {
 
           <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/752xtJbY3NKs3E25WjgxYb?si=58b99050faf347b5" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e02fc6c565454276a1d56745d30" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Miami Dave - GABAGOOL (feat. Josen)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
             <a href="https://soundcloud.com/kevinsavior/pop-rocks-popstarbills" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-Zum2kbeU4JprzXcw-I5SLIw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -86,7 +181,17 @@ const JosenFeaturesStatic = () => {
                 (prod. Brwnworld)
               </p>
             </a>
-          </div>                      
+          </div> 
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/3zXI0uxNFIX8HYrcOXRYoB?si=eb8fe46e818e460f" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i.scdn.co/image/ab67616d00001e026f387f82b8dc8e8078b537d8" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Don Da Menace - Digital Age (feat. Josen)</strong><br/>
+              </p>
+            </a>
+          </div>                     
 
           <div class="gallery_item">
             <p class="gallery-tag">Feature</p>

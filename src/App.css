@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  padding-top: 50px;
 }
 
 img {
@@ -8,14 +9,21 @@ img {
 
 .logo {
  padding-top: 2em;
- padding-left: 6em;
- padding-right: 6em;
+ padding-left: 8em;
+ padding-right: 8em;
  padding-bottom: 1em;
+}
+
+.logoicon {
+  width: 70px;
+  position: absolute;
+  top: 6px;
+  right: 6px;
 }
 
 p {
   color:white;
-  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+  /* font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif; */
   font-size: 10pt;
   text-align: center; 
   margin-top: 1em;
@@ -24,7 +32,7 @@ p {
 
 h2 {
   color:white;
-  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+  /* font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif; */
   font-size: 11pt;
   font-weight: 600;
   padding-top: 0.5em;
@@ -35,7 +43,7 @@ h2 {
 
 h3 {
   color:white;
-  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+  /* font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif; */
   font-size: 10pt;
   font-weight: 600;
   margin: 0;
@@ -46,7 +54,7 @@ h3 {
 
 h4 {
   color:white;
-  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+  /* font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif; */
   font-size: 10pt;
   font-weight: 600;
   margin: 0;
@@ -57,7 +65,7 @@ h4 {
 
 h5 {
   color:white;
-  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+  /* font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif; */
   font-size: 10pt;
   font-weight: 400;
   margin: 0;
@@ -75,13 +83,66 @@ a {
 .mainTitle {
   color: white;
   text-align: center;
-  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+  /* font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif; */
 }
 
 .main-column {
   margin: auto;
-  max-width: 43em;
+  max-width: 50em;
   min-width: 320px;
+}
+
+.sticky-topnav-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
+.sticky-topnav-column {
+  margin: auto;
+  width: 100%;
+  min-width: 320px;
+  --angle: 0deg;
+	border-bottom: 2px solid;
+	border-image: conic-gradient(from var(--angle), red, yellow, lime, aqua, blue, magenta, red) 1;
+	animation: 20s rotate linear infinite;
+  background-color: black;
+}
+
+.subnav {
+  display: flex;
+  flex-direction: column;
+  z-index: 9998;
+  background-color: black;
+  --angle: 0deg;
+	border: 1px solid;
+	border-image: conic-gradient(from var(--angle), red, yellow, lime, aqua, blue, magenta, red) 1;
+	animation: 20s rotate linear infinite;
+  text-align: left;
+}
+
+.sub-menu {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 100%;
+  z-index: 10;
+  background-color: black;
+	border: 1px solid;
+  border-top: 0px;
+	border-image: conic-gradient(from var(--angle), red, yellow, lime, aqua, blue, magenta, red) 1;
+	animation: 20s rotate linear infinite;
+  padding: 4px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: -0.15em;
+  text-align: left;
+}
+
+.sub-menu a {
+  text-align: left;
 }
 
 .featured-card {
@@ -172,6 +233,10 @@ a {
   margin: 1em;
 } 
 
+.sticky-container {
+  margin-top:50px;
+}
+
 .card-container-rainbow {
 	--angle: 0deg;
 	border: 1px solid;
@@ -198,9 +263,9 @@ a {
   margin-left: 1em;
   margin-right: 1em;
   position: sticky;
-  top: 0;
+  top: 2.35em;
   background-color: black;
-  z-index: 6;
+  z-index: 900;
 } 
 
 .title-wrap-rainbow2 {
@@ -211,9 +276,9 @@ a {
   margin-left: 1em;
   margin-right: 1em;
   position: sticky;
-  top: 0;
+  top: 2.35em;
   background-color: black;
-  z-index: 6;
+  z-index: 9000;
 } 
 
 .title-wrap-rainbow-full {
@@ -256,7 +321,7 @@ a {
   padding-right: 1em;
   padding-top: 1em;
   padding-bottom: 0;
-  height: 20em;
+  height: 24em;
 }
 
 .react-player-responsive-playlist { 
@@ -398,8 +463,12 @@ ul {
   text-align: left;
 }
 
+.left-aligned {
+  text-align: left;
+}
+
 .gallery-text {
-  margin-top: 0;
+  margin-top: 0.2em;
   margin-bottom: 0.5em;
   font-size: 9pt;
 }
@@ -452,10 +521,12 @@ ul {
   .title-wrap-rainbow {
     margin-left: 0.5em;
     margin-right: 0.5em;
+    top: 2.2em;
   }
   .title-wrap-rainbow2 {
     margin-left: 0.5em;
     margin-right: 0.5em;
+    top: 2.2em;
   }
   .card-container-rainbow {
     margin: 0.85em;
@@ -476,6 +547,9 @@ ul {
     padding-left: 0.5em;
     padding-right: 0.5em;
   }
+  .overflow-hidden {
+    margin-bottom: 0px!important;
+  }
 }
 
 .masonry-wrap {
@@ -488,7 +562,7 @@ ul {
 
 .sticky {
   position: sticky;
-  top: 0;
+  top: 36px;
   background-color: black;
   z-index: 6;
 }
@@ -507,17 +581,16 @@ ul {
 .topnav a {
   float: left;   
   color: #f2f2f2;
-  text-align: center;
+  text-align: left;
   padding: 10px 10px;
   text-decoration: none;
-  font-size: 14px;
-  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
-
+  font-size: 1em;
+  /* font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif; */
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #f2f2f2;
   color: black;
 }
 
@@ -527,12 +600,47 @@ ul {
   color: magenta;
 }
 
+/* Add a black background color to the top navigation */
+.topnavhomebutton {
+  background-color: black;
+  overflow: hidden;
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+/* Style the links inside the navigation bar */
+.topnavhomebutton a {
+  float: left;   
+  color: #f2f2f2;
+  text-align: left;
+  padding: 10px 10px;
+  padding-bottom: 8px;
+  text-decoration: none;
+  font-size: 0.78em;
+  /* font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif; */
+
+}
+
+/* Change the color of links on hover */
+.topnavhomebutton a:hover {
+  background-color: black;
+  color: magenta;
+}
+
+/* Add a color to the active/current link */
+.topnavhomebutton a.active {
+  background-color: black;
+  color: magenta;
+}
+
 .activeLink {
-  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+  /* font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif; */
   color: white;
   font-size: 10pt;
-  padding-top: 8px;
-  padding-bottom: 8px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 .subindexFont {
@@ -560,7 +668,7 @@ ul {
 }
 
 .indexText {
-  font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif;
+  /* font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, "MS Pã‚´ã‚·ãƒƒã‚¯", "MS PGothic", farial, helvetica, clean, sans-serif; */
   color: white;
   font-size: 14px;
   padding-top: 8px;
@@ -622,3 +730,96 @@ ul {
 .default {
   font-style: default;
 }
+
+/* community page */
+
+.chat-main-column-community {
+  height: 700px;
+  display: flex;
+  justify-content: center;
+}
+
+.chat-iframe-container-community {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  max-width: 47em;
+  max-height: 700px;
+  padding-top: 20px;
+  overflow: hidden!important;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.community-icons-wrapper {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.community-icons {
+  width:86px;
+  height:auto;
+}
+
+@media only screen and (max-width: 600px){
+  .chat-iframe-container-community {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+  }
+}
+
+/* chat page  */
+
+.chat-main-column {
+  height: 66vh;
+  display: flex;
+  justify-content: center;
+}
+
+.chat-iframe-container {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  max-width: 50em;
+  max-height: 700px;
+  padding-top: 20px;
+  overflow: hidden!important;
+}
+
+.chat-iframe-container::-webkit-scrollbar {
+  display: none!important;
+}
+
+.cell {
+  display:none;
+}
+
+.svgBack {
+  display:none;
+}
+
+.smline {
+  display:none;
+}
+
+/* Hover zoom */
+
+.hover-zoom {
+  transition: transform .22s; /* Animation effect */
+  width: 100%; /* Image will take up the full width of its container */
+  object-fit: cover; /* Ensures the image doesn't stretch or squash */
+  overflow: hidden;
+}
+
+.hover-zoom:hover {
+  transform: scale(1.05); /* Zoom in slightly */
+}
+
+.overflow-hidden {
+  overflow: hidden;
+  max-height: 245px;
+  margin-bottom: 0.4em;
+}
+
+/* Blog */

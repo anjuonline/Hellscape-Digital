@@ -5,6 +5,19 @@ const AnjuDjSetsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">DJ Set</p>
+            <a href="https://www.youtube.com/watch?v=Oa17vu2-w2E" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-PwqCZJx2omOIloxP-81g7Pw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Hellscape Radio Vol. 6</strong> - Hellscape Digital @ CRACKFEST VI<br/>
+                (Hosted by ANJU Online!)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">DJ Set</p>
             <a href="https://www.youtube.com/watch?v=444jIQF-mRU" target="_blank" rel="noopener noreferrer">
               <img src="https://i.imgur.com/hA2r41r.png" width="100%" alt=""/><br/>
               <p class="gallery-text">

@@ -76,15 +76,28 @@ import ArchiveMusicSemajSingles from './pages/archive/music/semaj/ArchiveMusicSe
 import ArchiveMusicSemajPlacements from './pages/archive/music/semaj/ArchiveMusicSemajPlacements';
 import ArchiveMusicSemajFeatures from './pages/archive/music/semaj/ArchiveMusicSemajFeatures';
 
+import ArchiveMusicLilDujour from './pages/archive/music/lildujour/ArchiveMusicLilDujour';
+import ArchiveMusicLilDujourAlbums from './pages/archive/music/lildujour/ArchiveMusicLilDujourAlbums';
+import ArchiveMusicLilDujourVideos from './pages/archive/music/lildujour/ArchiveMusicLilDujourVideos';
+import ArchiveMusicLilDujourSingles from './pages/archive/music/lildujour/ArchiveMusicLilDujourSingles';
+import ArchiveMusicLilDujourFeatures from './pages/archive/music/lildujour/ArchiveMusicLilDujourFeatures';
+
 import ArchiveMusicVideos from './pages/archive/music/hellscape/ArchiveMusicVideos';
+import ArchiveMusicVideos2019 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2019';
 import ArchiveMusicVideos2020 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2020';
 import ArchiveMusicVideos2021 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2021';
 import ArchiveMusicVideos2022 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2022';
 import ArchiveMusicVideos2023 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2023';
+import ArchiveMusicVideos2024 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2024';
 import ArchiveMusicHellscapeRadio from './pages/archive/music/hellscape/ArchiveMusicHellscapeRadio';
 
 import ArchiveArtwork from './pages/archive/artwork/ArchiveArtwork';
 import ArchiveArtworkAll from './pages/archive/artwork/ArchiveArtworkAll';
+
+import ArchiveStreamVods from './pages/archive/ArchiveStreamVods';
+
+import Blog from './pages/blog/Blog';
+import BlogMusic from './pages/blog/topics/BlogMusic';
 
 import ArchiveArtworkAnju from './pages/archive/artwork/anjuonline/ArchiveArtworkAnju';
 import ArchiveArtworkAnjuIllustration from './pages/archive/artwork/anjuonline/ArchiveArtworkAnjuIllustration';
@@ -97,7 +110,12 @@ import ArchiveUpdates from './pages/archive/updates/ArchiveUpdates';
 import ArchiveChangelog from './pages/archive/updates/ArchiveChangelog';
 import Store from './pages/store/Store';
 
+import UnderConstruction from './pages/UnderConstruction';
+
 import AnjuHomepage from './pages/roster/anjuonline/AnjuHomepage';
+
+import Community from './pages/Community';
+import Chat from './pages/Chat';
 
 function App() {
   return (
@@ -173,17 +191,30 @@ function App() {
           <Route path='/semaj/placements' element={<ArchiveMusicSemajPlacements />} />
           <Route path='/semaj/features' element={<ArchiveMusicSemajFeatures />} />
 
+          <Route path='/lildujour/all' element={<ArchiveMusicLilDujour />} />
+          <Route path='/lildujour/albums' element={<ArchiveMusicLilDujourAlbums />} />
+          <Route path='/lildujour/videos' element={<ArchiveMusicLilDujourVideos />} />
+          <Route path='/lildujour/singles' element={<ArchiveMusicLilDujourSingles />} />
+          <Route path='/lildujour/features' element={<ArchiveMusicLilDujourFeatures />} />
+
           <Route path='/videos/all' element={<ArchiveMusicVideos />} />
+          <Route path='/videos/2019' element={<ArchiveMusicVideos2019 />} />
           <Route path='/videos/2020' element={<ArchiveMusicVideos2020 />} />
           <Route path='/videos/2021' element={<ArchiveMusicVideos2021 />} />
           <Route path='/videos/2022' element={<ArchiveMusicVideos2022 />} />
           <Route path='/videos/2023' element={<ArchiveMusicVideos2023 />} />
+          <Route path='/videos/2024' element={<ArchiveMusicVideos2024 />} />
           <Route path='/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
 
           <Route path='/archive/artwork' element={<ArchiveArtwork />} />
           <Route path='/archive/artwork/all' element={<ArchiveArtworkAll />} />
 
           <Route path='/music' element={<Music />} />
+
+          <Route path='/archive/vods' element={<ArchiveStreamVods />} />
+
+          <Route path='/blog' element={<Blog />} />
+          <Route path='/blog/music' element={<BlogMusic />} />
 
           <Route path='/anjuonline/art/all' element={<ArchiveArtworkAnju />} />
           <Route path='/anjuonline/art/illustration' element={<ArchiveArtworkAnjuIllustration />} />
@@ -195,6 +226,11 @@ function App() {
           <Route path='/updates' element={<ArchiveUpdates />} />
           <Route path='/changelog' element={<ArchiveChangelog />} />
           <Route path='/store' element={<Store />} />
+
+          <Route path='/community' element={<Community />} />
+          <Route path='/chat' element={<Chat />} />
+
+          <Route path='/underconstruction' element={<UnderConstruction />} />
 
           <Route path='/anjuonline' element={<AnjuHomepage />} />
 

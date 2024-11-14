@@ -16,6 +16,76 @@ const AnjuAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/anjuonline/rave-tool" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-fKHMwXQWCF534ISz-qf55Rg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Rave Tool</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Music Video / Single</p>
+            <a href="https://www.youtube.com/watch?v=Bs84gP1d888" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02264fc0884fd1a7358886ac1a" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Katy</strong><br/>
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">DJ Set</p>
+            <a href="https://www.youtube.com/watch?v=Oa17vu2-w2E" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-PwqCZJx2omOIloxP-81g7Pw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Hellscape Radio Vol. 6</strong> - Hellscape Digital @ CRACKFEST VI<br/>
+                (Hosted by ANJU Online!)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/3hEyr112NkmziqWp5PWzlt?si=4635bf8a2ce942c7" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b273d27409c904dea9363500f85e" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - March 2nd</strong><br/>
+                (prod. ANJU Online!)
+              </p>
+            </a>
+        </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1zHJmzl14ElbLxrlXB70zF?si=b9106df0ae8e46f3" target="_blank" rel="noopener noreferrer">
+              <img src="https://i.scdn.co/image/ab67616d0000b2734c59a716d7f33efa25b82c74" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Catalyst</strong><br/>
+                (prod. ANJU Online!)
+              </p>
+            </a>
+        </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/7dj4Rf9bwDANLQLHQhycne?si=195758df3bc740fc" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Slime Cry</strong><br/>
+                (prod. ANJU Online!)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/2UiSXHE6Y3KAIsfCCo67kW?si=8f4ff287c6ce4cbe" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-yteAvdxDvR6I55bi-43Pjlw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

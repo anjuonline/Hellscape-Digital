@@ -21,7 +21,7 @@ const JosenMusicSubindex = () => {
                         </h5>   
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/josen/all"}>All Releases (130)</NavLink>
+                                <NavLink to={"/josen/all"}>All Releases (184)</NavLink>
                             </div>
                         </h5>              
                     </div>

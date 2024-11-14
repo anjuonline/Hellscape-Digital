@@ -5,6 +5,175 @@ const NotamachinePlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/2BLUOaAUNOZC4pbmw0iwrL?si=43262d0592a94a7d" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02b9ff17fcd530916999d819a6" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Josen - WAKEUPDENiGEEK</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/6TlGO1N7o6fDPi33JlRGRR?si=731290fbfc564031" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-g0uVyurAIIE2seWI-l0vjSA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Josen - DRILLBOWSKI</strong><br/>
+                (prod. notamachine & Rich Illuminati)
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/25DGi20DcsMZHL8UCkmxXF?si=a8b7d4e7e65b4b96" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e0278fd9409884acfd0f39fabe9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>CoryRay - 4 a Lifetime (feat. Rico Leone)</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1SZ0QWWosnbutwoVOZMDOp?si=c84b6242a7fc4055" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02165adc96751fcdfd89a71fb8" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - DALYDK</strong><br/>
+                (prod. chris6lair & notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/scumboishit/have-no-dreams-notamachineprod-prodantar_wund00" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-ahavJsn4fwsgywGU-eJtT3A-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Scum Boi - have no dreams (feat. kurtwarnermovie)</strong><br/>
+                (prod. notamachine, Antar & Wund)
+              </p>
+            </a>
+          </div> 
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/38YrKFKFLRU923EP5Dl96O?si=46a17cda8b8b4d12" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b27335b7903e635582c019f3e082" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lugosi - burn holes</strong><br/>
+                (prod. notamachine & rjpasin)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/74XbWghfe7umH8kIsdQJVY?si=54eeb783a9b747b4" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b27335b7903e635582c019f3e082" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lugosi - goinoutsadv2</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/2war7lT6JfBZrlAuzOR7Bc?si=f4dde20fd4e7404e" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-rztihdDfLmZzgfl5-IDykQA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Daria St. Clair - Pieces</strong><br/>
+                (prod. notamachine & ROHO)
+              </p>
+            </a>
+          </div> 
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1jeY1KAGYUobEegT0LVy4x?si=5109dd14ea9a4bec" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-Gu6OVaO4vhT4lHEK-GylG5A-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Hope You Don't</strong><br/>
+                (prod. Rich Illuminati & notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/7tb64UVOARyAbQyIReaR4n?si=b5f836548ba8417c" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-Gu6OVaO4vhT4lHEK-GylG5A-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Rockstar Wasted</strong><br/>
+                (prod. gotti & notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/3IhCkp0pe3KNpimBr5vWYr?si=75dad82cc0764a3c" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-mNjoZfs4ncaHSVx0-83Gnmw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Late (feat. Lil Dujour)</strong><br/>
+                (prod. Meauxminy & notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1a6AkDSELN9zj8LhcXnkAu?si=341722a5b10a40ee" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-mNjoZfs4ncaHSVx0-83Gnmw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - Love is Dead</strong><br/>
+                (prod. notamachine, antar & 1wireshark)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/6M7DgI8n3DR8zvo8cZ8oXz?si=c88fe36e5e174fd3" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-mNjoZfs4ncaHSVx0-83Gnmw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - God Complex</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/4lanKESHOVSShxc9OQRHYh?si=4e0bc0ede4f34e86" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d00001e02d22b78e993fd00183366b4b6" width="100%" alt=""/><br/>
               <p class="gallery-text">
@@ -19,7 +188,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/0uO0Qosc5WYTfBjPi5x466?si=ded88831c62f4e41" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Clown</strong><br/>
+                <strong>Kawaii Ry - Clown</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -30,7 +199,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/3IAym27cx48RClaaVPghKA?si=b9532f9724fe412c" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Battle Bus (feat. Lil Dujour)</strong><br/>
+                <strong>Kawaii Ry - Battle Bus (feat. Lil Dujour)</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -41,7 +210,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/45eev9YzAniaNF9bgyqyn8?si=1017582b25774fc2" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>It's Me</strong><br/>
+                <strong>Kawaii Ry - It's Me</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -52,7 +221,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/2BIrMMXBlknKNhscZOwrLG?si=855e5f8d22a44ac8" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Don't Wait On Me II</strong><br/>
+                <strong>Kawaii Ry - Don't Wait On Me II</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -63,7 +232,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/4NpTXoV5k39TEPsxWUMaAb?si=54b25bf9cac04398" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Due Time</strong><br/>
+                <strong>Kawaii Ry - Due Time</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -74,7 +243,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/2MAfiUDgKAhfvvD8GS9PUe?si=6e0edac5d99943d0" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Firefight</strong><br/>
+                <strong>Kawaii Ry - Firefight</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -85,7 +254,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/4OTMVKBesbX2ro17DfE2Ke?si=0409e375d3354d11" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Folder</strong><br/>
+                <strong>Kawaii Ry - Folder</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -96,7 +265,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/7M98tFfeZZpPWghv4YTHoN?si=d0beeec085004371" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>My Weed</strong><br/>
+                <strong>Kawaii Ry - My Weed</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -107,7 +276,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/5MFzQ5UCpnAYycgzybFkZV?si=595062485ebf4273" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Scoop</strong><br/>
+                <strong>Kawaii Ry - Scoop</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -118,7 +287,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/17ulPTVLeXnirBCGWvwp6f?si=c9416311568c4e8b" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Money Called</strong><br/>
+                <strong>Kawaii Ry - Money Called</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -129,7 +298,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/3eD07yn0xIZCEux6CvequI?si=ad02750dffae4b97" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Twizzy (feat. Rileylol)</strong><br/>
+                <strong>Kawaii Ry - Twizzy (feat. Rileylol)</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -140,7 +309,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/5HYuriuAaQLqXzOKFObaxg?si=76eba43232f44032" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Follow The Lead</strong><br/>
+                <strong>Kawaii Ry - Follow The Lead</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -151,7 +320,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/0tHeaM2h00oF2ENmetcIzV?si=52b864d9a54547a0" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Watches</strong><br/>
+                <strong>Kawaii Ry - Watches</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -162,7 +331,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/4XmqGJR6rmTmZFHXeK6czn?si=03ecd747da1d4424" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Yes No Maybe</strong><br/>
+                <strong>Kawaii Ry - Yes No Maybe</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -173,7 +342,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/2mF8iIquaFdCK41bobEJuV?si=ad01060b0ec545b0" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Body Shop</strong><br/>
+                <strong>Kawaii Ry - Body Shop</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -184,7 +353,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/57PCMEmvSTispedM3yZzn1?si=a7d22874325a40b7" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Would Your Rather</strong><br/>
+                <strong>Kawaii Ry - Would Your Rather</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -195,7 +364,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/2u1XRHa9HRGr5os98iTE21?si=68d6045ae23f4a81" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Stop! Look!</strong><br/>
+                <strong>Kawaii Ry - Stop! Look!</strong><br/>
                 (prod. notamachine)
               </p>
             </a>
@@ -206,7 +375,7 @@ const NotamachinePlacementsStatic = () => {
             <a href="https://open.spotify.com/track/4aZJiqQvn2EBp860EouMxR?si=a289c0fe4184483d" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
-                <strong>Top Geek</strong><br/>
+                <strong>Kawaii Ry - Top Geek</strong><br/>
                 (prod. notamachine)
               </p>
             </a>

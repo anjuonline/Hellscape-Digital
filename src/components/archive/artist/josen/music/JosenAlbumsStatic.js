@@ -5,8 +5,18 @@ const JosenAlbumsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Album</p>
-            <a href="https://soundcloud.com/liljosen/sets/drill-la-drill" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+            <a href="https://open.spotify.com/album/78cIWBHZWVSETsK6W8woCO?si=SJEtNsRqRDu5Puca_pmGQw" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-pmyQBVOlP5adNY0v-Z1ZAHg-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Plugg On Drill Street</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/4b2TRYgQEPotdtn4kXqJMa?si=P8vYR6wLR92qFQtnsYs27w" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-yeecJqYMZKJS9AoH-qFszYw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>Drill La Drill</strong><br/>
               </p>
@@ -15,7 +25,7 @@ const JosenAlbumsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Album</p>
-            <a href="https://soundcloud.com/liljosen/sets/to-drill-a-mockingbird" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/album/6cELva8mV9GxqP9RBvpib5?si=2oHMR2l0TN6AHbeHuPM-Sg" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-CarFD2NJ42gNIEXz-cJk87Q-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>To Drill a Mockingbird</strong><br/>
@@ -25,7 +35,7 @@ const JosenAlbumsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">EP</p>
-            <a href="https://soundcloud.com/liljosen/sets/welcome2josenworld" target="_blank" rel="noopener noreferrer">    
+            <a href="https://open.spotify.com/album/3ESAyTEpZgyV4ZgckodjE2?si=rYmvU-G0SpCTNfGeJWgpZA" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-baeecbf1-68e2-4126-99e9-8c1b2fbc5afa-0-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
                 <strong>WELCOME2JOSENWORLD</strong><br/>

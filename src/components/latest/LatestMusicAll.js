@@ -6,163 +6,149 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
-            <p class="gallery-tag">HSD Exclusive</p>
-            <a href="https://open.spotify.com/track/6JPdZVcrAGL1jrIbSYWwOQ?si=c139737a2862412f" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i.imgur.com/AIZYHuT.jpg" width="100%" alt=""/><br/>
+            <p class="gallery-tag">Mixtape</p>
+            <a href="https://soundcloud.com/dujourmusic/hellscape-presentslil-dujour" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-1rSSZehbsTvFfCFp-eqi6Hw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
               <p class="gallery-text">
-                <strong>Kawaii Ry, TRYFG & Boy Floss</strong><br/>
-                Rare Link (prod. Meauxminy)
+                <strong>Lil Dujour</strong><br/>HELLSCAPE PRESENTS... LIL DUJOUR
               </p>
             </a>
           </div>
 
         <div class="gallery_item">
-            <p class="gallery-tag">Album</p>
-            <a href="https://open.spotify.com/album/3Cg1oeHtDkO6iRgVcv9sok?si=CNRU9M62QdC3vjpJeq5T7g" target="_blank" rel="noopener noreferrer">
-              <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/anjuonline/rave-tool" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-fKHMwXQWCF534ISz-qf55Rg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
               <p class="gallery-text">
-                <strong>Kawaii Ry</strong><br/>BLEEZY SEAZY III (prod. chris6lair)
+                <strong>ANJU Online!</strong><br/>Rave Tool
               </p>
             </a>
           </div>
 
           <div class="gallery_item">
-            <p class="gallery-tag">Placement</p>
-            <a href="https://open.spotify.com/track/4lanKESHOVSShxc9OQRHYh?si=4e0bc0ede4f34e86" target="_blank" rel="noopener noreferrer">
-              <img src="https://i.scdn.co/image/ab67616d00001e02d22b78e993fd00183366b4b6" width="100%" alt=""/><br/>
+            <p class="gallery-tag">EP</p>
+            <a href="https://open.spotify.com/album/7GcJIGQDBnLb7SWU3Q2kXa?si=lIcpeNvOSPmxdqOfPYKrcw" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02e503f1aa754b23c993e3ab4a" width="100%" alt="" class="hover-zoom"/>
+              </div>
               <p class="gallery-text">
-                <strong>sphere merchants</strong><br/>
-                trust (prod. notamachine)
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Album</p>
-            <a href="https://open.spotify.com/album/6phk15MEf67TkrlpJ6BW0u?si=mg64TCx3SQGJSW_075dW8Q" target="_blank" rel="noopener noreferrer">
-              <img src="https://i1.sndcdn.com/artworks-wck162Bv3CofOVwy-oJLtzQ-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Kawaii Ry</strong><br/>Alone Together (prod. Notamachine)
+                <strong>notamachine</strong><br/>whispers: 2.0
               </p>
             </a>
           </div>
 
           <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/7dy9xmY6Ei20AjyEdhXSg9?si=3c9d7dccba1342cb" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i.scdn.co/image/ab67616d00001e0267311d28774ca875d4e5e4b7" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Semaj</strong><br/>Keep Quiet
-              </p>
-            </a>
-          </div>
-
-        <div class="gallery_item">
-            <p class="gallery-tag">Album</p>
-            <a href="https://open.spotify.com/album/6wLFadNSS3Uv1wgYaM1M0b?si=Tm93dx20TOGFoLrEHKVD9Q" target="_blank" rel="noopener noreferrer">
-              <img src="https://i1.sndcdn.com/artworks-il9NATXFnn8xquQe-onkrAQ-t500x500.jpg" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Kawaii Ry</strong><br/>
-                Slime Shawty 2
-              </p>
-            </a>
-          </div>
-
-        <div class="gallery_item">
-            <p class="gallery-tag">EP</p>
-            <a href="https://open.spotify.com/album/13cL9Nd7P2yWXcOgBXU7Sh?si=m6vcmheySxqVwjxcvCmkjA" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i.scdn.co/image/ab67616d00001e02b4005588bc8f2d1de3f3eb4d" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>notamachine</strong><br/>
-                birdsongs
-              </p>
-            </a>
-          </div>
-
-        <div class="gallery_item">
-            <p class="gallery-tag">Album</p>
-            <a href="https://soundcloud.com/liljosen/sets/drill-la-drill" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-sSsPf8mp1dbUConC-10EJAg-t500x500.jpg" width="100%" alt=""/><br/>
+            <a href="https://soundcloud.com/liljosen/greendot-24khris-josenfriday" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-jPlPR2pZso29uTzl-ji0QXQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
               <p class="gallery-text">
                 <strong>Josen</strong><br/>
-                Drill La Drill
+                🟢GREENDOT🟢 (prod. 24KHRIS)
               </p>
             </a>
           </div>
 
-        <div class="gallery_item">
-            <p class="gallery-tag">EP</p>
-            <a href="https://open.spotify.com/album/6V2daPLMFTZbhNMGQUN9e5?si=GYGU7EMjQHaH0A0VrRcoUA" target="_blank" rel="noopener noreferrer">
-              <img src="https://i1.sndcdn.com/artworks-M0iURrDPpvvoSZT9-nWUIZg-t500x500.jpg" width="100%" alt=""/><br/>
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/habit-remix-m" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-HbQQX1LsfyLLH2L7-xev1gQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
               <p class="gallery-text">
-                <strong>Kawaii Ry</strong><br/>
-                The Porch (prod. STEFANO)
+                <strong>Lil Durk</strong><br/>
+                Habit (Kawaii Ry Remix)
               </p>
             </a>
           </div>
 
-        <div class="gallery_item">
-            <p class="gallery-tag">Feature</p>
-            <a href="https://open.spotify.com/track/1oSqlaTf5EDR5bFYkhDZGq?si=a5d1b68172b04baf" target="_blank" rel="noopener noreferrer">
-              <img src="https://i1.sndcdn.com/artworks-vWB1gQFkHcjOFhJO-UxYAYg-t500x500.jpg" width="100%" alt=""/><br/>
+          <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/4bmAxOqy4cyxgtzmShtiBv?si=QoBgRQxVQseY4h5ueHUDYg" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
+              </div>
               <p class="gallery-text">
-                <strong>TRYFG</strong><br/>
-                слэп!! (feat. Kawaii Ry)
+                <strong>Lugosi</strong><br/>HELLBORNE
               </p>
             </a>
           </div>
 
-        <div class="gallery_item">
-            <p class="gallery-tag">EP</p>
-            <a href="https://open.spotify.com/album/3X6qESmAaBE0pSlEssgIEt?si=7sSNkmB2RgyEfhDrz7ygsw" target="_blank" rel="noopener noreferrer">
-              <img src="https://i1.sndcdn.com/artworks-yLuM6rPvjbgplNsW-lwUwlA-t500x500.jpg" width="100%" alt=""/><br/>
+          <div class="gallery_item">
+            <p class="gallery-tag">Music Video / Single</p>
+            <a href="https://www.youtube.com/watch?v=Bs84gP1d888" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02264fc0884fd1a7358886ac1a" width="100%" alt="" class="hover-zoom"/>
+              </div>
               <p class="gallery-text">
-                <strong>Lugosi</strong><br/>
-                BODY IN THE TRUNK
+                <strong>ANJU Online!</strong><br/>Katy
               </p>
             </a>
           </div> 
 
           <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/special-k-prod-nextime" target="_blank" rel="noopener noreferrer">
-              <img src="https://i1.sndcdn.com/artworks-KrJUMZIniMPUu3Pf-p58Zew-t500x500.jpg" width="100%" alt=""/><br/>
+            <p class="gallery-tag">DJ Set</p>
+            <a href="https://soundcloud.com/eauxminy/sunday2-wip" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-2CVLufTNzqL35zqH-5cOZFA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
               <p class="gallery-text">
-                <strong>Kawaii Ry</strong><br/>
-                Special K (prod. Nextime)
-              </p>
-            </a>
-          </div>
-
-        <div class="gallery_item">
-            <p class="gallery-tag">Album</p>
-            <a href="https://open.spotify.com/album/7mygx4N05Il50UcBbLPI4V?si=8JXBdqaBSB6Jkz3JR8J0cw" target="_blank" rel="noopener noreferrer">
-              <img src="https://i.scdn.co/image/ab67616d0000b273f2f2bf001f382b16315b7ac3" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Kawaii Ry & Lugosi</strong><br/>
-                Bimmy Boys
-              </p>
-            </a>
-          </div>
-
-        <div class="gallery_item">
-            <p class="gallery-tag">EP</p>
-            <a href="https://open.spotify.com/album/66hR39PDDqiJrKfvaNgm04" target="_blank" rel="noopener noreferrer">
-              <img src="https://i.scdn.co/image/ab67616d0000b273c2e40b9ca6e14145aecac252" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>Kawaii Ry</strong><br/>
-                BLEEZY SEAZY II (prod. chris6lair)
+                <strong>Meauxminy</strong><br/>
+                Sunday in CK 2 (Full Set)
               </p>
             </a>
           </div>
 
           <div class="gallery_item">
-            <p class="gallery-tag">Feature</p>
-            <a href="https://open.spotify.com/track/7BWuJJD9fvbpqQ8HRTePPj?si=7ec43658dba6437a" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i.scdn.co/image/ab67616d0000b273200c87078b070d6ac16a2bdc" width="100%" alt=""/><br/>
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2BLUOaAUNOZC4pbmw0iwrL?si=43262d0592a94a7d" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02b9ff17fcd530916999d819a6" width="100%" alt="" class="hover-zoom"/>
+              </div>
               <p class="gallery-text">
-                <strong>Heems</strong><br/>
-                Take Me (The Heights) (feat. Josen)<br/>(prod. notamachine)
+                <strong>Josen</strong><br/>
+                WAKEUPDENiGEEK (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1cuRA9aXS4nFQtlLR34X8J?si=865f43cdf5014863" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-vjQ81JKb9kyLXEvS-Xk207Q-t500x500.png" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>rileylol</strong><br/>
+                nothing more (prod. dead yami)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/dujourmusic/kawaii-ry-dujour-this-my-last-one-but-i-can-break-it-down-in-half" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-CX8LoV5NILXcG9lS-aEpOTw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lil Dujour & Kawaii Ry</strong><br/>
+                This My Last One But I Can Break It Down In Half (prod. Mista)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/5gkCKPsIkKRUdbaGCem5p6?si=ZmWSVJB-Ttuyq6krZgu_VQ" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02165adc96751fcdfd89a71fb8" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & chris6lair</strong><br/>BLEEZY SEAZY V
               </p>
             </a>
           </div>

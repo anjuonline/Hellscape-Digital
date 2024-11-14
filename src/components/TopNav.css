@@ -1,0 +1,154 @@
+.hamburger-menu {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: white;
+  position: absolute;
+  right: 0px;
+  z-index: 9999;
+  margin-top: -2px;
+}
+
+.hamburger-menu.open {
+  background-color: black;
+  color: magenta;
+}
+
+.topnav.responsive {
+  display: flex;
+  flex-direction: column;
+}
+
+.sticky-subnav-container {
+  display: none;
+  background-color: white;
+  position: absolute;
+  top: 50;
+  width: 100%;
+  z-index: 9999;
+  padding: 5px 0;
+}
+
+.sticky-subnav-container.open {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.sticky-subnav-container a {
+  padding: 50 10px;
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+}
+
+.fullscreen-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.fullscreen-menu.open {
+  opacity: 1;
+  pointer-events: auto;
+  z-index: 9001;
+}
+
+.fullscreen-menu a {
+  color: #ffffff;
+  font-size: 16px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.fullscreen-menu a:hover {
+  color: magenta;
+}
+
+.rainbow-divider {
+  margin: 10px;
+  width: 100%;
+  min-width: 320px;
+  --angle: 0deg;
+  border-bottom: 2px solid;
+  border-image: conic-gradient(from var(--angle), red, yellow, lime, aqua, blue, magenta, red) 1;
+  animation: 20s rotate linear infinite;
+  background-color: black;
+}
+
+.fullscreen-menu-title {
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.fullscreen-sub-menu-text {
+  font-size: 16px!important;
+}
+
+.margintop05em {
+  margin-top: 0.5em!important;
+}
+  
+  @media (max-width: 768px) {
+
+    .topnav {
+        display: none!important;
+    }
+  
+    .topnavhomebutton {
+      background-color: black;
+      overflow: hidden;
+      display: flex;
+      justify-content: center!important;
+      position: relative;
+    } 
+
+    .topnav.open {
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .hamburger-menu {
+      display: block;
+    }
+  
+    .menu-items {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+    .fullscreen-sub-menu {
+      display: flex;
+      flex-direction: column;
+      align-items:center;
+      font-size: 16px;
+    }
+  }
+
+  @media (width >= 769px) {
+    .sticky-subnav-container.open {
+      display: none;
+    }
+    
+    .sticky-subnav-container a {
+      display: none;
+    }
+  }
