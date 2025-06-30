@@ -27,17 +27,6 @@ const RileylolAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Music Video / Single</p>
-            <a href="https://www.youtube.com/watch?v=QBVe2zzlhRc" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-zV3zzxBLHVjpKYao-GkWYPQ-t500x500.png" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>sixtyminutes</strong><br/>
-                (prod. antsy, supa & G06)
-              </p>
-            </a>
-          </div>
-
-        <div class="gallery_item">
-            <p class="gallery-tag">Music Video / Single</p>
             <a href="https://www.youtube.com/watch?v=lT7F5eKwxlU&feature=youtu.be" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-hrrjgNPpDzbCO7wR-7tezOw-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
