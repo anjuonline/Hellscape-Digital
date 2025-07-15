@@ -8,6 +8,320 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                March 30, 2025 - v1.1.1
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/anjuonline/music/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; <strong>ANJU Online!</strong> - 2 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>DJ Sets</i></li>
+                                    <ul>
+                                        <li>&bull; ANJU Online! - Deeply Online (Full Set)</li>
+                                    </ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; ANJU Online! - I Uhhhhh</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; <strong>Kawaii Ry</strong> - X new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>Albums</i></li>
+                                    <ul>
+                                        <li>&bull; Visions</li>
+                                    </ul>
+                                    <li>&bull; <i>EPs</i></li>
+                                    <ul>
+                                        <li>&bull; Green Dot</li>
+                                    </ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; Long Dark Road (prod. Saint Mike)</li>
+                                    </ul>
+                                    <li>&bull; <i>Features</i></li>
+                                    <ul>
+                                        <li>&bull; STICK GOD - RUNNIN' (feat. Kawaii Ry)</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="/lugosi/all">
+                                    &bull; <strong>Lugosi</strong> - X new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>Albums</i></li>
+                                    <ul>
+                                        <li>&bull; DYING ON THE EAST COAST</li>
+                                        <li>&bull; Hellborne</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; goinoutsadv2 (prod. notamachine)</li>
+                                        <li>&bull; truey on truey (prod. trunks & thislandis)</li>
+                                        <li>&bull; paranoid (prod. jolst, ertu & wasterr)</li>
+                                        <li>&bull; goinoutsad (prod. jolst & thislandis)</li>
+                                        <li>&bull; burn holes (prod. notamachine & rjpasin)</li>
+                                        <li>&bull; tragic (prod. jolst & 5head)</li>
+                                        <li>&bull; throughtherain (prod. ugly beats)</li>
+                                        <li>&bull; kill 4 you (prod. jolst & 5head)</li>
+                                        <li>&bull; g00fy bitch free$tyle (prod. Kawaii Ry)</li>
+                                        <li>&bull; bulletproof (prod. Jolst)</li>
+                                        <li>&bull; hone$tly (prod. Meauxminy)</li>
+                                        <li>&bull; WHATSINYOCUP (prod. OhMyGon!)</li>
+                                        <li>&bull; frän fine (9) (prod. itsmefouzy)</li>
+                                        <li>&bull; nerd$ rope (prod. Jolst)</li>
+                                        <li>&bull; kino der toten (feat. Newalias) (prod. kagayaki)</li>
+                                        <li>&bull; u$ v3 (prod. Jolst)</li>
+                                        <li>&bull; on g0d (feat. Boy Floss) (prod. itsmefouzy)</li>
+                                        <li>&bull; $tre$$ (feat. Lil Dujour) (prod. Ugly Beats)</li>
+                                        <li>&bull; $creamin%%% (prod. Ugly Beats)</li>
+                                        <li>&bull; big (die tonight) (prod. shinju & taylor morgan)</li>
+                                        <li>&bull; rice (prod. bygadriel)</li>
+                                        <li>&bull; bad bitch (feat. baby osama) (prod. Wintfye)</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Features</i></li>
+                                    <ul>
+                                        <li>&bull; notamachine - enjoy yourself (feat. Kawaii Ry & Lugosi)</li>
+                                        <li>&bull; zx sallow & Nate Hollow - Sacrifice (feat. Lugosi) (prod. Gmanz)</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="/meauxminy/all">
+                                    &bull; <strong>Meauxminy</strong> - 6 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>Placements</i></li>
+                                    <ul>
+                                        <li>&bull; Kawaii Ry - Late (feat. Lil Dujour) (prod. Meauxminy & notamachine)</li>
+                                        <li>&bull; Kawaii Ry - Buddha Man (prod. Meauxminy)</li>
+                                        <li>&bull; Lugosi - hone$tly (prod. Meauxminy)</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>DJ Sets</i></li>
+                                    <ul>
+                                        <li>&bull; DUBSCAPE (Full Set)</li>
+                                        <li>&bull; Sunday in CK</li>
+                                        <li>&bull; Sunday in CK 2</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="/josen/all">
+                                    &bull; <strong>Josen</strong> - 54 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>Albums</i></li>
+                                    <ul>
+                                        <li>&bull; Plugg On Drill Street</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; Fuck Again (feat. Kawaii Ry)</li>
+                                        <li>&bull; Air it out</li>
+                                        <li>&bull; CallMyPhone</li>
+                                        <li>&bull; GLOCKY</li>
+                                        <li>&bull; TRAPINDAMAIL</li>
+                                        <li>&bull; Wraith</li>
+                                        <li>&bull; BACKHOME FREESTYLE</li>
+                                        <li>&bull; DaPack!</li>
+                                        <li>&bull; PercyInMySystem</li>
+                                        <li>&bull; KICKINHEROUT</li>
+                                        <li>&bull; SCRAPINDAPOT HARAMBE TRIBUTE</li>
+                                        <li>&bull; TWINGLOCK</li>
+                                        <li>&bull; OG BOBBY JOSEN FREESTYLE</li>
+                                        <li>&bull; MOCKINGBIRD ALICE VIP (w/ Alice333)</li>
+                                        <li>&bull; PUSH and KICK</li>
+                                        <li>&bull; HowDaFuq (HellscapeMageekerz)</li>
+                                        <li>&bull; 4INDALEAN</li>
+                                        <li>&bull; Denim</li>
+                                        <li>&bull; NEVABORIN</li>
+                                        <li>&bull; Stereo Love (feat. POPSTARBILLS & Braxton Knight)</li>
+                                        <li>&bull; LET ME TALK MA SHIT</li>
+                                        <li>&bull; MY DRAWZ!</li>
+                                        <li>&bull; 200 DYCKMAN 2 MIAMI (feat. Loudpack Kap)</li>
+                                        <li>&bull; BOOMIN IN MIAMI</li>
+                                        <li>&bull; PROJEKTBABY 2024</li>
+                                        <li>&bull; IWALKINTHISBITCHLIKEIMICESPICE (prod. QueueUpNext & Gemstone)</li>
+                                        <li>&bull; Peja Stojakvic (feat. Zazbourne)</li>
+                                        <li>&bull; OGlockyAutoPartz (prod. Rich Illuminati)</li>
+                                        <li>&bull; No Bluff (prod. QueueUpNext)</li>
+                                        <li>&bull; Plug Dreamin (prod. Apartment9)</li>
+                                        <li>&bull; Let My Denim Sag (prod. Negative)</li>
+                                        <li>&bull; PopOutDaKut (prod. Negative)</li>
+                                        <li>&bull; WalkedInDisBitch (feat. RX Papi) (prod. Snoopo)</li>
+                                        <li>&bull; Miles Morales (feat. Lil Xelly) (prod. Killguap)</li>
+                                        <li>&bull; Drizzy Drill Rogers (feat. xellfromhell) (prod. Geeohs)</li>
+                                        <li>&bull; Crash Out (prod. Negative)</li>
+                                        <li>&bull; Actin Up (prod. Baredex & Apartment9)</li>
+                                        <li>&bull; Plug Special (prod. Apartment9)</li>
+                                        <li>&bull; KIRBY 2024 FREESTYLE (prod. prblm)</li>
+                                        <li>&bull; HOW🤫 MANY 🤫GANGSTAS?!🤫 [1️⃣2️⃣3️⃣4️⃣] (prod. Brwnworld)</li>
+                                        <li>&bull; JELLO (prod. Rich Illuminati)</li>
+                                        <li>&bull; SUPERBAD LIKE MCLOViN2 (prod. QueueUpNext & 1brite)</li>
+                                        <li>&bull; POKEMON ZAZA LEGENDS FREESTYLE (prod. Rich Illuminati)</li>
+                                        <li>&bull; G17 (feat. Otaku God) (prod. Rich Illuminati)</li>
+                                        <li>&bull; PAIR2MUCH (feat. DESTINY) (prod. dead2finesse)</li>
+                                        <li>&bull; I HAD A LONG DAY I TELL A NIGGA TO STFU (prod. Taurs, Glokmane & Skreer)</li>
+                                        <li>&bull; DenZelle (prod. Astral Trap)</li>
+                                        <li>&bull; IWALKINDISBITCHLIKEIMERICDOA (prod. THEYLUVFLARE)</li>
+                                        <li>&bull; JUMP IN DAT WATER LIKE A DOLPHIN (prod. Toju)</li>
+                                        <li>&bull; #DONT #WIPE #YA #NOSE (feat. LUVREI)</li>
+                                        <li>&bull; DRILLBOWSKI (prod. notamachine & Rich Illuminati)</li>
+                                        <li>&bull; LETDAPHONERING</li>
+                                        <li>&bull; ROADRUNNAH</li>
+                                        <li>&bull; WAKEUPDENiGEEK (prod. notamachine)</li>
+                                        <li>&bull; KOKAINE (feat. POPSTARBILLS)</li>
+                                        <li>&bull; ON MY OWN</li>
+                                        <li>&bull; GLOCK HIT LIKE DA INTERVENTION</li>
+                                        <li>&bull; 🟢GREENDOT🟢(prod. 24KHRIS)</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Features</i></li>
+                                    <ul>
+                                        <li>&bull; Miami Dave - Mobb (feat. Josen)</li>
+                                        <li>&bull; DamienPRIE$T - New York Flex (feat. Josen) (prod. 730HAHAH)</li>
+                                        <li>&bull; REROCK. - PICK A SIDE (feat. Josen)</li>
+                                        <li>&bull; REROCK. - HOP OUT (feat. Josen)</li>
+                                        <li>&bull; kn1febaby - Ws (feat. Josen)</li>
+                                        <li>&bull; Ivanko - Hottest (feat. Josen)</li>
+                                        <li>&bull; Gothnormie - NEMATODES (feat. Josen)</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="/notamachine/all">
+                                    &bull; <strong>Notamachine</strong> - 23 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>EPs</i></li>
+                                    <ul>
+                                        <li>&bull; some remixes</li>
+                                        <li>&bull; whispers: 2.0</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; fall</li>
+                                        <li>&bull; lost in your eyessss:</li>
+                                        <li>&bull; u got us:</li>
+                                        <li>&bull; heart atk:</li>
+                                        <li>&bull; someday:</li>
+                                        <li>&bull; parallax:</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Placements</i></li>
+                                    <ul>
+                                        <li>&bull; Kawaii Ry - God Complex (prod. notamachine)</li>
+                                        <li>&bull; Kawaii Ry - Love is Dead (prod. notamachine, antar & 1wireshark)</li>
+                                        <li>&bull; Kawaii Ry - Late (feat. Lil Dujour) (prod. Meauxminy & notamachine)</li>
+                                        <li>&bull; Kawaii Ry - Rockstar Wasted (prod. notamachine)</li>
+                                        <li>&bull; Kawaii Ry - Hope You Don't (prod. Rich Illuminati & notamachine)</li>
+                                        <li>&bull; Daria St. Clair - Pieces (prod. notamachine & ROHO)</li>
+                                        <li>&bull; Lugosi - goinoutsadv2 (prod. notamachine)</li>
+                                        <li>&bull; Lugosi - burn holes (prod. notamachine)</li>
+                                        <li>&bull; Scum Boi - have no dreams (feat. kurtwarnermovie) (prod. notamachine, antar & wund)</li>
+                                        <li>&bull; Kawaii Ry - DALYDK (prod. chris6lair & notamachine)</li>
+                                        <li>&bull; CoryRay - 4 a Lifetime (feat. Rico Leone) (prod. notamachine)</li>
+                                        <li>&bull; Josen - DRILLBOWSKI (prod. notamachine & Rich Illuminati)</li>
+                                        <li>&bull; Josen - WAKEUPDENiGEEK (prod. notamachine)</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Remixes</i></li>
+                                    <ul>
+                                        <li>&bull; Button Maker, billy ! & 1Booth - ENOUGH! (notamachine remix)</li>
+                                        <li>&bull; blissom - so far (notamachine remix)</li>
+                                        <li>&bull; internetboy - skin care (notamachine remix)</li>
+                                        <li>&bull; Jedwill - placebo effect (notamachine remix)</li>
+                                        <li>&bull; isid or - all the sounds (notamachine remix)</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="/semaj/all">
+                                    &bull; <strong>Semaj</strong> - 4 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; Love's Not Fair</li>
+                                        <li>&bull; Stick By My Side</li>
+                                        <li>&bull; Pick Up the Phone</li>
+                                        <li>&bull; What I Do</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="/rileylol/all">
+                                    &bull; <strong>rileylol</strong> - 9 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; size zero (prod. yogic & diem)</li>
+                                        <li>&bull; just friends (prod. luvdakvsh)</li>
+                                        <li>&bull; church st. (prod. nick nash & vlex)</li>
+                                        <li>&bull; time zones (prod. grayskies)</li>
+                                        <li>&bull; another life</li>
+                                        <li>&bull; portland (prod. immortal)</li>
+                                        <li>&bull; sixtyminutes (prod. antsy, supa & G06)</li>
+                                        <li>&bull; petty (prod. drecyy)</li>
+                                        <li>&bull; nothing more (prod. dead yami)</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <br/>
+                    <li>
+                        <strong>&bull; <i>Site Upgrades</i></strong>
+                        <ul>
+                            <li>
+                                <a href="/">
+                                    &bull; Navigation across the site has been revamped and overhauled to provide scalability and improved user experience
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/">
+                                    &bull; Redesigned navigation for both desktop and mobile versions
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/">
+                                    &bull; New site masthead which now displays version number
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/">
+                                    &bull; Page width on desktop increased approximately 20% to improve legibility
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>    
+
+            <h3>
                 November 14, 2024 - v1.1.0
             </h3> 
             <p class="changelogtext"> 

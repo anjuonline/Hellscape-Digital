@@ -31,16 +31,9 @@ const Home = () => {
 
             <div class="music-video">
                 <div class="music-video-container">
-                    <iframe src="https://www.youtube.com/embed/k-7oPEbGaC8" title="test" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/fFDR1wDZPXI" title="test" allowfullscreen></iframe>
                 </div>
-                <p><strong>Lil Dujour</strong><br/>KEANO</p>  
-            </div>
-
-            <div class="music-video">
-                <div class="music-video-container">
-                    <iframe src="https://www.youtube.com/embed/Bs84gP1d888" title="test" allowfullscreen></iframe>
-                </div>
-                <p><strong>ANJU Online!</strong><br/>Katy</p>  
+                <p><strong>Kawaii Ry & Meauxminy</strong><br/>Sometimes (I Know)</p>  
             </div>
             
             {/* <div class="react-player-responsive">

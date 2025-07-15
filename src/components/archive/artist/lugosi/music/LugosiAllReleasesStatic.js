@@ -5,6 +5,84 @@ const LugosiAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7mkkxIPsWGEyS6bSuUSZj6?si=9424d6e28fbd4194" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-26umkN6jwMHd2ZPL-0LuWYA-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>rental</strong><br/>
+                (prod. jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2CTeUBxNia6iCHTE2y8GLe?si=2b8dd43af2d4401f" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-26umkN6jwMHd2ZPL-0LuWYA-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>snow</strong><br/>
+                (prod. jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4kQK8U1Bwx3CsYZs6JV9Aw?si=0ecbc09185444512" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-26umkN6jwMHd2ZPL-0LuWYA-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>pressure (steez)</strong><br/>
+                (prod. jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6Efy8gn5J0OCxp6V7Y0KvS?si=e832cac7ec024353" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-26umkN6jwMHd2ZPL-0LuWYA-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>save that</strong><br/>
+                (prod. jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3GEK0coBAfQvnrN81WMt9e?si=c4969ae44bb84e87" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-26umkN6jwMHd2ZPL-0LuWYA-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>firefly</strong><br/>
+                (prod. jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/47o2alVtRw5IPsi2NnXWOB?si=16a89a757ebe46aa" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-CH8bh09tMK3mGAPw-Seh47A-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>allurpain</strong><br/>
+                (prod. cl6udy x jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/lillugosi/bad-bitch-prod-wintfye-open-4-baby-osama" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
                 <img src="https://i1.sndcdn.com/artworks-CGueGSJkjsyAdBFP-xIEUrA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
