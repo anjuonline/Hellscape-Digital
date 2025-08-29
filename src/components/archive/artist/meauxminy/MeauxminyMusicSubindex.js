@@ -31,7 +31,7 @@ const MeauxminyMusicSubindex = () => {
                         </h5> 
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/meauxminy/all"}>All Releases (76)</NavLink>
+                                <NavLink to={"/meauxminy/all"}>All Releases (96)</NavLink>
                             </div>
                         </h5>              
                     </div>

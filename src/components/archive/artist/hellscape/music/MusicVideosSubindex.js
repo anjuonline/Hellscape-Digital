@@ -12,21 +12,22 @@ const MusicVideosSubindex = () => {
                     <div class="containedText">
                         <h5>
                             <div class="subindexFont">
+                                <NavLink to={"/videos/2025"}>2025</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
                                 <NavLink to={"/videos/2024"}>2024</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
                                 <NavLink to={"/videos/2023"}>2023</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                                <NavLink to={"/videos/2022"}>2022</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
-                                <NavLink to={"/videos/2021"}>2021</NavLink>
+                                <NavLink to={"/videos/2022"}>2022</NavLink>
                             </div>
                         </h5>   
                         <h5>
                             <div class="subindexFont">
+                                <NavLink to={"/videos/2021"}>2021</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
                                 <NavLink to={"/videos/2020"}>2020</NavLink>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
                                 <NavLink to={"/videos/2019"}>2019</NavLink>
                             </div>
                         </h5> 
                         <h5>
                             <div class="subindexFont">
-                                <NavLink to={"/videos/all"}>All Music Videos (36)</NavLink>
+                                <NavLink to={"/videos/all"}>All Music Videos (38)</NavLink>
                             </div>
                         </h5>              
                     </div>

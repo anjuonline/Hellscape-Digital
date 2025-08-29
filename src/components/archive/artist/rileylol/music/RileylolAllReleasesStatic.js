@@ -4,6 +4,50 @@ const RileylolAllReleasesStatic = () => {
         <div class="gallery_containerThree-static">  
 
         <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/5VZmNX2MMsCG3TXkG3IunL?si=519686df46354a69" target="_blank" rel="noopener noreferrer">    
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-AnihoskiLWTh2mdu-DJIdeg-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>             
+              <p class="gallery-text">
+              <strong>notamachine - broken (feat. Kawaii Ry & rileylol)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/sadoutwest/riley-lol-the-glass-remix-prod-uglyboy" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-URk9iXyuTz2pGGQp-Ukwv1A-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>the glass *remix* *2021*</strong><br/>
+                (prod. uglyboy)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://soundcloud.com/sadoutwest/yng-spike-sos-feat-sadoutwest" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-BLLGwZvI5ha0qVQH-p41GSw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Yng Spike - SOS (feat. rileylol) *2021*</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/sadoutwest/say-so-prod-baredex-v2-wav" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-Z2G6l3Yjb5dyF5xr-I336zw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>most hated *2021*</strong><br/>
+                (prod. Baredex)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/1cuRA9aXS4nFQtlLR34X8J?si=865f43cdf5014863" target="_blank" rel="noopener noreferrer">    
               <img src="https://i1.sndcdn.com/artworks-vjQ81JKb9kyLXEvS-Xk207Q-t500x500.png" width="100%" alt=""/><br/>

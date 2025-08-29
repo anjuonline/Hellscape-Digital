@@ -5,6 +5,16 @@ const MeauxminyAlbumsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/34zYfGetvk75MwtyN4oThG?si=Yd4D06WRRMeD5441yjxPzQ" target="_blank" rel="noopener noreferrer">
+              <img src="https://i1.sndcdn.com/artworks-BlfYjfbp3yzzOUQD-4CMRIw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Kawaii Ry & Meauxminy - Visions</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
             <a href="https://open.spotify.com/album/6VuabdaL17mTNuxhVDeRUD?si=bIKyvilAR4SphXqVWyvTMA" target="_blank" rel="noopener noreferrer">
               <img src="https://i.scdn.co/image/ab67616d0000b273b12f570d61f237e614460ea7" width="100%" alt=""/><br/>
               <p class="gallery-text">
