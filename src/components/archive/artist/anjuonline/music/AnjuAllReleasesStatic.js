@@ -5,6 +5,30 @@ const AnjuAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4Bdoj6ymgDQ0LZdfR4AZ2E?si=5c832ae44e2342de" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-qxh1GQ7i2XsqhUr7-TIgZJA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>I Uhhhhh</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">DJ Set</p>
+            <a href="https://soundcloud.com/anjuonline/deeply-online" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-7iavQKWSXJbeeOz9-N8dpMQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Deeply Online (Full Set)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/anjuonline/rave-tool" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
                 <img src="https://i1.sndcdn.com/artworks-fKHMwXQWCF534ISz-qf55Rg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>

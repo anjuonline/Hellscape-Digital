@@ -9,15 +9,15 @@ const LatestUpdates = () => {
               </div>            
               <div class="containedText">
 
-                <p><br/>Welcome to the new Hellscape Digital site! This project is a true labor of love - countless hours were spent to capture and organize the full collective's discography, and many more will be spent adding new content and features over time. Check this space often, and from the bottom of my heart - thank you for spending time in our world. <strong><i>-Anju</i></strong><br/></p>
+                <p><br/>Welcome to <u>hellscapedigital.net</u>! This project is a true labor of love - countless hours were spent to capture and organize the full collective's discography, and many more will be spent adding new content and features over time. Check this space often, and from the bottom of my heart - thank you for spending time in our world. <strong><i>-Anju</i></strong><br/></p>
 
                 <h3>
-                November 14, 2024 - v1.1.0
+                August 29, 2025 - v1.1.1
             </h3> 
             <p class="containedText"> 
                 <ul>
                     <li>
-                        This is by far our biggest update to date - including UI improvements, a new community chatroom, hundreds of new music releases in the archive. See the changelog for full details!
+                        Our 2025 summer update is here: featuring new music videos, projects, and over 115 new singles form nearly every artist in the collective.
                     </li>
                 </ul>
             </p>

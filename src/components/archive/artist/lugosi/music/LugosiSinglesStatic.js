@@ -5,6 +5,275 @@ const LugosiSinglesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2SAIRjrYTHhhTQ1T7kZzzl?si=7553eae69dd74bae" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-cC2aN5eijvyUdGX8-qs9Ftg-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>happy again</strong><br/>
+                (prod. jolst & pekarot)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0bDsSVgrezOWEiag2x69K3?si=f3ba7038eb2449a5" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-cC2aN5eijvyUdGX8-qs9Ftg-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>clean</strong><br/>
+                (prod. frevel)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6CPcFYnDv8qOFLmYIRi3HW?si=66a587756ac8430e" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-cC2aN5eijvyUdGX8-qs9Ftg-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>hunter</strong><br/>
+                (prod. yunny goldz)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0RB9xQ11eEh4fo6m8o5Apx?si=63a9c593fde24d3d" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-cC2aN5eijvyUdGX8-qs9Ftg-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>holdmedown interlude v3</strong><br/>
+                (prod. 1080PALE)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2cjYSlnI31vHZiSw5rGIoY?si=42f34f8afb5a4e9e" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-cC2aN5eijvyUdGX8-qs9Ftg-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>mean it</strong><br/>
+                (prod. irby & jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4mgxXe2LCeclJxYodLzsN8?si=83580a4ab35e46a5" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-Eyq0reGx3y8HFZz4-zEkbzQ-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>girlinmyphone</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/07moCJwHJAlE2XFA096hIG?si=db13ae9aa8134039" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-Eyq0reGx3y8HFZz4-zEkbzQ-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>girlinmyphone [NIGHTCORE]</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3VgT0XFHN8QrqiKl66LTqp?si=5a2bff7b43034a49" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-Eyq0reGx3y8HFZz4-zEkbzQ-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>girlinmyphone [slow+reverb]</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1L0PRWcS6Nn2Mza6LWekWR?si=3adabe495c364349" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-XYk9DaEBl32Lr8YR-otcFtg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>upmyprice</strong><br/>
+                (prod. notamahcine & starsmp3)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2sgPNpt2PFlW0Y4IiVUUFx?si=91b64ea224ad442b" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-4UPtWoc3Jkfm15ye-hQ4BTA-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>upmyprice [NIGHTCORE]</strong><br/>
+                (prod. notamahcine & starsmp3)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3YWCRZD1ntDiqpFoyyuvio?si=364c1d95418f4c58" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-ydtgdccTloWaC9Jw-BkNswg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>6FEET</strong><br/>
+                (prod. jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0oeIMpaGMP099cUdlV1khI?si=0ccda74e26d44461" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-h4sgaQPvcqu9SuTA-dH2F9Q-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>worse</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/lillugosi/fraen-fine-9-nightcore" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-5NjdIRYfOi6xymlj-yoF1Hg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>frän fine (9) [NIGHTCORE]</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5Np0DUQ5W5yqJZV5Nv6Vou?si=7f14d8ce1c254e88" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-5Gl10Ad2jVs0l5tc-FRTryg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>BLOW</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0ilRYMgC9b7uJIcPm1Qe9e?si=cbf7d1635ab34d3d" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-AT7H3p1VmaGSvcQR-mCMfuQ-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>higher</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/7mkkxIPsWGEyS6bSuUSZj6?si=9424d6e28fbd4194" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-26umkN6jwMHd2ZPL-0LuWYA-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>rental</strong><br/>
+                (prod. jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2CTeUBxNia6iCHTE2y8GLe?si=2b8dd43af2d4401f" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-26umkN6jwMHd2ZPL-0LuWYA-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>snow</strong><br/>
+                (prod. jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4kQK8U1Bwx3CsYZs6JV9Aw?si=0ecbc09185444512" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-26umkN6jwMHd2ZPL-0LuWYA-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>pressure (steez)</strong><br/>
+                (prod. jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6Efy8gn5J0OCxp6V7Y0KvS?si=e832cac7ec024353" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-26umkN6jwMHd2ZPL-0LuWYA-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>save that</strong><br/>
+                (prod. jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3GEK0coBAfQvnrN81WMt9e?si=c4969ae44bb84e87" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-26umkN6jwMHd2ZPL-0LuWYA-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>firefly</strong><br/>
+                (prod. jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/47o2alVtRw5IPsi2NnXWOB?si=16a89a757ebe46aa" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-CH8bh09tMK3mGAPw-Seh47A-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>allurpain</strong><br/>
+                (prod. cl6udy x jolst)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/lillugosi/bad-bitch-prod-wintfye-open-4-baby-osama" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
                 <img src="https://i1.sndcdn.com/artworks-CGueGSJkjsyAdBFP-xIEUrA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>

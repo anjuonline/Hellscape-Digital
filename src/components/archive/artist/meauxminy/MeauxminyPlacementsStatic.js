@@ -3,6 +3,19 @@ const MeauxminyPlacementsStatic = () => {
       <>
         <div class="gallery_containerThree-static">  
 
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/liljosen/doubledown-josenfriday" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-s5Dc6eJCNavTf1kf-uJ5pXg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Josen - DOUBLEDOWN</strong><br/>
+                (prod. meauxminy)
+              </p>
+            </a>
+          </div>
+
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/2aZQtMMpNlpOHGNoBcTSbY?si=91f4610b6306486b" target="_blank" rel="noopener noreferrer">

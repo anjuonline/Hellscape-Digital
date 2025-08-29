@@ -9,7 +9,7 @@ const MeauxminyCollabsStatic = () => {
               <img src="https://i1.sndcdn.com/artworks-U4RGgfX5Ay7tVLOM-3ygPMg-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">
               <strong>ANJU Online! - Rainbow Bodega</strong><br/>
-              (feat. Meauxminy)
+              (prod. ANJU Online! & Meauxminy)
               </p>
             </a>
           </div>

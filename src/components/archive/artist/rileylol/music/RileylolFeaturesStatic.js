@@ -5,6 +5,28 @@ const RileylolFeaturesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/5VZmNX2MMsCG3TXkG3IunL?si=519686df46354a69" target="_blank" rel="noopener noreferrer">    
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-AnihoskiLWTh2mdu-DJIdeg-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>             
+              <p class="gallery-text">
+              <strong>notamachine - broken (feat. Kawaii Ry & rileylol)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://soundcloud.com/sadoutwest/yng-spike-sos-feat-sadoutwest" target="_blank" rel="noopener noreferrer">    
+              <img src="https://i1.sndcdn.com/artworks-BLLGwZvI5ha0qVQH-p41GSw-t500x500.jpg" width="100%" alt=""/><br/>
+              <p class="gallery-text">
+                <strong>Yng Spike - SOS (feat. rileylol) *2021*</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
             <a href="https://open.spotify.com/track/2m5E7Z01E0oMrtqxUSUYhS?si=b6cedfc1e9dc4cdd" target="_blank" rel="noopener noreferrer">
               <img src="https://i1.sndcdn.com/artworks-nZHypsKCH9WPzk4z-44ObSQ-t500x500.jpg" width="100%" alt=""/><br/>
               <p class="gallery-text">

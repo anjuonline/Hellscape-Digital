@@ -8,6 +8,279 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                August 29, 2025 - v1.1.1
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong><br/><br/>
+                        <ul>
+                            <li>
+                                <a href="/anjuonline/music/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; <strong>ANJU Online!</strong> - 2 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>DJ Sets</i></li>
+                                    <ul>
+                                        <li>&bull; ANJU Online! - Deeply Online (Full Set)</li>
+                                    </ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; ANJU Online! - I Uhhhhh</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <br/><br/>
+                            <li>
+                                <a href="/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; <strong>Kawaii Ry</strong> - 25 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>Albums</i></li>
+                                    <ul>
+                                        <li>&bull; Visions</li>
+                                    </ul>
+                                    <li>&bull; <i>Music Videos</i></li>
+                                    <ul>
+                                        <li>&bull; Sometimes (I Know) (prod. Meauxminy)</li>
+                                    </ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Rocker Drip</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Real Movers</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - High Shelf</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Visions</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Sometimes (I Know)</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Evil World</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Super Vibes & Uber Rides</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Chop Talk</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Best Alive</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Dance With Me</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Smokescreen</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - RP</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Knives Out</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Glory</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Now We're Talkin'</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Lil' Bit</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Biggest Bim</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Meauxminy Speaks</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Wendy's at MCO</li>
+                                        <li>&bull; So Close (prod. notamachine)</li>
+                                        <li>&bull; So Close (Fast) (prod. notamahcine)</li>
+                                        <li>&bull; Not Kawaii (prod. AY!JD)</li>
+                                        <li>&bull; Super Powers (prod. 33nimb & frozy)</li>
+                                    </ul>
+                                    <li>&bull; <i>Features</i></li>
+                                    <ul>
+                                        <li>&bull; notamachine - dancer Pt. 2 (feat. Kawaii Ry)</li>
+                                        <li>&bull; notamachine - broken (feat. Kawaii Ry & rileylol)</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <br/><br/>
+                            <li>
+                                <a href="/lugosi/all">
+                                    &bull; <strong>Lugosi</strong> - 21 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>EPs</i></li>
+                                    <ul>
+                                        <li>&bull; ninth circle</li>
+                                        <li>&bull; her lips were poison but so were mine (prod. jolst)</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; happy again (prod. jolst & pekarot)</li>
+                                        <li>&bull; clean (prod. frevel)</li>
+                                        <li>&bull; hunter (prod. yunny goldz)</li>
+                                        <li>&bull; holdmedown interlude v3 (prod. 1080PALE)</li>
+                                        <li>&bull; mean it (prod. irby & jolst)</li>
+                                        <li>&bull; girlinmyphone</li>
+                                        <li>&bull; girlinmyphone [NIGHTCORE]</li>
+                                        <li>&bull; girlinmyphone [slowed+reverb]</li>
+                                        <li>&bull; upmyprice (prod. notamachine & starsmp3)</li>
+                                        <li>&bull; upmyprice [NIGHTCORE]</li>
+                                        <li>&bull; 6FEET</li>
+                                        <li>&bull; worse</li>
+                                        <li>&bull; frän fine (9) [NIGHTCORE]</li>
+                                        <li>&bull; BLOW</li>
+                                        <li>&bull; higher</li>
+                                        <li>&bull; rental (prod. jolst)</li>
+                                        <li>&bull; snow (prod. jolst)</li>
+                                        <li>&bull; pressure (steez) (prod. jolst)</li>
+                                        <li>&bull; save that (prod. jolst)</li>
+                                        <li>&bull; firefly (prod. jolst)</li>
+                                        <li>&bull; allurpain (prod. cl6udy & jolst)</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <br/><br/>
+                            <li>
+                                <a href="/meauxminy/all">
+                                    &bull; <strong>Meauxminy</strong> - 19 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Rocker Drip</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Real Movers</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - High Shelf</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Visions</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Sometimes (I Know)</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Evil World</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Super Vibes & Uber Rides</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Chop Talk</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Best Alive</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Dance With Me</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Smokescreen</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - RP</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Knives Out</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Glory</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Now We're Talkin'</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Lil' Bit</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Biggest Bim</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Meauxminy Speaks</li>
+                                        <li>&bull; Kawaii Ry & Meauxminy - Wendy's at MCO</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Placements</i></li>
+                                    <ul>
+                                        <li>&bull; Josen - DOUBLEDOWN (prod. Meauxminy)</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <br/><br/>
+                            <li>
+                                <a href="/josen/all">
+                                    &bull; <strong>Josen</strong> - 12 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; FDB2T (prod. notamachine)</li>
+                                        <li>&bull; SCAT (prod. notamachine)</li>
+                                        <li>&bull; HAT 2 DA SIDE (prod. Lux)</li>
+                                        <li>&bull; iAiNTPASSiNDAROCK (prod. Apartment9)</li>
+                                        <li>&bull; DATDEUCE (prod. Rich illuminati & notamachine)</li>
+                                        <li>&bull; GLOCK40 (prod. Apartment9)</li>
+                                        <li>&bull; TAKEAHIT (prod. Lux)</li>
+                                        <li>&bull; DOUBLEDOWN (prod. meauxminy)</li>
+                                        <li>&bull; 2DOE FREESTYLE (prod. notamachine)</li>
+                                        <li>&bull; BIG JURRASIK (prod. Dani, bbuggin & Citgo)</li>
+                                        <li>&bull; BALENCi22 (prod. Geist)</li>
+                                        <li>&bull; ACTIVATE</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <br/><br/>
+                            <li>
+                                <a href="/notamachine/all">
+                                    &bull; <strong>Notamachine</strong> - 30 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>Albums</i></li>
+                                    <ul>
+                                        <li>&bull; dreaming while swimming</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>EPs</i></li>
+                                    <ul>
+                                        <li>&bull; dreaming while drowning</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; dreaming</li>
+                                        <li>&bull; nobody</li>
+                                        <li>&bull; reserved</li>
+                                        <li>&bull; dancer Pt. 2 (feat. Kawaii Ry)</li>
+                                        <li>&bull; swimming</li>
+                                        <li>&bull; dex's interlude (feat. Baredex)</li>
+                                        <li>&bull; broken (feat. Kawaii Ry & rileylol)</li>
+                                        <li>&bull; eyes</li>
+                                        <li>&bull; going</li>
+                                        <li>&bull; wake up</li>
+                                        <li>&bull; morning</li>
+                                        <li>&bull; wave to shore and maybe they'll see you</li>
+                                        <li>&bull; counting sheep</li>
+                                        <li>&bull; steam of unconsciousness</li>
+                                        <li>&bull; notes on a wurli</li>
+                                        <li>&bull; deteriorate</li>
+                                        <li>&bull; standby / and wait</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Placements</i></li>
+                                    <ul>
+                                        <li>&bull; Lugosi - girlinmyphone (prod. notamachine)</li>
+                                        <li>&bull; Lugosi - girlinmyphone [NIGHTCORE] (prod. notamachine)</li>
+                                        <li>&bull; Lugosi - girlinmyphone [slow+reverb] (prod. notamachine)</li>
+                                        <li>&bull; Lugosi - upmyprice (prod. notamachine)</li>
+                                        <li>&bull; Lugosi - upmyprice [NIGHTCORE] (prod. notamachine)</li>
+                                        <li>&bull; Josen - FDB2T (prod. notamachine)</li>
+                                        <li>&bull; Josen - SCAT (prod. notamachine)</li>
+                                        <li>&bull; Josen - DATDEUCE (prod. notamachine)</li>
+                                        <li>&bull; Kawaii Ry - So Close (prod. notamachine)</li>
+                                        <li>&bull; Kawaii Ry - So Close (Fast) (prod. notamachine)</li>
+                                        <li>&bull; Josen - 2DOE FREESTYLE (prod. notamachine)</li>
+                                        <li>&bull; Tomali - 4NARCHY (feat. Ptown) (prod. notamachine)</li>
+                                        <li>&bull; Tomali - Northbeach (feat. Ptown & Swamiii) (prod. notamachine)</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <br/><br/>
+                            <li>
+                                <a href="/semaj/all">
+                                    &bull; <strong>Semaj</strong> - 5 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>EPs</i></li>
+                                    <ul>
+                                        <li>&bull; 1611</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; Hide Away</li>
+                                        <li>&bull; LOV3</li>
+                                        <li>&bull; Crossed the Line</li>
+                                        <li>&bull; Winds of Time</li>
+                                        <li>&bull; You Know I Did It</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <br/><br/>
+                            <li>
+                                <a href="/rileylol/all">
+                                    &bull; <strong>rileylol</strong> - 4 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; the glass *remix* *2021* (prod. Uglyboy)</li>
+                                        <li>&bull; most hated *2021* (prod. Baredex)</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Features</i></li>
+                                    <ul>
+                                        <li>&bull; notamachine - broken (feat. Kawaii Ry & rileylol)</li>
+                                        <li>&bull; YNG Spike - SOS (feat. rileylol)</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>    
+
+            <h3>
                 November 14, 2024 - v1.1.0
             </h3> 
             <p class="changelogtext"> 

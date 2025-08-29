@@ -3,6 +3,30 @@
     <>
       <div class="gallery_containerThree-static">  
 
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/2amTQs4Ieviga0NUkAyS8m?si=6c2aa0a4ff5b445e" target="_blank" rel="noopener noreferrer">    
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-AnihoskiLWTh2mdu-DJIdeg-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>             
+              <p class="gallery-text">
+              <strong>notamachine - dancer Pt. 2 (feat. Kawaii Ry)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Feature</p>
+            <a href="https://open.spotify.com/track/5VZmNX2MMsCG3TXkG3IunL?si=519686df46354a69" target="_blank" rel="noopener noreferrer">    
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-AnihoskiLWTh2mdu-DJIdeg-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>             
+              <p class="gallery-text">
+              <strong>notamachine - broken (feat. Kawaii Ry & rileylol)</strong><br/>
+              </p>
+            </a>
+          </div>
+
       <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/62QksB8fuA5h5SriHVm3sh?si=23994054e9fc4b48" target="_blank" rel="noopener noreferrer">

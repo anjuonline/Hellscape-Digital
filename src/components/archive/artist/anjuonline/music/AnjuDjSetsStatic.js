@@ -5,6 +5,18 @@ const AnjuDjSetsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">DJ Set</p>
+            <a href="https://soundcloud.com/anjuonline/deeply-online" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-7iavQKWSXJbeeOz9-N8dpMQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Deeply Online (Full Set)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">DJ Set</p>
             <a href="https://www.youtube.com/watch?v=Oa17vu2-w2E" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
                 <img src="https://i1.sndcdn.com/artworks-PwqCZJx2omOIloxP-81g7Pw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>

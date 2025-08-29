@@ -5,6 +5,175 @@ const NotamachinePlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/4mgxXe2LCeclJxYodLzsN8?si=83580a4ab35e46a5" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-Eyq0reGx3y8HFZz4-zEkbzQ-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lugosi - girlinmyphone</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/07moCJwHJAlE2XFA096hIG?si=db13ae9aa8134039" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-Eyq0reGx3y8HFZz4-zEkbzQ-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lugosi - girlinmyphone [NIGHTCORE]</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/3VgT0XFHN8QrqiKl66LTqp?si=5a2bff7b43034a49" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-Eyq0reGx3y8HFZz4-zEkbzQ-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lugosi - girlinmyphone [slow+reverb]</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/1L0PRWcS6Nn2Mza6LWekWR?si=3adabe495c364349" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-XYk9DaEBl32Lr8YR-otcFtg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lugosi - upmyprice</strong><br/>
+                (prod. notamahcine & starsmp3)
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/2sgPNpt2PFlW0Y4IiVUUFx?si=91b64ea224ad442b" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-4UPtWoc3Jkfm15ye-hQ4BTA-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lugosi - upmyprice [NIGHTCORE]</strong><br/>
+                (prod. notamahcine & starsmp3)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/3g84iSHpzN7UwVHbCDyROM?si=08a3313a666e4b71" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-HnXwvyVUppgOvdvH-ZzcIBw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Josen - FDB2T</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/658LhYRoD2v3cTsHSSmO3u?si=7eaa543734ff4a8e" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-vysq6TCvGjfQvuZC-0drVIg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Josen - SCAT</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/liljosen/datdeuce-w-rich-illuminati-1" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-YfmfaLZdNiBk54CE-4h7z8g-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Josen - DATDEUCE</strong><br/>
+                (prod. Rich illuminati & notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/2YmdhKWGJYCXIac7squOuu?si=c21e0948ab63433f" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02e1bdfe74ed812355f5f5fad9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - So Close</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/3WauqkgkBitQdxT2WKLaU0?si=8d06b624fce74058" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02e1bdfe74ed812355f5f5fad9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry - So Close (Fast)</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://soundcloud.com/liljosen/2doe-freestyle-prodnotamachine" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-HSvA1cca3yC3ntOG-CWLyZA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Josen - 2DOE FREESTYLE</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/3FT3DY5LBNCPmtxnx49nnW?si=5ea25d9ffe6a4eaa" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b273d115a6d73a264e22aef59bc0" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Tomali - 4NARCHY (feat. Ptown)</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/5Ca40Z2xTMYnJ5ktfB3DFb?si=6b5cb61a29814ebc" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b273867d00732f3a1b7aaaae9aa9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Tomali - Northbeach (feat. Ptown & Swamiii)</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/2BLUOaAUNOZC4pbmw0iwrL?si=43262d0592a94a7d" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
                 <img src="https://i.scdn.co/image/ab67616d00001e02b9ff17fcd530916999d819a6" width="100%" alt="" class="hover-zoom"/>

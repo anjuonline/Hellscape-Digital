@@ -6,149 +6,157 @@ const LatestMusicAll = () => {
         <div class="gallery_containerThree-static"> 
 
         <div class="gallery_item">
-            <p class="gallery-tag">Mixtape</p>
-            <a href="https://soundcloud.com/dujourmusic/hellscape-presentslil-dujour" target="_blank" rel="noopener noreferrer">
-              <div class="overflow-hidden">
-                <img src="https://i1.sndcdn.com/artworks-1rSSZehbsTvFfCFp-eqi6Hw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
-              </div>
-              <p class="gallery-text">
-                <strong>Lil Dujour</strong><br/>HELLSCAPE PRESENTS... LIL DUJOUR
-              </p>
-            </a>
-          </div>
-
-        <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/anjuonline/rave-tool" target="_blank" rel="noopener noreferrer">
-              <div class="overflow-hidden">
-                <img src="https://i1.sndcdn.com/artworks-fKHMwXQWCF534ISz-qf55Rg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
-              </div>
-              <p class="gallery-text">
-                <strong>ANJU Online!</strong><br/>Rave Tool
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
             <p class="gallery-tag">EP</p>
-            <a href="https://open.spotify.com/album/7GcJIGQDBnLb7SWU3Q2kXa?si=lIcpeNvOSPmxdqOfPYKrcw" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/album/2Fw2aPrrgKoQ4SwsRMP4GX?si=K6ez-PeGTdGq2xnPBBrz9A" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
-                <img src="https://i.scdn.co/image/ab67616d00001e02e503f1aa754b23c993e3ab4a" width="100%" alt="" class="hover-zoom"/>
+                <img src="https://i1.sndcdn.com/artworks-cC2aN5eijvyUdGX8-qs9Ftg-t500x500.png" width="100%" alt="" class="hover-zoom"/>
               </div>
               <p class="gallery-text">
-                <strong>notamachine</strong><br/>whispers: 2.0
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/liljosen/greendot-24khris-josenfriday" target="_blank" rel="noopener noreferrer">
-              <div class="overflow-hidden">
-                <img src="https://i1.sndcdn.com/artworks-jPlPR2pZso29uTzl-ji0QXQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
-              </div>
-              <p class="gallery-text">
-                <strong>Josen</strong><br/>
-                🟢GREENDOT🟢 (prod. 24KHRIS)
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/kawaiiry/habit-remix-m" target="_blank" rel="noopener noreferrer">
-              <div class="overflow-hidden">
-                <img src="https://i1.sndcdn.com/artworks-HbQQX1LsfyLLH2L7-xev1gQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
-              </div>
-              <p class="gallery-text">
-                <strong>Lil Durk</strong><br/>
-                Habit (Kawaii Ry Remix)
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Album</p>
-            <a href="https://open.spotify.com/album/4bmAxOqy4cyxgtzmShtiBv?si=QoBgRQxVQseY4h5ueHUDYg" target="_blank" rel="noopener noreferrer">
-              <div class="overflow-hidden">
-                <img src="https://i.scdn.co/image/ab67616d00001e02992faa6abe177a9941899ce9" width="100%" alt="" class="hover-zoom"/>
-              </div>
-              <p class="gallery-text">
-                <strong>Lugosi</strong><br/>HELLBORNE
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Music Video / Single</p>
-            <a href="https://www.youtube.com/watch?v=Bs84gP1d888" target="_blank" rel="noopener noreferrer">
-              <div class="overflow-hidden">
-                <img src="https://i.scdn.co/image/ab67616d00001e02264fc0884fd1a7358886ac1a" width="100%" alt="" class="hover-zoom"/>
-              </div>
-              <p class="gallery-text">
-                <strong>ANJU Online!</strong><br/>Katy
+                <strong>Lugosi</strong><br/>
+                ninth circle
               </p>
             </a>
           </div> 
 
           <div class="gallery_item">
-            <p class="gallery-tag">DJ Set</p>
-            <a href="https://soundcloud.com/eauxminy/sunday2-wip" target="_blank" rel="noopener noreferrer">
-              <div class="overflow-hidden">
-                <img src="https://i1.sndcdn.com/artworks-2CVLufTNzqL35zqH-5cOZFA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
-              </div>
-              <p class="gallery-text">
-                <strong>Meauxminy</strong><br/>
-                Sunday in CK 2 (Full Set)
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
             <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/2BLUOaAUNOZC4pbmw0iwrL?si=43262d0592a94a7d" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/track/3g84iSHpzN7UwVHbCDyROM?si=08a3313a666e4b71" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
-                <img src="https://i.scdn.co/image/ab67616d00001e02b9ff17fcd530916999d819a6" width="100%" alt="" class="hover-zoom"/>
+                <img src="https://i1.sndcdn.com/artworks-HnXwvyVUppgOvdvH-ZzcIBw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
               </div>
               <p class="gallery-text">
                 <strong>Josen</strong><br/>
-                WAKEUPDENiGEEK (prod. notamachine)
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://open.spotify.com/track/1cuRA9aXS4nFQtlLR34X8J?si=865f43cdf5014863" target="_blank" rel="noopener noreferrer">    
-              <img src="https://i1.sndcdn.com/artworks-vjQ81JKb9kyLXEvS-Xk207Q-t500x500.png" width="100%" alt=""/><br/>
-              <p class="gallery-text">
-                <strong>rileylol</strong><br/>
-                nothing more (prod. dead yami)
-              </p>
-            </a>
-          </div>
-
-          <div class="gallery_item">
-            <p class="gallery-tag">Single</p>
-            <a href="https://soundcloud.com/dujourmusic/kawaii-ry-dujour-this-my-last-one-but-i-can-break-it-down-in-half" target="_blank" rel="noopener noreferrer">
-              <div class="overflow-hidden">
-                <img src="https://i1.sndcdn.com/artworks-CX8LoV5NILXcG9lS-aEpOTw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
-              </div>
-              <p class="gallery-text">
-                <strong>Lil Dujour & Kawaii Ry</strong><br/>
-                This My Last One But I Can Break It Down In Half (prod. Mista)
+                FDB2T (prod. notamachine)
               </p>
             </a>
           </div>
 
           <div class="gallery_item">
             <p class="gallery-tag">Album</p>
-            <a href="https://open.spotify.com/album/5gkCKPsIkKRUdbaGCem5p6?si=ZmWSVJB-Ttuyq6krZgu_VQ" target="_blank" rel="noopener noreferrer">
+            <a href="https://open.spotify.com/album/34zYfGetvk75MwtyN4oThG?si=1D7d9jUpQxu30GFv9zodrA" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
-                <img src="https://i.scdn.co/image/ab67616d00001e02165adc96751fcdfd89a71fb8" width="100%" alt="" class="hover-zoom"/>
+                <img src="https://i.scdn.co/image/ab67616d00001e0229b2f2cd2fbaf161ab86bbeb" width="100%" alt="" class="hover-zoom"/>
               </div>
               <p class="gallery-text">
-                <strong>Kawaii Ry & chris6lair</strong><br/>BLEEZY SEAZY V
+                <strong>Kawaii Ry & Meauxminy</strong><br/>
+                Visions
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/75gZfH0lOGsnPv7IrwINfk?si=HU-ygGh3T-mtzS33FAbE_w" target="_blank" rel="noopener noreferrer">    
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-AnihoskiLWTh2mdu-DJIdeg-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>             
+              <p class="gallery-text">
+              <strong>notamachine</strong><br/>
+              dreaming while swimming
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">EP</p>
+            <a href="https://open.spotify.com/album/1N9XqaHLj038krNySQsb8a?si=bgZsFrFbTmibW2S5n5DImg" target="_blank" rel="noopener noreferrer"> 
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-RH61p4zyUz6bA5Yw-0pGeYQ-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>                
+              <p class="gallery-text">
+              <strong>notamachine</strong><br/>
+              dreaming while drowning
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/4Bdoj6ymgDQ0LZdfR4AZ2E?si=5c832ae44e2342de" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-qxh1GQ7i2XsqhUr7-TIgZJA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>ANJU Online!</strong><br/>
+                I Uhhhhh
+              </p>
+            </a>
+          </div>
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/658LhYRoD2v3cTsHSSmO3u?si=7eaa543734ff4a8e" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-vysq6TCvGjfQvuZC-0drVIg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Josen</strong><br/>
+                SCAT (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">DJ Set</p>
+            <a href="https://soundcloud.com/anjuonline/deeply-online" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-7iavQKWSXJbeeOz9-N8dpMQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>ANJU Online!</strong><br/>
+                Deeply Online (Full Set)
+              </p>
+            </a>
+          </div>          
+
+        <div class="gallery_item">
+            <p class="gallery-tag">EP</p>
+            <a href="https://open.spotify.com/album/0p24gzQWRSPU0WzrAvOGew?si=9XTl_90_Rqa1Rs-EBNI91Q" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-26umkN6jwMHd2ZPL-0LuWYA-t500x500.png" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lugosi</strong><br/>
+                her lips were poison but so were mine
+              </p>
+            </a>
+          </div> 
+
+        <div class="gallery_item">
+            <p class="gallery-tag">EP</p>
+            <a href="https://open.spotify.com/album/2BF8f8mbZqzQo1bowniquR" target="_blank" rel="noopener noreferrer">    
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b2730ee78795503099f272b78b16" width="100%" alt="" class="hover-zoom"/>
+              </div>             
+              <p class="gallery-text">
+              <strong>Semaj</strong><br/>
+              1611
+              </p>
+            </a>
+          </div>     
+
+          <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/2YmdhKWGJYCXIac7squOuu?si=c21e0948ab63433f" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e02e1bdfe74ed812355f5f5fad9" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Kawaii Ry</strong><br/>
+                So Close (prod. notamachine)
+              </p>
+            </a>
+          </div>      
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/liljosen/iaintpassindarock-prodapt9" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-uLlBQeIAi7h8x9XM-PhiwlA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Josen</strong><br/>
+                iAiNTPASSiNDAROCK (prod. Apartment9)
               </p>
             </a>
           </div>

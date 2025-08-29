@@ -89,6 +89,7 @@ import ArchiveMusicVideos2021 from './pages/archive/music/hellscape/year/Archive
 import ArchiveMusicVideos2022 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2022';
 import ArchiveMusicVideos2023 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2023';
 import ArchiveMusicVideos2024 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2024';
+import ArchiveMusicVideos2025 from './pages/archive/music/hellscape/year/ArchiveMusicVideos2025';
 import ArchiveMusicHellscapeRadio from './pages/archive/music/hellscape/ArchiveMusicHellscapeRadio';
 
 import ArchiveArtwork from './pages/archive/artwork/ArchiveArtwork';
@@ -204,6 +205,7 @@ function App() {
           <Route path='/videos/2022' element={<ArchiveMusicVideos2022 />} />
           <Route path='/videos/2023' element={<ArchiveMusicVideos2023 />} />
           <Route path='/videos/2024' element={<ArchiveMusicVideos2024 />} />
+          <Route path='/videos/2025' element={<ArchiveMusicVideos2025 />} />
           <Route path='/hellscaperadio' element={<ArchiveMusicHellscapeRadio />} />
 
           <Route path='/archive/artwork' element={<ArchiveArtwork />} />

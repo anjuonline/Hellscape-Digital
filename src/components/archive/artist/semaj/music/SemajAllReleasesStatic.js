@@ -5,6 +5,66 @@ const SemajAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0ZyxemSQs08swXIrTsasWw?si=ed0fff920be64f74" target="_blank" rel="noopener noreferrer">    
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b2730ee78795503099f272b78b16" width="100%" alt="" class="hover-zoom"/>
+              </div>             
+              <p class="gallery-text">
+              <strong>Hide Away</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/5ltEIVS9bvhfh57W0GhfS5?si=62bc28e7df4b40b6" target="_blank" rel="noopener noreferrer">    
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b2730ee78795503099f272b78b16" width="100%" alt="" class="hover-zoom"/>
+              </div>             
+              <p class="gallery-text">
+              <strong>LOV3</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3bwRo4nYXzFXVNvaFhbH4l?si=9afe62d928ec4389" target="_blank" rel="noopener noreferrer">    
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b2730ee78795503099f272b78b16" width="100%" alt="" class="hover-zoom"/>
+              </div>             
+              <p class="gallery-text">
+              <strong>Crossed the Line</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/00TEEVirqmvj1or0ZecHzo?si=127a2ef35aa04c00" target="_blank" rel="noopener noreferrer">    
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b2730ee78795503099f272b78b16" width="100%" alt="" class="hover-zoom"/>
+              </div>             
+              <p class="gallery-text">
+              <strong>Winds of Time</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1tfnhi30LW69fkwziUQn1A?si=dee9c648047740aa" target="_blank" rel="noopener noreferrer">    
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d0000b2730ee78795503099f272b78b16" width="100%" alt="" class="hover-zoom"/>
+              </div>             
+              <p class="gallery-text">
+              <strong>You Know I Did It</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/7vcras92OZSYG6hTUzASsJ?si=6a1a12dc164041e8" target="_blank" rel="noopener noreferrer">    
               <img src="https://i.scdn.co/image/ab67616d00001e02a814abaa22deeaf7200af252" width="100%" alt=""/><br/>
               <p class="gallery-text">
