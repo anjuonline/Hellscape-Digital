@@ -172,7 +172,7 @@ const TopNav = () => {
             <a href="/underconstruction">Store</a>
           </div>
           <div className="topnavhomebutton">
-            <NavLink to={"/"} exact><strong>Hellscape Digital</strong> v1.1.1 🌈🔪</NavLink>
+            <NavLink to={"/"} exact><strong>Hellscape Digital</strong> v1.2 🌈🔪</NavLink>
           </div>      
         </div>
       </div>

@@ -12,12 +12,12 @@ const LatestUpdates = () => {
                 <p><br/>Welcome to <u>hellscapedigital.net</u>! This project is a true labor of love - countless hours were spent to capture and organize the full collective's discography, and many more will be spent adding new content and features over time. Check this space often, and from the bottom of my heart - thank you for spending time in our world. <strong><i>-Anju</i></strong><br/></p>
 
                 <h3>
-                August 29, 2025 - v1.1.1
+                May 26, 2025 - v1.2
             </h3> 
             <p class="containedText"> 
                 <ul>
                     <li>
-                        Our 2025 summer update is here: featuring new music videos, projects, and over 115 new singles form nearly every artist in the collective.
+                        Our 2026 summer update is here: featuring new a new Meauxminy DJ set, notamachine album, Anju single, and more!
                     </li>
                 </ul>
             </p>

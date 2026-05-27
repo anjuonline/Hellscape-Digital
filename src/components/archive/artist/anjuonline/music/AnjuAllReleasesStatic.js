@@ -5,6 +5,30 @@ const AnjuAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/1eysiEKpsogwt7kmRmtcrg?si=5cffbadb044c4340" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-XEyew8z9UpoVR99A-Ctn5Dg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Away Message</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">DJ Set</p>
+            <a href="https://soundcloud.com/eauxminy/club-kawaii-meauxminy-guest-spot" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-p8ru6SzyL81sWu3L-ODcRvQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Meauxminy @ Club Kawaii (Hosted by ANJU Online!)</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/4Bdoj6ymgDQ0LZdfR4AZ2E?si=5c832ae44e2342de" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
                 <img src="https://i1.sndcdn.com/artworks-qxh1GQ7i2XsqhUr7-TIgZJA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
@@ -31,7 +55,7 @@ const AnjuAllReleasesStatic = () => {
             <p class="gallery-tag">Single</p>
             <a href="https://soundcloud.com/anjuonline/rave-tool" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
-                <img src="https://i1.sndcdn.com/artworks-fKHMwXQWCF534ISz-qf55Rg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+                <img src="https://i1.sndcdn.com/artworks-dhhKrpEyOwl5jUsA-SzJnFw-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
               </div>
               <p class="gallery-text">
                 <strong>Rave Tool</strong><br/>

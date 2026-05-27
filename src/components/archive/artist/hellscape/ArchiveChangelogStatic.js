@@ -8,6 +8,104 @@ const ArchiveChangelogStatic = () => {
             <div>
 
             <h3>
+                May 26, 2025 - v1.2
+            </h3> 
+            <p class="changelogtext"> 
+                <ul>
+                    <li>
+                        <strong>&bull; <i>New Music</i></strong><br/><br/>
+                        <ul>
+                            <li>
+                                <a href="/anjuonline/music/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; <strong>ANJU Online!</strong> - 2 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>DJ Sets</i></li>
+                                    <ul>
+                                        <li>&bull; Meauxminy @ Club Kawaii (Hosted by ANJU Online!)</li>
+                                    </ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; ANJU Online! - Away Message</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <br/><br/>
+                            <li>
+                                <a href="/kawaiiry/all" target="_blank;" rel="noopener noreferrer">
+                                    &bull; <strong>Kawaii Ry</strong> - 1 new release added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; Kawaii Ry - March 2nd II (prod. slugwurf)</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <br/><br/>
+                            <li>
+                                <a href="/lugosi/all">
+                                    &bull; <strong>Lugosi</strong> - 4 new releases added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; girlinmyphone 2 (feat. riley west) (prod. notamachine)</li>
+                                        <li>&bull; bile&toxins (prod. secre)</li>
+                                        <li>&bull; bile&toxins $$$(prod. secre)</li>
+                                        <li>&bull; bile&toxins ^^^(prod. secre)</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <br/><br/>
+                            <li>
+                                <a href="/meauxminy/all">
+                                    &bull; <strong>Meauxminy</strong> - 1 new release added to music archive
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>DJ Sets</i></li>
+                                    <ul>
+                                        <li>&bull; Meauxminy @ Club Kawaii (Hosted by ANJU Online!)</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <br/><br/>
+                            <li>
+                                <a href="/notamachine/all">
+                                    &bull; <strong>Notamachine</strong> - 9 new releases
+                                </a>
+                                <ul>
+                                    <li>&bull; <i>Albums</i></li>
+                                    <ul>
+                                        <li>&bull; ideas, nowhere</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Singles</i></li>
+                                    <ul>
+                                        <li>&bull; intro</li>
+                                        <li>&bull; #1</li>
+                                        <li>&bull; #2</li>
+                                        <li>&bull; #3</li>
+                                        <li>&bull; reveal</li>
+                                        <li>&bull; all my &#x3C;3</li>
+                                        <li>&bull; nostalgia's dream</li>
+                                        <li>&bull; headache, slow down</li>
+                                    </ul>
+                                </ul>
+                                <ul>
+                                    <li>&bull; <i>Placements</i></li>
+                                    <ul>
+                                        <li>&bull; Lugosi - girlinmyphone 2 (feat. riley west) (prod. notamachine)</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+                       <h3>
                 August 29, 2025 - v1.1.1
             </h3> 
             <p class="changelogtext"> 
