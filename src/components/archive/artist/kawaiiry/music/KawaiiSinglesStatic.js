@@ -3,6 +3,18 @@ const KawaiiSinglesStatic = () => {
     <>
       <div class="gallery_containerThree-static">  
 
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/kawaiiry/march-2nd-ii-prod-slugwurf" target="_blank" rel="noopener noreferrer">    
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-VC0qw2vcFK56ujcY-FtPy7Q-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>             
+              <p class="gallery-text">
+              <strong>March 2nd II</strong><br/>(prod. slugwurf)
+              </p>
+            </a>
+          </div>
+
       <div class="gallery_item">
             <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/19ABmTmZZg5JIKE95AZosZ?si=0eac7376ed564414" target="_blank" rel="noopener noreferrer">

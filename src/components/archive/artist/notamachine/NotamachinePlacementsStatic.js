@@ -5,6 +5,19 @@ const NotamachinePlacementsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Placement</p>
+            <a href="https://open.spotify.com/track/6guHBxRr1BVszzT7TwlC6N?si=68c91bb7ec1344cd" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-GyyxDhzpIwTOfwwP-zw68rg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>Lugosi - girlinmyphone 2 (feat. riley west)</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Placement</p>
             <a href="https://open.spotify.com/track/4mgxXe2LCeclJxYodLzsN8?si=83580a4ab35e46a5" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
                 <img src="https://i1.sndcdn.com/artworks-Eyq0reGx3y8HFZz4-zEkbzQ-t500x500.png" width="100%" alt="" class="hover-zoom"/>

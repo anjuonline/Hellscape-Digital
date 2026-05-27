@@ -31,9 +31,9 @@ const Home = () => {
 
             <div class="music-video">
                 <div class="music-video-container">
-                    <iframe src="https://www.youtube.com/embed/fFDR1wDZPXI" title="test" allowfullscreen></iframe>
+                    <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2228046674&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
                 </div>
-                <p><strong>Kawaii Ry & Meauxminy</strong><br/>Sometimes (I Know)</p>  
+                <p><strong>Meauxminy @ Club Kawaii (Hosted by ANJU Online!)</strong></p>  
             </div>
             
             {/* <div class="react-player-responsive">
@@ -66,7 +66,7 @@ const Home = () => {
                 <a href="https://www.youtube.com/@HELLSCAPEDIGITAL" target="_blank;" rel="noopener noreferrer">YouTube</a>&nbsp;&nbsp;<CrossSymbol/>&nbsp;&nbsp;<a href="https://soundcloud.com/hellscapedigital" target="_blank" rel="noopener noreferrer">Soundcloud</a>&nbsp;&nbsp;<CrossSymbol/>&nbsp;&nbsp;<a href="https://twitter.com/H3LLSC4P3" target="_blank;" rel="noopener noreferrer">Twitter</a>&nbsp;&nbsp;<CrossSymbol/>&nbsp;&nbsp;<a href="https://www.instagram.com/hellscapedigital/" target="_blank;" rel="noopener noreferrer">Instagram</a><br/><br/>
                 </p>
                 <p class="footerFont1">
-                2019-2025 &copy; Hellscape Digital <br/><br/>Site developed by <a href="https://twitter.com/ANJUonIine" class="footerFont1">ANJU Online!</a>
+                2019-2026 &copy; Hellscape Digital <br/><br/>Site developed by <a href="https://twitter.com/ANJUonIine" class="footerFont1">ANJU Online!</a>
                 {/* <br/><br/>Donations (ETH): 0x1E0371E4d89652Bb94F314D44337E86e0b758c9d / hellscapedigital.eth */}
                 </p>
             </div>  

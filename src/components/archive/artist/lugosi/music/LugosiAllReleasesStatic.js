@@ -5,6 +5,71 @@ const LugosiAllReleasesStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6guHBxRr1BVszzT7TwlC6N?si=68c91bb7ec1344cd" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-GyyxDhzpIwTOfwwP-zw68rg-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>girlinmyphone 2 (feat. riley west)</strong><br/>
+                (prod. notamachine)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/6guHBxRr1BVszzT7TwlC6N?si=68c91bb7ec1344cd" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-CZ7BMRl0nFSQ6CKZ-XgtLzQ-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>bile&toxins</strong><br/>
+                (prod. secre)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/0PLxCWe3Xygp5Akq8F3muI?si=d29500663a92478e" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-FGDPQiqHhxz5diwM-vZ7gqA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>bile&toxins $$$</strong><br/>
+                (prod. secre)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://open.spotify.com/track/3dR5dR9c1Ufr1f3vXMSMpi?si=991af5f56b1549bc" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-o16oWS7gN8uuQzO8-EVXIFA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>bile&toxins ^^^</strong><br/>
+                (prod. secre)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
+            <a href="https://soundcloud.com/lillugosi/surface-ft-32drew" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i1.sndcdn.com/artworks-6y2EDYOtc56d5s8v-srwKdA-t500x500.jpg" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>surface (feat. 32drew)</strong><br/>
+                (prod. mackk)
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Single</p>
             <a href="https://open.spotify.com/track/2SAIRjrYTHhhTQ1T7kZzzl?si=7553eae69dd74bae" target="_blank" rel="noopener noreferrer">
               <div class="overflow-hidden">
                 <img src="https://i1.sndcdn.com/artworks-cC2aN5eijvyUdGX8-qs9Ftg-t500x500.png" width="100%" alt="" class="hover-zoom"/>

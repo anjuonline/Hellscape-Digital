@@ -5,6 +5,18 @@ const NotamachineAlbumsStatic = () => {
 
         <div class="gallery_item">
             <p class="gallery-tag">Album</p>
+            <a href="https://open.spotify.com/album/7kNw1HCiOzeb4cNE5Njs7b?si=iJuDbqAHQS2tzGljBhrVJA" target="_blank" rel="noopener noreferrer">
+              <div class="overflow-hidden">
+                <img src="https://i.scdn.co/image/ab67616d00001e0213e5396fe4b85d93edfe0f4d" width="100%" alt="" class="hover-zoom"/>
+              </div>
+              <p class="gallery-text">
+                <strong>ideas, nowhere</strong><br/>
+              </p>
+            </a>
+          </div>
+
+        <div class="gallery_item">
+            <p class="gallery-tag">Album</p>
             <a href="https://open.spotify.com/album/75gZfH0lOGsnPv7IrwINfk?si=HU-ygGh3T-mtzS33FAbE_w" target="_blank" rel="noopener noreferrer">    
               <div class="overflow-hidden">
                 <img src="https://i1.sndcdn.com/artworks-AnihoskiLWTh2mdu-DJIdeg-t500x500.png" width="100%" alt="" class="hover-zoom"/>
